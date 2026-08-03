@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-03T04:45:03Z",
+ "generated": "2026-08-03T05:00:03Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1130,
+ "count": 1131,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5009,6 +5009,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "31.59.89.180",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T00:22:59.508959Z",
+   "last_seen": "2026-08-03T04:48:53.783866Z",
+   "asn": "AS203462 NOVACONN SRL",
+   "as_name": "asnovaconn",
+   "country": "IT",
+   "org": "Novaconn SRL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "31-59-89-180.dc-nln2.novaconn.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "31.59.175.12",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -9719,7 +9737,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11825,7 +11843,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16145,7 +16163,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18647,7 +18665,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
