@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-03T19:30:04Z",
+ "generated": "2026-08-03T19:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1136,
+ "count": 1137,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18595,6 +18595,24 @@
    "is_mobile": false,
    "rdns": "111-70-49-182.emome-ip.hinet.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "112.31.93.229",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-14T04:42:25.820276Z",
+   "last_seen": "2026-08-03T19:44:39.658230Z",
+   "asn": "AS9808 China Mobile Communications Group Co., Ltd.",
+   "as_name": "CHINAMOBILE-CN",
+   "country": "CN",
+   "org": "China Mobile",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
