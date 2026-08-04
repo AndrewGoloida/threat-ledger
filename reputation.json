@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-04T17:30:04Z",
+ "generated": "2026-08-04T17:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1147,
+ "count": 1148,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5690,6 +5690,24 @@
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "136.36.189.65",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-31T06:04:30.462773Z",
+   "last_seen": "2026-08-04T17:37:49.632136Z",
+   "asn": "AS16591 Google Fiber Inc.",
+   "as_name": "GOOGLE-FIBER",
+   "country": "US",
+   "org": "Google Fiber Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "136-36-189-65.googlefiber.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -11933,7 +11951,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
