@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-04T13:45:04Z",
+ "generated": "2026-08-04T14:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1146,
+ "count": 1147,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11933,7 +11933,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18685,6 +18685,24 @@
    "is_mobile": false,
    "rdns": "111-70-9-143.emome-ip.hinet.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "111.70.23.245",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T14:31:15.671977Z",
+   "last_seen": "2026-08-04T13:59:58.133877Z",
+   "asn": "AS17421 Mobile Business Group",
+   "as_name": "EMOME-NET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "111-70-23-245.emome-ip.hinet.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
