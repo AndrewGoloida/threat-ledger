@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-04T01:15:04Z",
+ "generated": "2026-08-04T01:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1138,
+ "count": 1139,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5005,6 +5005,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.56.206.108",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-04T01:25:44.860405Z",
+   "last_seen": "2026-08-04T01:26:13.829441Z",
+   "asn": "AS56971 AS56971 Cloud",
+   "as_name": "AS56971",
+   "country": "LV",
+   "org": "CGI GLOBAL LIMITED",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -11807,7 +11825,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
