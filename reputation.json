@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05T08:45:04Z",
+ "generated": "2026-08-05T09:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1160,
+ "count": 1163,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1193,6 +1193,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.187.147.71",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-04T17:45:22.265055Z",
+   "last_seen": "2026-08-05T08:52:59.257541Z",
+   "asn": "AS138608 Cloud Host Pte Ltd",
+   "as_name": "CLOUDHOST-AS-AP",
+   "country": "ID",
+   "org": "Cloud Host Pte Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "168.144.171.221",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -1226,6 +1244,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "209.99.184.143",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T12:45:59.805453Z",
+   "last_seen": "2026-08-05T08:46:49.624293Z",
+   "asn": "AS402253 SKN Subnet & Telecom Ltd",
+   "as_name": "SKN-NETWORK-1",
+   "country": "CH",
+   "org": "HostRoyale Technologies",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -5744,6 +5780,24 @@
    "rdns": "47-245-241-150.compute.onutho.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "152.52.15.213",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-02T13:57:05.765203Z",
+   "last_seen": "2026-08-05T08:53:01.986770Z",
+   "asn": "AS9498 BHARTI Airtel Ltd.",
+   "as_name": "BBIL-AP",
+   "country": "IN",
+   "org": "Bharti Airtel Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
