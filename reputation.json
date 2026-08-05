@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-05T18:45:04Z",
+ "generated": "2026-08-05T19:00:03Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1168,
+ "count": 1169,
  "records": [
+  {
+   "ip": "77.239.124.244",
+   "reputation_score": 52,
+   "honeypot_attempts": 31,
+   "first_seen": "2026-08-05T17:54:04.779905Z",
+   "last_seen": "2026-08-05T18:57:00.815038Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "NL",
+   "org": "RocketCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 31,
+   "command_count": 31,
+   "download_url_count": 0
+  },
   {
    "ip": "77.239.124.247",
    "reputation_score": 51,
@@ -12059,7 +12077,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
