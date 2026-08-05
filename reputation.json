@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05T05:15:04Z",
+ "generated": "2026-08-05T05:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1153,
+ "count": 1154,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1730,6 +1730,24 @@
    "rdns": "algrothendieck.nos-oignons.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.92.199.36",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-15T10:50:22.366026Z",
+   "last_seen": "2026-08-05T05:24:02.265043Z",
+   "asn": "AS34224 Neterra Ltd.",
+   "as_name": "NETERRA-AS",
+   "country": "BG",
+   "org": "Elektron Invest Ltd.",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "91.92.199.36.neterra.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -18557,7 +18575,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
