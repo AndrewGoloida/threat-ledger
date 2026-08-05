@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05T09:30:03Z",
+ "generated": "2026-08-05T09:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1163,
+ "count": 1164,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5744,6 +5744,24 @@
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "123.253.162.254",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-05T02:56:00.685257Z",
+   "last_seen": "2026-08-05T09:40:45.569703Z",
+   "asn": "AS45117 Ishan's Network",
+   "as_name": "INPL-IN-AP",
+   "country": "IN",
+   "org": "NIXI",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -12005,7 +12023,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
