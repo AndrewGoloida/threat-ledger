@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05T06:45:04Z",
+ "generated": "2026-08-05T07:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1155,
+ "count": 1156,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18469,6 +18469,24 @@
    "is_mobile": false,
    "rdns": "103.55.90.11.home.ultranet.co.in",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.68.22.115",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-28T17:01:24.814283Z",
+   "last_seen": "2026-08-05T06:49:21.699749Z",
+   "asn": "AS132116 Anonet Network Private Limited",
+   "as_name": "ANINETWORK-IN",
+   "country": "IN",
+   "org": "inet brroadband",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "reverse.anonet.in",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
