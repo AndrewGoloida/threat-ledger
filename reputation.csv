@@ -1047,6 +1047,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.68.22.115,12,4,2026-07-28T17:01:24.814283Z,2026-08-05T06:49:21.699749Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,inet brroadband,False,False,False,reverse.anonet.in,0,0,0
 103.74.122.107,12,4,2026-07-13T15:46:24.789060Z,2026-07-13T20:59:30.141044Z,AS135967 Bach Kim Network solutions Join stock company,BKNS-AS-VN,VN,Branch of BachKim Network solutions,False,False,False,,0,0,0
 103.82.25.77,12,4,2026-07-13T20:57:09.564319Z,2026-07-13T21:42:08.810475Z,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VNPT-AS-VN,VN,Runfly Joint Stock Company,False,False,False,103.82.25.77.cloudfly.vn,0,0,0
+103.103.53.44,12,4,2026-07-14T11:03:00.679712Z,2026-08-06T09:29:39.345699Z,AS135863 Catla IT and Engg.Co.Pvt.Ltd.,CATLA-AS-IN,IN,Catla IT and Engg.Co.Pvt.Ltd,False,False,False,,0,1,0
 103.121.27.218,12,4,2026-07-11T18:07:58.072605Z,2026-08-02T05:52:00.828768Z,"AS21788 HIPOINT TECHNOLOGY SERVICES, INC.",HIPOINT-US,IN,HiPOINT Connect Private Limited,False,False,False,,0,0,0
 103.126.6.145,12,4,2026-07-14T18:03:08.044299Z,2026-07-15T13:38:37.097226Z,AS133296 Web Werks India Pvt. Ltd.,WEBWERKS-AS-IN,IN,Instabuzz Online Service Private Limited,False,False,False,,0,0,0
 103.157.13.50,12,4,2026-07-14T09:31:03.074998Z,2026-07-15T11:09:41.048976Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Hindustan Networks Llp,False,False,False,,0,0,0

@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06T09:15:04Z",
+ "generated": "2026-08-06T09:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1180,
+ "count": 1181,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18865,6 +18865,24 @@
    "is_mobile": false,
    "rdns": "103.82.25.77.cloudfly.vn",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.103.53.44",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-14T11:03:00.679712Z",
+   "last_seen": "2026-08-06T09:29:39.345699Z",
+   "asn": "AS135863 Catla IT and Engg.Co.Pvt.Ltd.",
+   "as_name": "CATLA-AS-IN",
+   "country": "IN",
+   "org": "Catla IT and Engg.Co.Pvt.Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
