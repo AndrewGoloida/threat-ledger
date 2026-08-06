@@ -1067,6 +1067,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 111.70.7.189,12,4,2026-07-17T21:56:38.540604Z,2026-08-01T00:06:00.377310Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-7-189.emome-ip.hinet.net,0,0,0
 111.70.9.143,12,4,2026-07-11T17:44:26.100321Z,2026-07-29T11:58:12.687433Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-9-143.emome-ip.hinet.net,0,0,0
 111.70.23.245,12,4,2026-07-18T14:31:15.671977Z,2026-08-04T13:59:58.133877Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-245.emome-ip.hinet.net,0,0,0
+111.70.23.250,12,4,2026-07-12T09:41:28.784093Z,2026-08-06T10:16:50.780258Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-250.emome-ip.hinet.net,0,1,0
 111.70.32.6,12,4,2026-07-09T13:58:38.925086Z,2026-07-26T01:23:09.890763Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-32-6.emome-ip.hinet.net,0,0,0
 111.70.32.8,12,4,2026-07-11T08:17:38.867062Z,2026-07-30T17:22:31.700894Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-32-8.emome-ip.hinet.net,0,0,0
 111.70.32.53,12,4,2026-07-08T00:49:30.530420Z,2026-08-06T01:47:00.337427Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-32-53.emome-ip.hinet.net,0,1,0
