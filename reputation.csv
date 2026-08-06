@@ -458,7 +458,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 93.241.232.14,18,10,2026-07-12T09:33:42.815713Z,2026-07-25T11:34:35.993682Z,AS3320 Deutsche Telekom AG,DTAG,DE,Deutsche Telekom AG,False,False,False,p5df1e80e.dip0.t-ipconnect.de,0,0,0
 103.147.248.23,18,10,2026-07-08T08:36:33.824381Z,2026-07-29T11:28:21.696576Z,AS153283 Softcrop It,SOFTCROP-AS-IN,IN,Softcrop It,False,False,False,,0,0,0
 113.171.82.24,18,10,2026-07-13T17:47:58.796831Z,2026-07-15T13:58:25.878456Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
-117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 117.241.78.154,18,10,2026-07-14T02:59:45.340635Z,2026-07-27T13:03:55.526411Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
 120.224.15.67,18,10,2026-07-12T09:31:34.471087Z,2026-07-29T15:35:39.830571Z,AS24444 Shandong Mobile Communication Company Limited,CMNET-V4shandong-AS-AP,CN,China Mobile,False,False,True,,0,0,0
 125.209.88.139,18,10,2026-07-14T18:30:12.455374Z,2026-07-15T02:19:03.243669Z,AS9260 Multinet Pakistan Pvt. Ltd.,MULTINET-AS-AP,PK,Multinet Pakistan Pvt. Ltd.,False,False,False,125-209-88-139.multi.net.pk,0,0,0
@@ -552,7 +552,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 139.5.19.235,16,8,2026-07-13T18:23:02.958377Z,2026-07-14T16:22:16.118990Z,AS133676 Precious netcom pvt ltd,PNPL-AS,IN,Precious netcom pvt ltd,False,False,False,,0,0,0
 141.11.21.65,16,8,2026-07-14T20:28:10.918061Z,2026-07-15T13:43:59.735972Z,AS16276 OVH SAS,OVH,NL,OVH SAS,False,False,False,,0,0,0
 150.140.180.231,16,8,2026-07-13T19:04:39.190357Z,2026-07-14T06:03:34.689204Z,AS5408 National Infrastructures for Research and Technology S.A.,GR-NET,GR,University of Patras,False,False,False,,0,0,0
-171.231.195.215,16,8,2026-07-09T13:32:25.107266Z,2026-07-09T13:38:03.577141Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+171.231.195.215,16,8,2026-07-09T13:32:25.107266Z,2026-07-09T13:38:03.577141Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 175.139.244.181,16,8,2026-07-14T18:18:18.920982Z,2026-07-27T10:42:30.886373Z,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,TTSSB-MY,MY,Adsl Streamyx,False,False,False,,0,0,0
 178.178.194.151,16,8,2026-07-10T09:52:55.888706Z,2026-07-29T09:14:37.328197Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MegaFon,False,False,True,,0,0,0
 178.178.222.50,16,8,2026-07-12T09:01:46.349372Z,2026-07-28T20:05:49.174743Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
@@ -636,7 +636,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 154.146.238.122,15,7,2026-07-10T03:21:55.643498Z,2026-07-28T20:28:20.918269Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,CASA 4G MarocTelecom,False,False,False,,0,0,0
 169.211.232.182,15,7,2026-07-10T08:18:17.777468Z,2026-07-24T16:20:05.323908Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
 171.8.42.112,15,7,2026-07-12T04:32:07.886696Z,2026-07-25T21:45:40.050520Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HA,False,False,False,8.171.broad.ha.dynamic.163data.com.cn,0,0,0
-171.231.199.155,15,7,2026-07-15T09:08:00.409140Z,2026-07-15T09:13:42.670282Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.199.155,15,7,2026-07-15T09:08:00.409140Z,2026-07-15T09:13:42.670282Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 176.10.203.54,15,7,2026-07-10T15:46:53.393631Z,2026-07-23T18:02:59.333609Z,AS8473 Bahnhof AB,BAHNHOF,SE,General Private NET A463,False,False,False,h-176-10-203-54.A463.priv.bahnhof.se,0,0,0
 177.135.206.10,15,7,2026-07-08T04:19:28.713633Z,2026-07-21T07:07:07.673902Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,corporativo.static.gvt.net.br,0,0,0
 178.178.194.135,15,7,2026-07-09T11:39:36.771700Z,2026-07-27T02:11:25.431519Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MegaFon,False,False,True,,0,0,0
@@ -977,6 +977,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 31.173.2.182,12,4,2026-07-08T11:42:32.324824Z,2026-07-31T22:56:34.444772Z,AS31133 PJSC MegaFon,MF-MGSM-AS,RU,OJSC MegaFon,False,False,True,,0,0,0
 31.173.8.170,12,4,2026-07-15T07:03:48.515439Z,2026-07-25T13:13:14.750456Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,OJSC MegaFon,False,False,True,,0,0,0
 31.173.66.222,12,4,2026-07-09T18:32:37.057031Z,2026-07-26T21:04:52.934880Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,Megafon Moscow Broadband,False,False,True,,0,0,0
+35.130.111.146,12,4,2026-07-08T20:41:06.447963Z,2026-08-06T09:48:04.608477Z,AS20115 Charter Communications LLC,CHARTER-20115,US,Mountain Breeze Motel 2926 Parkway,False,False,False,syn-035-130-111-146.biz.spectrum.com,0,1,0
 36.64.30.151,12,4,2026-07-09T11:46:30.064085Z,2026-07-17T06:47:56.625382Z,AS7713 PT Telekomunikasi Indonesia,telkomnet-as-ap,ID,PT. Telekomunikasi Indonesia,False,False,False,,0,0,0
 36.154.134.146,12,4,2026-07-22T10:01:50.308775Z,2026-07-29T14:58:52.777083Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 37.25.36.197,12,4,2026-07-08T20:21:36.387391Z,2026-07-27T20:15:51.898091Z,AS16116 Pelephone Communications Ltd.,Pelephone Communications Ltd.,IL,Pelephone Communications Ltd,False,False,True,,0,0,0

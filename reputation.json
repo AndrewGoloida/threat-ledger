@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06T09:45:04Z",
+ "generated": "2026-08-06T10:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1181,
+ "count": 1182,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8279,7 +8279,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -9971,7 +9971,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11483,7 +11483,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17605,6 +17605,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "35.130.111.146",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-08T20:41:06.447963Z",
+   "last_seen": "2026-08-06T09:48:04.608477Z",
+   "asn": "AS20115 Charter Communications LLC",
+   "as_name": "CHARTER-20115",
+   "country": "US",
+   "org": "Mountain Breeze Motel 2926 Parkway",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "syn-035-130-111-146.biz.spectrum.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
