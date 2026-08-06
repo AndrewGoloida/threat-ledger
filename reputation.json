@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06T21:30:04Z",
+ "generated": "2026-08-06T21:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1191,
+ "count": 1192,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5996,6 +5996,24 @@
    "rdns": "177-174-0-3.user.vivozap.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "178.27.90.142",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-05T10:11:45.642293Z",
+   "last_seen": "2026-08-06T21:40:52.095585Z",
+   "asn": "AS3209 Vodafone GmbH",
+   "as_name": "VODANET",
+   "country": "DE",
+   "org": "Vodafone Kabel Deutschland GmbH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ipb21b5a8e.dynamic.kabel-deutschland.de",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -12185,7 +12203,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
