@@ -1159,6 +1159,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 210.97.61.133,12,4,2026-07-14T00:49:48.856935Z,2026-07-14T10:17:58.404487Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Korea Telecom,False,False,False,,0,0,0
 210.177.143.61,12,4,2026-07-10T21:23:31.451057Z,2026-07-25T04:37:30.736285Z,AS4515 PCCW IMS Ltd (PCCW Business Internet Access),PCCW-AS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,,0,0,0
 211.21.48.242,12,4,2026-07-14T06:54:10.013115Z,2026-07-15T15:13:45.566519Z,AS3462 Data Communication Business Group,HINET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,211-21-48-242.hinet-ip.hinet.net,0,0,0
+213.130.207.177,12,4,2026-07-27T13:18:48.159090Z,2026-08-06T10:35:05.700861Z,AS1257 Tele2 Sverige AB,SWIPNET,LT,Mobile Services,False,False,True,static-213-130-207-177.cust.tele2.lt,0,1,0
 213.230.64.246,12,4,2026-07-18T07:46:11.325350Z,2026-07-31T22:27:30.028021Z,AS8193 Uzbektelekom Joint Stock Company,BRM-AS,UZ,Uztelecom,False,False,False,,0,0,0
 213.234.9.218,12,4,2026-07-11T11:47:14.146879Z,2026-07-28T07:12:32.134635Z,AS39442 JSC RDE Unico,UNICO-AS,RU,OAO Bank Petrokommerc,False,False,False,,0,0,0
 217.211.208.125,12,4,2026-07-15T05:46:08.531574Z,2026-08-02T09:27:42.048803Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,217-211-208-125-no2550.tbcn.telia.com,0,0,0
