@@ -431,6 +431,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 192.42.116.142,20,4,2026-06-26T11:03:10.606493Z,2026-06-27T12:35:15.505618Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
 197.248.160.105,20,12,2026-07-13T16:21:50.130799Z,2026-07-15T15:56:48.293559Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,197-248-160-105.safaricombusiness.co.ke,0,0,0
 210.13.99.66,20,4,2026-07-10T19:30:21.766100Z,2026-07-31T21:54:58.112328Z,AS9929 CHINA UNICOM Industrial Internet Backbone,CUII,CN,"Lei Jiesi Business Services (Shanghai) Co., Ltd.",False,True,False,,0,0,0
+218.21.241.50,20,4,2026-07-11T01:53:34.395772Z,2026-08-06T12:54:37.067887Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Neimeng Province Network,False,True,False,,0,1,0
 218.23.95.14,20,4,2026-07-10T22:24:09.471108Z,2026-07-29T11:28:33.499377Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 219.109.219.42,20,12,2026-07-14T05:57:49.141239Z,2026-07-15T16:53:18.369683Z,"AS17707 AS for DATAHOTEL, which is one of iDC in Japan,",DATAHOTEL-JP,JP,Vector Design Inc.,False,False,False,219-109-219-42.dh-connect.net,0,0,0
 221.10.221.104,20,4,2026-07-17T12:54:01.151338Z,2026-07-23T13:06:36.939856Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Sichuan Province Network,False,True,False,,0,0,0
