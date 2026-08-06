@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06T20:45:04Z",
+ "generated": "2026-08-06T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1190,
+ "count": 1191,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6068,6 +6068,24 @@
    "rdns": "200-159-14-187.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "203.170.192.251",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-06T00:21:12.667257Z",
+   "last_seen": "2026-08-06T20:46:10.458579Z",
+   "asn": "AS9891 CS LOXINFO Public Company Limited.",
+   "as_name": "CSLOX-IDC-AS-AP",
+   "country": "TH",
+   "org": "Idc Csloxinfo",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
