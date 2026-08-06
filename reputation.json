@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06T06:30:04Z",
+ "generated": "2026-08-06T06:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1176,
+ "count": 1177,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12041,7 +12041,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19981,6 +19981,24 @@
    "is_mobile": false,
    "rdns": "red.170.233.29.157.ssservicios.com.ar",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "170.233.29.175",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-09T18:12:49.493411Z",
+   "last_seen": "2026-08-06T06:31:37.617604Z",
+   "asn": "AS264738 Sebastian Souto (SSSERVICIOS)",
+   "as_name": "Sebastian Souto (SSSERVICIOS)",
+   "country": "AR",
+   "org": "Sebastian Souto",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "red.170.233.29.175.ssservicios.com.ar",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
