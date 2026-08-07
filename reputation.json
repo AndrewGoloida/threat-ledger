@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07T17:45:04Z",
+ "generated": "2026-08-07T18:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1214,
+ "count": 1215,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8069,6 +8069,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "222.92.61.242",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T05:34:08.923440Z",
+   "last_seen": "2026-08-07T17:53:05.293837Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet JS",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "222.252.29.144",
    "reputation_score": 20,
    "honeypot_attempts": 12,
@@ -11717,7 +11735,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16991,7 +17009,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19943,7 +19961,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
