@@ -1086,6 +1086,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 112.31.93.229,12,4,2026-07-14T04:42:25.820276Z,2026-08-03T19:44:39.658230Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,China Mobile,False,False,True,,0,0,0
 112.31.167.120,12,4,2026-07-20T00:03:53.923208Z,2026-07-27T07:29:09.293231Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,China Mobile,False,False,True,,0,0,0
 112.94.5.43,12,4,2026-07-08T21:12:37.665049Z,2026-07-31T19:32:41.278279Z,AS17622 China Unicom Guangzhou network,CNCGROUP-GZ,CN,China Unicom,False,False,False,,0,0,0
+112.168.121.39,12,4,2026-07-09T19:28:56.087466Z,2026-08-07T05:59:48.754050Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Sudogwongangnambonbujang,False,False,False,,0,1,0
 113.11.34.221,12,4,2026-07-12T01:33:57.434769Z,2026-07-24T04:11:01.937666Z,AS7565 BDCOM,BDCOM-BD,BD,BDCOM Online Limited,False,False,False,113-11-34-221.broadband.smile.com.bd,0,0,0
 113.193.187.154,12,4,2026-07-08T22:23:31.779040Z,2026-07-25T12:22:16.197373Z,AS45528 Tikona Infinet Ltd.,TIKONAIN-AS,IN,Tikona Digital Networks Pvt.Ltd,False,False,False,,0,0,0
 114.30.180.58,12,4,2026-07-08T15:32:34.601437Z,2026-07-30T19:05:26.110228Z,AS38121 LG HelloVision Corp.,UPASSTV-AS-KR,KR,HVHonam,False,False,False,,0,0,0
