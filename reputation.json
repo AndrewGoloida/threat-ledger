@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07T04:15:04Z",
+ "generated": "2026-08-07T04:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1194,
+ "count": 1195,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5708,6 +5708,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.159.54.61",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-19T16:35:23.299606Z",
+   "last_seen": "2026-08-07T04:18:04.001525Z",
+   "asn": "AS153413 HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY",
+   "as_name": "HT3VIETNAM-VN",
+   "country": "VN",
+   "org": "HT3VIETNAM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
