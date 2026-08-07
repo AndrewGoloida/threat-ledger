@@ -367,7 +367,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 138.252.181.250,22,14,2026-07-14T18:04:36.754030Z,2026-07-27T17:47:34.690001Z,AS142577 Maher International,MAHERINTERNATIONAL-AS-AP,BD,Digonto Communication Network,False,False,False,,0,0,0
 175.4.130.152,22,14,2026-07-13T19:03:25.962222Z,2026-07-14T22:08:07.913760Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HN,False,False,False,,0,0,0
 178.216.165.187,22,14,2026-07-08T08:14:03.154756Z,2026-07-29T07:30:17.117296Z,AS29069 PJSC Rostelecom,TLK-AS,RU,"""Noginskaya telecommunicacionnaya companiya"" Ltd",False,False,False,,0,0,0
-182.60.128.241,22,14,2026-07-09T01:03:54.370538Z,2026-07-24T09:30:27.873012Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Mahanagar Telephone Nigam Limited,False,False,False,,0,0,0
+182.60.128.241,22,14,2026-07-09T01:03:54.370538Z,2026-07-24T09:30:27.873012Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Mahanagar Telephone Nigam Limited,False,False,False,static-mum-182.60.128.241.mtnl.net.in,0,0,0
 187.217.36.136,22,14,2026-07-14T02:35:03.350441Z,2026-07-27T17:52:32.224165Z,AS8151 UNINET,UNINET,MX,UNINET,False,False,False,customer-187-217-36-136.uninet-ide.com.mx,0,0,0
 189.201.193.218,22,14,2026-07-13T22:19:19.856720Z,2026-07-27T17:08:34.998360Z,"AS262944 Spectro Networks Telecomunicaciones, S. de R.L. de C.V.","Spectro Networks Telecomunicaciones, S. de R.L. de C.V.",MX,"Spectro Networks Telecomunicaciones, S. de R.L. de C.V",False,False,False,,0,0,0
 190.12.109.162,22,14,2026-07-07T22:38:58.812763Z,2026-07-29T06:53:19.982873Z,AS11014 CPS,CPS,AR,CPS,False,False,False,host162.109.12.190.cps.com.ar,0,0,0
