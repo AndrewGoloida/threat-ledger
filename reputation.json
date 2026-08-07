@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07T14:30:04Z",
+ "generated": "2026-08-07T14:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1210,
+ "count": 1211,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -218,6 +218,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "172.174.72.225",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-19T11:53:52.234982Z",
+   "last_seen": "2026-08-07T14:44:57.470984Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus)",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -12275,7 +12293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
