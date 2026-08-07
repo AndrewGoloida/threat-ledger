@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07T22:30:04Z",
+ "generated": "2026-08-07T22:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1216,
+ "count": 1217,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5654,6 +5654,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "65.181.71.117",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T16:10:25.987667Z",
+   "last_seen": "2026-08-07T22:42:34.714256Z",
+   "asn": "AS4760 HKT Limited",
+   "as_name": "HKTIMS-AP",
+   "country": "HK",
+   "org": "PCCW IMS Ltd (PCCW Business Internet Access)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "65-181-71-117.static.imsbiz.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -12329,7 +12347,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
