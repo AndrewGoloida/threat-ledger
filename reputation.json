@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T03:00:04Z",
+ "generated": "2026-08-07T03:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1193,
@@ -743,6 +743,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "195.178.110.218",
+   "reputation_score": 41,
+   "honeypot_attempts": 11,
+   "first_seen": "2026-08-07T02:52:20.768364Z",
+   "last_seen": "2026-08-07T03:06:53.581819Z",
+   "asn": "AS48090 TECHOFF SRV LIMITED",
+   "as_name": "DMZHOST",
+   "country": "AD",
+   "org": "Techoff SRV Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 11,
+   "command_count": 11,
+   "download_url_count": 0
+  },
+  {
    "ip": "64.226.126.224",
    "reputation_score": 40,
    "honeypot_attempts": 12,
@@ -1244,24 +1262,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "195.178.110.218",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-07T02:52:20.768364Z",
-   "last_seen": "2026-08-07T02:59:35.965513Z",
-   "asn": "AS48090 TECHOFF SRV LIMITED",
-   "as_name": "DMZHOST",
-   "country": "AD",
-   "org": "Techoff SRV Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 7,
-   "command_count": 7,
    "download_url_count": 0
   },
   {
