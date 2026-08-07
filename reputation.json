@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07T14:45:04Z",
+ "generated": "2026-08-07T15:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1211,
+ "count": 1212,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18667,6 +18667,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "67.85.146.216",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-17T11:03:21.908483Z",
+   "last_seen": "2026-08-07T14:59:11.040670Z",
+   "asn": "AS6128 Cablevision Systems Corp.",
+   "as_name": "CABLE-NET-1",
+   "country": "US",
+   "org": "Optimum Online (Cablevision Systems)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ool-435592d8.dyn.optonline.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
