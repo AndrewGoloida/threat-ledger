@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1225 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1227 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-08-08T06:00:04Z · 272 from hosting/datacenter ranges · 2 progressed to running commands.
+Generated 2026-08-08T06:15:04Z · 272 from hosting/datacenter ranges · 2 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -14,14 +14,14 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | Country | IPs |
 |---------|-----|
 | CN | 209 |
-| IN | 147 |
+| IN | 148 |
 | US | 101 |
 | NL | 97 |
 | KR | 65 |
 | RU | 52 |
 | VN | 48 |
 | BR | 44 |
-| TW | 41 |
+| TW | 42 |
 | HK | 35 |
 
 ## Top source networks (ASN)
@@ -36,5 +36,5 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | HulumTele | 29 |
 | CHINAMOBILE-CN | 26 |
 | BSNL-NIB | 23 |
-| EMOME-NET | 22 |
+| EMOME-NET | 23 |
 | TELEFÔNICA BRASIL S.A | 21 |
