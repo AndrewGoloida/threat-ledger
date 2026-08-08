@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08T08:15:04Z",
+ "generated": "2026-08-08T08:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1229,
+ "count": 1230,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -21241,6 +21241,24 @@
    "is_mobile": false,
    "rdns": "BC2407C4.catv.pool.telekom.hu",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "188.43.204.45",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T22:06:46.389315Z",
+   "last_seen": "2026-08-08T08:20:06.722407Z",
+   "asn": "AS20485 Joint Stock Company TransTeleCom",
+   "as_name": "TRANSTELECOM",
+   "country": "RU",
+   "org": "TTK PtP",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "RZD-gw.transtelecom.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

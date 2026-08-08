@@ -1179,6 +1179,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 185.40.122.250,12,4,2026-07-21T22:57:30.083242Z,2026-08-01T03:45:37.300697Z,AS44735 Nova hf,SIP-ASN,IS,Nova Customers Static IP,False,False,False,nova-185-040-122-250.cpe.novanet.is,0,0,0
 185.255.212.178,12,4,2026-07-09T08:14:01.953927Z,2026-07-24T04:35:15.120750Z,AS200475 ET VESELIN JELQZKOV,BG-KARNOBATNET,BG,Karnobatnet,False,False,False,185.255.212.178.ip.karnobat.net,0,0,0
 188.36.7.196,12,4,2026-07-10T13:43:09.835471Z,2026-07-25T20:57:13.905832Z,AS5483 Magyar Telekom Plc.,MAGYAR-TELEKOM-MAIN-AS,HU,Magyar Telekom,False,False,False,BC2407C4.catv.pool.telekom.hu,0,0,0
+188.43.204.45,12,4,2026-07-18T22:06:46.389315Z,2026-08-08T08:20:06.722407Z,AS20485 Joint Stock Company TransTeleCom,TRANSTELECOM,RU,TTK PtP,False,False,False,RZD-gw.transtelecom.net,0,1,0
 188.168.86.6,12,4,2026-07-11T01:53:41.948303Z,2026-07-16T06:05:06.486955Z,"AS15774 Limited Liability Company ""TTK-Svyaz""",TTK-RTL,RU,ChitaRoute-migrate,False,False,False,,0,0,0
 190.57.233.133,12,4,2026-07-12T17:12:40.517425Z,2026-08-01T02:47:47.850764Z,AS20207 Gigared S.A.,Gigared S.A.,AR,Gigared S.A,False,False,False,,0,0,0
 190.147.234.9,12,4,2026-07-13T20:10:40.868632Z,2026-07-14T03:18:12.840525Z,AS10620 Telmex Colombia S.A.,Telmex Colombia S.A.,CO,Telmex Colombia S.A.,False,False,False,static-ip-cr1901472349.cable.net.co,0,0,0
