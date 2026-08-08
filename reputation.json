@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08T13:45:04Z",
+ "generated": "2026-08-08T14:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1231,
+ "count": 1232,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19565,7 +19565,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21529,6 +21529,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "203.110.233.225",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-16T19:45:33.126104Z",
+   "last_seen": "2026-08-08T13:53:15.558465Z",
+   "asn": "AS134756 CHINANET Nanjing Jishan IDC network",
+   "as_name": "ChinaNet-NANJING-JISHAN-IDC",
+   "country": "CN",
+   "org": "Chinanet FJ",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
