@@ -681,7 +681,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 27.71.237.128,14,6,2026-07-14T22:15:31.464521Z,2026-07-27T10:21:18.048371Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,,0,0,0
 27.79.46.102,14,6,2026-07-24T22:54:58.428670Z,2026-07-24T23:11:33.009916Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1071,6 +1071,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 95.165.142.8,12,4,2026-07-09T04:54:44.239545Z,2026-07-22T00:14:57.237140Z,AS25513 PJSC Moscow city telephone network,ASN-MGTS-USPD,RU,OAO Mgts),False,False,False,95-165-142-8.static.spd-mgts.ru,0,0,0
 96.1.40.151,12,4,2026-07-09T05:41:16.945699Z,2026-07-28T05:25:31.018379Z,AS852 TELUS Communications Inc.,ASN852,CA,TELUS Communications Inc,False,False,False,96-1-40-151-staticipeast.wireless.telus.com,0,0,0
 101.13.5.26,12,4,2026-07-14T00:53:14.770889Z,2026-08-07T09:46:51.661483Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
+101.13.5.49,12,4,2026-07-10T20:44:28.875049Z,2026-08-08T06:34:58.146321Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,1,0
 101.13.5.50,12,4,2026-07-12T09:16:30.431045Z,2026-07-25T03:23:26.132419Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
 101.255.158.147,12,4,2026-07-13T17:17:01.111140Z,2026-07-13T18:29:18.434476Z,AS38511 PT Remala Abadi,TACHYON-AS-ID,ID,PT Remala Abadi,False,False,False,,0,0,0
 102.211.7.162,12,4,2026-07-10T14:35:05.984250Z,2026-07-31T08:29:48.235113Z,AS328611 Libyan Elite Company for Technical Solutions,Libyan-Elite,LY,LibyanElite,False,False,False,,0,0,0

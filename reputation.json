@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08T06:30:04Z",
+ "generated": "2026-08-08T06:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1227,
+ "count": 1228,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12293,7 +12293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19297,6 +19297,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "101.13.5.49",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T20:44:28.875049Z",
+   "last_seen": "2026-08-08T06:34:58.146321Z",
+   "asn": "AS24158 Taiwan Mobile Co., Ltd.",
+   "as_name": "taiwanmobile-as",
+   "country": "TW",
+   "org": "TAIWANMOBILE",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
