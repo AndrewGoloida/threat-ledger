@@ -413,6 +413,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 91.92.47.128,20,4,2026-07-23T19:59:53.691328Z,2026-07-23T20:00:31.024410Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
 91.92.47.140,20,4,2026-07-26T01:22:47.728326Z,2026-07-29T02:55:20.770523Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
 91.219.196.17,20,12,2026-07-10T02:37:17.462086Z,2026-07-27T19:18:26.602974Z,AS51725 Private Enterprise Tron Vitaliy Vladimirovich,PLANETA-AS,RU,PLANETA,False,False,False,91-219-196-17.planeta.dn.ua,0,0,0
+103.29.185.162,20,4,2026-07-20T06:58:34.207912Z,2026-08-08T00:40:54.038506Z,AS56260 PT Pascal Indonesia,PASCAL-AS-ID,ID,PT. Pascal Indonesia,False,True,False,ip-103-29-185-162.pascalwave.com,0,1,0
 103.59.163.134,20,4,2026-07-20T22:40:25.588325Z,2026-07-20T22:43:16.680669Z,AS150692 Golden Dragon 2000,GD2CL-AS-AP,MM,Dragon,False,True,False,,0,0,0
 103.111.68.42,20,12,2026-07-13T20:55:54.601942Z,2026-07-15T14:48:48.166684Z,AS137511 Civil Aviation Authority of Mongolia,CAAM-AS-AP,MN,Civil Aviation Authority of Mongolia,False,False,False,,0,0,0
 103.174.80.40,20,4,2026-07-19T12:10:54.556919Z,2026-07-27T18:30:11.877234Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Panduranga Cable & Networks,False,True,False,,0,0,0

@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08T00:30:04Z",
+ "generated": "2026-08-08T00:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1219,
+ "count": 1220,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7453,6 +7453,24 @@
    "is_mobile": false,
    "rdns": "91-219-196-17.planeta.dn.ua",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.29.185.162",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-20T06:58:34.207912Z",
+   "last_seen": "2026-08-08T00:40:54.038506Z",
+   "asn": "AS56260 PT Pascal Indonesia",
+   "as_name": "PASCAL-AS-ID",
+   "country": "ID",
+   "org": "PT. Pascal Indonesia",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "ip-103-29-185-162.pascalwave.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
