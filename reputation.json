@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09T14:30:04Z",
+ "generated": "2026-08-09T14:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1252,
+ "count": 1254,
  "records": [
   {
    "ip": "77.239.124.250",
@@ -6143,6 +6143,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "115.178.75.242",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-29T10:03:48.333367Z",
+   "last_seen": "2026-08-09T14:43:59.210544Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "SKBroadband Co. Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.211.15.93",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -8711,7 +8729,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -10403,7 +10421,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17333,7 +17351,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17351,7 +17369,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19405,6 +19423,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "85.19.195.12",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-09T13:06:58.999922Z",
+   "last_seen": "2026-08-09T14:44:16.181836Z",
+   "asn": "AS25400 Telia Norge AS",
+   "as_name": "TELIA-NORWAY-AS",
+   "country": "NO",
+   "org": "Telia Norge",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "85-19-195-12.telia-isp.no",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
