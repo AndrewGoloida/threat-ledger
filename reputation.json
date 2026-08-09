@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09T16:45:04Z",
+ "generated": "2026-08-09T17:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1254,
+ "count": 1257,
  "records": [
   {
    "ip": "77.239.124.250",
@@ -4973,6 +4973,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "130.12.182.227",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-09T00:49:01.722409Z",
+   "last_seen": "2026-08-09T16:50:05.719504Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "Netiface LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "185.233.3.95",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -6193,6 +6211,24 @@
    "is_mobile": false,
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "130.12.182.225",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:49:02.782073Z",
+   "last_seen": "2026-08-09T16:49:36.416137Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "Netiface LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -7723,6 +7759,24 @@
    "is_mobile": false,
    "rdns": "91-219-196-17.planeta.dn.ua",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "93.152.221.206",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:49:02.268887Z",
+   "last_seen": "2026-08-09T16:49:12.706407Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -12527,7 +12581,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
