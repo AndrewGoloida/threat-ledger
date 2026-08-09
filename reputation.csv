@@ -523,7 +523,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 218.95.73.31,17,9,2026-07-08T10:47:56.087074Z,2026-07-28T20:28:28.767318Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet JX,False,False,False,31.73.95.218.broad.yc.jx.dynamic.163data.com.cn,0,0,0
 220.93.167.144,17,9,2026-07-07T22:38:22.027390Z,2026-07-28T22:41:32.327305Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
 222.99.52.202,17,9,2026-07-10T00:01:21.324843Z,2026-07-26T21:46:15.910228Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Korea Telecom,False,False,False,,0,0,0
-14.140.205.174,16,8,2026-07-13T19:05:53.222861Z,2026-07-15T16:44:34.734338Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,,0,0,0
+14.140.205.174,16,8,2026-07-13T19:05:53.222861Z,2026-07-15T16:44:34.734338Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.140.205.174.STATIC-Delhi-vsnl.net.in,0,0,0
 14.194.128.158,16,8,2026-07-11T06:07:49.810333Z,2026-07-26T18:33:25.423084Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,Tata Tele Services GSM,False,False,False,static-158.128.194.14-tataidc.co.in,0,0,0
 14.224.202.234,16,8,2026-07-13T19:52:32.004340Z,2026-07-27T12:53:45.342364Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 27.79.0.171,16,8,2026-08-02T12:03:55.336338Z,2026-08-02T12:10:30.944663Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
