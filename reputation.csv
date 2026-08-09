@@ -284,6 +284,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 4.188.251.117,24,4,2026-07-13T19:20:52.469353Z,2026-07-15T06:38:50.618077Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (centralindia),True,False,False,,0,0,0
 4.237.73.178,24,4,2026-07-13T19:56:05.118734Z,2026-07-14T17:34:32.821125Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Microsoft Azure Cloud (australiaeast),True,False,False,,0,0,0
 5.135.137.185,24,4,2026-07-02T05:09:52.999868Z,2026-07-02T05:13:50.616375Z,AS16276 OVH SAS,OVH,FR,OVH SAS,True,False,False,ns371313.ip-5-135-137.eu,0,0,0
+14.177.234.24,24,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,2,3,0
 20.2.221.29,24,4,2026-07-13T21:01:55.859921Z,2026-07-14T00:00:30.814656Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Microsoft Azure Cloud (eastasia),True,False,False,,0,0,0
 20.11.48.147,24,4,2026-07-14T21:09:46.182261Z,2026-07-15T11:46:56.549298Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Microsoft Azure Cloud (australiaeast),True,False,False,,0,0,0
 20.18.106.215,24,4,2026-07-14T00:52:19.962241Z,2026-07-15T15:31:50.050450Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,JP,Microsoft Azure Cloud (japaneast),True,False,False,,0,0,0
