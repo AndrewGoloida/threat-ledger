@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09T17:30:05Z",
+ "generated": "2026-08-09T17:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1257,
+ "count": 1258,
  "records": [
   {
    "ip": "77.239.124.250",
@@ -1927,6 +1927,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "43.228.157.105",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:48:51.120940Z",
+   "last_seen": "2026-08-09T17:41:12.262701Z",
+   "asn": "AS205759 Ghosty Networks LLC",
+   "as_name": "GHOSTYNETWORKS",
+   "country": "DE",
+   "org": "Gaditek Associates",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
