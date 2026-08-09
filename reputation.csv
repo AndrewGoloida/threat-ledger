@@ -1210,6 +1210,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 190.223.36.108,12,4,2026-07-09T01:23:10.674356Z,2026-08-01T10:13:17.472445Z,AS12252 America Movil Peru S.A.C.,America Movil Peru S.A.C.,PE,America Movil Peru S.A.C,False,False,True,,0,0,0
 191.55.233.246,12,4,2026-07-14T06:58:50.364628Z,2026-07-14T22:22:41.943699Z,AS53006 ALGAR TELECOM S/A,ALGAR TELECOM S/A,BR,ALGAR TELECOM S/A,False,False,False,191-055-233-246.xd-dynamic.algartelecom.com.br,0,0,0
 196.189.124.218,12,4,2026-07-15T00:12:25.493723Z,2026-08-07T12:40:12.022184Z,AS24757 Ethio Telecom,EthioNet-AS,ET,Ethio Telecom,False,False,True,,0,0,0
+196.189.126.10,12,4,2026-07-21T16:36:22.702198Z,2026-08-09T19:55:20.560549Z,AS24757 Ethio Telecom,EthioNet-AS,ET,Ethio Telecom,False,False,True,,0,1,0
 197.50.100.67,12,4,2026-07-27T11:08:38.988535Z,2026-07-27T15:36:06.607216Z,AS8452 TE-AS,TE-AS,EG,TE Data,False,False,False,,0,0,0
 197.251.193.6,12,4,2026-07-16T04:43:09.792459Z,2026-08-09T09:18:14.298389Z,AS29614 Ghana Telecommunications Company Limited,GHANATEL-AS,GH,Ghana Telecommunications Company Limited,False,False,False,,0,1,0
 200.105.141.172,12,4,2026-07-14T02:06:51.221017Z,2026-07-30T17:29:49.811384Z,AS26210 AXS Bolivia S. A.,AXS Bolivia S. A.,BO,AXS Bolivia S. A,False,False,False,static-200-105-141-172.acelerate.net,0,0,0
