@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T18:45:04Z",
+ "generated": "2026-08-10T19:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1271,
@@ -797,6 +797,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "80.94.92.234",
+   "reputation_score": 40,
+   "honeypot_attempts": 10,
+   "first_seen": "2026-08-10T18:23:38.353611Z",
+   "last_seen": "2026-08-10T18:52:54.981544Z",
+   "asn": "AS47890 UNMANAGED LTD",
+   "as_name": "UNMANAGED-DEDICATED-SERVERS",
+   "country": "NL",
+   "org": "Techoff SRV Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 8,
+   "command_count": 90,
+   "download_url_count": 0
+  },
+  {
    "ip": "2.57.122.53",
    "reputation_score": 39,
    "honeypot_attempts": 9,
@@ -1262,24 +1280,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "80.94.92.234",
-   "reputation_score": 37,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-08-10T18:23:38.353611Z",
-   "last_seen": "2026-08-10T18:43:56.091782Z",
-   "asn": "AS47890 UNMANAGED LTD",
-   "as_name": "UNMANAGED-DEDICATED-SERVERS",
-   "country": "NL",
-   "org": "Techoff SRV Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 8,
-   "command_count": 70,
    "download_url_count": 0
   },
   {
