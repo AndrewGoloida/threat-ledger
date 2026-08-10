@@ -697,7 +697,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 27.71.237.128,14,6,2026-07-14T22:15:31.464521Z,2026-07-27T10:21:18.048371Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,,0,0,0
@@ -1155,6 +1155,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 117.223.152.69,12,4,2026-07-12T09:23:13.840769Z,2026-07-28T05:50:22.388439Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.bb.vda.117.223.152.69.bsnl.in,0,0,0
 117.241.77.78,12,4,2026-07-09T14:46:53.475010Z,2026-07-20T04:15:08.198668Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
 117.247.239.202,12,4,2026-07-18T04:43:23.101233Z,2026-07-24T14:00:31.690844Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Bharat Sanchar Nigam Ltd,False,False,False,,0,0,0
+117.253.130.123,12,4,2026-08-02T06:32:28.943883Z,2026-08-10T01:36:01.229926Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Wimax Project,False,False,False,static.ill.117.253.130.123.bsnl.co.in,0,1,0
 118.45.255.153,12,4,2026-07-12T09:02:10.364354Z,2026-07-26T09:11:47.395743Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
 119.160.166.237,12,4,2026-07-12T03:06:34.174817Z,2026-07-31T03:49:50.172971Z,AS10094 Unified National Networks,UNN-BN,BN,espeed - Broadband DSL,False,False,False,237-166.adsl.static.espeed.com.bn,0,0,0
 119.200.229.33,12,4,2026-07-10T21:39:59.949382Z,2026-07-20T12:22:57.361967Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,KORNET,False,False,False,,0,0,0

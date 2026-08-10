@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10T01:30:04Z",
+ "generated": "2026-08-10T01:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1261,
+ "count": 1262,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12581,7 +12581,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20809,6 +20809,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "117.253.130.123",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-02T06:32:28.943883Z",
+   "last_seen": "2026-08-10T01:36:01.229926Z",
+   "asn": "AS9829 National Internet Backbone",
+   "as_name": "BSNL-NIB",
+   "country": "IN",
+   "org": "Wimax Project",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.ill.117.253.130.123.bsnl.co.in",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
