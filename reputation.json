@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10T09:30:04Z",
+ "generated": "2026-08-10T09:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1265,
+ "count": 1267,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -797,6 +797,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "2.57.122.53",
+   "reputation_score": 39,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-08-10T09:18:27.744280Z",
+   "last_seen": "2026-08-10T09:36:29.657664Z",
+   "asn": "AS47890 UNMANAGED LTD",
+   "as_name": "UNMANAGED-DEDICATED-SERVERS",
+   "country": "NL",
+   "org": "Techoff SRV Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
+   "download_url_count": 0
+  },
+  {
    "ip": "155.103.69.40",
    "reputation_score": 39,
    "honeypot_attempts": 19,
@@ -1262,24 +1280,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "2.57.122.53",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-10T09:18:27.744280Z",
-   "last_seen": "2026-08-10T09:29:35.810570Z",
-   "asn": "AS47890 UNMANAGED LTD",
-   "as_name": "UNMANAGED-DEDICATED-SERVERS",
-   "country": "NL",
-   "org": "Techoff SRV Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -11759,6 +11759,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.99.174.230",
+   "reputation_score": 15,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-10T09:36:45.871034Z",
+   "last_seen": "2026-08-10T09:40:17.143728Z",
+   "asn": "AS24086 Viettel Corporation",
+   "as_name": "VIETTEL-AS-VN",
+   "country": "VN",
+   "org": "VIETTEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "creds_tried_count": 7,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "116.110.209.68",
    "reputation_score": 15,
    "honeypot_attempts": 7,
@@ -12635,7 +12653,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18343,6 +18361,24 @@
    "is_mobile": false,
    "rdns": "localhost",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "27.79.7.82",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-10T09:37:05.391916Z",
+   "last_seen": "2026-08-10T09:37:18.785987Z",
+   "asn": "AS7552 Viettel Group",
+   "as_name": "VIETEL-AS-AP",
+   "country": "VN",
+   "org": "VIETEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "localhost",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
