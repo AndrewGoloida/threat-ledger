@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10T05:30:04Z",
+ "generated": "2026-08-10T05:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1263,
+ "count": 1264,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2342,6 +2342,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.92.42.36",
+   "reputation_score": 30,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-17T11:57:48.704143Z",
+   "last_seen": "2026-08-10T05:39:41.185450Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -12599,7 +12617,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
