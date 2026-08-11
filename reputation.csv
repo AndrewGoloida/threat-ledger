@@ -338,6 +338,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 52.168.108.215,24,4,2026-07-13T15:10:26.638844Z,2026-07-15T07:03:35.413970Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 52.187.126.101,24,4,2026-07-14T07:13:28.727273Z,2026-07-14T23:54:33.378523Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,SG,Microsoft Azure Cloud (southeastasia),True,False,False,,0,0,0
 57.128.195.102,24,4,2026-07-13T22:50:28.426767Z,2026-07-14T17:46:29.311510Z,AS16276 OVH SAS,OVH,PL,OVH Sp. z o. o,True,False,False,vps-4e716c52.vps.ovh.net,0,0,0
+58.186.20.101,24,6,2026-08-02T17:33:11.225069Z,2026-08-11T18:33:45.559615Z,AS18403 FPT Telecom Company,FPT-VN,VN,Vietnam Internet Network Information Center,False,False,False,,2,3,0
 60.217.227.87,24,16,2026-07-13T17:28:09.230218Z,2026-07-15T14:18:21.085642Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
 85.215.230.198,24,4,2026-07-13T23:38:14.184952Z,2026-07-27T12:44:03.878839Z,AS8560 IONOS SE,IONOS-AS,DE,De Ber Ionos Cloud Txl,True,False,False,,0,0,0
 91.92.47.66,24,8,2026-07-26T14:21:45.845509Z,2026-07-28T01:33:01.683180Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
@@ -723,7 +724,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
