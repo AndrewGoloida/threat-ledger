@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T22:30:04Z",
+ "generated": "2026-08-11T22:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1305,
+ "count": 1306,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20111,6 +20111,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "82.102.149.88",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T09:38:03.495795Z",
+   "last_seen": "2026-08-11T22:41:44.398592Z",
+   "asn": "AS12400 Partner Communications Ltd.",
+   "as_name": "PARTNER-AS",
+   "country": "IL",
+   "org": "Partner",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "83.166.50.15",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -20699,7 +20717,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
