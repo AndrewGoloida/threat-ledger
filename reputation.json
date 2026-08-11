@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T09:30:04Z",
+ "generated": "2026-08-11T09:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1277,
+ "count": 1278,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -22105,6 +22105,24 @@
    "is_mobile": false,
    "rdns": "191-055-233-246.xd-dynamic.algartelecom.com.br",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "196.189.59.226",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-20T01:38:59.192900Z",
+   "last_seen": "2026-08-11T09:33:33.685556Z",
+   "asn": "AS24757 Ethio Telecom",
+   "as_name": "EthioNet-AS",
+   "country": "ET",
+   "org": "To  BRAS DHCP AD",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
