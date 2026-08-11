@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T18:00:05Z",
+ "generated": "2026-08-11T18:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1302,
+ "count": 1303,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9215,7 +9215,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -9755,7 +9755,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12149,7 +12149,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12167,7 +12167,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12455,7 +12455,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21293,7 +21293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22321,6 +22321,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "183.196.144.45",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T15:02:22.902807Z",
+   "last_seen": "2026-08-11T18:12:00.004545Z",
+   "asn": "AS24547 Hebei Mobile Communication Company Limited",
+   "as_name": "CMNET-V4HEBEI-AS-AP",
+   "country": "CN",
+   "org": "China Mobile",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
