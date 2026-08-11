@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T11:45:04Z",
+ "generated": "2026-08-11T12:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1279,
+ "count": 1280,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2000,6 +2000,24 @@
    "rdns": "algrothendieck.nos-oignons.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.92.47.208",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T16:04:22.263641Z",
+   "last_seen": "2026-08-11T11:57:12.775736Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -12743,7 +12761,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15659,7 +15677,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "200-77-172-159.cable.dyn.cablevision.net.mx",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0

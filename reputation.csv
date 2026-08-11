@@ -110,6 +110,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 77.90.185.20,32,16,2026-07-11T02:55:14.029221Z,2026-07-28T21:26:07.798903Z,AS213790 Limited Network LTD,LimitedNetwork-AS,DE,Limited Network LTD,False,True,False,,0,0,0
 77.239.124.252,32,12,2026-07-25T14:25:47.170330Z,2026-07-25T15:30:44.280801Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,RocketCloud,True,False,False,,0,0,0
 80.67.172.162,32,4,2026-07-02T21:42:18.031167Z,2026-07-14T22:08:27.785294Z,"AS20766 Association ""Gitoyen""",GITOYEN-MAIN-AS,FR,Gitoyen,True,True,False,algrothendieck.nos-oignons.net,0,0,0
+91.92.47.208,32,6,2026-07-25T16:04:22.263641Z,2026-08-11T11:57:12.775736Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,4,4,0
 94.154.43.230,32,12,2026-07-11T11:40:40.332854Z,2026-07-30T03:11:48.367582Z,AS219502 Storm Industries LLC,STORMCLOUD-AS,NL,FOP Danik Vyacheslav Evgenievich,True,False,False,,0,0,0
 137.220.158.188,32,12,2026-07-13T23:48:07.884527Z,2026-07-15T05:36:43.477172Z,AS4907 IENS TECHNOLOGY PTE. LTD,IENS-AS-AP,JP,Bays220,True,False,False,,0,0,0
 152.32.205.153,32,4,2026-07-14T19:41:22.621357Z,2026-07-24T20:58:28.721245Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,US,Ucloud Information Technology (hk) Limited,True,True,False,,0,0,0
@@ -706,7 +707,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
@@ -868,7 +869,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 197.221.232.44,14,6,2026-07-22T07:39:10.641421Z,2026-07-25T12:25:54.803982Z,AS37204 Telone PVT Ltd,TELONE,ZW,Telone PVT Ltd,False,False,False,16.44.telone.co.zw,0,0,0
 197.243.14.52,14,6,2026-07-18T05:42:29.697309Z,2026-07-31T06:06:52.029490Z,AS37228 KT RWANDA NETWORK Ltd,Olleh-Rwanda-Networks,RW,BSC,False,False,False,,0,0,0
 197.248.155.13,14,6,2026-07-14T07:21:34.820091Z,2026-07-15T08:06:19.172940Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,197-248-155-13.safaricombusiness.co.ke,0,0,0
-200.77.172.159,14,6,2026-07-18T03:19:58.361457Z,2026-07-20T22:31:53.896770Z,"AS28548 Cablevisión, S.A. de C.V.","Cablevision, S.A. de C.V.",MX,"Cablevisión, S.A. de C.V",False,False,False,200-77-172-159.cable.dyn.cablevision.net.mx,0,0,0
+200.77.172.159,14,6,2026-07-18T03:19:58.361457Z,2026-07-20T22:31:53.896770Z,"AS28548 Cablevisión, S.A. de C.V.","Cablevision, S.A. de C.V.",MX,"Cablevisión, S.A. de C.V",False,False,False,,0,0,0
 201.222.1.29,14,6,2026-08-08T09:37:33.907725Z,2026-08-10T22:48:12.937349Z,"AS27648 TELECOMUNICACIONES BANTEL, C.A.","TELECOMUNICACIONES BANTEL, C.A.",VE,"TELECOMUNICACIONES BANTEL, C.A",False,False,False,,0,0,0
 201.249.192.30,14,6,2026-07-22T03:48:25.562789Z,2026-07-23T03:17:43.226738Z,"AS8048 CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",VE,"CANTV Servicios, Venezuela",False,False,False,201-249-192-30.chc-00.rai.cantv.net,0,0,0
 201.249.205.94,14,6,2026-07-16T20:28:49.713390Z,2026-07-22T02:16:15.746657Z,"AS8048 CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",VE,"CANTV Servicios, Venezuela",False,False,False,201-249-201-94.chc-00.rai.cantv.net,0,0,0
