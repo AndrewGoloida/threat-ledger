@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T13:30:04Z",
+ "generated": "2026-08-11T13:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1296,
+ "count": 1300,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1279,6 +1279,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.57.184.247",
+   "reputation_score": 36,
+   "honeypot_attempts": 16,
+   "first_seen": "2026-08-09T00:49:33.919593Z",
+   "last_seen": "2026-08-11T13:37:56.886408Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "US",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 14,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -3785,24 +3803,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "31.57.184.247",
-   "reputation_score": 26,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-09T00:49:33.919593Z",
-   "last_seen": "2026-08-11T13:29:45.485903Z",
-   "asn": "AS197769 VPS Dedicated LLC",
-   "as_name": "VPSDEDICATED-AS",
-   "country": "US",
-   "org": "VPS Dedicated LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
    "ip": "34.20.219.51",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -5117,6 +5117,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.220.160.29",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-09T00:49:25.918547Z",
+   "last_seen": "2026-08-11T13:44:19.984877Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.38",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -6143,6 +6161,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "94.26.106.103",
+   "reputation_score": 24,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-08-09T00:50:14.855420Z",
+   "last_seen": "2026-08-11T13:43:55.461103Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "94.136.191.1",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -6985,6 +7021,24 @@
    "is_mobile": false,
    "rdns": "54.126.103.87.rev.vodafone.pt",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.92.42.178",
+   "reputation_score": 23,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-09T00:49:25.047559Z",
+   "last_seen": "2026-08-11T13:44:30.344405Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -9161,7 +9215,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -9701,7 +9755,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -10655,7 +10709,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11195,7 +11249,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "210.4.68-72.bdcom.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12077,7 +12131,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12383,7 +12437,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12509,7 +12563,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "mx-ll-183.89.248-224.dynamic.3bb.in.th",
+   "rdns": "mx-ll-183.89.248-224.dynamic.3bb.co.th",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12977,7 +13031,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14165,7 +14219,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "wcl-pos.weblinkltd.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15281,7 +15335,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "177-128-224-122.hz.net.br",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17231,6 +17285,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "94.26.106.234",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-09T00:49:39.089073Z",
+   "last_seen": "2026-08-11T13:30:11.752918Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "101.13.4.119",
    "reputation_score": 13,
    "honeypot_attempts": 5,
@@ -17585,7 +17657,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17783,7 +17855,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "abts-kk-static-226.253.166.122.airtelbroadband.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20183,11 +20255,11 @@
    "download_url_count": 0
   },
   {
-   "ip": "94.26.106.234",
+   "ip": "94.26.106.253",
    "reputation_score": 12,
    "honeypot_attempts": 4,
-   "first_seen": "2026-08-09T00:49:39.089073Z",
-   "last_seen": "2026-08-11T13:29:30.572428Z",
+   "first_seen": "2026-08-09T00:49:51.849068Z",
+   "last_seen": "2026-08-11T13:43:46.997648Z",
    "asn": "AS197170 TechTies Inc.",
    "as_name": "TECHTIES-AS",
    "country": "DE",
@@ -22823,7 +22895,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "210.4.68-73.bdcom.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
