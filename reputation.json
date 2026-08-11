@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T15:30:04Z",
+ "generated": "2026-08-11T15:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1300,
+ "count": 1301,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20053,6 +20053,24 @@
    "is_mobile": false,
    "rdns": "81.214.71.145.dynamic.ttnet.com.tr",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "81.226.129.67",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-06-27T11:03:19.708211Z",
+   "last_seen": "2026-08-11T15:35:02.593698Z",
+   "asn": "AS3301 Telia Company AB",
+   "as_name": "TELIANET-SWEDEN",
+   "country": "SE",
+   "org": "Telia Network Services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "81-226-129-67-no2662.tbcn.telia.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

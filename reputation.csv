@@ -1113,6 +1113,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 81.13.62.77,12,4,2026-07-11T07:50:38.224790Z,2026-08-08T00:29:46.518213Z,AS208314 Access Telecom Ltd.,ACCESSTELECOM,RU,Access Telecom Ltd,False,False,False,,0,0,0
 81.214.38.139,12,4,2026-07-14T04:47:07.476665Z,2026-07-30T19:08:21.664016Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.38.139.dynamic.ttnet.com.tr,0,0,0
 81.214.71.145,12,4,2026-07-14T16:02:19.443694Z,2026-07-27T10:29:46.190562Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.71.145.dynamic.ttnet.com.tr,0,0,0
+81.226.129.67,12,4,2026-06-27T11:03:19.708211Z,2026-08-11T15:35:02.593698Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,81-226-129-67-no2662.tbcn.telia.com,0,1,0
 81.237.155.113,12,4,2026-07-11T10:16:29.378209Z,2026-07-22T11:00:16.536921Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,81-237-155-113-no2400.tbcn.telia.com,0,0,0
 83.166.50.15,12,4,2026-07-13T04:19:00.960093Z,2026-07-27T20:31:07.665442Z,AS3249 Telia Eesti AS,ESTPAK,EE,Telia Eesti AS,False,False,False,15-50-166-83.dyn.estpak.ee,0,0,0
 83.239.108.218,12,4,2026-07-11T02:08:02.331702Z,2026-08-05T14:20:05.779713Z,AS25490 OJSC Southern Telecommunications Company,STC-AS,RU,OJSC Rostelecom Macroregional Branch South,False,False,False,,0,0,0
