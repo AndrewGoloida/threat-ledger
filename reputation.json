@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T00:15:04Z",
+ "generated": "2026-08-12T00:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1307,
+ "count": 1308,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -218,6 +218,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "104.208.108.166",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-06T02:05:12.539417Z",
+   "last_seen": "2026-08-12T00:27:03.035779Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "HK",
+   "org": "Microsoft Azure Cloud (eastasia)",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
