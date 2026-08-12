@@ -1151,7 +1151,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 101.13.5.50,12,4,2026-07-12T09:16:30.431045Z,2026-07-25T03:23:26.132419Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
 101.255.158.147,12,4,2026-07-13T17:17:01.111140Z,2026-07-13T18:29:18.434476Z,AS38511 PT Remala Abadi,TACHYON-AS-ID,ID,PT Remala Abadi,False,False,False,,0,0,0
 102.211.7.162,12,4,2026-07-10T14:35:05.984250Z,2026-07-31T08:29:48.235113Z,AS328611 Libyan Elite Company for Technical Solutions,Libyan-Elite,LY,LibyanElite,False,False,False,,0,0,0
-103.55.90.11,12,4,2026-07-13T17:42:58.772050Z,2026-07-13T18:19:18.045270Z,AS134026 Ultranet services private limited,ULTRANET-AS,IN,Ultranet Services Private Limited,False,False,False,103.55.90.11.home.ultranet.co.in,0,0,0
+103.55.90.11,12,4,2026-07-13T17:42:58.772050Z,2026-07-13T18:19:18.045270Z,AS134026 Ultranet services private limited,ULTRANET-AS,IN,Ultranet Services Private Limited,False,False,False,,0,0,0
 103.68.22.115,12,4,2026-07-28T17:01:24.814283Z,2026-08-05T06:49:21.699749Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,inet brroadband,False,False,False,reverse.anonet.in,0,0,0
 103.74.122.107,12,4,2026-07-13T15:46:24.789060Z,2026-07-13T20:59:30.141044Z,AS135967 Bach Kim Network solutions Join stock company,BKNS-AS-VN,VN,Branch of BachKim Network solutions,False,False,False,,0,0,0
 103.82.25.77,12,4,2026-07-13T20:57:09.564319Z,2026-07-13T21:42:08.810475Z,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VNPT-AS-VN,VN,Runfly Joint Stock Company,False,False,False,103.82.25.77.cloudfly.vn,0,0,0
@@ -1160,7 +1160,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.126.6.145,12,4,2026-07-14T18:03:08.044299Z,2026-07-15T13:38:37.097226Z,AS133296 Web Werks India Pvt. Ltd.,WEBWERKS-AS-IN,IN,Instabuzz Online Service Private Limited,False,False,False,,0,0,0
 103.157.13.50,12,4,2026-07-14T09:31:03.074998Z,2026-07-15T11:09:41.048976Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Hindustan Networks Llp,False,False,False,,0,0,0
 103.226.88.135,12,4,2026-07-13T16:49:20.959879Z,2026-07-13T16:55:32.756731Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,Gvtelecom,False,False,False,,0,0,0
-103.247.55.253,12,4,2026-07-13T19:10:56.327803Z,2026-07-14T00:34:56.490398Z,AS24186 RailTel Corporation of India Ltd,RAILTEL-AS-IN,IN,RAILTEL,False,False,False,,0,0,0
+103.247.55.253,12,4,2026-07-13T19:10:56.327803Z,2026-07-14T00:34:56.490398Z,AS24186 RailTel Corporation of India Ltd,RAILTEL-AS-IN,IN,RAILTEL,False,False,False,rw-00253-55.247.103.rcil.gov.in,0,0,0
 106.81.33.108,12,4,2026-07-13T16:41:17.187795Z,2026-07-14T08:46:50.797410Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet CQ,False,False,False,,0,0,0
 106.245.246.26,12,4,2026-07-11T17:02:21.240526Z,2026-08-03T23:33:14.992979Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 109.236.57.14,12,4,2026-07-13T16:51:36.341304Z,2026-07-14T09:15:29.301378Z,AS50340 JSC Selectel,SELECTEL-MSK,RU,Selectel,False,False,False,,0,0,0
