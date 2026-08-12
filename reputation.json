@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T22:00:04Z",
+ "generated": "2026-08-12T22:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1319,
+ "count": 1320,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6881,6 +6881,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "180.76.52.146",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-21T14:19:35.186530Z",
+   "last_seen": "2026-08-12T22:03:05.122431Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "181.214.140.97",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -13211,7 +13229,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
