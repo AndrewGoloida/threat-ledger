@@ -1152,7 +1152,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 101.13.5.50,12,4,2026-07-12T09:16:30.431045Z,2026-07-25T03:23:26.132419Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
 101.255.158.147,12,4,2026-07-13T17:17:01.111140Z,2026-07-13T18:29:18.434476Z,AS38511 PT Remala Abadi,TACHYON-AS-ID,ID,PT Remala Abadi,False,False,False,,0,0,0
 102.211.7.162,12,4,2026-07-10T14:35:05.984250Z,2026-07-31T08:29:48.235113Z,AS328611 Libyan Elite Company for Technical Solutions,Libyan-Elite,LY,LibyanElite,False,False,False,,0,0,0
-103.55.90.11,12,4,2026-07-13T17:42:58.772050Z,2026-07-13T18:19:18.045270Z,AS134026 Ultranet services private limited,ULTRANET-AS,IN,Ultranet Services Private Limited,False,False,False,103.55.90.11.home.ultranet.co.in,0,0,0
+103.55.90.11,12,4,2026-07-13T17:42:58.772050Z,2026-07-13T18:19:18.045270Z,AS134026 Ultranet services private limited,ULTRANET-AS,IN,Ultranet Services Private Limited,False,False,False,,0,0,0
 103.68.22.115,12,4,2026-07-28T17:01:24.814283Z,2026-08-05T06:49:21.699749Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,inet brroadband,False,False,False,reverse.anonet.in,0,0,0
 103.74.122.107,12,4,2026-07-13T15:46:24.789060Z,2026-07-13T20:59:30.141044Z,AS135967 Bach Kim Network solutions Join stock company,BKNS-AS-VN,VN,Branch of BachKim Network solutions,False,False,False,,0,0,0
 103.82.25.77,12,4,2026-07-13T20:57:09.564319Z,2026-07-13T21:42:08.810475Z,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VNPT-AS-VN,VN,Runfly Joint Stock Company,False,False,False,103.82.25.77.cloudfly.vn,0,0,0
