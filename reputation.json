@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T13:45:04Z",
+ "generated": "2026-08-12T14:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1314,
+ "count": 1315,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1622,6 +1622,24 @@
    "rdns": "167.93.74.97.host.secureserver.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "152.32.239.90",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-24T00:01:47.534193Z",
+   "last_seen": "2026-08-12T13:47:38.035261Z",
+   "asn": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+   "as_name": "UCLOUD-HK-AS-AP",
+   "country": "HK",
+   "org": "Ucloud Information Technology (hk) Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13139,7 +13157,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
