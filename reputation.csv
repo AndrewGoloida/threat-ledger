@@ -700,7 +700,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 178.178.222.61,15,7,2026-07-07T23:32:10.042047Z,2026-07-29T22:56:22.711043Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 179.185.227.77,15,7,2026-07-09T17:40:51.905499Z,2026-07-29T14:24:28.002589Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,grupokrause.static.gvt.net.br,0,0,0
 182.75.227.178,15,7,2026-07-08T09:02:53.198649Z,2026-07-26T12:04:29.780475Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Ltd,False,False,True,nsg-static-178.227.75.182-airtel.com,0,0,0
-183.89.248.224,15,7,2026-07-19T20:04:14.725750Z,2026-07-27T22:17:50.992748Z,AS45758 Triple T Broadband Public Company Limited,TTBP-AS-AP,TH,Triple T Broadband Public Company Limited,False,False,False,mx-ll-183.89.248-224.dynamic.3bb.in.th,0,0,0
+183.89.248.224,15,7,2026-07-19T20:04:14.725750Z,2026-07-27T22:17:50.992748Z,AS45758 Triple T Broadband Public Company Limited,TTBP-AS-AP,TH,Triple T Broadband Public Company Limited,False,False,False,mx-ll-183.89.248-224.dynamic.3bb.co.th,0,0,0
 183.104.220.84,15,7,2026-07-12T18:04:20.141868Z,2026-07-21T11:50:30.203004Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
 183.233.85.194,15,7,2026-07-09T02:16:30.338773Z,2026-07-27T14:50:35.042162Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,China Mobile,False,False,True,,0,0,0
 183.239.20.236,15,7,2026-07-09T14:41:39.209682Z,2026-07-27T20:55:22.661735Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,China Mobile,False,False,True,,0,0,0
