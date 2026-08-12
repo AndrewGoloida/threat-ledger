@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1310 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1311 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-08-12T06:15:04Z · 307 from hosting/datacenter ranges · 3 progressed to running commands.
+Generated 2026-08-12T06:30:04Z · 307 from hosting/datacenter ranges · 4 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -15,7 +15,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 |---------|-----|
 | CN | 213 |
 | IN | 152 |
-| NL | 109 |
+| NL | 110 |
 | US | 108 |
 | KR | 66 |
 | RU | 53 |
@@ -30,7 +30,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 |---------|-----|
 | MICROSOFT-CORP-MSN-AS-BLOCK | 88 |
 | CHINANET-BACKBONE | 76 |
-| TECHTIES-AS | 72 |
+| TECHTIES-AS | 73 |
 | CHINA169-Backbone | 48 |
 | KIXS-AS-KR | 38 |
 | HulumTele | 29 |
