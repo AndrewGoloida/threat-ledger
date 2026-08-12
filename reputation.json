@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T23:15:04Z",
+ "generated": "2026-08-12T23:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1320,
+ "count": 1321,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -200,6 +200,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "40.82.214.8",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-03T19:45:46.586924Z",
+   "last_seen": "2026-08-12T23:15:39.547167Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "AU",
+   "org": "Microsoft Azure Cloud (australiaeast)",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -20789,7 +20807,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "103.55.90.11.home.ultranet.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
