@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T11:45:04Z",
+ "generated": "2026-08-13T12:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1331,
+ "count": 1333,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1535,6 +1535,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.156.87.182",
+   "reputation_score": 34,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-09T00:49:31.950134Z",
+   "last_seen": "2026-08-13T11:51:43.285488Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "68.233.116.124",
    "reputation_score": 34,
    "honeypot_attempts": 6,
@@ -2017,6 +2035,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "45.156.87.178",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:48:54.733370Z",
+   "last_seen": "2026-08-13T11:47:18.504620Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -8069,6 +8105,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "93.152.221.210",
+   "reputation_score": 21,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-09T00:49:46.340991Z",
+   "last_seen": "2026-08-13T11:52:34.580755Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.147.248.44",
    "reputation_score": 21,
    "honeypot_attempts": 5,
@@ -8515,24 +8569,6 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "93.152.221.210",
-   "reputation_score": 20,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-09T00:49:46.340991Z",
-   "last_seen": "2026-08-13T11:33:51.294632Z",
-   "asn": "AS197170 TechTies Inc.",
-   "as_name": "TECHTIES-AS",
-   "country": "DE",
-   "org": "TechTies Inc",
-   "is_hosting": false,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -19259,7 +19295,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21761,7 +21797,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
