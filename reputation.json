@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T10:45:04Z",
+ "generated": "2026-08-13T11:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1328,
+ "count": 1329,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5315,6 +5315,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.220.160.42",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-09T00:49:08.859402Z",
+   "last_seen": "2026-08-13T10:46:18.904896Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.34.85.168",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -6449,24 +6467,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "102.220.160.42",
-   "reputation_score": 24,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-09T00:49:08.859402Z",
-   "last_seen": "2026-08-13T10:42:19.593189Z",
-   "asn": "AS197769 VPS Dedicated LLC",
-   "as_name": "VPSDEDICATED-AS",
-   "country": "SI",
-   "org": "VPS Dedicated LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 2,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
    "ip": "103.45.66.22",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -6679,6 +6679,24 @@
    "is_mobile": false,
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "130.12.181.21",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:49:59.421439Z",
+   "last_seen": "2026-08-13T10:51:43.178980Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "Netiface LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
