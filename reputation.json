@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T11:15:04Z",
+ "generated": "2026-08-13T11:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1329,
+ "count": 1330,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6463,6 +6463,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "102.220.160.172",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:48:18.391428Z",
+   "last_seen": "2026-08-13T11:18:10.528038Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -13355,7 +13373,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19223,7 +19241,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20933,7 +20951,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "103.55.90.11.home.ultranet.co.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
