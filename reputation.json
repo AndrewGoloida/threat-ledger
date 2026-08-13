@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T19:30:04Z",
+ "generated": "2026-08-13T19:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1335,
+ "count": 1336,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13463,7 +13463,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19331,7 +19331,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20251,6 +20251,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "65.20.161.126",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-08T00:24:14.968380Z",
+   "last_seen": "2026-08-13T19:40:57.916848Z",
+   "asn": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+   "as_name": "HulumTele",
+   "country": "IQ",
+   "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
