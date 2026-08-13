@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T07:00:04Z",
+ "generated": "2026-08-13T07:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1325,
@@ -2093,6 +2093,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.237.144.204",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-01T21:46:38.720407Z",
+   "last_seen": "2026-08-13T07:00:02.096745Z",
+   "asn": "AS131414 Long Van Soft Solution JSC",
+   "as_name": "LVSOFT-AS-VN",
+   "country": "VN",
+   "org": "LVSOFT",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "137.220.158.188",
    "reputation_score": 32,
    "honeypot_attempts": 12,
@@ -2270,24 +2288,6 @@
    "rdns": "143.38.109.208.host.secureserver.net",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "103.237.144.204",
-   "reputation_score": 31,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-08-01T21:46:38.720407Z",
-   "last_seen": "2026-08-13T07:00:00.487464Z",
-   "asn": "AS131414 Long Van Soft Solution JSC",
-   "as_name": "LVSOFT-AS-VN",
-   "country": "VN",
-   "org": "LVSOFT",
-   "is_hosting": false,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
