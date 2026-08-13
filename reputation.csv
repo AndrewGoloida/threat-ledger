@@ -390,6 +390,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 176.44.17.44,24,16,2026-07-13T21:45:47.226347Z,2026-07-15T11:35:02.839681Z,AS25019 Saudi Telecom Company JSC,SAUDINETSTC-AS,SA,Saudinet DSL,False,False,False,,0,0,0
 177.174.0.3,24,16,2026-07-08T09:29:51.553924Z,2026-07-29T10:50:20.853430Z,AS26599 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,177-174-0-3.user.vivozap.com.br,0,0,0
 180.76.52.146,24,4,2026-07-21T14:19:35.186530Z,2026-08-12T22:03:05.122431Z,"AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",Baidu,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",True,False,False,,0,0,0
+181.164.12.188,24,6,2026-07-16T19:48:56.139297Z,2026-08-13T14:44:27.982476Z,AS7303 Telecom Argentina S.A.,Telecom Argentina S.A.,AR,Fibertel,False,False,False,188-12-164-181.fibertel.com.ar,2,3,0
 181.214.140.97,24,4,2026-07-14T03:47:05.352896Z,2026-07-14T08:30:47.975711Z,AS20860 IOMART CLOUD SERVICES LIMITED,IOMART-AS,PA,Iomart Cloud Services Limited,True,False,False,,0,0,0
 187.45.180.140,24,4,2026-07-15T04:39:52.756343Z,2026-07-15T10:52:46.844855Z,AS53055 DIMENOC SERVICOS DE INFORMATICA LTDA,DIMENOC SERVICOS DE INFORMATICA LTDA,BR,HostDime,True,False,False,187-45-180-140.static.hostdime.com,0,0,0
 193.24.211.204,24,4,2026-08-02T04:35:14.398954Z,2026-08-02T17:55:37.000006Z,AS215929 Data Campus Limited,datacampus,HK,Data Campus Limited,True,False,False,,0,0,0
@@ -745,7 +746,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0

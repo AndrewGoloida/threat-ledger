@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T14:30:04Z",
+ "generated": "2026-08-13T14:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1334,
+ "count": 1335,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7043,6 +7043,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "181.164.12.188",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-16T19:48:56.139297Z",
+   "last_seen": "2026-08-13T14:44:27.982476Z",
+   "asn": "AS7303 Telecom Argentina S.A.",
+   "as_name": "Telecom Argentina S.A.",
+   "country": "AR",
+   "org": "Fibertel",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "188-12-164-181.fibertel.com.ar",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "181.214.140.97",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -13445,7 +13463,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
