@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-13T14:00:04Z",
+ "generated": "2026-08-13T14:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1333,
+ "count": 1334,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8551,6 +8551,24 @@
    "is_mobile": false,
    "rdns": "91-219-196-17.planeta.dn.ua",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "93.152.221.50",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-09T00:49:23.772979Z",
+   "last_seen": "2026-08-13T14:05:55.465703Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
