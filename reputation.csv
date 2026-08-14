@@ -1225,6 +1225,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 114.241.215.49,12,4,2026-07-24T11:44:58.333301Z,2026-08-12T14:09:28.560745Z,AS4808 China Unicom Beijing Province Network,CHINA169-BJ,CN,China Unicom Beijing Province Network,False,False,False,,0,0,0
 115.190.128.221,12,4,2026-07-17T07:10:54.569712Z,2026-07-25T12:30:19.078281Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,GWBN-WUHAN's IP,False,False,False,,0,0,0
 116.48.138.69,12,4,2026-07-18T02:29:02.250029Z,2026-08-11T17:32:48.743224Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,069.138.48.116.static.netvigator.com,0,0,0
+116.48.150.115,12,4,2026-07-25T20:11:50.882669Z,2026-08-14T16:23:17.359482Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,115.150.48.116.static.netvigator.com,0,1,0
 116.99.172.41,12,4,2026-08-13T23:53:35.251535Z,2026-08-13T23:54:18.285627Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.99.174.232,12,4,2026-07-17T14:22:53.474192Z,2026-07-17T14:23:24.750473Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.110.2.63,12,4,2026-07-21T06:32:17.762739Z,2026-07-21T06:34:51.891513Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
