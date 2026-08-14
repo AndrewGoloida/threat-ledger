@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T11:30:04Z",
+ "generated": "2026-08-14T11:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1349,
+ "count": 1350,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20863,6 +20863,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "84.5.129.68",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-11T14:37:49.900685Z",
+   "last_seen": "2026-08-14T11:37:17.090009Z",
+   "asn": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
+   "as_name": "LDCOMNET",
+   "country": "FR",
+   "org": "SFR SA",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "68.129.5.84.rev.sfr.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
