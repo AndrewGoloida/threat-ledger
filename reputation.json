@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T04:15:04Z",
+ "generated": "2026-08-14T04:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1345,
+ "count": 1348,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1283,6 +1283,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "43.133.61.254",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-15T18:22:31.206957Z",
+   "last_seen": "2026-08-14T04:23:45.195085Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "SG",
+   "org": "Aceville Pte.ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.226.37.32",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -1314,6 +1332,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "vps-f6f195f0.vps.ovh.ca",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "52.176.211.73",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-07T11:31:20.770350Z",
+   "last_seen": "2026-08-14T04:18:19.056448Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (centralus)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -1388,6 +1424,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "216.10.242.215",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-23T23:24:15.302838Z",
+   "last_seen": "2026-08-14T04:17:34.763791Z",
+   "asn": "AS394695 PDR",
+   "as_name": "PUBLIC-DOMAIN-REGISTRY",
+   "country": "IN",
+   "org": "P.D.R Solutions FZC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13535,7 +13589,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
