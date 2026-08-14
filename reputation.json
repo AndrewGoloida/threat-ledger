@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T19:15:04Z",
+ "generated": "2026-08-14T19:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1356,
+ "count": 1357,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -21007,6 +21007,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "85.195.9.20",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T12:53:59.554634Z",
+   "last_seen": "2026-08-14T19:24:36.761875Z",
+   "asn": "AS35706 Net at Once Sweden AB",
+   "as_name": "NAO",
+   "country": "SE",
+   "org": "Net at Once AB",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "user20.85-195-9.netatonce.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
