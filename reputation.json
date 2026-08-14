@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T17:30:04Z",
+ "generated": "2026-08-14T17:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1354,
+ "count": 1355,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -200,6 +200,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "77.239.124.237",
+   "reputation_score": 46,
+   "honeypot_attempts": 16,
+   "first_seen": "2026-08-14T16:28:34.165016Z",
+   "last_seen": "2026-08-14T17:31:38.890990Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "NL",
+   "org": "RocketCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 16,
+   "command_count": 16,
    "download_url_count": 0
   },
   {
@@ -13607,7 +13625,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18419,6 +18437,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.99.174.196",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-14T17:24:32.079249Z",
+   "last_seen": "2026-08-14T17:30:24.171968Z",
+   "asn": "AS24086 Viettel Corporation",
+   "as_name": "VIETTEL-AS-VN",
+   "country": "VN",
+   "org": "VIETTEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "creds_tried_count": 5,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "116.110.146.153",
    "reputation_score": 13,
    "honeypot_attempts": 5,
@@ -19565,7 +19601,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22123,24 +22159,6 @@
    "is_mobile": false,
    "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "116.99.174.196",
-   "reputation_score": 12,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-14T17:24:32.079249Z",
-   "last_seen": "2026-08-14T17:29:44.209891Z",
-   "asn": "AS24086 Viettel Corporation",
-   "as_name": "VIETTEL-AS-VN",
-   "country": "VN",
-   "org": "VIETTEL",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
-   "creds_tried_count": 5,
    "command_count": 0,
    "download_url_count": 0
   },
