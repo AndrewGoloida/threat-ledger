@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T16:30:04Z",
+ "generated": "2026-08-14T16:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1352,
+ "count": 1353,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -17497,6 +17497,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "46.77.69.201",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-07-24T12:28:28.128378Z",
+   "last_seen": "2026-08-14T16:42:11.897803Z",
+   "asn": "AS8374 Polkomtel Sp. z o.o.",
+   "as_name": "PLUSNET",
+   "country": "PL",
+   "org": "Polkomtel Sp. z o.o",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "apn-46-77-69-201.static.gprs.plus.pl",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
