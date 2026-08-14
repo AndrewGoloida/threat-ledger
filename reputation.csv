@@ -685,7 +685,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 60.214.127.246,15,7,2026-07-07T23:31:00.033329Z,2026-07-27T19:51:24.996400Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
 61.143.227.17,15,7,2026-07-09T22:52:56.307654Z,2026-07-26T18:06:49.671138Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,False,False,,0,0,0
 61.169.54.150,15,7,2026-07-10T11:12:12.452687Z,2026-07-25T00:33:33.693300Z,AS4812 China Telecom (Group),CHINANET-SH-AP,CN,Chinanet SH,False,False,False,,0,0,0
-62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,62-122-195-14.broadband.opcom.ru,0,0,0
+62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,,0,0,0
 65.20.131.63,15,7,2026-07-16T19:02:11.885880Z,2026-07-25T12:38:06.726715Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.134.97,15,7,2026-07-08T07:21:40.143994Z,2026-07-25T08:42:08.373190Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.138.46,15,7,2026-07-12T10:06:37.458716Z,2026-07-29T00:29:56.116395Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
