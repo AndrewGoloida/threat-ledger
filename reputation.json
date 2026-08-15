@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-15T07:30:04Z",
+ "generated": "2026-08-15T07:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1362,
+ "count": 1364,
  "records": [
+  {
+   "ip": "77.239.124.243",
+   "reputation_score": 52,
+   "honeypot_attempts": 27,
+   "first_seen": "2026-08-15T06:33:52.332344Z",
+   "last_seen": "2026-08-15T07:36:51.360666Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "NL",
+   "org": "RocketCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 27,
+   "command_count": 27,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -1316,6 +1334,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "92.205.57.72",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-19T07:17:35.032245Z",
+   "last_seen": "2026-08-15T07:40:43.796873Z",
+   "asn": "AS21499 Host Europe GmbH",
+   "as_name": "GODADDY-SXB",
+   "country": "FR",
+   "org": "Host Europe GmbH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "72.57.205.92.host.secureserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13625,7 +13661,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
