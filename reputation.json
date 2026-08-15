@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15T19:15:04Z",
+ "generated": "2026-08-15T19:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1370,
+ "count": 1371,
  "records": [
   {
    "ip": "77.239.124.243",
@@ -7220,6 +7220,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "177.53.215.134",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-06T02:51:06.964150Z",
+   "last_seen": "2026-08-15T19:16:20.814161Z",
+   "asn": "AS263238 Eliana Vanessa Morocho O\u00f1a",
+   "as_name": "Eliana Vanessa Morocho Ona",
+   "country": "EC",
+   "org": "Universal-stereo C.L",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "177-53-215-134.fibramax.ec",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
