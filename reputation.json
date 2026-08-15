@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T20:45:04Z",
+ "generated": "2026-08-15T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1372,
@@ -7655,6 +7655,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "185.74.59.11",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-15T19:27:29.305995Z",
+   "last_seen": "2026-08-15T20:45:12.781433Z",
+   "asn": "AS42455 ELITE GROUP.IM LIMITED",
+   "as_name": "Wi-Manx-AS",
+   "country": "IM",
+   "org": "Wi-Manx Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 5,
+   "download_url_count": 0
+  },
+  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -8030,24 +8048,6 @@
    "rdns": "static-mum-182.60.128.241.mtnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "185.74.59.11",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-15T19:27:29.305995Z",
-   "last_seen": "2026-08-15T20:34:09.770515Z",
-   "asn": "AS42455 ELITE GROUP.IM LIMITED",
-   "as_name": "Wi-Manx-AS",
-   "country": "IM",
-   "org": "Wi-Manx Limited",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 5,
    "download_url_count": 0
   },
   {
@@ -13769,7 +13769,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
