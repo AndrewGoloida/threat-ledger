@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16T16:00:04Z",
+ "generated": "2026-08-16T16:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1386,
+ "count": 1387,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -668,6 +668,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.151.171.7",
+   "reputation_score": 42,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-30T15:21:37.144673Z",
+   "last_seen": "2026-08-16T16:13:43.613222Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "ZA",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 9,
    "download_url_count": 0
   },
   {
@@ -1799,7 +1817,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
