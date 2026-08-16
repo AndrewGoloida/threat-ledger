@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16T06:00:04Z",
+ "generated": "2026-08-16T06:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1379,
+ "count": 1380,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9953,7 +9953,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12905,7 +12905,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -13337,7 +13337,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "mx-ll-183.89.248-224.dynamic.3bb.co.th",
+   "rdns": "mx-ll-183.89.248-224.dynamic.3bb.in.th",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19025,7 +19025,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19043,7 +19043,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23365,6 +23365,24 @@
    "is_mobile": false,
    "rdns": "red.170.233.29.175.ssservicios.com.ar",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "171.231.189.154",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-16T05:59:54.767553Z",
+   "last_seen": "2026-08-16T06:03:05.436605Z",
+   "asn": "AS7552 Viettel Group",
+   "as_name": "VIETEL-AS-AP",
+   "country": "VN",
+   "org": "VIETEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
