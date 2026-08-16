@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16T05:00:05Z",
+ "generated": "2026-08-16T05:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1378,
+ "count": 1379,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1999,6 +1999,24 @@
    "is_mobile": false,
    "rdns": "221.18.159.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "37.120.213.13",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-06-24T16:33:38.501813Z",
+   "last_seen": "2026-08-16T05:03:31.459398Z",
+   "asn": "AS9009 M247 Europe SRL",
+   "as_name": "M247",
+   "country": "CH",
+   "org": "M247 LTD",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -13787,7 +13805,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
