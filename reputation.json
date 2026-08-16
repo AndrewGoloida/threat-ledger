@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16T03:45:04Z",
+ "generated": "2026-08-16T04:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1377,
+ "count": 1378,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20557,6 +20557,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "60.18.139.82",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-13T11:00:47.937258Z",
+   "last_seen": "2026-08-16T03:52:22.344620Z",
+   "asn": "AS4837 CHINA UNICOM China169 Backbone",
+   "as_name": "CHINA169-Backbone",
+   "country": "CN",
+   "org": "Unicom LN",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
