@@ -763,7 +763,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
@@ -1129,6 +1129,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 46.210.94.61,12,4,2026-07-26T22:41:30.913193Z,2026-08-15T08:33:03.376227Z,AS1680 Cellcom Fixed Line Communication L.P,NV-ASN,IL,Cellcom Fixed Line Communication L.P,False,False,False,,0,0,0
 49.124.151.62,12,4,2026-07-25T15:39:45.788321Z,2026-08-06T04:11:38.169533Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.124.152.248,12,4,2026-07-27T10:20:48.842919Z,2026-08-08T22:27:07.415984Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
+49.124.153.51,12,4,2026-07-20T01:23:28.261299Z,2026-08-16T01:23:59.229721Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,1,0
 49.206.201.253,12,4,2026-07-12T19:55:41.130157Z,2026-08-09T07:12:00.634956Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Beam Telecom Pvt Ltd,False,False,False,49.206.201.253.actcorp.in,0,0,0
 50.188.204.213,12,4,2026-07-09T08:14:13.516331Z,2026-07-15T04:01:26.905571Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,"Comcast Cable Communications, LLC",False,False,False,c-50-188-204-213.unallocated.comcastbusiness.net,0,0,0
 58.56.128.190,12,4,2026-07-14T04:40:21.212907Z,2026-08-07T09:27:28.944995Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SD,False,False,False,,0,0,0
