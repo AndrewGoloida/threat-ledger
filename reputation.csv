@@ -1101,7 +1101,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1227,6 +1227,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 111.61.5.30,12,4,2026-07-13T21:17:40.663980Z,2026-07-15T12:42:00.669649Z,AS24547 Hebei Mobile Communication Company Limited,CMNET-V4HEBEI-AS-AP,CN,China Mobile,False,False,True,,0,0,0
 111.70.7.189,12,4,2026-07-17T21:56:38.540604Z,2026-08-01T00:06:00.377310Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-7-189.emome-ip.hinet.net,0,0,0
 111.70.9.143,12,4,2026-07-11T17:44:26.100321Z,2026-07-29T11:58:12.687433Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-9-143.emome-ip.hinet.net,0,0,0
+111.70.14.135,12,4,2026-07-18T12:59:15.244024Z,2026-08-16T06:17:16.884370Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-14-135.emome-ip.hinet.net,0,1,0
 111.70.23.222,12,4,2026-07-26T09:27:39.475863Z,2026-08-07T04:58:53.412544Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-222.emome-ip.hinet.net,0,0,0
 111.70.23.245,12,4,2026-07-18T14:31:15.671977Z,2026-08-04T13:59:58.133877Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-245.emome-ip.hinet.net,0,0,0
 111.70.23.248,12,4,2026-07-17T18:09:32.009159Z,2026-08-15T15:45:23.514173Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-248.emome-ip.hinet.net,0,0,0
