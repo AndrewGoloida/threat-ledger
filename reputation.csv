@@ -984,7 +984,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 36.93.154.207,13,5,2026-07-09T18:38:56.381417Z,2026-07-27T18:54:31.329333Z,AS7713 PT Telekomunikasi Indonesia,telkomnet-as-ap,ID,HSI Indihome,False,False,False,,0,0,0
 37.238.45.202,13,5,2026-07-19T11:21:06.800346Z,2026-07-29T14:20:49.077857Z,AS199739 Earthlink Telecommunications Equipment Trading & Services DMCC,Earthlink-DMCC-IQ,IQ,Hulum,False,False,False,,0,0,0
 39.164.94.190,13,5,2026-07-10T05:15:05.018830Z,2026-07-29T09:35:17.417225Z,"AS24445 Henan Mobile Communications Co.,Ltd",CMNET-V4henan-AS-AP,CN,China Mobile,False,False,True,,0,0,0
-41.74.91.200,13,5,2026-08-07T10:08:24.672423Z,2026-08-07T10:46:11.065343Z,"AS37263 University of Education, Winneba",UNIVEDU,GH,"University of Education, Winneba",False,False,False,vclass.uew.edu.gh,0,0,0
+41.74.91.200,13,5,2026-08-07T10:08:24.672423Z,2026-08-07T10:46:11.065343Z,"AS37263 University of Education, Winneba",UNIVEDU,GH,"University of Education, Winneba",False,False,False,,0,0,0
 41.231.85.75,13,5,2026-07-09T21:11:22.468059Z,2026-07-18T19:52:19.107274Z,AS37705 TOPNET,TOPNET,TN,ATI - Agence Tunisienne Internet,False,False,False,,0,0,0
 46.77.69.201,13,5,2026-07-24T12:28:28.128378Z,2026-08-14T16:42:11.897803Z,AS8374 Polkomtel Sp. z o.o.,PLUSNET,PL,Polkomtel Sp. z o.o,False,False,True,apn-46-77-69-201.static.gprs.plus.pl,0,0,0
 50.223.176.171,13,5,2026-07-18T11:59:13.922032Z,2026-07-29T00:57:07.477131Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,"Comcast Cable Communications Holdings, Inc",False,False,False,,0,0,0
