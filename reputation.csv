@@ -774,7 +774,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
@@ -1183,6 +1183,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 77.106.78.215,12,4,2026-07-09T00:03:29.970701Z,2026-07-18T08:22:38.293562Z,AS50512 JSC ER-Telecom Holding,BARNAUL-AS,RU,"JSC ""ER-Telecom Holding"" Barnaul Branch",False,False,False,77x106x78x215.dynamic.barnaul.ertelecom.ru,0,0,0
 78.66.44.23,12,4,2026-07-12T09:27:49.622684Z,2026-07-20T16:07:17.025062Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,78-66-44-23-no2550.tbcn.telia.com,0,0,0
 78.66.45.101,12,4,2026-07-11T06:33:22.556954Z,2026-07-28T02:10:56.098835Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,78-66-45-101-no2550.tbcn.telia.com,0,0,0
+78.67.161.64,12,4,2026-07-09T20:18:23.280672Z,2026-08-17T20:06:41.789532Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,78-67-161-64-no2550.tbcn.telia.com,0,1,0
 78.142.218.159,12,4,2026-07-13T17:29:18.979759Z,2026-07-13T23:39:28.197458Z,AS397423 Tier.Net Technologies LLC,TIER-NET,US,Tier.Net Technologies LLC,False,False,False,,0,0,0
 80.233.12.109,12,4,2026-07-08T02:36:03.901395Z,2026-07-16T05:48:47.911107Z,AS13280 Three Ireland (Hutchison) limited,H3GIE,IE,O2 Ireland,False,False,True,,0,0,0
 80.233.77.136,12,4,2026-07-21T05:03:27.515993Z,2026-07-27T23:30:12.090838Z,AS13280 Three Ireland (Hutchison) limited,H3GIE,IE,Hutchison 3G Ireland Limited,False,False,False,,0,0,0
