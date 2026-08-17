@@ -363,7 +363,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 40.76.107.218,24,4,2026-07-14T08:29:12.251397Z,2026-07-15T15:37:08.941833Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.76.229.179,24,4,2026-07-14T10:06:57.455284Z,2026-07-15T10:06:40.053193Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.81.240.186,24,4,2026-07-13T17:55:30.710350Z,2026-07-14T00:19:01.782806Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (centralindia),True,False,False,,0,0,0
-41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,2,3,0
+41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,2,3,0
 43.155.86.225,24,4,2026-07-27T10:25:37.686698Z,2026-07-27T10:34:01.463969Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,HK,Tencent Cloud Computing,True,False,False,,0,0,0
 43.156.28.199,24,4,2026-07-15T13:36:50.259410Z,2026-07-15T16:48:05.085048Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,SG,Tencent Cloud Computing,True,False,False,,0,0,0
 45.153.34.151,24,4,2026-06-28T08:06:14.090620Z,2026-07-03T18:55:05.598156Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
