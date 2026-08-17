@@ -364,7 +364,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 40.76.107.218,24,4,2026-07-14T08:29:12.251397Z,2026-07-15T15:37:08.941833Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.76.229.179,24,4,2026-07-14T10:06:57.455284Z,2026-07-15T10:06:40.053193Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.81.240.186,24,4,2026-07-13T17:55:30.710350Z,2026-07-14T00:19:01.782806Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (centralindia),True,False,False,,0,0,0
-41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,2,3,0
+41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,2,3,0
 43.155.86.225,24,4,2026-07-27T10:25:37.686698Z,2026-07-27T10:34:01.463969Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,HK,Tencent Cloud Computing,True,False,False,,0,0,0
 43.156.28.199,24,4,2026-07-15T13:36:50.259410Z,2026-07-15T16:48:05.085048Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,SG,Tencent Cloud Computing,True,False,False,,0,0,0
 45.153.34.151,24,4,2026-06-28T08:06:14.090620Z,2026-07-03T18:55:05.598156Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
@@ -1111,7 +1111,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1226,6 +1226,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.157.13.50,12,4,2026-07-14T09:31:03.074998Z,2026-07-15T11:09:41.048976Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Hindustan Networks Llp,False,False,False,,0,0,0
 103.226.88.135,12,4,2026-07-13T16:49:20.959879Z,2026-07-13T16:55:32.756731Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,Gvtelecom,False,False,False,,0,0,0
 103.247.55.253,12,4,2026-07-13T19:10:56.327803Z,2026-07-14T00:34:56.490398Z,AS24186 RailTel Corporation of India Ltd,RAILTEL-AS-IN,IN,RAILTEL,False,False,False,,0,0,0
+106.0.166.123,12,4,2026-07-12T04:45:11.148421Z,2026-08-17T07:24:26.269608Z,AS23974 Ministry of education,MOE-AS-AP,TH,Ministry of Education - EMISC,False,False,False,,0,1,0
 106.81.33.108,12,4,2026-07-13T16:41:17.187795Z,2026-07-14T08:46:50.797410Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet CQ,False,False,False,,0,0,0
 106.245.246.26,12,4,2026-07-11T17:02:21.240526Z,2026-08-03T23:33:14.992979Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 109.236.57.14,12,4,2026-07-13T16:51:36.341304Z,2026-07-14T09:15:29.301378Z,AS50340 JSC Selectel,SELECTEL-MSK,RU,Selectel,False,False,False,,0,0,0

@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-17T07:15:04Z",
+ "generated": "2026-08-17T07:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1400,
+ "count": 1401,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6587,7 +6587,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -20033,7 +20033,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22087,6 +22087,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "106.0.166.123",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-12T04:45:11.148421Z",
+   "last_seen": "2026-08-17T07:24:26.269608Z",
+   "asn": "AS23974 Ministry of education",
+   "as_name": "MOE-AS-AP",
+   "country": "TH",
+   "org": "Ministry of Education - EMISC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
