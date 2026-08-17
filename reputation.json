@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-17T01:30:04Z",
+ "generated": "2026-08-17T01:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1395,
+ "count": 1396,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6569,7 +6569,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -13913,7 +13913,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20107,6 +20107,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.41.81.65",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-08T15:11:14.344903Z",
+   "last_seen": "2026-08-17T01:44:54.505957Z",
+   "asn": "AS197667 Telekom System sp.z o.o.",
+   "as_name": "FEROMEDIA-AS",
+   "country": "PL",
+   "org": "FERO Agnieszka Budner",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "65.81.41.31.ip4.feromedia.eu",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

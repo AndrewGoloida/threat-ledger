@@ -363,7 +363,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 40.76.107.218,24,4,2026-07-14T08:29:12.251397Z,2026-07-15T15:37:08.941833Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.76.229.179,24,4,2026-07-14T10:06:57.455284Z,2026-07-15T10:06:40.053193Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,False,False,,0,0,0
 40.81.240.186,24,4,2026-07-13T17:55:30.710350Z,2026-07-14T00:19:01.782806Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (centralindia),True,False,False,,0,0,0
-41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,2,3,0
+41.93.28.23,24,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,2,3,0
 43.155.86.225,24,4,2026-07-27T10:25:37.686698Z,2026-07-27T10:34:01.463969Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,HK,Tencent Cloud Computing,True,False,False,,0,0,0
 43.156.28.199,24,4,2026-07-15T13:36:50.259410Z,2026-07-15T16:48:05.085048Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,SG,Tencent Cloud Computing,True,False,False,,0,0,0
 45.153.34.151,24,4,2026-06-28T08:06:14.090620Z,2026-07-03T18:55:05.598156Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
@@ -771,7 +771,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
@@ -1116,6 +1116,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.46.20,12,4,2026-07-25T15:32:42.736696Z,2026-07-25T15:33:22.620479Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.128.162.146,12,4,2026-07-11T20:16:00.959994Z,2026-07-31T21:33:23.966297Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HE,False,False,False,,0,0,0
+31.41.81.65,12,4,2026-07-08T15:11:14.344903Z,2026-08-17T01:44:54.505957Z,AS197667 Telekom System sp.z o.o.,FEROMEDIA-AS,PL,FERO Agnieszka Budner,False,False,False,65.81.41.31.ip4.feromedia.eu,0,1,0
 31.167.11.151,12,4,2026-07-14T23:47:17.366357Z,2026-07-15T15:40:45.063841Z,"AS35819 Etihad Etisalat, a joint stock company",Mobily-AS,SA,Etihad Etisalat,False,False,False,,0,0,0
 31.173.0.46,12,4,2026-07-12T09:37:40.326262Z,2026-07-30T03:52:38.371071Z,AS31133 PJSC MegaFon,MF-MGSM-AS,RU,OJSC MegaFon,False,False,True,,0,0,0
 31.173.2.182,12,4,2026-07-08T11:42:32.324824Z,2026-07-31T22:56:34.444772Z,AS31133 PJSC MegaFon,MF-MGSM-AS,RU,OJSC MegaFon,False,False,True,,0,0,0
