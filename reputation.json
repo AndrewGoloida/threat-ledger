@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-18T11:15:04Z",
+ "generated": "2026-08-18T11:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1407,
+ "count": 1408,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9203,6 +9203,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "125.35.109.214",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-08T17:47:52.022247Z",
+   "last_seen": "2026-08-18T11:26:21.458697Z",
+   "asn": "AS4808 China Unicom Beijing Province Network",
+   "as_name": "CHINA169-BJ",
+   "country": "CN",
+   "org": "China Unicom Beijing Province Network",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "125.72.150.250",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -13913,7 +13931,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20069,7 +20087,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
