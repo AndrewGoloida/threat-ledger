@@ -701,7 +701,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 60.214.127.246,15,7,2026-07-07T23:31:00.033329Z,2026-07-27T19:51:24.996400Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
 61.143.227.17,15,7,2026-07-09T22:52:56.307654Z,2026-07-26T18:06:49.671138Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,False,False,,0,0,0
 61.169.54.150,15,7,2026-07-10T11:12:12.452687Z,2026-07-25T00:33:33.693300Z,AS4812 China Telecom (Group),CHINANET-SH-AP,CN,Chinanet SH,False,False,False,,0,0,0
-62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,,0,0,0
+62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,62-122-195-14.broadband.opcom.ru,0,0,0
 65.20.131.63,15,7,2026-07-16T19:02:11.885880Z,2026-07-25T12:38:06.726715Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.134.97,15,7,2026-07-08T07:21:40.143994Z,2026-07-25T08:42:08.373190Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.138.46,15,7,2026-07-12T10:06:37.458716Z,2026-07-29T00:29:56.116395Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
@@ -772,7 +772,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
