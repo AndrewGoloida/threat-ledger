@@ -74,6 +74,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 43.226.37.32,36,8,2026-07-13T18:01:50.105822Z,2026-07-15T04:01:59.116906Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,True,False,,0,0,0
 51.75.247.232,36,6,2026-08-09T10:48:15.064595Z,2026-08-19T05:29:22.665030Z,AS16276 OVH SAS,OVH,FR,OVH,True,False,False,232.ip-51-75-247.eu,2,3,0
 77.239.124.237,36,16,2026-08-14T16:28:34.165016Z,2026-08-14T17:31:38.890990Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,RocketCloud,True,False,False,,0,0,0
+103.193.179.139,36,6,2026-08-15T15:56:09.913462Z,2026-08-19T23:33:02.213939Z,AS136052 PT Cloud Hosting Indonesia,IDNIC-IDCLOUDHOST-AS-ID,ID,PT Nara Cakra Studio,True,False,False,ip103-193-179-139.cloudhost.web.id,2,3,0
 168.144.171.221,36,8,2026-07-27T21:56:28.070543Z,2026-07-27T22:16:19.029363Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,AU,"DigitalOcean, LLC",True,True,False,,0,0,0
 182.42.113.10,36,8,2026-07-09T00:38:34.109729Z,2026-07-23T03:12:43.628030Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,True,False,,0,0,0
 216.250.248.4,36,16,2026-07-13T20:30:11.687570Z,2026-07-15T01:00:54.994004Z,"AS396073 Majestic Hosting Solutions, LLC",MAJESTIC-HOSTING-01,US,"Majestic Hosting Solutions, LLC",True,False,False,portofpisa.com,0,0,0
@@ -799,7 +800,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
 45.140.192.8,14,6,2026-07-25T07:43:21.265261Z,2026-07-26T06:30:02.299711Z,AS268581 QNAX LTDA,QNAX LTDA,BR,Qnax Ltda,False,False,False,,0,0,0
