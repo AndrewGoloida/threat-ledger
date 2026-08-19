@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-19T15:45:04Z",
+ "generated": "2026-08-19T16:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1419,
+ "count": 1420,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8408,6 +8408,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "223.123.16.238",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-12T16:37:07.807064Z",
+   "last_seen": "2026-08-19T15:54:22.285905Z",
+   "asn": "AS59257 CMPak Limited",
+   "as_name": "CMPAKLIMITED-AS-AP",
+   "country": "PK",
+   "org": "CMPak Mobile Fixed Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 1,
    "download_url_count": 0
   },
   {
