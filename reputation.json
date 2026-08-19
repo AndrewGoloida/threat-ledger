@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-19T00:45:04Z",
+ "generated": "2026-08-19T01:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1410,
+ "count": 1411,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1675,6 +1675,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "160.153.189.18",
+   "reputation_score": 34,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-13T17:22:19.508722Z",
+   "last_seen": "2026-08-19T00:50:27.830067Z",
+   "asn": "AS398101 GoDaddy.com, LLC",
+   "as_name": "GO-DADDY-COM-LLC",
+   "country": "US",
+   "org": "GoDaddy.com, LLC",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "18.189.153.160.host.secureserver.net",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -13931,7 +13949,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20087,7 +20105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
