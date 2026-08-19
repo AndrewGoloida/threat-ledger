@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-19T03:15:04Z",
+ "generated": "2026-08-19T03:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1413,
+ "count": 1415,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9203,6 +9203,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "117.32.132.170",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-14T02:40:00.118947Z",
+   "last_seen": "2026-08-19T03:15:04.522388Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet SN",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.69.255.239",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -13949,7 +13967,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14291,7 +14309,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20123,7 +20141,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24805,6 +24823,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "207.219.222.29",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-13T08:23:10.728782Z",
+   "last_seen": "2026-08-19T03:25:24.323811Z",
+   "asn": "AS852 TELUS Communications Inc.",
+   "as_name": "ASN852",
+   "country": "CA",
+   "org": "TELUS Communications Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
