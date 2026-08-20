@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T13:45:04Z",
+ "generated": "2026-08-20T14:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1433,
+ "count": 1434,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14075,7 +14075,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14435,7 +14435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20267,7 +20267,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21043,6 +21043,24 @@
    "is_mobile": false,
    "rdns": "static.ill.59.90.70.91.bsnl.co.in",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "59.120.8.61",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-20T00:59:08.645803Z",
+   "last_seen": "2026-08-20T13:47:36.872305Z",
+   "asn": "AS3462 Data Communication Business Group",
+   "as_name": "HINET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "59-120-8-61.hinet-ip.hinet.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
