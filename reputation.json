@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T00:15:04Z",
+ "generated": "2026-08-20T00:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1426,
+ "count": 1427,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1319,24 +1319,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "51.75.247.232",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-09T10:48:15.064595Z",
-   "last_seen": "2026-08-19T05:29:22.665030Z",
-   "asn": "AS16276 OVH SAS",
-   "as_name": "OVH",
-   "country": "FR",
-   "org": "OVH",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "232.ip-51-75-247.eu",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1352,24 +1334,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "103.193.179.139",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-15T15:56:09.913462Z",
-   "last_seen": "2026-08-19T23:33:02.213939Z",
-   "asn": "AS136052 PT Cloud Hosting Indonesia",
-   "as_name": "IDNIC-IDCLOUDHOST-AS-ID",
-   "country": "ID",
-   "org": "PT Nara Cakra Studio",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "ip103-193-179-139.cloudhost.web.id",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1728,7 +1692,7 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "18.189.153.160.host.secureserver.net",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -1838,6 +1802,24 @@
    "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "216.173.112.34",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-18T10:30:10.445860Z",
+   "last_seen": "2026-08-20T00:21:14.480795Z",
+   "asn": "AS397423 Tier.Net Technologies LLC",
+   "as_name": "TIER-NET",
+   "country": "US",
+   "org": "H4Y21",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 1,
    "download_url_count": 0
   },
   {
@@ -4325,6 +4307,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "51.75.247.232",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-09T10:48:15.064595Z",
+   "last_seen": "2026-08-19T05:29:22.665030Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "232.ip-51-75-247.eu",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "51.143.217.205",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -4770,6 +4770,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.193.179.139",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-15T15:56:09.913462Z",
+   "last_seen": "2026-08-19T23:33:02.213939Z",
+   "asn": "AS136052 PT Cloud Hosting Indonesia",
+   "as_name": "IDNIC-IDCLOUDHOST-AS-ID",
+   "country": "ID",
+   "org": "PT Nara Cakra Studio",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip103-193-179-139.cloudhost.web.id",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -6467,24 +6485,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "27.110.166.67",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-17T13:27:06.833295Z",
-   "last_seen": "2026-08-19T18:26:04.225212Z",
-   "asn": "AS9299 Philippine Long Distance Telephone Company",
-   "as_name": "IPG-AS-AP",
-   "country": "PH",
-   "org": "Philippine Long Distance Telephone Company",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "ns2.revlv.net",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "31.56.206.108",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -7889,24 +7889,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "49.248.197.50",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-19T06:53:46.570884Z",
-   "last_seen": "2026-08-19T11:03:11.808809Z",
-   "asn": "AS17762 Tata Teleservices Maharashtra Ltd",
-   "as_name": "HTIL-TTML-IN-AP",
-   "country": "IN",
-   "org": "Tata Teleservices (Maharashtra) Ltd",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "static-50.197.248.49-tataidc.co.in",
-   "creds_tried_count": 4,
-   "command_count": 4,
-   "download_url_count": 0
-  },
-  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -8156,24 +8138,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "116.74.164.106",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-19T10:19:08.158613Z",
-   "last_seen": "2026-08-19T18:50:52.851329Z",
-   "asn": "AS17488 Hathway IP Over Cable Internet",
-   "as_name": "HATHWAY-NET-AP",
-   "country": "IN",
-   "org": "Hathway Cable and Datacom Limited",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "164.74.116.106.hathway.com",
-   "creds_tried_count": 4,
-   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -8462,24 +8426,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "223.123.16.238",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-12T16:37:07.807064Z",
-   "last_seen": "2026-08-19T15:54:22.285905Z",
-   "asn": "AS59257 CMPak Limited",
-   "as_name": "CMPAKLIMITED-AS-AP",
-   "country": "PK",
-   "org": "CMPak Mobile Fixed Network",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": true,
-   "rdns": "",
-   "creds_tried_count": 1,
-   "command_count": 1,
    "download_url_count": 0
   },
   {
@@ -8838,7 +8784,7 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -9342,7 +9288,7 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -14225,6 +14171,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "27.110.166.67",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T13:27:06.833295Z",
+   "last_seen": "2026-08-19T18:26:04.225212Z",
+   "asn": "AS9299 Philippine Long Distance Telephone Company",
+   "as_name": "IPG-AS-AP",
+   "country": "PH",
+   "org": "Philippine Long Distance Telephone Company",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ns2.revlv.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "27.123.113.10",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -14435,7 +14399,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15840,7 +15804,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 6,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -20610,7 +20574,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -20880,6 +20844,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "49.206.201.253.actcorp.in",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "49.248.197.50",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-19T06:53:46.570884Z",
+   "last_seen": "2026-08-19T11:03:11.808809Z",
+   "asn": "AS17762 Tata Teleservices Maharashtra Ltd",
+   "as_name": "HTIL-TTML-IN-AP",
+   "country": "IN",
+   "org": "Tata Teleservices (Maharashtra) Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static-50.197.248.49-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21384,7 +21366,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21474,7 +21456,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "65-181-79-060.static.imsbiz.com",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23189,6 +23171,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.74.164.106",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-19T10:19:08.158613Z",
+   "last_seen": "2026-08-19T18:50:52.851329Z",
+   "asn": "AS17488 Hathway IP Over Cable Internet",
+   "as_name": "HATHWAY-NET-AP",
+   "country": "IN",
+   "org": "Hathway Cable and Datacom Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "164.74.116.106.hathway.com",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "116.99.172.41",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -24210,7 +24210,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24984,7 +24984,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "145.173.198.203.static.netvigator.com",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25038,7 +25038,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25646,6 +25646,24 @@
    "as_name": "CMNET-AS-Liaoning",
    "country": "CN",
    "org": "China Mobile",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "223.123.16.238",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-12T16:37:07.807064Z",
+   "last_seen": "2026-08-19T15:54:22.285905Z",
+   "asn": "AS59257 CMPak Limited",
+   "as_name": "CMPAKLIMITED-AS-AP",
+   "country": "PK",
+   "org": "CMPak Mobile Fixed Network",
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
