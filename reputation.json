@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T00:00:04Z",
+ "generated": "2026-08-20T00:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1426,
@@ -17,7 +17,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "hosting25.tronicsat.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -6011,7 +6011,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ns371313.ip-5-135-137.eu",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11177,7 +11177,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14.140.205.174.STATIC-Delhi-vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14093,7 +14093,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14111,7 +14111,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "mail.codelandia.az",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20177,7 +20177,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static.vnpt.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
