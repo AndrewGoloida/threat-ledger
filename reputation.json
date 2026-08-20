@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T11:30:04Z",
+ "generated": "2026-08-20T11:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1430,
+ "count": 1431,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14435,7 +14435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20267,7 +20267,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23850,6 +23850,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "nsg-corporate-38.230.187.122.airtel.in",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "124.167.20.72",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-19T00:34:58.357392Z",
+   "last_seen": "2026-08-20T11:33:19.201279Z",
+   "asn": "AS4837 CHINA UNICOM China169 Backbone",
+   "as_name": "CHINA169-Backbone",
+   "country": "CN",
+   "org": "CNC Group CHINA169 Shan1xi Province Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "72.20.167.124.adsl-pool.sx.cn",
    "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
