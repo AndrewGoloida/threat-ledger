@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T20:45:04Z",
+ "generated": "2026-08-20T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1439,
+ "count": 1440,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2449,6 +2449,24 @@
    "is_mobile": false,
    "rdns": "hviv-bare.as1101.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "192.76.153.253",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-06T21:47:30.140703Z",
+   "last_seen": "2026-08-20T20:55:33.835014Z",
+   "asn": "AS60404 The Infrastructure Group B.V.",
+   "as_name": "Liteserver",
+   "country": "NL",
+   "org": "The Infrastructure Group B.V",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -14507,7 +14525,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
