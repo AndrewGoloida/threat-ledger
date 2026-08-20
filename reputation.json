@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T12:30:04Z",
+ "generated": "2026-08-20T12:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1431,
+ "count": 1432,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20267,7 +20267,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24301,6 +24301,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "178.178.222.60",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-12T06:56:58.261600Z",
+   "last_seen": "2026-08-20T12:40:10.207858Z",
+   "asn": "AS25159 PJSC MegaFon",
+   "as_name": "SONICDUO-AS",
+   "country": "RU",
+   "org": "MF MB",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
