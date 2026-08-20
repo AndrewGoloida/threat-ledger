@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T14:30:05Z",
+ "generated": "2026-08-20T14:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1434,
+ "count": 1435,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9653,6 +9653,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "201.163.73.93",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-15T01:52:08.906256Z",
+   "last_seen": "2026-08-20T14:42:53.811446Z",
+   "asn": "AS11172 Alestra, S. de R.L. de C.V.",
+   "as_name": "Alestra, S. de R.L. de C.V.",
+   "country": "MX",
+   "org": "Alestra, S. de R.L. de C.V",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "static-201-163-73-93.alestra.net.mx",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "210.13.99.66",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -14435,7 +14453,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
