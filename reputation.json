@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-21T03:45:05Z",
+ "generated": "2026-08-21T04:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1442,
+ "count": 1443,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2269,6 +2269,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "118.123.116.93",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-13T06:25:04.693026Z",
+   "last_seen": "2026-08-21T03:57:16.790998Z",
+   "asn": "AS38283 CHINANET SiChuan Telecom Internet Data Center",
+   "as_name": "CHINANET-SCIDC-AS-AP",
+   "country": "CN",
+   "org": "Chinanet SC",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -14111,7 +14129,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14471,7 +14489,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16721,7 +16739,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "177-128-224-122.hz.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20393,7 +20411,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
