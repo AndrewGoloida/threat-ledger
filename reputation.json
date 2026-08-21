@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-21T21:15:04Z",
+ "generated": "2026-08-21T21:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1444,
+ "count": 1445,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7421,6 +7421,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "163.7.3.26",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T01:59:14.177047Z",
+   "last_seen": "2026-08-21T21:24:07.088033Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "ID",
+   "org": "Byteplus Pte. Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "168.144.120.7",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14129,7 +14147,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20411,7 +20429,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
