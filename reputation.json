@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22T20:45:05Z",
+ "generated": "2026-08-22T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1457,
+ "count": 1458,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20573,7 +20573,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24949,6 +24949,24 @@
    "is_mobile": false,
    "rdns": "nova-185-040-122-250.cpe.novanet.is",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.81.94.58",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-21T23:46:51.037558Z",
+   "last_seen": "2026-08-22T20:52:54.580705Z",
+   "asn": "AS49628 LLC Skytel",
+   "as_name": "SKYTEL-AS",
+   "country": "GE",
+   "org": "Skytel",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
