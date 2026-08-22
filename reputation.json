@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22T04:15:05Z",
+ "generated": "2026-08-22T04:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1448,
+ "count": 1449,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7745,6 +7745,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "217.154.42.110",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-30T19:30:58.943333Z",
+   "last_seen": "2026-08-22T04:17:13.076904Z",
+   "asn": "AS8560 IONOS SE",
+   "as_name": "IONOS-AS",
+   "country": "GB",
+   "org": "ADSL: Russell Ulyatt FinancialServices Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip217.154.42-110.pbiaas.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "218.58.73.238",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -14507,7 +14525,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22733,7 +22751,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
