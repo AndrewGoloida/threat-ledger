@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22T19:30:04Z",
+ "generated": "2026-08-22T19:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1454,
+ "count": 1457,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7799,6 +7799,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "222.71.205.34",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-19T11:13:57.537029Z",
+   "last_seen": "2026-08-22T19:41:20.752051Z",
+   "asn": "AS4812 China Telecom (Group)",
+   "as_name": "CHINANET-SH-AP",
+   "country": "CN",
+   "org": "Chinanet SH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "222.174.17.118",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -7904,6 +7922,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "60.163.139.198",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-08T09:57:19.609420Z",
+   "last_seen": "2026-08-22T19:42:59.287391Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet ZJ",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 1,
    "download_url_count": 0
   },
   {
@@ -9703,6 +9739,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "192.42.116.99",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-05T21:03:04.578999Z",
+   "last_seen": "2026-08-22T19:42:24.148986Z",
+   "asn": "AS215125 Church of Cyberology",
+   "as_name": "Cyberology-AS",
+   "country": "NL",
+   "org": "TOR Exit and More",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
