@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22T17:30:04Z",
+ "generated": "2026-08-22T17:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1452,
+ "count": 1453,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20519,7 +20519,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23473,6 +23473,24 @@
    "is_mobile": false,
    "rdns": "115.150.48.116.static.netvigator.com",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "116.48.151.249",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-17T22:45:48.900808Z",
+   "last_seen": "2026-08-22T17:35:41.620857Z",
+   "asn": "AS4760 HKT Limited",
+   "as_name": "HKTIMS-AP",
+   "country": "HK",
+   "org": "Hong Kong Telecommunications (HKT) Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "249.151.48.116.static.netvigator.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
