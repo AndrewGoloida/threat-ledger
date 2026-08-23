@@ -572,7 +572,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 93.241.232.14,18,10,2026-07-12T09:33:42.815713Z,2026-07-25T11:34:35.993682Z,AS3320 Deutsche Telekom AG,DTAG,DE,Deutsche Telekom AG,False,False,False,p5df1e80e.dip0.t-ipconnect.de,0,0,0
 103.147.248.23,18,10,2026-07-08T08:36:33.824381Z,2026-07-29T11:28:21.696576Z,AS153283 Softcrop It,SOFTCROP-AS-IN,IN,Softcrop It,False,False,False,,0,0,0
 113.171.82.24,18,10,2026-07-13T17:47:58.796831Z,2026-07-15T13:58:25.878456Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
-117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 117.241.78.154,18,10,2026-07-14T02:59:45.340635Z,2026-07-27T13:03:55.526411Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
 120.224.15.67,18,10,2026-07-12T09:31:34.471087Z,2026-07-29T15:35:39.830571Z,AS24444 Shandong Mobile Communication Company Limited,CMNET-V4shandong-AS-AP,CN,China Mobile,False,False,True,,0,0,0
 125.209.88.139,18,10,2026-07-14T18:30:12.455374Z,2026-07-15T02:19:03.243669Z,AS9260 Multinet Pakistan Pvt. Ltd.,MULTINET-AS-AP,PK,Multinet Pakistan Pvt. Ltd.,False,False,False,125-209-88-139.multi.net.pk,0,0,0
@@ -656,7 +656,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 111.70.32.5,16,8,2026-07-10T18:00:58.775487Z,2026-07-26T19:43:49.620150Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-32-5.emome-ip.hinet.net,0,0,0
 112.161.26.125,16,8,2026-07-08T05:08:21.636862Z,2026-07-26T13:36:01.030188Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Korea Telecom,False,False,False,,0,0,0
 116.72.9.151,16,8,2026-07-08T22:25:33.089995Z,2026-07-29T17:21:59.643937Z,AS17488 Hathway IP Over Cable Internet,HATHWAY-NET-AP,IN,Hathway Cable and Datacom Limited,False,False,False,9.72.116.151.hathway.com,0,0,0
-116.99.168.21,16,8,2026-08-01T19:32:20.386738Z,2026-08-01T19:37:19.302437Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+116.99.168.21,16,8,2026-08-01T19:32:20.386738Z,2026-08-01T19:37:19.302437Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.110.11.168,16,8,2026-07-20T12:32:16.549276Z,2026-07-20T12:40:46.510965Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.128.227.6,16,8,2026-07-14T02:42:52.291300Z,2026-07-14T10:55:08.277166Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,China United Network Communications Corporation Limited,False,False,False,,0,0,0
 117.253.142.149,16,8,2026-07-14T00:42:24.151619Z,2026-07-14T06:02:13.289801Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Wimax Project,False,False,False,,0,0,0
@@ -861,7 +861,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.114.147.217,14,6,2026-08-03T03:02:08.500791Z,2026-08-11T13:02:38.129015Z,AS137905 Mangkone Technology Co. Ltd.,REVO-AS-AP,LA,Mangkone Technology Co. Ltd,False,False,False,,0,0,0
 103.120.116.162,14,6,2026-07-10T05:49:40.739466Z,2026-07-26T04:16:49.777907Z,AS138039 Broadband Business Ideas (PVT.) Limited,BBI-AS-AP,PK,Broadband Business Ideas (PVT.) Limited,False,False,False,,0,0,0
 103.125.103.201,14,6,2026-07-27T12:32:29.317943Z,2026-08-13T05:34:57.269530Z,AS38513 PT Aplikanusa Lintasarta,LINTASARTA-AS-ID,ID,PT. BERKAH BUNDA FATIMAH,False,False,False,,0,0,0
-103.129.203.20,14,6,2026-07-17T22:45:54.981510Z,2026-07-19T02:34:42.834445Z,AS138191 Weblink Communications Ltd,WEBLINKLTD-AS-AP,BD,Weblink Communications Ltd,False,False,False,wcl-pos.weblinkltd.com,0,0,0
+103.129.203.20,14,6,2026-07-17T22:45:54.981510Z,2026-07-19T02:34:42.834445Z,AS138191 Weblink Communications Ltd,WEBLINKLTD-AS-AP,BD,Weblink Communications Ltd,False,False,False,,0,0,0
 103.157.149.14,14,6,2026-07-16T01:40:38.873129Z,2026-07-17T22:12:56.496131Z,AS138797 Coastal Broadband And Online Services Pvt. Ltd.,COASTAL-AS-IN,IN,Tanuku Communication Network,False,False,False,ptr-149.14.coastalbroadband.in,0,0,0
 103.158.138.179,14,6,2026-07-11T22:27:16.512061Z,2026-07-21T17:18:45.991268Z,AS137166 Satellite Netcom Private Limited,SATNECOM-AS,IN,Sneha Sales And Services,False,False,False,,0,0,0
 103.159.54.61,14,6,2026-07-19T16:35:23.299606Z,2026-08-07T04:18:04.001525Z,AS153413 HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY,HT3VIETNAM-VN,VN,HT3VIETNAM,False,False,False,,0,0,0
@@ -923,7 +923,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 170.82.129.8,14,6,2026-07-26T15:41:42.092667Z,2026-08-06T18:16:58.953317Z,AS262237 Orbyta S.A.,Orbyta S.A.,CL,Vzion Consultores EN Informatica S.A,False,False,False,ip129.8.cloud.vzion.net,0,0,0
 171.25.158.68,14,6,2026-08-08T00:15:15.748410Z,2026-08-20T16:04:38.023244Z,AS35100 Patrik Lagerman,PatrikWeb-Core,SE,Kronnet,False,False,False,,0,0,0
 171.217.70.151,14,6,2026-07-10T03:21:46.426213Z,2026-07-29T12:01:30.449800Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SC,False,False,False,,0,0,0
-171.231.176.147,14,6,2026-08-06T03:27:03.646484Z,2026-08-06T03:31:59.870452Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.176.147,14,6,2026-08-06T03:27:03.646484Z,2026-08-06T03:31:59.870452Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.244.185.149,14,6,2026-07-18T13:19:18.463317Z,2026-07-26T05:51:29.686369Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,,0,0,0
 172.90.128.97,14,6,2026-07-19T04:57:32.590612Z,2026-07-25T16:06:18.615209Z,AS20001 Charter Communications Inc,TWC-20001-PACWEST,US,Spectrum,False,False,False,syn-172-090-128-097.res.spectrum.com,0,0,0
 172.198.65.198,14,6,2026-07-15T01:39:48.436193Z,2026-07-15T11:43:34.231167Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (indiasouthcentral),False,False,False,,0,0,0
