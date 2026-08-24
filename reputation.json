@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-24T03:00:04Z",
+ "generated": "2026-08-24T03:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1461,
+ "count": 1464,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -218,6 +218,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "194.5.176.86",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-30T23:04:22.048239Z",
+   "last_seen": "2026-08-24T03:13:27.105782Z",
+   "asn": "AS200406 Javid Berbid Mamasani Information Technology Company PJS",
+   "as_name": "berbidserver",
+   "country": "IR",
+   "org": "Berbid Network",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -7043,6 +7061,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "101.47.156.170",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T07:03:58.161022Z",
+   "last_seen": "2026-08-24T03:10:50.540650Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "SG",
+   "org": "BYTEPLUS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.39",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -7148,6 +7184,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.200.22.154",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T21:54:47.992884Z",
+   "last_seen": "2026-08-24T03:12:17.818105Z",
+   "asn": "AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+   "as_name": "VNPT-AS-VN",
+   "country": "VN",
+   "org": "VIETNIX Solution and Technology Joint Stock Company",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14183,7 +14237,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14543,7 +14597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
