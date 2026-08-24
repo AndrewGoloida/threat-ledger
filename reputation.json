@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-24T17:00:05Z",
+ "generated": "2026-08-24T17:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1473,
+ "count": 1474,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7673,6 +7673,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "180.93.172.213",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-08T03:09:56.956057Z",
+   "last_seen": "2026-08-24T17:14:45.148827Z",
+   "asn": "AS135944 VinhNam Commercial informatics service corporation",
+   "as_name": "VINACIS-AS-VN",
+   "country": "VN",
+   "org": "Saigon Postel Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.vinacis.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "181.214.140.97",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14687,7 +14705,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
