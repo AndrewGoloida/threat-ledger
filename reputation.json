@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-24T02:30:05Z",
+ "generated": "2026-08-24T02:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1460,
+ "count": 1461,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14183,7 +14183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24607,6 +24607,24 @@
    "is_mobile": false,
    "rdns": "dynamic-ip-adsl.metfone.com.kh",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "175.101.14.77",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-22T08:22:29.678048Z",
+   "last_seen": "2026-08-24T02:32:28.047549Z",
+   "asn": "AS17754 Excellmedia",
+   "as_name": "EXCELL-AS",
+   "country": "IN",
+   "org": "Excell Media Pvt Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "175.101.14.77.static.SiriInternet",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
