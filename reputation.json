@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-24T14:30:04Z",
+ "generated": "2026-08-24T14:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1468,
+ "count": 1471,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7097,6 +7097,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "101.47.159.125",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-17T06:06:45.593015Z",
+   "last_seen": "2026-08-24T14:40:16.830124Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "SG",
+   "org": "BYTEPLUS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.39",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -7709,6 +7727,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.119.63.98",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T11:52:29.318653Z",
+   "last_seen": "2026-08-24T14:37:35.073339Z",
+   "asn": "AS12252 America Movil Peru S.A.C.",
+   "as_name": "America Movil Peru S.A.C.",
+   "country": "PE",
+   "org": "America Movil Peru S.A.C",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "193.24.211.204",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -8012,6 +8048,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "111.9.47.89",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-07-21T14:43:25.312833Z",
+   "last_seen": "2026-08-24T14:41:43.309726Z",
+   "asn": "AS9808 China Mobile Communications Group Co., Ltd.",
+   "as_name": "CHINAMOBILE-CN",
+   "country": "CN",
+   "org": "China Mobile",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14633,7 +14687,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20681,7 +20735,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
