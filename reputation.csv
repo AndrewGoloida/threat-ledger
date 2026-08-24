@@ -44,6 +44,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 195.178.110.217,42,26,2026-07-04T11:03:25.453749Z,2026-07-04T23:05:07.000374Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,False,False,,0,0,0
 195.178.110.228,42,66,2026-07-12T03:33:26.260892Z,2026-07-12T11:17:51.951079Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,False,False,,0,0,0
 77.239.124.247,41,21,2026-08-05T08:44:51.435314Z,2026-08-05T09:51:50.473068Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,RocketCloud,True,False,False,,0,0,0
+159.65.194.117,41,11,2026-08-24T20:54:35.069715Z,2026-08-24T21:20:28.716085Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,11,11,0
 64.226.126.224,40,12,2026-06-29T05:55:03.436603Z,2026-07-22T08:17:52.427969Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,DE,"DigitalOcean, LLC",True,True,False,,0,0,0
 155.103.69.40,39,19,2026-07-09T17:31:27.723735Z,2026-07-14T09:51:13.706264Z,"AS44382 Fiba Cloud Operation Company, LLC",WhiteLabel,TR,"White Label Services, LLC",True,False,False,static-155-103-69-40.whitelabelservices.us,0,0,0
 91.92.40.8,38,26,2026-06-29T20:34:36.017673Z,2026-06-29T21:09:27.455978Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
@@ -66,7 +67,6 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 91.92.47.117,38,24,2026-07-29T23:35:29.464604Z,2026-07-30T00:41:31.206661Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
 104.248.162.195,38,10,2026-08-05T14:28:55.931592Z,2026-08-05T14:51:56.967507Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 139.19.117.131,38,348,2026-06-26T08:36:48.197931Z,2026-07-23T09:57:32.361914Z,AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,DFN,DE,Mpii NET 117 Inet,False,True,False,inet-research-scan-7.mpi-inf.mpg.de,0,0,0
-159.65.194.117,38,8,2026-08-24T20:54:35.069715Z,2026-08-24T21:12:34.871454Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,9,9,0
 45.156.87.162,37,9,2026-08-09T00:49:09.763434Z,2026-08-09T00:54:49.776174Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,True,False,ship-behind.vmheaven.io,0,0,0
 64.89.161.91,37,9,2026-07-06T01:25:38.433064Z,2026-07-06T01:32:44.570202Z,AS205759 Ghosty Networks LLC,GHOSTYNETWORKS,LU,Ghosty Networks LLC,True,True,False,,0,0,0
 64.89.162.37,37,9,2026-07-06T15:54:47.026642Z,2026-07-06T16:20:45.462647Z,AS198584 PIO-Hosting GmbH,PIO-Hosting,NL,Meowcore,True,True,False,,0,0,0
@@ -817,7 +817,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
 45.140.192.8,14,6,2026-07-25T07:43:21.265261Z,2026-07-26T06:30:02.299711Z,AS268581 QNAX LTDA,QNAX LTDA,BR,Qnax Ltda,False,False,False,,0,0,0
@@ -1153,7 +1153,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0

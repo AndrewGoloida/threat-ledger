@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T21:15:04Z",
+ "generated": "2026-08-24T21:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1476,
@@ -815,6 +815,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "159.65.194.117",
+   "reputation_score": 41,
+   "honeypot_attempts": 11,
+   "first_seen": "2026-08-24T20:54:35.069715Z",
+   "last_seen": "2026-08-24T21:20:28.716085Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "NL",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 11,
+   "command_count": 11,
+   "download_url_count": 0
+  },
+  {
    "ip": "64.226.126.224",
    "reputation_score": 40,
    "honeypot_attempts": 12,
@@ -1208,24 +1226,6 @@
    "rdns": "inet-research-scan-7.mpi-inf.mpg.de",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "159.65.194.117",
-   "reputation_score": 38,
-   "honeypot_attempts": 8,
-   "first_seen": "2026-08-24T20:54:35.069715Z",
-   "last_seen": "2026-08-24T21:12:34.871454Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "NL",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 9,
-   "command_count": 9,
    "download_url_count": 0
   },
   {
@@ -14741,7 +14741,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20789,7 +20789,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
