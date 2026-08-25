@@ -790,7 +790,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
 14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
@@ -811,7 +811,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
 45.140.192.8,14,6,2026-07-25T07:43:21.265261Z,2026-07-26T06:30:02.299711Z,AS268581 QNAX LTDA,QNAX LTDA,BR,Qnax Ltda,False,False,False,,0,0,0
@@ -1153,7 +1153,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
