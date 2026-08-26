@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-26T15:15:04Z",
+ "generated": "2026-08-26T15:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1483,
+ "count": 1484,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8087,6 +8087,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "186.235.48.167",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-26T14:50:07.812201Z",
+   "last_seen": "2026-08-26T15:27:46.912602Z",
+   "asn": "AS263096 Inorpel Ind. Nordestina de Prod. Eletricos Ltda.",
+   "as_name": "Inorpel Ind. Nordestina de Prod. Eletricos Ltda.",
+   "country": "BR",
+   "org": "Inorpel Ind. Nordestina de Prod. Eletricos Ltda",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "186-235-48-167.inorpel.com.br",
+   "creds_tried_count": 5,
+   "command_count": 5,
+   "download_url_count": 0
+  },
+  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -14327,7 +14345,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20897,7 +20915,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
