@@ -765,7 +765,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 177.135.206.10,15,7,2026-07-08T04:19:28.713633Z,2026-07-21T07:07:07.673902Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,corporativo.static.gvt.net.br,0,0,0
 178.178.194.135,15,7,2026-07-09T11:39:36.771700Z,2026-07-27T02:11:25.431519Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MegaFon,False,False,True,,0,0,0
 178.178.222.61,15,7,2026-07-07T23:32:10.042047Z,2026-07-29T22:56:22.711043Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
-179.185.227.77,15,7,2026-07-09T17:40:51.905499Z,2026-07-29T14:24:28.002589Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,,0,0,0
+179.185.227.77,15,7,2026-07-09T17:40:51.905499Z,2026-07-29T14:24:28.002589Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,grupokrause.static.gvt.net.br,0,0,0
 182.75.227.178,15,7,2026-07-08T09:02:53.198649Z,2026-07-26T12:04:29.780475Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Ltd,False,False,True,nsg-static-178.227.75.182-airtel.com,0,0,0
 183.89.248.224,15,7,2026-07-19T20:04:14.725750Z,2026-07-27T22:17:50.992748Z,AS45758 Triple T Broadband Public Company Limited,TTBP-AS-AP,TH,Triple T Broadband Public Company Limited,False,False,False,mx-ll-183.89.248-224.dynamic.3bb.co.th,0,0,0
 183.104.220.84,15,7,2026-07-12T18:04:20.141868Z,2026-07-21T11:50:30.203004Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
@@ -793,7 +793,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
@@ -968,7 +968,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 182.171.90.17,14,6,2026-08-06T15:07:44.767423Z,2026-08-21T00:37:37.343206Z,AS2527 Sony Network Communications Inc.,Sony Network Communications Inc.,JP,So-net Entertainment Corporation,False,False,False,ipb6ab5a11.ap.nuro.jp,0,0,0
 182.188.45.216,14,6,2026-07-13T18:32:59.976035Z,2026-07-27T10:51:12.461993Z,AS17557 Pakistan Telecommunication Company Limited,PKTELECOM-AS-PK,PK,Pakistan Telecommuication company limited,False,False,False,,0,0,0
 185.112.148.66,14,6,2026-07-09T09:45:37.020159Z,2026-07-29T23:08:37.714975Z,AS210392 Azarakhsh Ava-e Ahvaz Co,AriaOxin-AS,IR,Tapesh,False,False,False,,0,0,0
-186.10.86.130,14,6,2026-08-03T05:42:01.564985Z,2026-08-05T07:24:45.225893Z,AS27651 ENTEL CHILE S.A.,ENTEL CHILE S.A.,CL,Entel Chile S.A,False,False,False,,0,0,0
+186.10.86.130,14,6,2026-08-03T05:42:01.564985Z,2026-08-05T07:24:45.225893Z,AS27651 ENTEL CHILE S.A.,ENTEL CHILE S.A.,CL,Entel Chile S.A,False,False,False,z328.entelchile.net,0,0,0
 186.13.24.118,14,6,2026-08-12T14:15:35.616638Z,2026-08-20T05:43:39.527007Z,AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,Techtel LMDS Comunicaciones Interactivas S.A.,AR,AMX Argentina S.A,False,False,False,host118.186-13-24.telmex.net.ar,0,0,0
 186.16.213.54,14,6,2026-07-24T13:04:28.565452Z,2026-07-29T09:11:14.796866Z,AS23201 Telecel S.A.,Telecel S.A.,PY,Telecel S.A,False,False,False,pool-54-213-16-186.telecel.com.py,0,0,0
 186.153.121.14,14,6,2026-07-31T19:43:55.188832Z,2026-08-04T03:03:56.327159Z,AS7303 Telecom Argentina S.A.,Telecom Argentina S.A.,AR,Camara De Empresas De Control,False,False,False,host14.186-153-121.telecom.net.ar,0,0,0
@@ -1397,7 +1397,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 178.178.222.57,12,4,2026-07-11T16:22:52.663624Z,2026-07-31T05:35:04.267221Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 178.178.222.60,12,4,2026-07-12T06:56:58.261600Z,2026-08-20T12:40:10.207858Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 179.184.218.49,12,4,2026-07-11T00:27:39.762511Z,2026-08-01T05:31:34.538301Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,imparhoteis.static.gvt.net.br,0,0,0
-179.185.1.97,12,4,2026-07-17T04:42:56.644845Z,2026-07-20T20:42:39.735842Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,,0,0,0
+179.185.1.97,12,4,2026-07-17T04:42:56.644845Z,2026-07-20T20:42:39.735842Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,Bundle-Ether3.2078.static.gvt.net.br,0,0,0
 180.71.9.31,12,4,2026-07-08T23:39:56.399489Z,2026-07-27T05:51:15.921814Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 180.131.168.114,12,4,2026-08-20T10:26:39.210415Z,2026-08-24T15:13:50.500357Z,AS9304 HGC Global Communications Limited,HUTCHISON-AS-AP,HK,PowerCom Network Hong Kong Ltd,False,False,False,,0,0,0
 180.138.194.82,12,4,2026-08-13T07:07:29.795369Z,2026-08-16T19:35:30.542239Z,AS137693 CHINATELECOM Guangxi Nanning IDC network,CHINATELECOM-Guangxi-Nanning-IDC,CN,Chinanet GX,False,False,False,,0,0,0
