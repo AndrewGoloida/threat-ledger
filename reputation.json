@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T20:00:05Z",
+ "generated": "2026-08-27T20:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1499,
+ "count": 1500,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6895,6 +6895,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "43.162.90.45",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T07:48:30.307252Z",
+   "last_seen": "2026-08-27T20:08:55.562603Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "US",
+   "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
