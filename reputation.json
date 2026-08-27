@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T15:15:05Z",
+ "generated": "2026-08-27T15:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1496,
+ "count": 1497,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14363,7 +14363,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21005,7 +21005,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23743,6 +23743,24 @@
    "is_mobile": false,
    "rdns": "111-70-23-250.emome-ip.hinet.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "111.70.29.158",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-12T15:39:53.327177Z",
+   "last_seen": "2026-08-27T15:19:51.805533Z",
+   "asn": "AS17421 Mobile Business Group",
+   "as_name": "EMOME-NET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "111-70-29-158.emome-ip.hinet.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

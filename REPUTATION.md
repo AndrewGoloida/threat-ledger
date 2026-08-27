@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1496 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1497 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-08-27T15:15:05Z · 364 from hosting/datacenter ranges · 3 progressed to running commands.
+Generated 2026-08-27T15:30:04Z · 364 from hosting/datacenter ranges · 3 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -21,7 +21,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | VN | 64 |
 | RU | 59 |
 | BR | 50 |
-| TW | 49 |
+| TW | 50 |
 | HK | 47 |
 
 ## Top source networks (ASN)
@@ -35,6 +35,6 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | KIXS-AS-KR | 40 |
 | HulumTele | 31 |
 | CHINAMOBILE-CN | 29 |
-| EMOME-NET | 27 |
+| EMOME-NET | 28 |
 | DIGITALOCEAN-ASN | 26 |
 | BSNL-NIB | 25 |
