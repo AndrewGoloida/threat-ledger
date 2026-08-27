@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T12:45:05Z",
+ "generated": "2026-08-27T13:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1488,
+ "count": 1490,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14759,7 +14759,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20987,7 +20987,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22235,6 +22235,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "66.175.138.122",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-23T11:31:57.928261Z",
+   "last_seen": "2026-08-27T13:00:00.011915Z",
+   "asn": "AS11272 C Spire Fiber",
+   "as_name": "TELEPAK-NETWORKS-INC",
+   "country": "US",
+   "org": "C Spire Fiber",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "tni-ftc-122.telapex.com",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "67.85.146.216",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -22519,6 +22537,24 @@
    "is_mobile": false,
    "rdns": "81-237-155-113-no2400.tbcn.telia.com",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "82.64.88.208",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T15:40:54.275373Z",
+   "last_seen": "2026-08-27T12:48:35.822757Z",
+   "asn": "AS12322 Free SAS",
+   "as_name": "PROXAD",
+   "country": "FR",
+   "org": "ProXad network / Free SA",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "82-64-88-208.subs.proxad.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

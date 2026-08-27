@@ -818,7 +818,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.78.206.111,14,6,2026-07-28T16:05:05.861770Z,2026-08-25T15:13:45.485597Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,SG,Byteplus Pte. Ltd,False,False,False,,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
@@ -1164,7 +1164,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1234,6 +1234,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 65.20.250.180,12,4,2026-07-15T19:45:36.503273Z,2026-07-23T06:30:29.289401Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.251.170,12,4,2026-07-31T18:32:12.134781Z,2026-08-03T13:53:28.996849Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.181.79.60,12,4,2026-07-23T13:23:52.530378Z,2026-08-19T09:13:25.026994Z,AS4760 HKT Limited,HKTIMS-AP,HK,PCCW IMS Ltd (PCCW Business Internet Access),False,False,False,65-181-79-060.static.imsbiz.com,0,0,0
+66.175.138.122,12,4,2026-08-23T11:31:57.928261Z,2026-08-27T13:00:00.011915Z,AS11272 C Spire Fiber,TELEPAK-NETWORKS-INC,US,C Spire Fiber,False,False,False,tni-ftc-122.telapex.com,0,1,0
 67.85.146.216,12,4,2026-07-17T11:03:21.908483Z,2026-08-07T14:59:11.040670Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-435592d8.dyn.optonline.net,0,0,0
 69.126.144.30,12,4,2026-07-14T03:23:25.147924Z,2026-07-26T07:29:01.014564Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-457e901e.dyn.optonline.net,0,0,0
 74.162.64.94,12,4,2026-07-14T17:19:30.318568Z,2026-07-15T01:50:21.742137Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AE,Microsoft Azure Cloud (uaenorth),False,False,False,,0,0,0
@@ -1250,6 +1251,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 81.214.71.145,12,4,2026-07-14T16:02:19.443694Z,2026-07-27T10:29:46.190562Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.71.145.dynamic.ttnet.com.tr,0,0,0
 81.226.129.67,12,4,2026-06-27T11:03:19.708211Z,2026-08-11T15:35:02.593698Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,81-226-129-67-no2662.tbcn.telia.com,0,0,0
 81.237.155.113,12,4,2026-07-11T10:16:29.378209Z,2026-07-22T11:00:16.536921Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,81-237-155-113-no2400.tbcn.telia.com,0,0,0
+82.64.88.208,12,4,2026-08-21T15:40:54.275373Z,2026-08-27T12:48:35.822757Z,AS12322 Free SAS,PROXAD,FR,ProXad network / Free SA,False,False,False,82-64-88-208.subs.proxad.net,0,1,0
 82.102.149.88,12,4,2026-07-18T09:38:03.495795Z,2026-08-11T22:41:44.398592Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner,False,False,True,,0,0,0
 82.102.188.117,12,4,2026-07-12T09:30:34.845895Z,2026-08-20T17:28:24.239565Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Corporate customers offering mobile services,False,False,True,82-102-188-117.orange.net.il,0,0,0
 83.166.50.15,12,4,2026-07-13T04:19:00.960093Z,2026-07-27T20:31:07.665442Z,AS3249 Telia Eesti AS,ESTPAK,EE,Telia Eesti AS,False,False,False,15-50-166-83.dyn.estpak.ee,0,0,0
