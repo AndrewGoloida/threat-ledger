@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T19:30:05Z",
+ "generated": "2026-08-27T19:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1498,
+ "count": 1499,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14363,7 +14363,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14777,7 +14777,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24787,6 +24787,24 @@
    "is_mobile": false,
    "rdns": "abts-north-static-238.45.176.122.airtelbroadband.in",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "122.185.119.114",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-23T09:51:19.303222Z",
+   "last_seen": "2026-08-27T19:40:00.623188Z",
+   "asn": "AS9498 BHARTI Airtel Ltd.",
+   "as_name": "BBIL-AP",
+   "country": "IN",
+   "org": "Bharti Airtel Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "nsg-corporate-114.119.185.122.airtel.in",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },

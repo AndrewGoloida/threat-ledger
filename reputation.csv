@@ -796,7 +796,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
@@ -819,7 +819,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.78.206.111,14,6,2026-07-28T16:05:05.861770Z,2026-08-25T15:13:45.485597Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,SG,Byteplus Pte. Ltd,False,False,False,,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
@@ -1376,6 +1376,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 122.176.21.104,12,4,2026-07-22T01:47:10.554556Z,2026-08-01T17:50:50.462154Z,"AS24560 Bharti Airtel Ltd., Telemedia Services",AIRTELBROADBAND-AS-AP,IN,Bharti Telenet Ltd.,False,False,False,abts-north-static-104.21.176.122.airtelbroadband.in,0,0,0
 122.176.41.89,12,4,2026-07-13T16:42:37.054898Z,2026-07-27T16:34:23.206356Z,"AS24560 Bharti Airtel Ltd., Telemedia Services",AIRTELBROADBAND-AS-AP,IN,Bharti Telenet Ltd.,False,False,False,abts-north-static-089.41.176.122.airtelbroadband.in,0,0,0
 122.176.45.238,12,4,2026-07-12T09:37:59.362084Z,2026-07-28T13:44:37.001591Z,"AS24560 Bharti Airtel Ltd., Telemedia Services",AIRTELBROADBAND-AS-AP,IN,Bharti Telenet Ltd.,False,False,False,abts-north-static-238.45.176.122.airtelbroadband.in,0,0,0
+122.185.119.114,12,4,2026-08-23T09:51:19.303222Z,2026-08-27T19:40:00.623188Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Ltd,False,False,False,nsg-corporate-114.119.185.122.airtel.in,0,1,0
 122.186.249.6,12,4,2026-07-09T16:49:26.171547Z,2026-07-26T13:35:47.725620Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Telenet Ltd.,False,False,True,nsg-corporate-6.249.186.122.airtel.in,0,0,0
 122.187.226.21,12,4,2026-07-22T21:56:51.902049Z,2026-08-14T08:28:57.312146Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Telenet Ltd.,False,False,False,nsg-corporate-21.226.187.122.airtel.in,0,0,0
 122.187.229.201,12,4,2026-07-23T23:26:04.430899Z,2026-08-15T22:51:59.860920Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Telenet Ltd.,False,False,False,nsg-corporate-201.229.187.122.airtel.in,0,0,0
