@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27T12:30:05Z",
+ "generated": "2026-08-27T12:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1487,
+ "count": 1488,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14345,7 +14345,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18239,6 +18239,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "212.174.62.233",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-22T08:56:25.070129Z",
+   "last_seen": "2026-08-27T12:36:19.737030Z",
+   "asn": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+   "as_name": "TTNet",
+   "country": "TR",
+   "org": "TurkTelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "212.174.62.233.static.ttnet.com.tr",
+   "creds_tried_count": 3,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "213.95.11.49",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -20969,7 +20987,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
