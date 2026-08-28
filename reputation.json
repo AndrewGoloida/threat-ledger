@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28T00:00:04Z",
+ "generated": "2026-08-28T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1502,
+ "count": 1503,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -200,24 +200,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "37.187.35.26",
-   "reputation_score": 44,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-06T23:22:23.478137Z",
-   "last_seen": "2026-08-27T12:20:19.746616Z",
-   "asn": "AS16276 OVH SAS",
-   "as_name": "OVH",
-   "country": "FR",
-   "org": "OVH SAS",
-   "is_hosting": true,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "26.ip-37-187-35.eu",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1301,24 +1283,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "20.96.179.87",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-22T23:50:36.752629Z",
-   "last_seen": "2026-08-27T11:41:25.578323Z",
-   "asn": "AS8075 Microsoft Corporation",
-   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-   "country": "US",
-   "org": "Microsoft Azure Cloud (eastus2)",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "31.57.184.247",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1535,24 +1499,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "159.138.88.16",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-08-27T12:45:26.101222Z",
-   "last_seen": "2026-08-27T14:05:47.598229Z",
-   "asn": "AS136907 HUAWEI CLOUDS",
-   "as_name": "HWCLOUDS-AS-AP",
-   "country": "SG",
-   "org": "Huawei International Pte. LTD",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "ecs-159-138-88-16.compute.hwclouds-dns.com",
-   "creds_tried_count": 5,
-   "command_count": 5,
-   "download_url_count": 0
-  },
-  {
    "ip": "34.91.0.68",
    "reputation_score": 34,
    "honeypot_attempts": 6,
@@ -1566,6 +1512,24 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "68.0.91.34.bc.googleusercontent.com",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "37.187.35.26",
+   "reputation_score": 34,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-06T23:22:23.478137Z",
+   "last_seen": "2026-08-27T12:20:19.746616Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH SAS",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "26.ip-37-187-35.eu",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -4037,6 +4001,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "20.96.179.87",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-22T23:50:36.752629Z",
+   "last_seen": "2026-08-27T11:41:25.578323Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus2)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "20.115.51.229",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -6125,6 +6107,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "159.138.88.16",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-27T12:45:26.101222Z",
+   "last_seen": "2026-08-27T14:05:47.598229Z",
+   "asn": "AS136907 HUAWEI CLOUDS",
+   "as_name": "HWCLOUDS-AS-AP",
+   "country": "SG",
+   "org": "Huawei International Pte. LTD",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ecs-159-138-88-16.compute.hwclouds-dns.com",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "185.233.3.95",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -6912,7 +6912,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -18288,7 +18288,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "212.174.62.233.static.ttnet.com.tr",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21023,7 +21023,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21133,6 +21133,24 @@
    "is_mobile": false,
    "rdns": "65.81.41.31.ip4.feromedia.eu",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.59.89.50",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-23T22:48:36.574768Z",
+   "last_seen": "2026-08-28T00:02:17.800255Z",
+   "asn": "AS203462 NOVACONN SRL",
+   "as_name": "asnovaconn",
+   "country": "IT",
+   "org": "Novaconn SRL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21276,7 +21294,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21708,7 +21726,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22320,7 +22338,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "tni-ftc-122.telapex.com",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22608,7 +22626,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "81-233-184-161-no600.tbcn.telia.com",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22644,7 +22662,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22842,7 +22860,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "88.249.10.161.static.ttnet.com.tr",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22896,7 +22914,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "lfbn-rou-1-615-142.w90-70.abo.wanadoo.fr",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23796,7 +23814,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "111-70-29-158.emome-ip.hinet.net",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24822,7 +24840,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "nsg-corporate-114.119.185.122.airtel.in",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25614,7 +25632,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -26460,7 +26478,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -26496,7 +26514,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 4,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
