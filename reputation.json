@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28T18:15:05Z",
+ "generated": "2026-08-28T18:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1522,
+ "count": 1523,
  "records": [
   {
    "ip": "45.198.224.26",
@@ -15065,7 +15065,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22847,6 +22847,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "81.195.152.14",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-19T15:50:31.786582Z",
+   "last_seen": "2026-08-28T18:19:26.388481Z",
+   "asn": "AS8359 MTS PJSC",
+   "as_name": "MTS",
+   "country": "RU",
+   "org": "OOO Uneks-Euro & Co",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "81.214.38.139",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -24533,7 +24551,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
