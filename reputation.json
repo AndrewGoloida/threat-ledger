@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T18:00:04Z",
+ "generated": "2026-08-28T18:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1522,
@@ -221,6 +221,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "209.97.136.89",
+   "reputation_score": 46,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-08-28T17:47:54.463222Z",
+   "last_seen": "2026-08-28T18:05:57.373299Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "GB",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 8,
+   "command_count": 8,
+   "download_url_count": 0
+  },
+  {
    "ip": "77.239.124.238",
    "reputation_score": 44,
    "honeypot_attempts": 16,
@@ -254,24 +272,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "209.97.136.89",
-   "reputation_score": 43,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-08-28T17:47:54.463222Z",
-   "last_seen": "2026-08-28T17:58:10.133017Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "GB",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -14651,7 +14651,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15065,7 +15065,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21293,7 +21293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23705,7 +23705,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
