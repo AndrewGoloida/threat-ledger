@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28T07:30:04Z",
+ "generated": "2026-08-28T07:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1506,
+ "count": 1507,
  "records": [
   {
    "ip": "45.198.224.26",
@@ -7832,6 +7832,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "197.199.224.52",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-21T00:35:53.117440Z",
+   "last_seen": "2026-08-28T07:41:07.286843Z",
+   "asn": "AS36992 ETISALAT MISR",
+   "as_name": "ETISALAT-MISR",
+   "country": "EG",
+   "org": "Etisalat Misr",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-197.199.224.52.etisalat.com.eg",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
