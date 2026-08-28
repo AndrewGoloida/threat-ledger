@@ -506,6 +506,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.23.77.27,20,4,2026-07-10T14:02:31.167266Z,2026-08-19T12:44:45.079906Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,True,False,,0,0,0
 14.29.240.154,20,4,2026-08-25T10:09:24.485620Z,2026-08-25T18:53:30.087619Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,True,False,,0,0,0
 31.7.86.142,20,12,2026-07-13T17:15:53.657954Z,2026-07-15T14:54:11.906749Z,AS51020 Al-Jazeera Al-Arabiya Company for Communication and Internet LTD,JAZ_Wireless,IQ,Al-Jazeera Al-Arabiya Company for Communication and Internet LTD,False,False,False,,0,0,0
+45.118.49.18,20,4,2026-07-10T01:16:39.363679Z,2026-08-28T08:28:35.986359Z,AS55824 NKN Core Network,NKN-CORE-NW,IN,Netaji Subhas University of Technology,False,True,False,,0,1,0
 45.181.101.95,20,12,2026-07-10T14:07:48.851321Z,2026-07-27T03:24:09.287436Z,AS269182 PLUGAR TELECOM,PLUGAR TELECOM,BR,Infoy Tecnologia Redes Internet Ltda ME,False,False,False,45-181-101-95.plugartelecom.net.br,0,0,0
 58.22.255.28,20,4,2026-07-23T14:10:50.306616Z,2026-08-01T05:25:24.012595Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNCGroup CHINA169 FuJian province network,False,True,False,,0,0,0
 60.172.41.103,20,4,2026-07-15T09:41:01.371444Z,2026-07-28T16:51:58.586901Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
@@ -800,7 +801,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
@@ -823,7 +824,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 45.78.206.111,14,6,2026-07-28T16:05:05.861770Z,2026-08-25T15:13:45.485597Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,SG,Byteplus Pte. Ltd,False,False,False,,0,0,0
 45.117.177.47,14,6,2026-07-22T02:16:14.621702Z,2026-07-22T11:37:48.161718Z,AS131353 NhanHoa Software company,NHANHOA-AS-VN,VN,Branch of Nhan Hoa Software Company,False,False,False,,0,0,0
@@ -1169,7 +1170,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1393,6 +1394,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 130.185.96.113,12,4,2026-07-21T11:50:27.285041Z,2026-08-06T19:05:24.275432Z,AS16116 Pelephone Communications Ltd.,Pelephone Communications Ltd.,IL,Pelephone Communications Ltd,False,False,True,,0,0,0
 136.185.6.181,12,4,2026-07-09T19:53:25.069824Z,2026-08-06T00:37:59.285862Z,"AS24560 Bharti Airtel Ltd., Telemedia Services",AIRTELBROADBAND-AS-AP,IN,Bharti Airtel Limited,False,False,False,abts-tn-static-181.6.185.136.airtelbroadband.in,0,0,0
 138.118.213.68,12,4,2026-07-10T10:18:49.217818Z,2026-08-02T18:41:25.903098Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.138.118.213.068.ssservicios.com.ar,0,0,0
+138.118.215.192,12,4,2026-07-23T01:43:52.174456Z,2026-08-28T08:28:25.944859Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.138.118.215.192.ssservicios.com.ar,0,1,0
 138.219.13.21,12,4,2026-07-16T22:20:45.645502Z,2026-08-11T22:08:04.709470Z,AS27729 Globalnet.hn,Globalnet.hn,SV,ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR EN LA AMÉRICA CENTRAL,False,False,False,,0,0,0
 150.107.204.253,12,4,2026-07-13T17:00:51.723802Z,2026-07-14T03:27:18.097006Z,AS58504 TECHMINDS NETWORKS PVT. LTD.,TECHMINDS-NP,NP,Techminds Network Pvt. Ltd,False,False,False,,0,0,0
 151.243.146.117,12,4,2026-07-13T17:10:49.240174Z,2026-07-15T06:45:26.684470Z,AS215228 NETPOOL TECHNOLOGIES PRIVATE LIMITED,NETPOOL,IN,Weebpoll Technologies India Private limited,False,False,False,,0,0,0

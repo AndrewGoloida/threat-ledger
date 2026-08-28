@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28T08:15:04Z",
+ "generated": "2026-08-28T08:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1507,
+ "count": 1509,
  "records": [
   {
    "ip": "45.198.224.26",
@@ -9131,6 +9131,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.118.49.18",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T01:16:39.363679Z",
+   "last_seen": "2026-08-28T08:28:35.986359Z",
+   "asn": "AS55824 NKN Core Network",
+   "as_name": "NKN-CORE-NW",
+   "country": "IN",
+   "org": "Netaji Subhas University of Technology",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.181.101.95",
    "reputation_score": 20,
    "honeypot_attempts": 12,
@@ -14435,7 +14453,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14849,7 +14867,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21077,7 +21095,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25093,6 +25111,24 @@
    "is_mobile": false,
    "rdns": "red.138.118.213.068.ssservicios.com.ar",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "138.118.215.192",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-23T01:43:52.174456Z",
+   "last_seen": "2026-08-28T08:28:25.944859Z",
+   "asn": "AS264738 Sebastian Souto (SSSERVICIOS)",
+   "as_name": "Sebastian Souto (SSSERVICIOS)",
+   "country": "AR",
+   "org": "Sebastian Souto",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "red.138.118.215.192.ssservicios.com.ar",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
