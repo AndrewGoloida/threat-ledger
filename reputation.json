@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-28T01:30:04Z",
+ "generated": "2026-08-28T01:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1503,
+ "count": 1504,
  "records": [
+  {
+   "ip": "45.198.224.26",
+   "reputation_score": 67,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-28T23:26:28.200754Z",
+   "last_seen": "2026-08-28T01:40:16.824672Z",
+   "asn": "AS215925 VPSVAULT.HOST LTD",
+   "as_name": "VPSVAULTHOST",
+   "country": "SE",
+   "org": "Vpsvault.host LTD",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 3,
+   "download_url_count": 5
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -14795,7 +14813,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
