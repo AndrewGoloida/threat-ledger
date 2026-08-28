@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28T13:45:04Z",
+ "generated": "2026-08-28T14:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1516,
+ "count": 1519,
  "records": [
   {
    "ip": "45.198.224.26",
@@ -2378,6 +2378,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.172.236.15",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T12:26:13.841858Z",
+   "last_seen": "2026-08-28T13:47:36.529927Z",
+   "asn": "AS38253 Hanoi Telecom JSC",
+   "as_name": "HANOITELECOM-AS-VN",
+   "country": "VN",
+   "org": "Heral Science and Technology Joint Stock Company",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -6932,6 +6950,42 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "41.215.133.245",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-16T16:01:50.269390Z",
+   "last_seen": "2026-08-28T13:49:48.068340Z",
+   "asn": "AS36866 Jamii Telecommunications Limited",
+   "as_name": "JTL",
+   "country": "KE",
+   "org": "FAIBA",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "42.200.66.164",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-02T10:54:03.689566Z",
+   "last_seen": "2026-08-28T13:46:48.178630Z",
+   "asn": "AS4760 HKT Limited",
+   "as_name": "HKTIMS-AP",
+   "country": "HK",
+   "org": "Hong Kong Telecommunications (HKT) Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "42-200-66-164.static.imsbiz.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14543,7 +14597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
