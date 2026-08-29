@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-29T09:00:05Z",
+ "generated": "2026-08-29T09:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1532,
+ "count": 1533,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -21365,7 +21365,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23167,6 +23167,24 @@
    "is_mobile": false,
    "rdns": "c83-254-172-36.bredband.tele2.se",
    "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "83.255.211.115",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-27T14:46:18.641564Z",
+   "last_seen": "2026-08-29T09:09:05.215247Z",
+   "asn": "AS1257 Tele2 Sverige AB",
+   "as_name": "SWIPNET",
+   "country": "SE",
+   "org": "Com Hem AB",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "c83-255-211-115.bredband.tele2.se",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
