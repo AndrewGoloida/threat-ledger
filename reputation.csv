@@ -831,7 +831,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.200.66.164,14,6,2026-08-02T10:54:03.689566Z,2026-08-28T13:46:48.178630Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,42-200-66-164.static.imsbiz.com,0,0,0
@@ -1024,7 +1024,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 203.92.36.109,14,6,2026-07-08T15:37:47.229224Z,2026-07-26T22:58:29.789705Z,AS10029 SHYAM SPECTRA PVT LTD,SHYAMSPECTRA-AS,IN,Shyam Spectra Pvt Ltd,False,False,False,203.92.36.109.reverse.spectranet.in,0,0,0
 203.135.42.52,14,6,2026-07-27T18:19:35.893287Z,2026-08-01T07:57:45.840245Z,AS17557 Pakistan Telecommunication Company Limited,PKTELECOM-AS-PK,PK,Pakistan Telecommuication company limited,False,False,False,,0,0,0
 203.170.192.251,14,6,2026-08-06T00:21:12.667257Z,2026-08-06T20:46:10.458579Z,AS9891 CS LOXINFO Public Company Limited.,CSLOX-IDC-AS-AP,TH,Idc Csloxinfo,False,False,False,,0,0,0
-203.192.211.180,14,6,2026-07-08T06:03:01.661262Z,2026-07-21T19:52:06.283543Z,AS17665 ONEOTT INTERTAINMENT LIMITED,ONEBROADBAND,IN,Indusind Media And Communication Ltd.,False,False,False,,0,0,0
+203.192.211.180,14,6,2026-07-08T06:03:01.661262Z,2026-07-21T19:52:06.283543Z,AS17665 ONEOTT INTERTAINMENT LIMITED,ONEBROADBAND,IN,Indusind Media And Communication Ltd.,False,False,False,dhcp-192-211-180.in2cable.com,0,0,0
 207.254.71.129,14,6,2026-07-09T01:45:43.208851Z,2026-07-27T13:12:07.223813Z,"AS30377 MacStadium, Inc.",MACST-DUB,IE,"MacStadium, Inc.",False,False,False,,0,0,0
 210.79.142.230,14,6,2026-08-10T17:34:03.032897Z,2026-08-14T03:00:57.794121Z,AS141607 PT Gayatri Lintas Nusantara,IDNIC-GAYATRI-AS-ID,ID,PT Cakrawala Link Nusantara,False,False,False,,0,0,0
 210.206.24.237,14,6,2026-07-09T22:02:32.824235Z,2026-07-25T23:49:54.172906Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
@@ -1185,7 +1185,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.241.37.166,12,4,2026-07-13T19:30:50.254304Z,2026-07-14T16:52:25.604398Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1485,7 +1485,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 202.70.153.27,12,4,2026-07-13T20:20:33.476394Z,2026-07-14T01:10:19.432748Z,AS9557 Paknet Limited Merged into PTCL,PKTELECOM-AS-PK,PK,Pakistan Telecommuication company limited,False,False,False,,0,0,0
 203.110.233.225,12,4,2026-07-16T19:45:33.126104Z,2026-08-08T13:53:15.558465Z,AS134756 CHINANET Nanjing Jishan IDC network,ChinaNet-NANJING-JISHAN-IDC,CN,Chinanet FJ,False,False,False,,0,0,0
 203.129.217.70,12,4,2026-07-11T02:55:30.482683Z,2026-07-20T20:53:15.777100Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,Ganga Software,False,False,False,,0,0,0
-203.192.247.84,12,4,2026-07-08T12:32:02.488030Z,2026-07-26T01:02:41.192591Z,AS17665 ONEOTT INTERTAINMENT LIMITED,ONEBROADBAND,IN,Indusind Media And Communication Ltd.,False,False,False,,0,0,0
+203.192.247.84,12,4,2026-07-08T12:32:02.488030Z,2026-07-26T01:02:41.192591Z,AS17665 ONEOTT INTERTAINMENT LIMITED,ONEBROADBAND,IN,Indusind Media And Communication Ltd.,False,False,False,dhcp-192-247-84.in2cable.com,0,0,0
 203.193.147.75,12,4,2026-07-17T10:55:37.868575Z,2026-08-03T09:41:50.936383Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,STPI-Guwathi Network,False,False,False,,0,0,0
 203.198.129.123,12,4,2026-08-03T00:38:15.240823Z,2026-08-21T09:27:35.258569Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,123.129.198.203.static.netvigator.com,0,0,0
 203.198.173.145,12,4,2026-07-10T01:51:22.359168Z,2026-08-19T18:37:29.985803Z,AS4515 PCCW IMS Ltd (PCCW Business Internet Access),PCCW-AS-AP,HK,VDSL Trial Cust : Excalibur Capital Ltd,False,False,False,145.173.198.203.static.netvigator.com,0,0,0
