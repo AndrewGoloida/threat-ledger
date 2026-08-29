@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-29T22:00:05Z",
+ "generated": "2026-08-29T22:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1541,
+ "count": 1544,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1442,6 +1442,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "212.47.68.32",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T03:45:09.775345Z",
+   "last_seen": "2026-08-29T22:03:12.121939Z",
+   "asn": "AS51167 Contabo GmbH",
+   "as_name": "CONTABO",
+   "country": "FR",
+   "org": "Contabo GmbH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vmi3429600.contaboserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14615,7 +14633,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21419,7 +21437,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21565,6 +21583,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.173.0.26",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-31T20:08:48.694523Z",
+   "last_seen": "2026-08-29T22:03:21.978356Z",
+   "asn": "AS31133 PJSC MegaFon",
+   "as_name": "MF-MGSM-AS",
+   "country": "RU",
+   "org": "OJSC MegaFon",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24013,6 +24049,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "106.153.181.80",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-25T14:52:18.353793Z",
+   "last_seen": "2026-08-29T22:04:56.249106Z",
+   "asn": "AS2516 KDDI CORPORATION",
+   "as_name": "KDDI CORPORATION",
+   "country": "JP",
+   "org": "KDDI",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "M106153181080.v4.enabler.ne.jp",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
