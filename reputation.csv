@@ -1252,6 +1252,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 61.186.136.36,12,4,2026-07-11T12:28:58.641407Z,2026-08-01T05:33:34.503098Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet CQ,False,False,False,,0,0,0
 62.182.132.94,12,4,2026-07-12T08:54:17.364277Z,2026-08-02T11:41:42.228732Z,AS20632 PJSC MegaFon,PETERSTAR-AS,RU,Net By Net Holding LLC,False,False,False,,0,0,0
 63.47.149.59,12,4,2026-07-09T13:24:13.194634Z,2026-08-06T08:30:49.471996Z,AS6167 Verizon Business,CELLCO-PART,US,Verizon Business,False,False,True,host59.sub-63-47-149.myvzw.com,0,0,0
+65.20.131.212,12,4,2026-08-22T00:47:25.938233Z,2026-08-29T18:18:40.566860Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,1,0
 65.20.143.45,12,4,2026-07-11T02:18:33.356972Z,2026-07-22T01:48:54.305544Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.161.126,12,4,2026-07-08T00:24:14.968380Z,2026-08-13T19:40:57.916848Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.174.49,12,4,2026-07-10T16:10:06.883007Z,2026-08-01T05:37:04.081228Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
@@ -1272,6 +1273,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 78.66.45.101,12,4,2026-07-11T06:33:22.556954Z,2026-07-28T02:10:56.098835Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,78-66-45-101-no2550.tbcn.telia.com,0,0,0
 78.67.161.64,12,4,2026-07-09T20:18:23.280672Z,2026-08-17T20:06:41.789532Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,78-67-161-64-no2550.tbcn.telia.com,0,0,0
 78.142.218.159,12,4,2026-07-13T17:29:18.979759Z,2026-07-13T23:39:28.197458Z,AS397423 Tier.Net Technologies LLC,TIER-NET,US,Tier.Net Technologies LLC,False,False,False,,0,0,0
+78.192.21.78,12,4,2026-08-27T12:33:28.927938Z,2026-08-29T18:25:19.345934Z,AS12322 Free SAS,PROXAD,FR,ProXad network / Free,False,False,False,mor75-2-78-192-21-78.fbxo.proxad.net,0,2,0
 80.233.12.109,12,4,2026-07-08T02:36:03.901395Z,2026-07-16T05:48:47.911107Z,AS13280 Three Ireland (Hutchison) limited,H3GIE,IE,O2 Ireland,False,False,True,,0,0,0
 80.233.77.136,12,4,2026-07-21T05:03:27.515993Z,2026-07-27T23:30:12.090838Z,AS13280 Three Ireland (Hutchison) limited,H3GIE,IE,Hutchison 3G Ireland Limited,False,False,False,,0,0,0
 81.13.62.77,12,4,2026-07-11T07:50:38.224790Z,2026-08-08T00:29:46.518213Z,AS208314 Access Telecom Ltd.,ACCESSTELECOM,RU,Access Telecom Ltd,False,False,False,,0,0,0
