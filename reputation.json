@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-29T23:15:05Z",
+ "generated": "2026-08-29T23:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1544,
+ "count": 1545,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6968,6 +6968,24 @@
    "rdns": "70.148.20.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "36.92.140.209",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T12:52:33.911221Z",
+   "last_seen": "2026-08-29T23:27:38.422454Z",
+   "asn": "AS7713 PT Telekomunikasi Indonesia",
+   "as_name": "telkomnet-as-ap",
+   "country": "ID",
+   "org": "Telekomunikasi Indonesia",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14633,7 +14651,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
