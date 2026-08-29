@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T04:15:04Z",
+ "generated": "2026-08-29T04:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1527,
@@ -1193,6 +1193,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "31.131.18.50",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-29T03:53:27.843054Z",
+   "last_seen": "2026-08-29T04:22:38.488662Z",
+   "asn": "AS56851 PE Skurykhin Mukola Volodumurovuch",
+   "as_name": "VPS-UA-AS",
+   "country": "UA",
+   "org": "PE Skurykhin Mukola Volodumurovuch",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 6,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.156.87.162",
    "reputation_score": 37,
    "honeypot_attempts": 9,
@@ -1406,24 +1424,6 @@
    "rdns": "portofpisa.com",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "31.131.18.50",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-08-29T03:53:27.843054Z",
-   "last_seen": "2026-08-29T04:13:33.056592Z",
-   "asn": "AS56851 PE Skurykhin Mukola Volodumurovuch",
-   "as_name": "VPS-UA-AS",
-   "country": "UA",
-   "org": "PE Skurykhin Mukola Volodumurovuch",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -14975,7 +14975,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21347,7 +21347,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23777,7 +23777,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
