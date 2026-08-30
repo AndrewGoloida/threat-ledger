@@ -401,6 +401,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 52.187.126.101,24,4,2026-07-14T07:13:28.727273Z,2026-07-14T23:54:33.378523Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,SG,Microsoft Azure Cloud (southeastasia),True,False,False,,0,0,0
 57.128.195.102,24,4,2026-07-13T22:50:28.426767Z,2026-07-14T17:46:29.311510Z,AS16276 OVH SAS,OVH,PL,OVH Sp. z o. o,True,False,False,vps-4e716c52.vps.ovh.net,0,0,0
 60.217.227.87,24,16,2026-07-13T17:28:09.230218Z,2026-07-15T14:18:21.085642Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
+85.137.242.4,24,4,2026-08-24T08:31:49.749309Z,2026-08-30T06:39:47.023347Z,AS401701 cognetcloud INC,COGNETCLOUD-2,HK,"Vapeline Technology(hk)., limited",True,False,False,,0,1,0
 85.215.230.198,24,4,2026-07-13T23:38:14.184952Z,2026-07-27T12:44:03.878839Z,AS8560 IONOS SE,IONOS-AS,DE,De Ber Ionos Cloud Txl,True,False,False,,0,0,0
 91.92.47.66,24,8,2026-07-26T14:21:45.845509Z,2026-07-28T01:33:01.683180Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
 94.26.106.103,24,8,2026-08-09T00:50:14.855420Z,2026-08-11T13:43:55.461103Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,True,False,,0,0,0
@@ -811,7 +812,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,China Mobile,False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 12.156.67.18,14,6,2026-08-08T00:12:20.196982Z,2026-08-10T10:57:43.291314Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Sikh Gurdwara-sj,False,False,False,,0,0,0
@@ -1284,6 +1285,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 81.195.152.14,12,4,2026-07-19T15:50:31.786582Z,2026-08-28T18:19:26.388481Z,AS8359 MTS PJSC,MTS,RU,OOO Uneks-Euro & Co,False,False,True,,0,0,0
 81.214.38.139,12,4,2026-07-14T04:47:07.476665Z,2026-07-30T19:08:21.664016Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.38.139.dynamic.ttnet.com.tr,0,0,0
 81.214.71.145,12,4,2026-07-14T16:02:19.443694Z,2026-07-27T10:29:46.190562Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.71.145.dynamic.ttnet.com.tr,0,0,0
+81.215.2.43,12,4,2026-08-22T11:37:11.601547Z,2026-08-30T06:39:38.537893Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.215.2.43.dynamic.ttnet.com.tr,0,1,0
 81.226.129.67,12,4,2026-06-27T11:03:19.708211Z,2026-08-11T15:35:02.593698Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,81-226-129-67-no2662.tbcn.telia.com,0,0,0
 81.233.184.161,12,4,2026-08-21T16:02:49.783141Z,2026-08-27T13:08:55.827206Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Network Services,False,False,False,81-233-184-161-no600.tbcn.telia.com,0,0,0
 81.237.155.113,12,4,2026-07-11T10:16:29.378209Z,2026-07-22T11:00:16.536921Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,81-237-155-113-no2400.tbcn.telia.com,0,0,0

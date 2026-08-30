@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-30T06:30:04Z",
+ "generated": "2026-08-30T06:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1548,
+ "count": 1550,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7237,6 +7237,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "85.137.242.4",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-24T08:31:49.749309Z",
+   "last_seen": "2026-08-30T06:39:47.023347Z",
+   "asn": "AS401701 cognetcloud INC",
+   "as_name": "COGNETCLOUD-2",
+   "country": "HK",
+   "org": "Vapeline Technology(hk)., limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -14633,7 +14651,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23131,6 +23149,24 @@
    "is_mobile": false,
    "rdns": "81.214.71.145.dynamic.ttnet.com.tr",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "81.215.2.43",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-22T11:37:11.601547Z",
+   "last_seen": "2026-08-30T06:39:38.537893Z",
+   "asn": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+   "as_name": "TTNet",
+   "country": "TR",
+   "org": "TurkTelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "81.215.2.43.dynamic.ttnet.com.tr",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
