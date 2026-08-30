@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-30T13:30:05Z",
+ "generated": "2026-08-30T13:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1552,
+ "count": 1553,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15101,7 +15101,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22375,6 +22375,24 @@
    "is_mobile": false,
    "rdns": "59-120-8-61.hinet-ip.hinet.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "59.125.252.50",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-27T12:52:13.885059Z",
+   "last_seen": "2026-08-30T13:32:42.768771Z",
+   "asn": "AS3462 Data Communication Business Group",
+   "as_name": "HINET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "59-125-252-50.hinet-ip.hinet.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
