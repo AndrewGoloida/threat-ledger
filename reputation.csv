@@ -839,7 +839,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,China Mobile,False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.200.66.164,14,6,2026-08-02T10:54:03.689566Z,2026-08-28T13:46:48.178630Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,42-200-66-164.static.imsbiz.com,0,0,0
@@ -1500,6 +1500,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 200.105.141.172,12,4,2026-07-14T02:06:51.221017Z,2026-07-30T17:29:49.811384Z,AS26210 AXS Bolivia S. A.,AXS Bolivia S. A.,BO,AXS Bolivia S. A,False,False,False,static-200-105-141-172.acelerate.net,0,0,0
 200.106.49.149,12,4,2026-07-12T09:17:32.523940Z,2026-07-23T01:46:37.572221Z,AS6147 INTEGRATEL PERÚ S.A.A.,INTEGRATEL PERU S.A.A.,PE,Telefonica del Peru S.A.A.,False,False,False,,0,0,0
 200.199.32.174,12,4,2026-07-11T21:32:21.536715Z,2026-07-27T10:20:00.779037Z,AS7738 V tal,V tal,BR,V tal,False,False,False,,0,0,0
+201.28.176.31,12,4,2026-08-22T01:28:52.602163Z,2026-08-30T16:50:47.716874Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,,0,2,0
 201.28.234.10,12,4,2026-08-21T09:06:08.446240Z,2026-08-28T10:14:31.780458Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,,0,0,0
 201.63.52.54,12,4,2026-07-09T15:31:45.751665Z,2026-08-08T11:57:18.212388Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,201-63-52-54.customer.tdatabrasil.net.br,0,0,0
 201.63.67.250,12,4,2026-07-12T08:57:37.510481Z,2026-07-28T22:07:19.396502Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,201-63-67-250.customer.tdatabrasil.net.br,0,0,0
