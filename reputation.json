@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-30T14:45:04Z",
+ "generated": "2026-08-30T15:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1555,
+ "count": 1556,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7493,6 +7493,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.200.23.154",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-01T11:28:38.845035Z",
+   "last_seen": "2026-08-30T14:46:12.028771Z",
+   "asn": "AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+   "as_name": "VNPT-AS-VN",
+   "country": "VN",
+   "org": "VIETNIX Solution and Technology Joint Stock Company",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "mail.iunlock.vn",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "104.152.58.233",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14687,7 +14705,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
