@@ -597,7 +597,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 93.241.232.14,18,10,2026-07-12T09:33:42.815713Z,2026-07-25T11:34:35.993682Z,AS3320 Deutsche Telekom AG,DTAG,DE,Deutsche Telekom AG,False,False,False,p5df1e80e.dip0.t-ipconnect.de,0,0,0
 103.147.248.23,18,10,2026-07-08T08:36:33.824381Z,2026-07-29T11:28:21.696576Z,AS153283 Softcrop It,SOFTCROP-AS-IN,IN,Softcrop It,False,False,False,,0,0,0
 113.171.82.24,18,10,2026-07-13T17:47:58.796831Z,2026-07-15T13:58:25.878456Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
-117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Corporation,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 117.241.78.154,18,10,2026-07-14T02:59:45.340635Z,2026-07-27T13:03:55.526411Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
 120.224.15.67,18,10,2026-07-12T09:31:34.471087Z,2026-07-29T15:35:39.830571Z,AS24444 Shandong Mobile Communication Company Limited,CMNET-V4shandong-AS-AP,CN,China Mobile,False,False,True,,0,0,0
 125.209.88.139,18,10,2026-07-14T18:30:12.455374Z,2026-07-15T02:19:03.243669Z,AS9260 Multinet Pakistan Pvt. Ltd.,MULTINET-AS-AP,PK,Multinet Pakistan Pvt. Ltd.,False,False,False,125-209-88-139.multi.net.pk,0,0,0
@@ -1382,7 +1382,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 116.59.10.205,12,4,2026-07-31T09:06:05.392915Z,2026-08-18T06:56:39.748434Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,116-59-10-205.emome-ip.hinet.net,0,0,0
 116.74.164.106,12,4,2026-08-19T10:19:08.158613Z,2026-08-19T18:50:52.851329Z,AS17488 Hathway IP Over Cable Internet,HATHWAY-NET-AP,IN,Hathway Cable and Datacom Limited,False,False,False,164.74.116.106.hathway.com,0,0,0
 116.99.172.41,12,4,2026-08-13T23:53:35.251535Z,2026-08-13T23:54:18.285627Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-116.99.174.232,12,4,2026-07-17T14:22:53.474192Z,2026-07-17T14:23:24.750473Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+116.99.174.232,12,4,2026-07-17T14:22:53.474192Z,2026-07-17T14:23:24.750473Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.110.2.63,12,4,2026-07-21T06:32:17.762739Z,2026-07-21T06:34:51.891513Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.110.6.148,12,4,2026-07-08T03:28:19.660712Z,2026-07-08T03:31:51.796750Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,,0,0,0
 116.110.7.93,12,4,2026-07-20T12:32:30.729991Z,2026-07-20T12:32:41.936188Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,,0,0,0
@@ -1438,7 +1438,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 164.164.117.23,12,4,2026-08-05T09:05:17.115524Z,2026-08-29T11:52:00.350466Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,STPI Bangalore,False,False,False,,0,0,0
 170.233.29.157,12,4,2026-07-16T15:11:12.377973Z,2026-07-29T02:34:28.502018Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.157.ssservicios.com.ar,0,0,0
 170.233.29.175,12,4,2026-07-09T18:12:49.493411Z,2026-08-06T06:31:37.617604Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.175.ssservicios.com.ar,0,0,0
-171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 173.163.186.155,12,4,2026-07-27T11:30:52.028692Z,2026-07-27T12:20:46.881605Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,MEM VET HOSP OLD FOR,False,False,False,,0,0,0
 174.94.236.211,12,4,2026-07-08T06:55:58.908222Z,2026-08-02T01:54:32.722397Z,AS577 Bell Canada,BACOM,CA,"Bell Mobility, Inc.",False,False,False,,0,0,0
 175.100.107.238,12,4,2026-07-25T05:25:48.746402Z,2026-08-01T05:30:25.218061Z,AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,VIETTELCAMBODIA-AS-AP,KH,"Viettel (cambodia) Pte., Ltd.",False,False,False,dynamic-ip-adsl.metfone.com.kh,0,0,0
