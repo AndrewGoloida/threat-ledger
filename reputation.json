@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T00:00:05Z",
+ "generated": "2026-08-30T00:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1545,
@@ -1193,24 +1193,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "31.131.18.50",
-   "reputation_score": 37,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-08-29T03:53:27.843054Z",
-   "last_seen": "2026-08-29T04:22:38.488662Z",
-   "asn": "AS56851 PE Skurykhin Mukola Volodumurovuch",
-   "as_name": "VPS-UA-AS",
-   "country": "UA",
-   "org": "PE Skurykhin Mukola Volodumurovuch",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 7,
-   "command_count": 6,
-   "download_url_count": 0
-  },
-  {
    "ip": "45.156.87.162",
    "reputation_score": 37,
    "honeypot_attempts": 9,
@@ -1337,24 +1319,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "57.129.74.123",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-25T21:25:00.819245Z",
-   "last_seen": "2026-08-29T20:51:36.936151Z",
-   "asn": "AS16276 OVH SAS",
-   "as_name": "OVH",
-   "country": "DE",
-   "org": "OVH GmbH",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "vps-6999196f.vps.ovh.net",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1370,24 +1334,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "95.85.226.199",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-24T18:08:08.158743Z",
-   "last_seen": "2026-08-29T09:15:10.097457Z",
-   "asn": "AS209693 OC NETWORKS LIMITED",
-   "as_name": "OC-NETWORK",
-   "country": "NL",
-   "org": "1Cent Host",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1442,24 +1388,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "212.47.68.32",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-21T03:45:09.775345Z",
-   "last_seen": "2026-08-29T22:03:12.121939Z",
-   "asn": "AS51167 Contabo GmbH",
-   "as_name": "CONTABO",
-   "country": "FR",
-   "org": "Contabo GmbH",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "vmi3429600.contaboserver.net",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -2669,24 +2597,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "91.92.47.55",
-   "reputation_score": 31,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-08-29T08:30:08.903320Z",
-   "last_seen": "2026-08-29T08:30:34.762502Z",
-   "asn": "AS197170 TechTies Inc.",
-   "as_name": "TECHTIES-AS",
-   "country": "NL",
-   "org": "TechTies Inc",
-   "is_hosting": false,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 5,
-   "download_url_count": 0
-  },
-  {
    "ip": "159.65.194.117",
    "reputation_score": 31,
    "honeypot_attempts": 11,
@@ -3785,6 +3695,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "31.131.18.50",
+   "reputation_score": 27,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-29T03:53:27.843054Z",
+   "last_seen": "2026-08-29T04:22:38.488662Z",
+   "asn": "AS56851 PE Skurykhin Mukola Volodumurovuch",
+   "as_name": "VPS-UA-AS",
+   "country": "UA",
+   "org": "PE Skurykhin Mukola Volodumurovuch",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.153.34.71",
    "reputation_score": 27,
    "honeypot_attempts": 7,
@@ -4757,6 +4685,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "57.129.74.123",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-25T21:25:00.819245Z",
+   "last_seen": "2026-08-29T20:51:36.936151Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "DE",
+   "org": "OVH GmbH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-6999196f.vps.ovh.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "57.158.25.141",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -4932,6 +4878,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "72.57.205.92.host.secureserver.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "95.85.226.199",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-24T18:08:08.158743Z",
+   "last_seen": "2026-08-29T09:15:10.097457Z",
+   "asn": "AS209693 OC NETWORKS LIMITED",
+   "as_name": "OC-NETWORK",
+   "country": "NL",
+   "org": "1Cent Host",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -6017,6 +5981,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "212.47.68.32",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T03:45:09.775345Z",
+   "last_seen": "2026-08-29T22:03:12.121939Z",
+   "asn": "AS51167 Contabo GmbH",
+   "as_name": "CONTABO",
+   "country": "FR",
+   "org": "Contabo GmbH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vmi3429600.contaboserver.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "216.10.242.215",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -6971,24 +6953,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "36.92.140.209",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-17T12:52:33.911221Z",
-   "last_seen": "2026-08-29T23:27:38.422454Z",
-   "asn": "AS7713 PT Telekomunikasi Indonesia",
-   "as_name": "telkomnet-as-ap",
-   "country": "ID",
-   "org": "Telekomunikasi Indonesia",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "38.224.90.36",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -7848,7 +7812,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -9064,6 +9028,24 @@
    "honeypot_attempts": 5,
    "first_seen": "2026-07-15T15:23:32.318800Z",
    "last_seen": "2026-07-15T15:24:27.813599Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.92.47.55",
+   "reputation_score": 21,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-29T08:30:08.903320Z",
+   "last_seen": "2026-08-29T08:30:34.762502Z",
    "asn": "AS197170 TechTies Inc.",
    "as_name": "TECHTIES-AS",
    "country": "NL",
@@ -10475,7 +10457,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "189-56-0-19.customer.tdatabrasil.net.br",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14651,7 +14633,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14945,6 +14927,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "36.92.140.209",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T12:52:33.911221Z",
+   "last_seen": "2026-08-29T23:27:38.422454Z",
+   "asn": "AS7713 PT Telekomunikasi Indonesia",
+   "as_name": "telkomnet-as-ap",
+   "country": "ID",
+   "org": "Telekomunikasi Indonesia",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "36.135.62.103",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -15065,7 +15065,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17549,7 +17549,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "177-174-89-99.user.vivozap.com.br",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18359,7 +18359,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "200-77-172-159.cable.dyn.cablevision.net.mx",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20609,7 +20609,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21402,7 +21402,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "ool-182fc064.dyn.optonline.net",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21618,7 +21618,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22644,7 +22644,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22914,7 +22914,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23022,7 +23022,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "mor75-2-78-192-21-78.fbxo.proxad.net",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23310,7 +23310,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "c83-254-172-36.bredband.tele2.se",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23328,7 +23328,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "c83-255-211-115.bredband.tele2.se",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23508,7 +23508,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "fix167-76.cable.tolna.net",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23994,7 +23994,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24084,7 +24084,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "M106153181080.v4.enabler.ne.jp",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24516,7 +24516,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "111-70-32-49.emome-ip.hinet.net",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24893,7 +24893,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24911,7 +24911,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25308,7 +25308,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25866,7 +25866,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -27234,7 +27234,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
