@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-31T10:30:04Z",
+ "generated": "2026-08-31T10:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1568,
+ "count": 1570,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1355,6 +1355,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "54.38.241.200",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T09:41:49.633464Z",
+   "last_seen": "2026-08-31T10:37:20.534975Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-7f32a134.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1370,6 +1388,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.252.123.105",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T04:47:21.557872Z",
+   "last_seen": "2026-08-31T10:35:49.964028Z",
+   "asn": "AS150828 VMON CLOUD COMPANY LIMITED",
+   "as_name": "VMONCLOUD-VN",
+   "country": "VN",
+   "org": "STB Technology Company Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -21599,7 +21635,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
