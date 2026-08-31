@@ -1200,7 +1200,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 24.47.192.100,12,4,2026-07-12T19:41:55.410666Z,2026-08-29T16:11:49.818920Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-182fc064.dyn.optonline.net,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1237,6 +1237,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 46.210.94.61,12,4,2026-07-26T22:41:30.913193Z,2026-08-15T08:33:03.376227Z,AS1680 Cellcom Fixed Line Communication L.P,NV-ASN,IL,Cellcom Fixed Line Communication L.P,False,False,False,,0,0,0
 49.124.151.62,12,4,2026-07-25T15:39:45.788321Z,2026-08-06T04:11:38.169533Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.124.152.213,12,4,2026-07-12T08:47:04.222325Z,2026-08-18T20:45:50.106930Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
+49.124.152.235,12,4,2026-07-10T19:17:34.399834Z,2026-08-31T19:33:34.429485Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,1,0
 49.124.152.248,12,4,2026-07-27T10:20:48.842919Z,2026-08-08T22:27:07.415984Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.124.153.51,12,4,2026-07-20T01:23:28.261299Z,2026-08-16T01:23:59.229721Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.206.201.253,12,4,2026-07-12T19:55:41.130157Z,2026-08-09T07:12:00.634956Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Beam Telecom Pvt Ltd,False,False,False,49.206.201.253.actcorp.in,0,0,0

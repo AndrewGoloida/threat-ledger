@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-31T19:30:04Z",
+ "generated": "2026-08-31T19:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1570,
+ "count": 1571,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -21635,7 +21635,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22285,6 +22285,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "49.124.152.235",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T19:17:34.399834Z",
+   "last_seen": "2026-08-31T19:33:34.429485Z",
+   "asn": "AS4818 DiGi Telecommunications Sdn. Bhd.",
+   "as_name": "DIGIIX-AP",
+   "country": "MY",
+   "org": "DiGi Telecommunications Sdn Bhd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
