@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-31T06:30:05Z",
+ "generated": "2026-08-31T06:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1565,
+ "count": 1567,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7655,6 +7655,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.135.67.93",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-03T22:50:19.998783Z",
+   "last_seen": "2026-08-31T06:41:54.686624Z",
+   "asn": "AS4837 CHINA UNICOM China169 Backbone",
+   "as_name": "CHINA169-Backbone",
+   "country": "CN",
+   "org": "China United Network Communications Corporation Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.211.15.93",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14723,7 +14741,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21581,7 +21599,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22825,6 +22843,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "65.20.143.19",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-24T03:51:37.118315Z",
+   "last_seen": "2026-08-31T06:32:19.103056Z",
+   "asn": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+   "as_name": "HulumTele",
+   "country": "IQ",
+   "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
