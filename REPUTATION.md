@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-09-01T10:45:05Z · 388 from hosting/datacenter ranges · 14 progressed to running commands.
+Generated 2026-09-01T11:00:04Z · 388 from hosting/datacenter ranges · 14 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -15,7 +15,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 |---------|-----|
 | CN | 248 |
 | IN | 171 |
-| US | 125 |
+| US | 126 |
 | NL | 111 |
 | KR | 75 |
 | VN | 67 |
@@ -29,11 +29,11 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | Network | IPs |
 |---------|-----|
 | MICROSOFT-CORP-MSN-AS-BLOCK | 93 |
-| CHINANET-BACKBONE | 88 |
+| CHINANET-BACKBONE | 87 |
 | TECHTIES-AS | 80 |
-| CHINA169-Backbone | 53 |
+| CHINA169-Backbone | 52 |
 | KIXS-AS-KR | 41 |
-| HulumTele | 34 |
+| HulumTele | 35 |
 | CHINAMOBILE-CN | 32 |
 | DIGITALOCEAN-ASN | 31 |
 | EMOME-NET | 29 |
