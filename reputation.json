@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-01T00:15:05Z",
+ "generated": "2026-09-01T00:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1571,
+ "count": 1572,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7529,6 +7529,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.89.136.111",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-14T10:51:50.063417Z",
+   "last_seen": "2026-09-01T00:24:18.502919Z",
+   "asn": "AS136475 Planetcast Media Services Limited",
+   "as_name": "PMSL-AS-AP",
+   "country": "IN",
+   "org": "Planetcast Media Services Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.151.234.129",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14741,7 +14759,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
