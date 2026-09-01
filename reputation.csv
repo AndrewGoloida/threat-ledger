@@ -814,7 +814,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.200.66.164,14,6,2026-08-02T10:54:03.689566Z,2026-08-28T13:46:48.178630Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,42-200-66-164.static.imsbiz.com,0,0,0
@@ -1221,7 +1221,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.183.162.243,12,4,2026-07-21T08:21:06.000534Z,2026-08-05T07:59:10.597667Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.60.23.246,12,4,2026-07-23T16:31:16.738189Z,2026-08-08T22:06:06.145222Z,AS30844 Liquid Telecommunications Ltd,LIQUID-AS,ZM,Maintainer Liquid Telecommunications Operations Limited,False,False,False,,0,0,0
 42.248.129.234,12,4,2026-08-05T00:24:14.034132Z,2026-08-19T02:30:42.475691Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet LN,False,False,False,,0,0,0
-43.248.213.232,12,4,2026-07-12T17:58:44.048856Z,2026-08-07T12:49:39.007381Z,AS58474 PT. MATRIXNET GLOBAL INDONESIA,MANGONET-AS-ID,ID,Indonesia Network Information Center,False,False,False,,0,0,0
+43.248.213.232,12,4,2026-07-12T17:58:44.048856Z,2026-08-07T12:49:39.007381Z,AS58474 PT. MATRIXNET GLOBAL INDONESIA,MANGONET-AS-ID,ID,Indonesia Network Information Center,False,False,False,232.subnet-213.matrixglobal.net.id,0,0,0
 45.15.227.120,12,4,2026-08-01T21:23:46.420451Z,2026-08-30T19:20:16.954485Z,AS207164 PRIMANET SRL,PRIMANET,MD,Primanet SRL,False,False,False,,0,0,0
 45.112.21.250,12,4,2026-07-15T11:21:31.422158Z,2026-07-15T16:41:03.061385Z,AS55806 M/s VIVA Communications,VIVACOMM-IN,IN,VIVACOMM,False,False,False,,0,0,0
 45.182.5.98,12,4,2026-07-08T23:38:26.834748Z,2026-07-15T09:14:51.888051Z,AS269208 INOVA GUARUS TELECOM LTDA,INOVA GUARUS TELECOM LTDA,BR,Inova Guarus Telecom Ltda,False,False,False,,0,0,0
