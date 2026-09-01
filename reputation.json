@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-01T22:45:04Z",
+ "generated": "2026-09-01T23:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1589,
+ "count": 1590,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1352,6 +1352,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "178.62.113.179",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-01T22:43:18.312286Z",
+   "last_seen": "2026-09-01T22:59:32.104998Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "GB",
+   "org": "Digital Ocean",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -21581,7 +21599,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24407,7 +24425,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
