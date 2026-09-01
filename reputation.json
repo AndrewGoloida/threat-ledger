@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-01T03:00:05Z",
+ "generated": "2026-09-01T03:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1575,
+ "count": 1577,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8159,6 +8159,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.244.39.224",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-26T03:01:36.686893Z",
+   "last_seen": "2026-09-01T03:08:54.350441Z",
+   "asn": "AS7303 Telecom Argentina S.A.",
+   "as_name": "Telecom Argentina S.A.",
+   "country": "AR",
+   "org": "Fibertel",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "224-39-244-190.fibertel.com.ar",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "193.24.211.204",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -8876,6 +8894,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "177.45.231.98",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-01T03:05:18.057595Z",
+   "last_seen": "2026-09-01T03:06:05.254012Z",
+   "asn": "AS19182 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -14813,7 +14849,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15245,7 +15281,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
