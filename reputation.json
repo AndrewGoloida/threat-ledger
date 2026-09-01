@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T00:00:05Z",
+ "generated": "2026-09-01T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1571,
@@ -1283,24 +1283,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "13.71.92.229",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-19T22:59:04.728393Z",
-   "last_seen": "2026-08-31T00:10:18.133543Z",
-   "asn": "AS8075 Microsoft Corporation",
-   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-   "country": "IN",
-   "org": "Microsoft Azure Cloud (southindia)",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "31.57.184.247",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1316,24 +1298,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "43.156.115.178",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-25T11:12:12.054645Z",
-   "last_seen": "2026-08-31T03:35:47.047055Z",
-   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
-   "as_name": "TENCENT-NET-AP-CN",
-   "country": "SG",
-   "org": "Tencent Cloud Computing",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1355,24 +1319,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "54.38.241.200",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-25T09:41:49.633464Z",
-   "last_seen": "2026-08-31T10:37:20.534975Z",
-   "asn": "AS16276 OVH SAS",
-   "as_name": "OVH",
-   "country": "FR",
-   "org": "OVH",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "vps-7f32a134.vps.ovh.net",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1388,24 +1334,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "103.252.123.105",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-25T04:47:21.557872Z",
-   "last_seen": "2026-08-31T10:35:49.964028Z",
-   "asn": "AS150828 VMON CLOUD COMPANY LIMITED",
-   "as_name": "VMONCLOUD-VN",
-   "country": "VN",
-   "org": "STB Technology Company Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -4073,6 +4001,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "13.71.92.229",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-19T22:59:04.728393Z",
+   "last_seen": "2026-08-31T00:10:18.133543Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "IN",
+   "org": "Microsoft Azure Cloud (southindia)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "13.76.197.91",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -4451,6 +4397,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "43.156.115.178",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-25T11:12:12.054645Z",
+   "last_seen": "2026-08-31T03:35:47.047055Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "SG",
+   "org": "Tencent Cloud Computing",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.160.245.79",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -4734,6 +4698,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "vps-dc27973f.vps.ovh.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "54.38.241.200",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T09:41:49.633464Z",
+   "last_seen": "2026-08-31T10:37:20.534975Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-7f32a134.vps.ovh.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5184,6 +5166,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "ip103-250-11-156.cloudhost.web.id",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.252.123.105",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T04:47:21.557872Z",
+   "last_seen": "2026-08-31T10:35:49.964028Z",
+   "asn": "AS150828 VMON CLOUD COMPANY LIMITED",
+   "as_name": "VMONCLOUD-VN",
+   "country": "VN",
+   "org": "STB Technology Company Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -7691,24 +7691,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "116.135.67.93",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-03T22:50:19.998783Z",
-   "last_seen": "2026-08-31T06:41:54.686624Z",
-   "asn": "AS4837 CHINA UNICOM China169 Backbone",
-   "as_name": "CHINA169-Backbone",
-   "country": "CN",
-   "org": "China United Network Communications Corporation Limited",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "117.211.15.93",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -7922,24 +7904,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "160.251.182.78",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-16T21:24:52.036692Z",
-   "last_seen": "2026-08-31T01:44:22.372521Z",
-   "asn": "AS58791 GMO Internet, Inc.",
-   "as_name": "APNIC-ASBLOCK-58580",
-   "country": "JP",
-   "org": "GMO Internet Group, Inc.",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "v160-251-182-78.jdl7.static.cnode.jp",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -10601,7 +10565,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "189-56-0-19.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12905,7 +12869,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "18.201-148-65.bestelclientes.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14777,7 +14741,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16835,6 +16799,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.135.67.93",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-03T22:50:19.998783Z",
+   "last_seen": "2026-08-31T06:41:54.686624Z",
+   "asn": "AS4837 CHINA UNICOM China169 Backbone",
+   "as_name": "CHINA169-Backbone",
+   "country": "CN",
+   "org": "China United Network Communications Corporation Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "116.181.10.234",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -17334,6 +17316,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "v160-251-101-169.3fe8.static.cnode.io",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "160.251.182.78",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-16T21:24:52.036692Z",
+   "last_seen": "2026-08-31T01:44:22.372521Z",
+   "asn": "AS58791 GMO Internet, Inc.",
+   "as_name": "APNIC-ASBLOCK-58580",
+   "country": "JP",
+   "org": "GMO Internet Group, Inc.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "v160-251-182-78.jdl7.static.cnode.jp",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21059,7 +21059,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "191-210-73-33.user.vivozap.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22302,7 +22302,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22500,7 +22500,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -22914,7 +22914,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23742,7 +23742,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "55a40fc2.bb.online.no",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -23850,7 +23850,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "90-152-180-248.static.highway.a1.net",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -24263,7 +24263,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "103.82.25.77.cloudfly.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27053,7 +27053,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "191-055-233-246.xd-dynamic.algartelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
