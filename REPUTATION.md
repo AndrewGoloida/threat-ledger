@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1585 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1586 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-09-01T14:00:05Z · 388 from hosting/datacenter ranges · 14 progressed to running commands.
+Generated 2026-09-01T14:15:05Z · 389 from hosting/datacenter ranges · 15 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -15,7 +15,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 |---------|-----|
 | CN | 248 |
 | IN | 171 |
-| US | 126 |
+| US | 127 |
 | NL | 111 |
 | KR | 75 |
 | VN | 67 |
@@ -34,7 +34,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | CHINA169-Backbone | 52 |
 | KIXS-AS-KR | 41 |
 | HulumTele | 35 |
+| DIGITALOCEAN-ASN | 32 |
 | CHINAMOBILE-CN | 32 |
-| DIGITALOCEAN-ASN | 31 |
 | EMOME-NET | 29 |
 | TELEFÔNICA BRASIL S.A | 25 |
