@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-01T00:45:04Z",
+ "generated": "2026-09-01T01:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1572,
+ "count": 1573,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8084,6 +8084,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "186.121.233.2",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T05:58:56.475776Z",
+   "last_seen": "2026-09-01T00:56:07.557150Z",
+   "asn": "AS26210 AXS Bolivia S. A.",
+   "as_name": "AXS Bolivia S. A.",
+   "country": "BO",
+   "org": "AXS Bolivia S. A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static-186-121-233-2.acelerate.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
