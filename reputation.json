@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-02T23:15:04Z",
+ "generated": "2026-09-02T23:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1593,
+ "count": 1594,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7940,6 +7940,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "150.5.169.176",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-15T02:43:22.643104Z",
+   "last_seen": "2026-09-02T23:27:02.292942Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "HK",
+   "org": "Byteplus Pte. Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
