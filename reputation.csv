@@ -473,7 +473,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.84.129.104,22,14,2026-07-13T19:37:24.417147Z,2026-07-15T00:38:45.137785Z,AS133255 Elxer Communications Private Limited,ELXER-AS-IN,IN,Rktech,False,False,False,,0,0,0
 103.172.236.15,22,6,2026-07-17T12:26:13.841858Z,2026-08-28T13:47:36.529927Z,AS38253 Hanoi Telecom JSC,HANOITELECOM-AS-VN,VN,Heral Science and Technology Joint Stock Company,False,True,False,,0,0,0
 103.172.236.241,22,6,2026-07-23T09:11:45.175103Z,2026-08-07T11:43:13.000391Z,AS38253 Hanoi Telecom JSC,HANOITELECOM-AS-VN,VN,Heral Science and Technology Joint Stock Company,False,True,False,,0,0,0
-103.206.107.99,22,14,2026-07-14T01:40:51.717715Z,2026-07-15T13:35:03.836977Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Viral Communications Private Limited,False,False,False,107.206.103-99.in-addr.arpa,0,0,0
+103.206.107.99,22,14,2026-07-14T01:40:51.717715Z,2026-07-15T13:35:03.836977Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Viral Communications Private Limited,False,False,False,,0,0,0
 103.237.144.204,22,6,2026-08-01T21:46:38.720407Z,2026-08-13T07:00:02.096745Z,AS131414 Long Van Soft Solution JSC,LVSOFT-AS-VN,VN,LVSOFT,False,True,False,,0,0,0
 107.135.117.245,22,14,2026-07-09T08:20:43.011842Z,2026-07-30T02:20:41.535131Z,"AS7018 AT&T Enterprises, LLC",ATT-INTERNET4,US,Private Customer - AT&T Internet Services,False,False,False,107-135-117-245.lightspeed.livnmi.sbcglobal.net,0,0,0
 138.252.181.250,22,14,2026-07-14T18:04:36.754030Z,2026-07-27T17:47:34.690001Z,AS142577 Maher International,MAHERINTERNATIONAL-AS-AP,BD,Digonto Communication Network,False,False,False,,0,0,0
@@ -807,7 +807,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.200.66.164,14,6,2026-08-02T10:54:03.689566Z,2026-08-28T13:46:48.178630Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,42-200-66-164.static.imsbiz.com,0,0,0
@@ -864,7 +864,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 101.47.159.125,14,6,2026-08-17T06:06:45.593015Z,2026-08-24T14:40:16.830124Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,SG,BYTEPLUS,False,False,False,,0,0,0
 102.88.137.213,14,6,2026-08-13T05:29:41.613625Z,2026-08-28T14:10:00.199164Z,AS29465 MTN NIGERIA Communication limited,VCG-AS,NG,MTN Nigeria,False,False,True,,0,0,0
 102.223.8.232,14,6,2026-07-13T17:44:12.200936Z,2026-07-14T20:56:25.190799Z,AS327795 e-Government Authority,Tanzania-e-Government-Agency,TZ,Egov,False,False,False,232.8.223.102.eganet.go.tz,0,0,0
-103.26.136.173,14,6,2026-08-15T23:44:02.103033Z,2026-09-01T03:21:26.144223Z,AS58946 GRAMEEN COMMUNICATIONS,GRAMEEN1-AS-AP,BD,Grameen Communications,False,False,False,,0,0,0
+103.26.136.173,14,6,2026-08-15T23:44:02.103033Z,2026-09-01T03:21:26.144223Z,AS58946 GRAMEEN COMMUNICATIONS,GRAMEEN1-AS-AP,BD,Grameen Communications,False,False,False,mail.gshakti.org,0,0,0
 103.61.44.43,14,6,2026-07-26T00:41:07.826037Z,2026-07-31T02:32:31.940769Z,AS131434 Scom Technology Join stock company,SCOM-AS-VN,VN,SCOM,False,False,False,,0,0,0
 103.66.78.63,14,6,2026-07-14T02:29:58.933739Z,2026-07-14T20:10:19.479030Z,AS141549 KERALA FIBRE OPTIC NETWORK LIMITED,KFONLTD-AS-IN,IN,Srit India PVT LTD,False,False,False,,0,0,0
 103.67.152.201,14,6,2026-07-08T08:37:21.084869Z,2026-07-27T21:44:30.013019Z,AS135202 Netfirre Communications Pvt Ltd,NETFIRE-AS-IN,IN,Netfirre Communications Pvt Ltd,False,False,False,,0,0,0
@@ -1147,7 +1147,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 128.185.12.179,13,5,2026-07-09T21:08:08.333369Z,2026-07-22T17:52:22.482677Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Limited,False,False,True,,0,0,0
 171.80.15.232,13,5,2026-07-14T16:44:55.846627Z,2026-07-27T12:16:12.597159Z,AS151185 China Telecom,CT-XIANGYANG-IDC2,CN,Chinanet HB,False,False,False,,0,0,0
 171.231.185.92,13,5,2026-08-08T05:52:25.694314Z,2026-08-08T05:56:19.153626Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
-171.231.199.113,13,5,2026-07-18T08:27:22.776460Z,2026-07-18T08:30:05.572769Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+171.231.199.113,13,5,2026-07-18T08:27:22.776460Z,2026-07-18T08:30:05.572769Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 176.53.159.197,13,5,2026-07-01T18:02:26.344303Z,2026-07-12T08:16:28.570840Z,AS154383 ZORNTECH WEB SOLUTIONS,ZWS-AS-AP,TR,BearShield Technologies S.R.O,False,False,False,,0,0,0
 178.132.144.161,13,5,2026-07-09T10:49:59.172259Z,2026-07-27T05:57:47.898340Z,AS8926 Moldtelecom SA,MOLDTELECOM-AS,MD,JSC Moldtelecom S.A.,False,False,False,host-static-178-132-144-161.moldtelecom.md,0,0,0
 178.178.194.136,13,5,2026-07-10T06:31:31.996949Z,2026-07-25T21:21:33.890782Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MegaFon,False,False,True,,0,0,0
