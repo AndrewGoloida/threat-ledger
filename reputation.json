@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-02T07:30:05Z",
+ "generated": "2026-09-02T07:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1590,
+ "count": 1591,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7436,6 +7436,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "79.3.96.178",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-12T08:19:44.450353Z",
+   "last_seen": "2026-09-02T07:38:56.577228Z",
+   "asn": "AS3269 Telecom Italia S.p.A.",
+   "as_name": "ASN-IBSNAZ",
+   "country": "IT",
+   "org": "INTERBUSINESS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-79-3-96-178.business.telecomitalia.it",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -21581,7 +21599,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
