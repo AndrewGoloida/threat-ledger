@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-03T14:30:04Z",
+ "generated": "2026-09-03T14:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1598,
+ "count": 1599,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8174,6 +8174,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "187.141.71.166",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-02T00:15:53.797857Z",
+   "last_seen": "2026-09-03T14:39:19.001344Z",
+   "asn": "AS8151 Uninet S.A. de C.V.",
+   "as_name": "UNINET",
+   "country": "MX",
+   "org": "Uninet S.A. de C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "customer-187-141-71-166-sta.uninet-ide.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -21725,7 +21743,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
