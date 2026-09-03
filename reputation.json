@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-03T11:30:05Z",
+ "generated": "2026-09-03T11:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1595,
+ "count": 1597,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7457,6 +7457,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "80.247.110.206",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-01T01:22:42.815899Z",
+   "last_seen": "2026-09-03T11:35:23.982955Z",
+   "asn": "AS21365 MTS PJSC",
+   "as_name": "INTELECA-AS",
+   "country": "RU",
+   "org": "ALT",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.137.242.4",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -8156,6 +8174,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "190.181.25.210",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-18T01:43:08.880101Z",
+   "last_seen": "2026-09-03T11:40:53.452538Z",
+   "asn": "AS26210 AXS Bolivia S. A.",
+   "as_name": "AXS Bolivia S. A.",
+   "country": "BO",
+   "org": "AXS Bolivia S. A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static-190-181-25-210.acelerate.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
