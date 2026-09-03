@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-03T14:15:05Z",
+ "generated": "2026-09-03T14:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1597,
+ "count": 1598,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8303,6 +8303,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "219.250.188.143",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-07T12:12:18.400233Z",
+   "last_seen": "2026-09-03T14:18:17.149669Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "broadNnet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "222.174.17.118",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14165,7 +14183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14597,7 +14615,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21707,7 +21725,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24533,7 +24551,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
