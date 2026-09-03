@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T00:00:05Z",
+ "generated": "2026-09-03T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1594,
@@ -9773,7 +9773,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "189-56-0-19.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12041,7 +12041,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-103-136-43.static.tie.cl",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12185,7 +12185,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "59-159-89-200.fibertel.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14597,7 +14597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20843,7 +20843,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "179-189-85-66.goldnettelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26801,7 +26801,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "Bundle-Ether3.2078.static.gvt.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
