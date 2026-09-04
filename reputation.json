@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-04T19:00:05Z",
+ "generated": "2026-09-04T19:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1600,
+ "count": 1601,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1298,6 +1298,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "4.182.219.135",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T14:25:20.510707Z",
+   "last_seen": "2026-09-04T19:08:12.442834Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "DE",
+   "org": "Microsoft Azure Cloud (germanywestcentral)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14561,7 +14579,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15623,7 +15641,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "mail.gshakti.org",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20933,7 +20951,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "179-189-85-66.goldnettelecom.com.br",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
