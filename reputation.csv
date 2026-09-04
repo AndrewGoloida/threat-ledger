@@ -807,7 +807,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.200.66.164,14,6,2026-08-02T10:54:03.689566Z,2026-08-28T13:46:48.178630Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,42-200-66-164.static.imsbiz.com,0,0,0
@@ -1550,7 +1550,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 203.193.147.75,12,4,2026-07-17T10:55:37.868575Z,2026-08-03T09:41:50.936383Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,STPI-Guwathi Network,False,False,False,,0,0,0
 203.198.129.123,12,4,2026-08-03T00:38:15.240823Z,2026-08-21T09:27:35.258569Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,123.129.198.203.static.netvigator.com,0,0,0
 203.198.173.145,12,4,2026-07-10T01:51:22.359168Z,2026-08-19T18:37:29.985803Z,AS4515 PCCW IMS Ltd (PCCW Business Internet Access),PCCW-AS-AP,HK,VDSL Trial Cust : Excalibur Capital Ltd,False,False,False,145.173.198.203.static.netvigator.com,0,0,0
-206.0.8.204,12,4,2026-07-09T07:03:30.756874Z,2026-07-14T20:48:57.414877Z,AS263656 BRSULNET TELECOM LTDA,BRSULNET TELECOM LTDA,BR,Brsulnet Telecom Ltda,False,False,False,,0,0,0
+206.0.8.204,12,4,2026-07-09T07:03:30.756874Z,2026-07-14T20:48:57.414877Z,AS263656 BRSULNET TELECOM LTDA,BRSULNET TELECOM LTDA,BR,Brsulnet Telecom Ltda,False,False,False,b-206-0-8-204.brsulnet.net.br,0,0,0
 206.82.3.188,12,4,2026-07-14T07:06:54.835577Z,2026-07-14T16:06:58.756792Z,AS963 N963 PTE. LTD.,N963-AS-AP,US,XLC INC,False,False,False,,0,0,0
 207.219.222.29,12,4,2026-07-13T08:23:10.728782Z,2026-08-19T03:25:24.323811Z,AS852 TELUS Communications Inc.,ASN852,CA,TELUS Communications Inc,False,False,False,,0,0,0
 208.69.161.214,12,4,2026-07-09T11:41:03.101288Z,2026-07-26T15:42:29.070249Z,AS33638 CITY OF SCOTTSBURG,SCOTTS-AS,US,City of Scottsburg,False,False,False,,0,0,0
