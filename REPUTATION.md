@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-09-04T03:15:05Z · 387 from hosting/datacenter ranges · 0 progressed to running commands.
+Generated 2026-09-04T03:30:05Z · 393 from hosting/datacenter ranges · 0 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,28 +13,28 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 219 |
+| CN | 249 |
+| IN | 171 |
 | US | 129 |
-| IN | 129 |
 | NL | 112 |
-| VN | 67 |
-| KR | 66 |
+| KR | 77 |
+| VN | 68 |
 | RU | 62 |
+| HK | 54 |
 | BR | 54 |
-| TW | 51 |
-| HK | 48 |
+| TW | 53 |
 
 ## Top source networks (ASN)
 
 | Network | IPs |
 |---------|-----|
 | MICROSOFT-CORP-MSN-AS-BLOCK | 93 |
-| CHINANET-BACKBONE | 83 |
+| CHINANET-BACKBONE | 88 |
 | TECHTIES-AS | 80 |
-| CHINA169-Backbone | 45 |
+| CHINA169-Backbone | 52 |
+| KIXS-AS-KR | 42 |
 | HulumTele | 35 |
 | DIGITALOCEAN-ASN | 34 |
-| KIXS-AS-KR | 32 |
+| CHINAMOBILE-CN | 32 |
 | EMOME-NET | 29 |
 | TELEFÔNICA BRASIL S.A | 25 |
-| CHINAMOBILE-CN | 24 |
