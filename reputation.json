@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-05T17:45:06Z",
+ "generated": "2026-09-05T18:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1609,
+ "count": 1610,
  "records": [
+  {
+   "ip": "109.160.32.19",
+   "reputation_score": 52,
+   "honeypot_attempts": 25,
+   "first_seen": "2026-09-05T16:40:20.852000Z",
+   "last_seen": "2026-09-05T17:46:57.900199Z",
+   "asn": "",
+   "as_name": "",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 25,
+   "command_count": 25,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -21869,7 +21887,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
