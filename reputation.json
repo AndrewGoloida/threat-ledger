@@ -1,27 +1,9 @@
 {
- "generated": "2026-09-05T23:45:04Z",
+ "generated": "2026-09-06T00:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1614,
  "records": [
-  {
-   "ip": "109.160.32.19",
-   "reputation_score": 52,
-   "honeypot_attempts": 25,
-   "first_seen": "2026-09-05T16:40:20.852000Z",
-   "last_seen": "2026-09-05T17:46:57.900199Z",
-   "asn": "",
-   "as_name": "",
-   "country": "US",
-   "org": "GBTCloud",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 25,
-   "command_count": 25,
-   "download_url_count": 0
-  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -689,6 +671,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "109.160.32.19",
+   "reputation_score": 42,
+   "honeypot_attempts": 25,
+   "first_seen": "2026-09-05T16:40:20.852000Z",
+   "last_seen": "2026-09-05T17:46:57.900199Z",
+   "asn": "",
+   "as_name": "",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "130.12.180.51",
    "reputation_score": 42,
    "honeypot_attempts": 74,
@@ -1319,24 +1319,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "20.89.68.9",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-23T19:58:27.490479Z",
-   "last_seen": "2026-09-05T23:08:03.956742Z",
-   "asn": "AS8075 Microsoft Corporation",
-   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-   "country": "JP",
-   "org": "Microsoft Azure Cloud (japaneast)",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "31.57.184.247",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1388,24 +1370,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "103.69.96.120",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-28T17:50:48.981654Z",
-   "last_seen": "2026-09-05T06:08:04.518987Z",
-   "asn": "AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
-   "as_name": "DVS-AS-VN",
-   "country": "VN",
-   "org": "VN Cloud ONE Member Company Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -4451,6 +4415,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "20.89.68.9",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-23T19:58:27.490479Z",
+   "last_seen": "2026-09-05T23:08:03.956742Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "JP",
+   "org": "Microsoft Azure Cloud (japaneast)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "20.90.90.83",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -5441,6 +5423,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.69.96.120",
+   "reputation_score": 26,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-28T17:50:48.981654Z",
+   "last_seen": "2026-09-05T06:08:04.518987Z",
+   "asn": "AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+   "as_name": "DVS-AS-VN",
+   "country": "VN",
+   "org": "VN Cloud ONE Member Company Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.82.93.80",
    "reputation_score": 26,
    "honeypot_attempts": 6,
@@ -6281,7 +6281,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "vmi3373769.contaboserver.net",
+   "rdns": "vmi3558659.contaboserver.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -7727,24 +7727,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "103.84.236.242",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-29T01:45:52.766708Z",
-   "last_seen": "2026-09-05T06:07:49.321229Z",
-   "asn": "AS134945 Blue Sky Broadband Pvt. Ltd.",
-   "as_name": "BLUESKY8-AS",
-   "country": "IN",
-   "org": "Blue Sky Broadband Pvt. Ltd.",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "103.151.234.129",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -7886,24 +7868,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "116.123.150.231",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-07-27T17:21:45.534174Z",
-   "last_seen": "2026-09-05T22:39:00.741004Z",
-   "asn": "AS9318 SK Broadband Co Ltd",
-   "as_name": "SKB-AS",
-   "country": "KR",
-   "org": "broadNnet",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -8105,24 +8069,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "155.4.245.222",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-08T01:43:28.377325Z",
-   "last_seen": "2026-09-05T11:12:59.467125Z",
-   "asn": "AS8473 Bahnhof AB",
-   "as_name": "BAHNHOF",
-   "country": "SE",
-   "org": "Bahnhof AB",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "h-155-4-245-222.NA.cust.bahnhof.se",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "165.101.40.180",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -8303,24 +8249,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "190.253.113.213",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-09-03T14:04:01.195910Z",
-   "last_seen": "2026-09-05T06:06:59.001148Z",
-   "asn": "AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
-   "as_name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
-   "country": "CO",
-   "org": "casa.editiempo",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "200.159.14.187",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -8390,24 +8318,6 @@
    "rdns": "210-242-156-227.hinet-ip.hinet.net",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "211.178.247.182",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-17T06:13:17.990137Z",
-   "last_seen": "2026-09-05T06:12:00.432822Z",
-   "asn": "AS9318 SK Broadband Co Ltd",
-   "as_name": "SKB-AS",
-   "country": "KR",
-   "org": "SK Broadband Co Ltd",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -8837,7 +8747,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "static-mum-182.60.128.241.mtnl.net.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -8930,24 +8840,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "220.90.220.204",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-12T10:17:15.168399Z",
-   "last_seen": "2026-09-05T20:03:26.225828Z",
-   "asn": "AS4766 Korea Telecom",
-   "as_name": "KIXS-AS-KR",
-   "country": "KR",
-   "org": "KORNET",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 2,
-   "command_count": 9,
    "download_url_count": 0
   },
   {
@@ -10259,7 +10151,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -10871,7 +10763,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12383,7 +12275,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "18.201-148-65.bestelclientes.com.mx",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12707,7 +12599,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ns1.sinergi.net.id",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -13427,7 +13319,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14759,7 +14651,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15917,6 +15809,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.84.236.242",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T01:45:52.766708Z",
+   "last_seen": "2026-09-05T06:07:49.321229Z",
+   "asn": "AS134945 Blue Sky Broadband Pvt. Ltd.",
+   "as_name": "BLUESKY8-AS",
+   "country": "IN",
+   "org": "Blue Sky Broadband Pvt. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.89.136.111",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -16601,6 +16511,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.123.150.231",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T17:21:45.534174Z",
+   "last_seen": "2026-09-05T22:39:00.741004Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "broadNnet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "116.135.67.93",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -17159,6 +17087,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "155.4.245.222",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-08T01:43:28.377325Z",
+   "last_seen": "2026-09-05T11:12:59.467125Z",
+   "asn": "AS8473 Bahnhof AB",
+   "as_name": "BAHNHOF",
+   "country": "SE",
+   "org": "Bahnhof AB",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "h-155-4-245-222.NA.cust.bahnhof.se",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "156.236.110.181",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -17423,7 +17369,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18347,6 +18293,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.253.113.213",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-03T14:04:01.195910Z",
+   "last_seen": "2026-09-05T06:06:59.001148Z",
+   "asn": "AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+   "as_name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+   "country": "CO",
+   "org": "casa.editiempo",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "195.86.192.66",
    "reputation_score": 14,
    "honeypot_attempts": 6,
@@ -18575,7 +18539,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "201-249-201-94.chc-00.rai.cantv.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18788,6 +18752,24 @@
    "as_name": "KIXS-AS-KR",
    "country": "KR",
    "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "211.178.247.182",
+   "reputation_score": 14,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-17T06:13:17.990137Z",
+   "last_seen": "2026-09-05T06:12:00.432822Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "SK Broadband Co Ltd",
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
@@ -20591,7 +20573,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21005,7 +20987,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21941,7 +21923,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23562,7 +23544,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25703,7 +25685,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26694,7 +26676,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -26712,7 +26694,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -26891,7 +26873,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27629,7 +27611,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "BC2407C4.catv.pool.telekom.hu",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28688,6 +28670,24 @@
    "as_name": "SKB-AS",
    "country": "KR",
    "org": "SK Broadband Co Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "220.90.220.204",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-12T10:17:15.168399Z",
+   "last_seen": "2026-09-05T20:03:26.225828Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "KORNET",
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
