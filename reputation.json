@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T08:15:05Z",
+ "generated": "2026-09-06T08:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1616,
+ "count": 1617,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1400,6 +1400,24 @@
    "as_name": "DIGITALOCEAN-ASN",
    "country": "US",
    "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "165.154.255.63",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-03T17:26:59.150072Z",
+   "last_seen": "2026-09-06T08:19:01.221546Z",
+   "asn": "AS142002 Scloud Pte Ltd",
+   "as_name": "SCLOUDPTELTD-AS",
+   "country": "US",
+   "org": "Scloud Pte Ltd",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
@@ -14417,7 +14435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-154.102.107.27-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19763,7 +19781,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "mail.tataidc.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21959,7 +21977,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
