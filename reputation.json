@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T20:45:04Z",
+ "generated": "2026-09-06T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1626,
@@ -905,6 +905,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "157.245.235.220",
+   "reputation_score": 39,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-09-06T20:34:53.097603Z",
+   "last_seen": "2026-09-06T20:52:06.734001Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
+   "download_url_count": 0
+  },
+  {
    "ip": "195.178.110.218",
    "reputation_score": 39,
    "honeypot_attempts": 11,
@@ -1676,24 +1694,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "157.245.235.220",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-09-06T20:34:53.097603Z",
-   "last_seen": "2026-09-06T20:43:43.105021Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -14435,7 +14435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
