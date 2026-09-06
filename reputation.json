@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T04:15:05Z",
+ "generated": "2026-09-06T04:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1614,
+ "count": 1615,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1352,6 +1352,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "51.195.149.120",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-24T09:23:06.595330Z",
+   "last_seen": "2026-09-06T04:22:37.063052Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "GB",
+   "org": "OVH Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-a9a73efc.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14651,7 +14669,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21923,7 +21941,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
