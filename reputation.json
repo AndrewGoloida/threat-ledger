@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T20:15:05Z",
+ "generated": "2026-09-06T20:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1625,
@@ -869,6 +869,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "137.184.77.4",
+   "reputation_score": 39,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-09-06T20:01:25.369177Z",
+   "last_seen": "2026-09-06T20:22:20.164744Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "Digital Ocean",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
+   "download_url_count": 0
+  },
+  {
    "ip": "155.103.69.40",
    "reputation_score": 39,
    "honeypot_attempts": 19,
@@ -1355,6 +1373,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "147.182.160.214",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-06T20:03:58.798253Z",
+   "last_seen": "2026-09-06T20:19:26.803419Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 7,
+   "download_url_count": 0
+  },
+  {
    "ip": "31.57.184.247",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1460,24 +1496,6 @@
    "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
-   "download_url_count": 0
-  },
-  {
-   "ip": "137.184.77.4",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-09-06T20:01:25.369177Z",
-   "last_seen": "2026-09-06T20:14:21.217039Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "Digital Ocean",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -1640,24 +1658,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "147.182.160.214",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-09-06T20:03:58.798253Z",
-   "last_seen": "2026-09-06T20:14:13.501115Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 5,
    "download_url_count": 0
   },
   {
@@ -14417,7 +14417,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14849,7 +14849,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
