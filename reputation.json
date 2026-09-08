@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-08T12:15:05Z",
+ "generated": "2026-09-08T12:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1648,
+ "count": 1650,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7943,6 +7943,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "95.58.255.251",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-14T02:27:03.218716Z",
+   "last_seen": "2026-09-08T12:16:41.599441Z",
+   "asn": "AS9198 JSC Kazakhtelecom",
+   "as_name": "KAZTELECOM-AS",
+   "country": "KZ",
+   "org": "Centr po diagnostike i remontu mashin i oborudovaniya",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "95.58.255.251.static.telecom.kz",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "98.70.38.67",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -7976,6 +7994,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "102.91.123.220",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-22T17:26:05.121410Z",
+   "last_seen": "2026-09-08T12:19:13.420750Z",
+   "asn": "AS29465 MTN NIGERIA Communication limited",
+   "as_name": "VCG-AS",
+   "country": "NG",
+   "org": "MTN Nigeria",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -10529,7 +10565,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21149,7 +21185,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22535,7 +22571,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26315,7 +26351,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
