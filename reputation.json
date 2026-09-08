@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-08T21:45:05Z",
+ "generated": "2026-09-08T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1652,
+ "count": 1654,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7889,6 +7889,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "85.198.19.241",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-04T01:18:13.532047Z",
+   "last_seen": "2026-09-08T21:53:39.308896Z",
+   "asn": "AS60077 Asre Dadeha Asiatech",
+   "as_name": "AT-CLOUD",
+   "country": "IR",
+   "org": "ASIATECH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "85.198.19.241.asiatech.cloud",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.215.230.198",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -8318,6 +8336,24 @@
    "rdns": "static.ill.117.211.15.93.bsnl.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "117.247.23.131",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-06T18:34:51.342954Z",
+   "last_seen": "2026-09-08T21:48:03.533183Z",
+   "asn": "AS9829 National Internet Backbone",
+   "as_name": "BSNL-NIB",
+   "country": "IN",
+   "org": "BSNL Internet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.bb.apr.117.247.23.131.bsnl.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15101,7 +15137,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22607,7 +22643,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
