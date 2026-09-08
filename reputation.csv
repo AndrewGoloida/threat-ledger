@@ -836,7 +836,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.51.37.71,14,6,2026-09-01T19:04:40.256430Z,2026-09-07T00:38:51.371085Z,"AS56005 Zhengzhou Fastidc Technology Co.,Ltd.",Fastidc,CN,"Henan Telcom Union Technology Co., LTD",False,False,False,,0,0,0
@@ -1035,7 +1035,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 186.158.183.66,14,6,2026-07-19T11:59:17.595157Z,2026-07-25T11:06:25.560080Z,AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,Techtel LMDS Comunicaciones Interactivas S.A.,AR,Techtel LMDS Comunicaciones Interactivas S.A.,False,False,False,host66.186-158-183.telmex.net.ar,0,0,0
 186.179.80.12,14,6,2026-07-10T10:18:36.341427Z,2026-07-29T12:33:30.063327Z,AS15311 TELEFONICA EMPRESAS CHILE SA,TELEFONICA EMPRESAS CHILE SA,CL,TELEFÓNICA CHILE S.A.,False,False,False,,0,0,0
 186.235.48.167,14,6,2026-08-26T14:50:07.812201Z,2026-08-26T15:37:47.343875Z,AS263096 Inorpel Ind. Nordestina de Prod. Eletricos Ltda.,Inorpel Ind. Nordestina de Prod. Eletricos Ltda.,BR,Inorpel Ind. Nordestina de Prod. Eletricos Ltda,False,False,False,186-235-48-167.inorpel.com.br,0,0,0
-186.235.193.170,14,6,2026-07-17T02:14:28.941524Z,2026-07-27T02:42:50.409992Z,AS262673 VERO S.A,VERO S.A,BR,Vero S.A,False,False,False,,0,0,0
+186.235.193.170,14,6,2026-07-17T02:14:28.941524Z,2026-07-27T02:42:50.409992Z,AS262673 VERO S.A,VERO S.A,BR,Vero S.A,False,False,False,170.193.235.186.in-addr.arpa.verointernet.com.br,0,0,0
 186.251.71.202,14,6,2026-08-19T06:21:17.567892Z,2026-09-07T18:27:16.918741Z,AS262826 PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,BR,PW INFORMATICA E TECNOLOGIA LTDA,False,False,False,static-186-251-71-202.atnw.com.br,0,0,0
 187.0.18.168,14,6,2026-07-27T23:27:06.169301Z,2026-08-02T11:21:59.349338Z,AS262751 TERRA FIBER TELECOM LTDA-ME,TERRA FIBER TELECOM LTDA-ME,BR,Veloo NET Ltda,False,False,False,,0,0,0
 187.8.3.230,14,6,2026-07-10T04:24:22.557546Z,2026-07-29T17:18:41.285515Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,187-8-3-230.customer.tdatabrasil.net.br,0,0,0
