@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T00:00:04Z",
+ "generated": "2026-09-08T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1644,
@@ -9971,7 +9971,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-201-163-73-93.alestra.net.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -10673,7 +10673,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "acceso-187.134.71.148.prod-infinitum.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12581,7 +12581,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "18.201-148-65.bestelclientes.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14021,7 +14021,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "grupokrause.static.gvt.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14165,7 +14165,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host-191-241-142-170.red.paralelo46.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14525,7 +14525,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14957,7 +14957,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18413,7 +18413,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "pool-54-213-16-186.telecel.com.py",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18431,7 +18431,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-104-219-20.fo.baf.movistar.cl",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18449,7 +18449,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-186-121-233-2.acelerate.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18647,7 +18647,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dsl-148-33-202-187-dynamic.prod-infinitum.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21635,7 +21635,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "179-189-85-66.goldnettelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21761,7 +21761,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "191-210-73-33.user.vivozap.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21869,7 +21869,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "197.155.225.93.liquidtelecom.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28547,7 +28547,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-201-163-73-88.alestra.net.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
