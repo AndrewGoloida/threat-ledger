@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-09T05:00:05Z",
+ "generated": "2026-09-09T05:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1657,
+ "count": 1658,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8696,6 +8696,24 @@
    "rdns": "200-159-14-187.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "202.145.0.61",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-26T17:57:23.795428Z",
+   "last_seen": "2026-09-09T05:08:25.745797Z",
+   "asn": "AS17884 PT. Uninet Media Sakti (ISP)",
+   "as_name": "UNINET-AP",
+   "country": "ID",
+   "org": "PT UniNET Media Sakti",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
