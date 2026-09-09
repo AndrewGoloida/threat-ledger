@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-09T10:45:05Z",
+ "generated": "2026-09-09T11:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1659,
+ "count": 1660,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -236,6 +236,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "107.189.28.96",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-13T07:03:17.259051Z",
+   "last_seen": "2026-09-09T10:53:24.514301Z",
+   "asn": "AS53667 FranTech Solutions",
+   "as_name": "PONYNET",
+   "country": "LU",
+   "org": "FranTech Solutions",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
