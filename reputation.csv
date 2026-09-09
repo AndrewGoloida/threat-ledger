@@ -463,7 +463,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
 118.123.116.93,24,4,2026-07-13T06:25:04.693026Z,2026-08-21T03:57:16.790998Z,AS38283 CHINANET SiChuan Telecom Internet Data Center,CHINANET-SCIDC-AS-AP,CN,Chinanet SC,True,False,False,,0,0,0
 120.48.33.69,24,6,2026-08-09T23:07:33.533326Z,2026-09-09T00:35:27.485262Z,"AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",Baidu,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",False,False,False,,2,3,0
-123.252.249.190,24,8,2026-07-13T18:55:44.944447Z,2026-07-15T03:39:10.275200Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,TTML,False,True,False,,0,0,0
+123.252.249.190,24,8,2026-07-13T18:55:44.944447Z,2026-07-15T03:39:10.275200Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,TTML,False,True,False,static-190.249.252.123-tataidc.co.in,0,0,0
 130.12.181.21,24,4,2026-08-09T00:49:59.421439Z,2026-08-13T10:51:43.178980Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,False,False,,0,0,0
 130.12.181.23,24,4,2026-08-09T00:49:27.252414Z,2026-08-11T13:28:29.455373Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,False,False,,0,0,0
 130.12.182.107,24,4,2026-08-09T16:49:03.232527Z,2026-08-11T13:28:44.170941Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,False,False,,0,0,0
@@ -1138,8 +1138,8 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 60.175.91.53,13,5,2026-07-09T14:16:11.536063Z,2026-07-29T23:46:33.051724Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,False,False,,0,0,0
 60.220.241.50,13,5,2026-07-09T12:05:14.975931Z,2026-07-25T23:22:16.221709Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,China Unicom China169 Network,False,False,False,50.241.220.60.adsl-pool.sx.cn,0,0,0
 60.249.252.94,13,5,2026-07-12T09:23:48.044415Z,2026-07-25T22:37:36.598240Z,AS3462 Data Communication Business Group,HINET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,60-249-252-94.hinet-ip.hinet.net,0,0,0
-61.12.84.172,13,5,2026-07-10T06:31:20.116063Z,2026-07-27T10:20:39.842822Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,TTL CESR,False,False,False,,0,0,0
-61.12.86.90,13,5,2026-07-09T21:30:42.920391Z,2026-07-28T16:51:47.759092Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,TTL CESR,False,False,False,,0,0,0
+61.12.84.172,13,5,2026-07-10T06:31:20.116063Z,2026-07-27T10:20:39.842822Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,TTL CESR,False,False,False,static-172.84.12.61-tataidc.co.in,0,0,0
+61.12.86.90,13,5,2026-07-09T21:30:42.920391Z,2026-07-28T16:51:47.759092Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,TTL CESR,False,False,False,mail.tataidc.com,0,0,0
 61.151.249.194,13,5,2026-07-24T07:38:48.900460Z,2026-09-07T01:05:11.478390Z,AS4811 China Telecom (Group),CHINANET-SHANGHAI-MAN,CN,"Webmaster Technology Developing Co., Ltd.",False,False,False,,0,0,0
 61.185.30.170,13,5,2026-07-17T13:15:28.107237Z,2026-07-27T08:18:20.302468Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SN,False,False,False,,0,0,0
 62.183.82.70,13,5,2026-07-08T09:28:29.237629Z,2026-07-15T18:02:53.428373Z,AS43132 OJSC Kabbalktelekom,KBT-AS,RU,OJSC Rostelecom Macroregional Branch South,False,False,False,net-62-183-82-70.kbrnet.ru,0,0,0
@@ -1303,7 +1303,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 49.124.152.248,12,4,2026-07-27T10:20:48.842919Z,2026-08-08T22:27:07.415984Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.124.153.51,12,4,2026-07-20T01:23:28.261299Z,2026-08-16T01:23:59.229721Z,AS4818 DiGi Telecommunications Sdn. Bhd.,DIGIIX-AP,MY,DiGi Telecommunications Sdn Bhd,False,False,False,,0,0,0
 49.206.201.253,12,4,2026-07-12T19:55:41.130157Z,2026-08-09T07:12:00.634956Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Beam Telecom Pvt Ltd,False,False,False,49.206.201.253.actcorp.in,0,0,0
-49.248.197.50,12,4,2026-08-19T06:53:46.570884Z,2026-08-19T11:03:11.808809Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,Tata Teleservices (Maharashtra) Ltd,False,False,False,,0,0,0
+49.248.197.50,12,4,2026-08-19T06:53:46.570884Z,2026-08-19T11:03:11.808809Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,Tata Teleservices (Maharashtra) Ltd,False,False,False,static-50.197.248.49-tataidc.co.in,0,0,0
 50.188.204.213,12,4,2026-07-09T08:14:13.516331Z,2026-07-15T04:01:26.905571Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,"Comcast Cable Communications, LLC",False,False,False,c-50-188-204-213.unallocated.comcastbusiness.net,0,0,0
 57.133.202.56,12,4,2026-08-23T06:03:02.863643Z,2026-08-27T13:40:29.512058Z,AS8220 COLT Technology Services Group Limited,COLT,GB,Cirrus Networks,False,False,False,,0,0,0
 58.56.128.190,12,4,2026-07-14T04:40:21.212907Z,2026-08-07T09:27:28.944995Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SD,False,False,False,,0,0,0
