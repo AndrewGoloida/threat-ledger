@@ -1025,7 +1025,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 178.178.222.52,14,6,2026-07-08T00:00:09.274066Z,2026-07-26T07:28:50.328063Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 179.57.170.71,14,6,2026-07-16T19:41:33.428898Z,2026-08-03T14:50:47.832348Z,AS14117 Telefonica del Sur S.A.,Telefonica del Sur S.A.,CL,Telefonica del Sur S.A,False,False,False,,0,0,0
 179.185.18.67,14,6,2026-07-10T09:08:03.319794Z,2026-07-24T00:08:20.506468Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,cyrela.static.gvt.net.br,0,0,0
-180.93.172.213,14,6,2026-08-08T03:09:56.956057Z,2026-08-24T17:14:45.148827Z,AS135944 VinhNam Commercial informatics service corporation,VINACIS-AS-VN,VN,Saigon Postel Corporation,False,False,False,,0,0,0
+180.93.172.213,14,6,2026-08-08T03:09:56.956057Z,2026-08-24T17:14:45.148827Z,AS135944 VinhNam Commercial informatics service corporation,VINACIS-AS-VN,VN,Saigon Postel Corporation,False,False,False,static.vinacis.com,0,0,0
 180.188.253.150,14,6,2026-07-08T15:06:17.845031Z,2026-07-22T18:52:45.545903Z,AS133661 Netplus Broadband Services Private Limited,NETPLUS-AS,IN,Lytus Broadband Private Limited,False,False,False,,0,0,0
 180.193.205.116,14,6,2026-07-15T08:14:29.983965Z,2026-07-15T14:23:39.384504Z,AS9299 Philippine Long Distance Telephone Company,IPG-AS-AP,PH,Philippine Long Distance Telephone Company,False,False,False,,0,0,0
 180.213.44.242,14,6,2026-07-29T01:06:59.885532Z,2026-08-17T14:16:47.714022Z,AS17638 ASN for TIANJIN Provincial Net of CT,CHINATELECOM-TJ-AS-AP,CN,Chinanet TJ,False,False,False,,0,0,0
