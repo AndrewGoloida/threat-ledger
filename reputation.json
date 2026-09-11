@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-11T05:15:04Z",
+ "generated": "2026-09-11T05:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1671,
+ "count": 1672,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8897,6 +8897,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "210.79.142.201",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T08:30:43.822889Z",
+   "last_seen": "2026-09-11T05:18:58.168242Z",
+   "asn": "AS141607 PT Gayatri Lintas Nusantara",
+   "as_name": "IDNIC-GAYATRI-AS-ID",
+   "country": "ID",
+   "org": "PT Cakrawala Link Nusantara",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "210.242.156.227",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14867,7 +14885,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23003,7 +23021,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
