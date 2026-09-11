@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-11T14:15:05Z",
+ "generated": "2026-09-11T14:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1676,
+ "count": 1677,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2737,6 +2737,24 @@
    "is_mobile": false,
    "rdns": "algrothendieck.nos-oignons.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "80.94.95.118",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-10T21:34:20.599993Z",
+   "last_seen": "2026-09-11T14:27:31.333951Z",
+   "asn": "AS204428 SS-Net",
+   "as_name": "SS-Net",
+   "country": "HU",
+   "org": "Unmanaged LTD",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -14957,7 +14975,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
