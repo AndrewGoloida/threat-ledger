@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-12T21:00:05Z",
+ "generated": "2026-09-12T21:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1687,
+ "count": 1689,
  "records": [
+  {
+   "ip": "109.160.32.30",
+   "reputation_score": 52,
+   "honeypot_attempts": 22,
+   "first_seen": "2026-09-12T20:08:18.169236Z",
+   "last_seen": "2026-09-12T21:11:10.701451Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 19,
+   "command_count": 21,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -1460,6 +1478,24 @@
    "rdns": "",
    "creds_tried_count": 6,
    "command_count": 6,
+   "download_url_count": 0
+  },
+  {
+   "ip": "118.139.164.171",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-13T05:28:14.323477Z",
+   "last_seen": "2026-09-12T21:07:16.902400Z",
+   "asn": "AS26496 GoDaddy.com, LLC",
+   "as_name": "AS-26496-GO-DADDY-COM-LLC",
+   "country": "SG",
+   "org": "Godaddy.com",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "171.164.139.118.host.secureserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -12707,7 +12743,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15119,7 +15155,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15569,7 +15605,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
