@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-12T10:00:05Z",
+ "generated": "2026-09-12T10:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1683,
+ "count": 1684,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1442,6 +1442,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "139.159.142.7",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-01T12:17:41.179401Z",
+   "last_seen": "2026-09-12T10:07:02.073611Z",
+   "asn": "AS55990 Huawei Cloud Service data center",
+   "as_name": "HWCSNET",
+   "country": "CN",
+   "org": "Huawei Public Cloud Service",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ecs-139-159-142-7.compute.hwclouds-dns.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
