@@ -102,6 +102,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 104.208.108.166,34,6,2026-08-06T02:05:12.539417Z,2026-08-12T00:27:03.035779Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Microsoft Azure Cloud (eastasia),True,True,False,,0,0,0
 107.180.88.176,34,6,2026-08-16T14:58:47.725444Z,2026-09-01T10:44:46.023001Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,True,False,176.88.180.107.host.secureserver.net,0,0,0
 107.189.28.96,34,6,2026-08-13T07:03:17.259051Z,2026-09-09T10:53:24.514301Z,AS53667 FranTech Solutions,PONYNET,LU,FranTech Solutions,True,True,False,,0,0,0
+109.160.32.112,34,4,2026-09-10T23:03:50.509710Z,2026-09-13T05:13:57.014918Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,2,2,0
 130.12.182.98,34,6,2026-07-06T05:28:01.137224Z,2026-07-06T05:51:33.833699Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,True,False,,0,0,0
 138.197.197.27,34,6,2026-09-01T14:06:09.791474Z,2026-09-01T14:20:15.386676Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,Digital Ocean,True,True,False,,0,0,0
 157.245.34.56,34,6,2026-07-28T12:02:08.244894Z,2026-08-14T03:08:30.268872Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
@@ -863,7 +864,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.51.37.71,14,6,2026-09-01T19:04:40.256430Z,2026-09-07T00:38:51.371085Z,"AS56005 Zhengzhou Fastidc Technology Co.,Ltd.",Fastidc,CN,"Henan Telcom Union Technology Co., LTD",False,False,False,,0,0,0
