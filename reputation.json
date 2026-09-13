@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T12:45:04Z",
+ "generated": "2026-09-13T13:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1703,
+ "count": 1704,
  "records": [
   {
    "ip": "109.160.32.28",
@@ -8444,6 +8444,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.185.75.244",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-01T19:04:57.633989Z",
+   "last_seen": "2026-09-13T12:47:49.018561Z",
+   "asn": "AS48612 MTS Orenburg",
+   "as_name": "RTC-ORENBURG-AS",
+   "country": "RU",
+   "org": "PJSC MTS / former CJSC Comstar-Direct",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
