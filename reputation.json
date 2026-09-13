@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T09:45:05Z",
+ "generated": "2026-09-13T10:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1702,
+ "count": 1703,
  "records": [
   {
    "ip": "109.160.32.28",
@@ -29431,6 +29431,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "197.219.228.250",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T16:02:05.340074Z",
+   "last_seen": "2026-09-13T09:47:07.183751Z",
+   "asn": "AS37342 Movitel, SA",
+   "as_name": "MOVITEL",
+   "country": "MZ",
+   "org": "Movitel's IP",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
