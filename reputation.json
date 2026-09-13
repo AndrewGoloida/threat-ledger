@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T09:15:05Z",
+ "generated": "2026-09-13T09:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1694,
+ "count": 1698,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1550,6 +1550,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.28",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-13T08:25:35.509419Z",
+   "last_seen": "2026-09-13T09:30:00.897428Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 22,
+   "command_count": 26,
    "download_url_count": 0
   },
   {
@@ -21929,6 +21947,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "112.30.68.155",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-21T20:04:05.001309Z",
+   "last_seen": "2026-09-13T09:22:26.473806Z",
+   "asn": "AS9808 China Mobile Communications Group Co., Ltd.",
+   "as_name": "CHINAMOBILE-CN",
+   "country": "CN",
+   "org": "China Mobile Communications Group Co., Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "113.140.95.250",
    "reputation_score": 13,
    "honeypot_attempts": 5,
@@ -23399,7 +23435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26243,7 +26279,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28859,6 +28895,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "183.109.153.173",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-09T18:14:19.234082Z",
+   "last_seen": "2026-09-13T09:22:10.394642Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "183.167.217.86",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -29017,6 +29071,24 @@
    "is_mobile": false,
    "rdns": "185.255.212.178.ip.karnobat.net",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "186.97.203.162",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-23T04:41:15.598123Z",
+   "last_seen": "2026-09-13T09:21:51.060435Z",
+   "asn": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+   "as_name": "UNE EPM TELECOMUNICACIONES S.A.",
+   "country": "CO",
+   "org": "Colombia M\u00f3vil",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "Dinamic-Tigo186-97-203-162.tigo.com.co",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
