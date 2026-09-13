@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-13T09:30:05Z",
+ "generated": "2026-09-13T09:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1698,
+ "count": 1702,
  "records": [
+  {
+   "ip": "109.160.32.28",
+   "reputation_score": 52,
+   "honeypot_attempts": 34,
+   "first_seen": "2026-09-13T08:25:35.509419Z",
+   "last_seen": "2026-09-13T09:32:08.708807Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 28,
+   "command_count": 34,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -1550,24 +1568,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "109.160.32.28",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-09-13T08:25:35.509419Z",
-   "last_seen": "2026-09-13T09:30:00.897428Z",
-   "asn": "AS197170 TechTies Inc.",
-   "as_name": "TECHTIES-AS",
-   "country": "US",
-   "org": "GBTCloud",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 22,
-   "command_count": 26,
    "download_url_count": 0
   },
   {
@@ -9941,6 +9941,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "160.30.39.50",
+   "reputation_score": 21,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-27T12:40:05.179208Z",
+   "last_seen": "2026-09-13T09:43:15.694088Z",
+   "asn": "AS139490 Aspt Networks Pvt Ltd",
+   "as_name": "ASPTNPL-AS-IN",
+   "country": "IN",
+   "org": "Aspt Networks Pvt Ltd",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "static-160-30-39-50.aeronetonline.in",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "31.7.86.142",
    "reputation_score": 20,
    "honeypot_attempts": 12,
@@ -12761,7 +12779,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -12959,7 +12977,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14255,7 +14273,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15173,7 +15191,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22049,7 +22067,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22481,7 +22499,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25169,6 +25187,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "78.187.9.53",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-24T07:26:55.562204Z",
+   "last_seen": "2026-09-13T09:35:23.374702Z",
+   "asn": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
+   "as_name": "TTNet",
+   "country": "TR",
+   "org": "TurkTelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "78.187.9.53.dynamic.ttnet.com.tr",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "78.192.21.78",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -26861,6 +26897,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "112.28.153.238",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T12:44:14.206793Z",
+   "last_seen": "2026-09-13T09:38:21.549281Z",
+   "asn": "AS9808 China Mobile Communications Group Co., Ltd.",
+   "as_name": "CHINAMOBILE-CN",
+   "country": "CN",
+   "org": "China Mobile Communications Group Co., Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "112.28.153.241",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -26947,6 +27001,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "112.184.52.16",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-13T21:48:33.295097Z",
+   "last_seen": "2026-09-13T09:32:24.272660Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -28349,7 +28421,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
