@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-14T04:15:05Z",
+ "generated": "2026-09-14T04:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1708,
+ "count": 1711,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1409,6 +1409,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "13.90.206.6",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T13:45:12.773193Z",
+   "last_seen": "2026-09-14T04:25:08.333708Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.226.37.32",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -1442,6 +1460,42 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "98.70.50.166",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-11T08:13:32.794607Z",
+   "last_seen": "2026-09-14T04:24:41.185699Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "IN",
+   "org": "Microsoft Azure Cloud (centralindia)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.75.215",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T19:56:38.548826Z",
+   "last_seen": "2026-09-14T04:26:05.014132Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-75-215.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23543,7 +23597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
