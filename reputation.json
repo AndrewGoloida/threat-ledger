@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-15T08:45:04Z",
+ "generated": "2026-09-15T09:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1724,
+ "count": 1725,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9203,6 +9203,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "157.10.100.12",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-29T19:15:34.119973Z",
+   "last_seen": "2026-09-15T08:59:39.778771Z",
+   "asn": "AS152307 DataWorld",
+   "as_name": "DWPL-AS-AP",
+   "country": "NP",
+   "org": "DataWorld",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "12.100.10.157.danfecloud.com.np",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "165.101.40.180",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15929,7 +15947,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
