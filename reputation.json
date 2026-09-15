@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T22:00:05Z",
+ "generated": "2026-09-15T22:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1729,
@@ -9491,6 +9491,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "202.51.214.98",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T11:59:25.916901Z",
+   "last_seen": "2026-09-15T22:00:03.958971Z",
+   "asn": "AS10220 PT. Kreasi Sejahtera Teknologi",
+   "as_name": "INTERFAST-AS-ID",
+   "country": "ID",
+   "org": "PT. Sejahtera Globalindo",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "202.152.148.30",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -10082,24 +10100,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "202.51.214.98",
-   "reputation_score": 22,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-07-21T11:59:25.916901Z",
-   "last_seen": "2026-09-15T21:59:58.963339Z",
-   "asn": "AS10220 PT. Kreasi Sejahtera Teknologi",
-   "as_name": "INTERFAST-AS-ID",
-   "country": "ID",
-   "org": "PT. Sejahtera Globalindo",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15551,7 +15551,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23921,7 +23921,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
