@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-15T02:00:05Z",
+ "generated": "2026-09-15T02:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1722,
+ "count": 1723,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8483,6 +8483,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "50.84.211.204",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-20T16:00:18.424946Z",
+   "last_seen": "2026-09-15T02:12:47.935561Z",
+   "asn": "AS11427 Charter Communications Inc",
+   "as_name": "TWC-11427-TEXAS",
+   "country": "US",
+   "org": "RGB Hospitality",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "syn-050-084-211-204.biz.spectrum.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "52.168.108.215",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15893,7 +15911,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
