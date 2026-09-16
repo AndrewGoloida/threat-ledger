@@ -892,7 +892,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.51.37.71,14,6,2026-09-01T19:04:40.256430Z,2026-09-07T00:38:51.371085Z,"AS56005 Zhengzhou Fastidc Technology Co.,Ltd.",Fastidc,CN,"Henan Telcom Union Technology Co., LTD",False,False,False,,0,0,0
@@ -1238,6 +1238,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 90.230.115.5,13,5,2026-07-14T09:26:46.455825Z,2026-07-28T19:51:50.898519Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,90-230-115-5-no2550.tbcn.telia.com,0,0,0
 90.230.212.29,13,5,2026-07-15T05:45:57.834778Z,2026-07-25T10:35:29.644654Z,AS3301 Telia Company AB,TELIANET-SWEDEN,SE,Telia Company AB,False,False,False,90-230-212-29-no2550.tbcn.telia.com,0,0,0
 92.126.223.175,13,5,2026-07-10T00:02:11.458639Z,2026-07-27T00:34:30.925433Z,AS12389 PJSC Rostelecom,ROSTELECOM-AS,RU,OJSC Sibirtelecom,False,False,False,,0,0,0
+94.26.106.147,13,5,2026-09-16T21:09:15.058197Z,2026-09-16T21:37:00.920407Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,5,0
 94.26.106.234,13,5,2026-08-09T00:49:39.089073Z,2026-08-11T13:30:11.752918Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,0,0
 101.13.4.119,13,5,2026-07-07T22:11:18.559589Z,2026-07-22T18:50:55.116503Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
 103.174.145.35,13,5,2026-07-09T11:20:42.922018Z,2026-07-19T10:00:17.732528Z,AS135718 DISHAWAVES INFONET PVT. LTD,DISHAWAVESINFONET-AS,IN,Vaidik Netsol OPC PVT LTD,False,False,False,,0,0,0
@@ -1474,7 +1475,6 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 92.255.196.185,12,4,2026-07-19T12:04:35.494744Z,2026-08-05T20:55:27.459949Z,AS41668 JSC ER-Telecom Holding,ERTH-KAZAN-AS,RU,"JSC ""ER-Telecom Holding"" Kazan' Branch",False,False,False,92x255x196x185.static-customer.kzn.ertelecom.ru,0,0,0
 94.26.106.19,12,4,2026-08-09T00:49:40.831069Z,2026-08-11T13:28:53.530317Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,0,0
 94.26.106.33,12,4,2026-08-09T00:49:36.601267Z,2026-08-11T13:29:50.388561Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,0,0
-94.26.106.147,12,4,2026-09-16T21:09:15.058197Z,2026-09-16T21:28:32.376678Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,4,0
 94.26.106.199,12,4,2026-08-09T00:54:05.756621Z,2026-08-11T13:28:46.911037Z,AS197170 TechTies Inc.,TECHTIES-AS,DE,TechTies Inc,False,False,False,,0,0,0
 94.98.213.230,12,4,2026-07-14T01:03:51.928210Z,2026-07-14T03:52:32.028080Z,AS25019 Saudi Telecom Company JSC,SAUDINETSTC-AS,SA,Saudi Telecom Company JSC,False,False,False,,0,0,0
 94.183.59.33,12,4,2026-07-12T00:34:09.296750Z,2026-07-19T07:11:37.457505Z,AS31549 Aria Shatel PJSC,RASANA,IR,SHATEL Network,False,False,False,94-183-59-33.shatel.ir,0,0,0
@@ -1500,7 +1500,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.157.13.50,12,4,2026-07-14T09:31:03.074998Z,2026-07-15T11:09:41.048976Z,AS150008 Pioneer Elabs Ltd.,PEL-AS-IN,IN,Hindustan Networks Llp,False,False,False,,0,0,0
 103.191.204.229,12,4,2026-08-21T16:35:39.236229Z,2026-08-29T05:23:36.219701Z,AS150019 Vishwamani Solutions Pvt Ltd,VISHWAMAN-AS-IN,IN,Vishwamani Solutions Pvt Ltd,False,False,False,,0,0,0
 103.226.88.135,12,4,2026-07-13T16:49:20.959879Z,2026-07-13T16:55:32.756731Z,AS132116 Anonet Network Private Limited,ANINETWORK-IN,IN,Gvtelecom,False,False,False,,0,0,0
-103.247.55.253,12,4,2026-07-13T19:10:56.327803Z,2026-07-14T00:34:56.490398Z,AS24186 RailTel Corporation of India Ltd,RAILTEL-AS-IN,IN,RAILTEL,False,False,False,,0,0,0
+103.247.55.253,12,4,2026-07-13T19:10:56.327803Z,2026-07-14T00:34:56.490398Z,AS24186 RailTel Corporation of India Ltd,RAILTEL-AS-IN,IN,RAILTEL,False,False,False,rw-00253-55.247.103.rcil.gov.in,0,0,0
 106.0.166.123,12,4,2026-07-12T04:45:11.148421Z,2026-08-17T07:24:26.269608Z,AS23974 Ministry of education,MOE-AS-AP,TH,Ministry of Education - EMISC,False,False,False,,0,0,0
 106.81.33.108,12,4,2026-07-13T16:41:17.187795Z,2026-07-14T08:46:50.797410Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet CQ,False,False,False,,0,0,0
 106.153.181.80,12,4,2026-07-25T14:52:18.353793Z,2026-08-29T22:04:56.249106Z,AS2516 KDDI CORPORATION,KDDI CORPORATION,JP,KDDI,False,False,False,M106153181080.v4.enabler.ne.jp,0,0,0
