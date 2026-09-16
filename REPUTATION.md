@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-09-16T23:30:04Z · 469 from hosting/datacenter ranges · 9 progressed to running commands.
+Generated 2026-09-16T23:45:05Z · 399 from hosting/datacenter ranges · 9 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,26 +13,26 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 265 |
-| IN | 180 |
-| US | 174 |
-| NL | 115 |
-| KR | 85 |
-| VN | 75 |
+| CN | 257 |
+| IN | 159 |
+| US | 148 |
+| NL | 110 |
+| KR | 80 |
+| VN | 70 |
 | RU | 65 |
-| HK | 57 |
 | BR | 57 |
 | TW | 55 |
+| HK | 54 |
 
 ## Top source networks (ASN)
 
 | Network | IPs |
 |---------|-----|
 | TECHTIES-AS | 110 |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 101 |
-| CHINANET-BACKBONE | 89 |
-| CHINA169-Backbone | 52 |
-| KIXS-AS-KR | 47 |
+| CHINANET-BACKBONE | 84 |
+| CHINA169-Backbone | 51 |
+| KIXS-AS-KR | 45 |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 41 |
 | DIGITALOCEAN-ASN | 39 |
 | CHINAMOBILE-CN | 34 |
 | HulumTele | 34 |
