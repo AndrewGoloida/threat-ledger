@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-16T20:45:06Z",
+ "generated": "2026-09-16T21:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1739,
+ "count": 1741,
  "records": [
+  {
+   "ip": "109.160.32.98",
+   "reputation_score": 51,
+   "honeypot_attempts": 21,
+   "first_seen": "2026-09-16T19:43:37.035470Z",
+   "last_seen": "2026-09-16T20:46:10.340614Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 16,
+   "command_count": 21,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -10463,6 +10481,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "91.92.42.72",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-16T20:32:00.089827Z",
+   "last_seen": "2026-09-16T20:53:06.377383Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.42.126",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -15569,7 +15605,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16037,7 +16073,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19187,7 +19223,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22697,7 +22733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23147,7 +23183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29069,7 +29105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
