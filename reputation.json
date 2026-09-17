@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T16:30:04Z",
+ "generated": "2026-09-17T16:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1751,
+ "count": 1752,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1499,6 +1499,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "97.74.236.4",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-03T21:08:00.808550Z",
+   "last_seen": "2026-09-17T16:38:19.843781Z",
+   "asn": "AS398101 GoDaddy.com, LLC",
+   "as_name": "GO-DADDY-COM-LLC",
+   "country": "US",
+   "org": "GoDaddy.com, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "4.236.74.97.host.secureserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "168.144.171.221",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -2195,7 +2213,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "a",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16163,7 +16181,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
