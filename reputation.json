@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T19:00:05Z",
+ "generated": "2026-09-17T19:15:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1752,
+ "count": 1753,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9293,6 +9293,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.71.136.125",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-02T17:36:03.438222Z",
+   "last_seen": "2026-09-17T19:13:44.897050Z",
+   "asn": "AS17557 Pakistan Telecommunication Company Limited",
+   "as_name": "PKTELECOM-AS-PK",
+   "country": "PK",
+   "org": "PTCL Triple Play Project",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.211.15.93",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -16181,7 +16199,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24317,7 +24335,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
