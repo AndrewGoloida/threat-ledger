@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T19:45:05Z",
+ "generated": "2026-09-17T20:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1753,
+ "count": 1754,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2213,7 +2213,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -8819,7 +8819,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -9992,6 +9992,24 @@
    "rdns": "91.92.199.36.neterra.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "101.96.199.69",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-26T02:17:49.625740Z",
+   "last_seen": "2026-09-17T19:53:42.864018Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Volcano Engine Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13319,7 +13337,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14831,7 +14849,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15731,7 +15749,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27197,7 +27215,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28151,7 +28169,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28169,7 +28187,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
