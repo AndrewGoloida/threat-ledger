@@ -83,6 +83,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 43.226.37.32,36,8,2026-07-13T18:01:50.105822Z,2026-07-15T04:01:59.116906Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,True,False,,0,0,0
 77.239.124.237,36,16,2026-08-14T16:28:34.165016Z,2026-08-14T17:31:38.890990Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,FR,RocketCloud,True,False,False,,0,0,0
 97.74.236.4,36,6,2026-08-03T21:08:00.808550Z,2026-09-17T16:38:19.843781Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,False,False,4.236.74.97.host.secureserver.net,2,3,0
+165.154.36.71,36,6,2026-07-17T22:42:25.265618Z,2026-09-17T22:08:58.592423Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,US,Ucloud Information Technology (hk) Limited,True,False,False,,2,3,0
 168.144.171.221,36,8,2026-07-27T21:56:28.070543Z,2026-07-27T22:16:19.029363Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,AU,"DigitalOcean, LLC",True,True,False,,0,0,0
 182.44.116.87,36,6,2026-07-21T07:46:22.872740Z,2026-09-17T15:04:27.658266Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,False,False,,2,3,0
 209.97.136.89,36,8,2026-08-28T17:47:54.463222Z,2026-08-28T18:05:57.373299Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
@@ -514,6 +515,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 109.160.32.103,24,4,2026-09-07T16:31:12.430456Z,2026-09-07T16:31:39.633567Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,0,0,0
 109.160.32.112,24,4,2026-09-10T23:03:50.509710Z,2026-09-13T05:13:57.014918Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,0,0,0
 112.196.54.182,24,16,2026-07-13T18:05:32.238710Z,2026-07-27T18:07:02.142748Z,AS17917 Quadrant Televentures Limited,QTLTELECOM-AS-AP,IN,Hfcl Infotel LTD,False,False,False,,0,0,0
+114.34.106.146,24,6,2026-09-08T09:38:32.436645Z,2026-09-17T22:06:42.307475Z,AS3462 Data Communication Business Group,HINET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,114-34-106-146.hinet-ip.hinet.net,2,3,0
 115.68.133.201,24,4,2026-08-22T00:56:08.081139Z,2026-08-30T14:30:00.550739Z,AS38700 SMILESERV,SMILESERV-AS-KR,KR,SMILESERV,True,False,False,,0,0,0
 116.71.136.125,24,6,2026-08-02T17:36:03.438222Z,2026-09-17T19:13:44.897050Z,AS17557 Pakistan Telecommunication Company Limited,PKTELECOM-AS-PK,PK,PTCL Triple Play Project,False,False,False,,2,3,0
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
@@ -549,6 +551,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 87.103.126.54,23,15,2026-07-07T23:31:58.437019Z,2026-07-26T15:42:18.154336Z,AS12353 Vodafone Portugal,VODAFONE-PT,PT,VDF,False,False,False,54.126.103.87.rev.vodafone.pt,0,0,0
 91.92.42.178,23,7,2026-08-09T00:49:25.047559Z,2026-08-11T13:44:30.344405Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
 91.92.47.123,23,7,2026-07-13T08:06:08.154739Z,2026-07-17T04:36:26.413960Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
+136.232.11.10,23,5,2026-08-11T08:37:15.459850Z,2026-09-17T22:08:21.466666Z,AS55836 Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Rjil Internet,False,False,False,,2,3,0
 179.181.133.153,23,15,2026-07-09T00:05:17.392829Z,2026-07-28T08:41:32.367110Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,,0,0,0
 51.162.178.199,22,4,2026-09-17T13:10:02.591040Z,2026-09-17T15:05:11.021019Z,AS15830 Equinix (EMEA) Acquisition Enterprises B.V.,Equinix,IN,Equinix (Netherlands) Enterprises BV,False,False,False,,1,4,0
 91.92.47.6,22,6,2026-07-11T19:57:37.237761Z,2026-07-11T19:58:08.451874Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
@@ -899,7 +902,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.1.65.79,14,6,2026-09-03T11:04:18.154927Z,2026-09-16T03:36:00.011079Z,AS131429 MOBIFONE Corporation,MOBIFONE-AS-VN,VN,Vietnam Internet Network Information Center,False,False,False,,0,0,0
