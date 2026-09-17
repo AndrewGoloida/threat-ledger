@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T15:00:05Z",
+ "generated": "2026-09-17T15:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1749,
+ "count": 1751,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1514,6 +1514,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "182.44.116.87",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T07:46:22.872740Z",
+   "last_seen": "2026-09-17T15:04:27.658266Z",
+   "asn": "AS58519 Cloud Computing Corporation",
+   "as_name": "CHINATELECOM-Ctcloud",
+   "country": "CN",
+   "org": "Chinanet SD",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -8783,7 +8801,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -9866,6 +9884,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "51.162.178.199",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-17T13:10:02.591040Z",
+   "last_seen": "2026-09-17T15:05:11.021019Z",
+   "asn": "AS15830 Equinix (EMEA) Acquisition Enterprises B.V.",
+   "as_name": "Equinix",
+   "country": "IN",
+   "org": "Equinix (Netherlands) Enterprises BV",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 1,
    "download_url_count": 0
   },
   {
@@ -15299,7 +15335,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host-191-241-142-170.red.paralelo46.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15659,7 +15695,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16127,7 +16163,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
