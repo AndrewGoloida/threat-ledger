@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T08:45:05Z",
+ "generated": "2026-09-17T09:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1746,
+ "count": 1747,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -8753,6 +8753,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "81.192.46.32",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-13T03:00:48.129928Z",
+   "last_seen": "2026-09-17T08:50:41.303567Z",
+   "asn": "AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "as_name": "IAM-AS",
+   "country": "MA",
+   "org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.137.242.4",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16073,7 +16091,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24209,7 +24227,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
