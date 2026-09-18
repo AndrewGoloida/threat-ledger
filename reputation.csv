@@ -520,6 +520,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
 118.123.116.93,24,4,2026-07-13T06:25:04.693026Z,2026-08-21T03:57:16.790998Z,AS38283 CHINANET SiChuan Telecom Internet Data Center,CHINANET-SCIDC-AS-AP,CN,Chinanet SC,True,False,False,,0,0,0
 123.252.249.190,24,8,2026-07-13T18:55:44.944447Z,2026-07-15T03:39:10.275200Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,TTML,False,True,False,static-190.249.252.123-tataidc.co.in,0,0,0
+125.122.39.115,24,6,2026-09-15T04:02:36.681952Z,2026-09-18T10:09:20.165773Z,AS58461 CT HangZhou IDC,CT-HangZhou-IDC,CN,Chinanet,False,False,False,,2,3,0
 143.244.155.71,24,4,2026-07-14T19:15:08.478571Z,2026-07-15T02:47:49.226454Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,"DigitalOcean, LLC",True,False,False,,0,0,0
 150.241.245.47,24,4,2026-07-13T20:53:25.223404Z,2026-07-14T08:42:04.844193Z,AS134926 Micro Hosting Private Limited,MICROHOST-AS,IN,Micro Hosting Private Limited,True,False,False,47-245-241-150.compute.onutho.com,0,0,0
 152.32.205.153,24,4,2026-07-14T19:41:22.621357Z,2026-07-24T20:58:28.721245Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,US,Ucloud Information Technology (hk) Limited,True,False,False,,0,0,0
@@ -898,7 +899,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.1.65.79,14,6,2026-09-03T11:04:18.154927Z,2026-09-16T03:36:00.011079Z,AS131429 MOBIFONE Corporation,MOBIFONE-AS-VN,VN,Vietnam Internet Network Information Center,False,False,False,,0,0,0
