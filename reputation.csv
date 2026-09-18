@@ -947,7 +947,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 79.3.96.178,14,6,2026-08-12T08:19:44.450353Z,2026-09-02T07:38:56.577228Z,AS3269 Telecom Italia S.p.A.,ASN-IBSNAZ,IT,INTERBUSINESS,False,False,False,host-79-3-96-178.business.telecomitalia.it,0,0,0
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
 82.193.122.91,14,6,2026-07-07T22:10:36.255711Z,2026-07-27T18:05:28.583155Z,AS25521 Industrial Media Network LLC,AS-IPNET,UA,IPNETUA,False,False,False,82.193.122.91.cl.ipnet.ua,0,0,0
@@ -1634,7 +1634,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 164.164.117.23,12,4,2026-08-05T09:05:17.115524Z,2026-08-29T11:52:00.350466Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,STPI Bangalore,False,False,False,,0,0,0
 170.233.29.157,12,4,2026-07-16T15:11:12.377973Z,2026-07-29T02:34:28.502018Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.157.ssservicios.com.ar,0,0,0
 170.233.29.175,12,4,2026-07-09T18:12:49.493411Z,2026-08-06T06:31:37.617604Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.175.ssservicios.com.ar,0,0,0
-171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 173.163.186.155,12,4,2026-07-27T11:30:52.028692Z,2026-07-27T12:20:46.881605Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,MEM VET HOSP OLD FOR,False,False,False,,0,0,0
 174.94.236.211,12,4,2026-07-08T06:55:58.908222Z,2026-08-02T01:54:32.722397Z,AS577 Bell Canada,BACOM,CA,"Bell Mobility, Inc.",False,False,False,,0,0,0
 175.100.107.238,12,4,2026-07-25T05:25:48.746402Z,2026-08-01T05:30:25.218061Z,AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,VIETTELCAMBODIA-AS-AP,KH,"Viettel (cambodia) Pte., Ltd.",False,False,False,dynamic-ip-adsl.metfone.com.kh,0,0,0
