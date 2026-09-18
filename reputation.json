@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-18T22:30:05Z",
+ "generated": "2026-09-18T22:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1777,
+ "count": 1778,
  "records": [
   {
    "ip": "109.160.32.91",
@@ -9761,6 +9761,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "175.198.62.180",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-10T19:36:51.326782Z",
+   "last_seen": "2026-09-18T22:36:20.151771Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "176.44.17.44",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -16019,7 +16037,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16505,7 +16523,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
