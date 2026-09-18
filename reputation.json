@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-18T18:00:05Z",
+ "generated": "2026-09-18T18:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1772,
+ "count": 1774,
  "records": [
   {
    "ip": "109.160.32.91",
@@ -9041,6 +9041,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "92.27.101.99",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-04T21:03:00.546384Z",
+   "last_seen": "2026-09-18T18:07:43.263082Z",
+   "asn": "AS13285 TalkTalk Communications Limited",
+   "as_name": "OPALTELECOM-AS",
+   "country": "GB",
+   "org": "TalkTalk Communications Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-92-27-101-99.static.as13285.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "94.136.191.1",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -9758,6 +9776,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "181.188.148.74",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-19T20:21:29.388218Z",
+   "last_seen": "2026-09-18T18:00:36.935569Z",
+   "asn": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+   "as_name": "Telefonica Celular de Bolivia S.A.",
+   "country": "BO",
+   "org": "Telef\u00f3nica Celular de Bolivia S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "mail.inpa.com.bo",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15929,7 +15965,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16415,7 +16451,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
