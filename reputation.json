@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-19T06:30:04Z",
+ "generated": "2026-09-19T06:45:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1782,
+ "count": 1783,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9254,6 +9254,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.86.180.10",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-28T12:00:11.461942Z",
+   "last_seen": "2026-09-19T06:34:04.907496Z",
+   "asn": "AS136284 Paradise Telecom Pvt Ltd",
+   "as_name": "PTPL-AS-IN",
+   "country": "IN",
+   "org": "Paradise Telecom Pvt Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -24803,7 +24821,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
