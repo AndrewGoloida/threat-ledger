@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T04:00:05Z",
+ "generated": "2026-09-19T04:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1781,
@@ -7961,6 +7961,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.220.161.86",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-19T02:59:00.813357Z",
+   "last_seen": "2026-09-19T04:05:20.405080Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.14",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -9199,24 +9217,6 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "102.220.161.86",
-   "reputation_score": 24,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-09-19T02:59:00.813357Z",
-   "last_seen": "2026-09-19T03:47:35.587117Z",
-   "asn": "AS197769 VPS Dedicated LLC",
-   "as_name": "VPSDEDICATED-AS",
-   "country": "SI",
-   "org": "VPS Dedicated LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -15929,7 +15929,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16415,7 +16415,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
