@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T22:30:05Z",
+ "generated": "2026-09-19T22:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1789,
@@ -15713,7 +15713,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host-191-241-142-170.red.paralelo46.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24929,7 +24929,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
