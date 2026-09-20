@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T17:30:05Z",
+ "generated": "2026-09-20T17:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1803,
+ "count": 1804,
  "records": [
   {
    "ip": "109.160.32.109",
@@ -9914,6 +9914,24 @@
    "as_name": "BTC-GATE1",
    "country": "BW",
    "org": "Botswana Telecommunications Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "171.25.158.47",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-09T16:28:44.947841Z",
+   "last_seen": "2026-09-20T17:37:24.102533Z",
+   "asn": "AS35100 Patrik Lagerman",
+   "as_name": "PatrikWeb-Core",
+   "country": "SE",
+   "org": "Kronnet",
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
@@ -25181,7 +25199,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
