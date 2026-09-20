@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T10:45:05Z",
+ "generated": "2026-09-20T11:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1795,
+ "count": 1796,
  "records": [
   {
    "ip": "109.160.32.109",
@@ -9941,6 +9941,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "182.93.50.90",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-05T13:37:09.412429Z",
+   "last_seen": "2026-09-20T10:46:26.251296Z",
+   "asn": "AS4609 Companhia de Telecomunicacoes de Macau SARL",
+   "as_name": "CTM-MO",
+   "country": "MO",
+   "org": "CTM Internet Service",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "n18293z50l90.static.ctmip.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.45.180.140",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -17459,7 +17477,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
