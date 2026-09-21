@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T00:15:05Z",
+ "generated": "2026-09-21T00:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1806,
+ "count": 1807,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10265,6 +10265,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "46.6.127.33",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-15T10:02:27.382076Z",
+   "last_seen": "2026-09-21T00:27:56.570681Z",
+   "asn": "AS15704 XTRA TELECOM S.A.",
+   "as_name": "AS15704",
+   "country": "ES",
+   "org": "XFERA Moviles S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.47.6",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -16595,7 +16613,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25217,7 +25235,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
