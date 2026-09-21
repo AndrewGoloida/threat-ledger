@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T00:30:05Z",
+ "generated": "2026-09-21T00:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1807,
+ "count": 1810,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -236,6 +236,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "51.75.253.68",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-15T22:01:05.836416Z",
+   "last_seen": "2026-09-21T00:30:11.913529Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "vps-94085b09.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1514,6 +1532,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "62.10.174.7",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-02T13:21:03.436056Z",
+   "last_seen": "2026-09-21T00:32:44.572627Z",
+   "asn": "AS8070 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Tiscali Italia SpA",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -10013,6 +10049,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "202.145.0.18",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T16:47:07.936589Z",
+   "last_seen": "2026-09-21T00:32:11.464094Z",
+   "asn": "AS17884 PT. Uninet Media Sakti (ISP)",
+   "as_name": "UNINET-AP",
+   "country": "ID",
+   "org": "PT UniNET Media Sakti",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "203.252.10.3",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -16127,7 +16181,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16613,7 +16667,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25235,7 +25289,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
