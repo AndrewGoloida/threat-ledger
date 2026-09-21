@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T09:15:05Z",
+ "generated": "2026-09-21T09:30:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1818,
+ "count": 1820,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1622,6 +1622,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.102.46.53",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-18T17:54:31.588378Z",
+   "last_seen": "2026-09-21T09:23:20.517541Z",
+   "asn": "AS36007 Kamatera, Inc.",
+   "as_name": "KAMATERA",
+   "country": "SG",
+   "org": "Kamatera, Inc.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -9473,6 +9491,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.54.246.130",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-02T09:50:19.232306Z",
+   "last_seen": "2026-09-21T09:21:44.317533Z",
+   "asn": "AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "as_name": "IAM-AS",
+   "country": "MA",
+   "org": "Casa Marrakech 4G MarocTelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.39",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16325,7 +16361,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16811,7 +16847,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25433,7 +25469,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28349,7 +28385,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
