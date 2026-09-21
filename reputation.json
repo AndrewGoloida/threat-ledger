@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T10:15:05Z",
+ "generated": "2026-09-21T10:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1821,
+ "count": 1822,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3314,6 +3314,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.153.231.36",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-19T02:09:35.006942Z",
+   "last_seen": "2026-09-21T10:24:39.764338Z",
+   "asn": "AS60721 Bursabil Teknoloji A.S.",
+   "as_name": "bursabil",
+   "country": "TR",
+   "org": "Sahinnetwork Internet VE Bilisim Hizmetleri",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "36231.rdns.sahinnet.name.tr",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -16379,7 +16397,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25487,7 +25505,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
