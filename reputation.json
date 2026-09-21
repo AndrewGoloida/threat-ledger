@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T18:30:04Z",
+ "generated": "2026-09-21T18:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1831,
+ "count": 1832,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9761,6 +9761,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.213.238.91",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-04T23:40:27.290679Z",
+   "last_seen": "2026-09-21T18:44:04.207495Z",
+   "asn": "AS135310 Inspire Broadband",
+   "as_name": "INSPIREBROADBAND-AS-AP",
+   "country": "BD",
+   "org": "Inspire Broadband",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "103-213-238-91.inspirebroadband.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "104.152.58.233",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16559,7 +16577,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25667,7 +25685,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
