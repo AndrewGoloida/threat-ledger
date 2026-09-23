@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23T06:30:05Z",
+ "generated": "2026-09-23T06:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1851,
+ "count": 1853,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1568,6 +1568,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "139.198.113.29",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-18T16:06:27.786954Z",
+   "last_seen": "2026-09-23T06:30:23.236941Z",
+   "asn": "AS134366 Cloud Computing HK Limited",
+   "as_name": "CCHL-AS-AP",
+   "country": "HK",
+   "org": "Yunify Technologies Inc.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -9650,6 +9668,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "95.90.13.168",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-19T11:04:49.630141Z",
+   "last_seen": "2026-09-23T06:30:29.931255Z",
+   "asn": "AS3209 Vodafone GmbH",
+   "as_name": "VODANET",
+   "country": "DE",
+   "org": "Vodafone Kabel Deutschland GmbH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip-095-090-013-168.vkd79.pools.vodafone-ip.de",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
