@@ -928,7 +928,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 5.253.59.68,14,6,2026-09-01T15:36:30.408771Z,2026-09-21T04:44:05.083705Z,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,GCS-AS,NL,Neterra Ltd,False,False,False,136226.ip-ptr.tech,0,0,0
@@ -956,7 +956,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
 42.1.65.79,14,6,2026-09-03T11:04:18.154927Z,2026-09-16T03:36:00.011079Z,AS131429 MOBIFONE Corporation,MOBIFONE-AS-VN,VN,Vietnam Internet Network Information Center,False,False,False,,0,0,0
@@ -1782,7 +1782,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 190.57.233.133,12,4,2026-07-12T17:12:40.517425Z,2026-08-01T02:47:47.850764Z,AS20207 Gigared S.A.,Gigared S.A.,AR,Gigared S.A,False,False,False,,0,0,0
 190.147.234.9,12,4,2026-07-13T20:10:40.868632Z,2026-07-14T03:18:12.840525Z,AS10620 Telmex Colombia S.A.,Telmex Colombia S.A.,CO,Telmex Colombia S.A.,False,False,False,static-ip-cr1901472349.cable.net.co,0,0,0
 190.223.36.108,12,4,2026-07-09T01:23:10.674356Z,2026-08-01T10:13:17.472445Z,AS12252 America Movil Peru S.A.C.,America Movil Peru S.A.C.,PE,America Movil Peru S.A.C,False,False,False,,0,0,0
-191.55.233.246,12,4,2026-07-14T06:58:50.364628Z,2026-07-14T22:22:41.943699Z,AS53006 ALGAR TELECOM S/A,ALGAR TELECOM S/A,BR,ALGAR TELECOM S/A,False,False,False,,0,0,0
+191.55.233.246,12,4,2026-07-14T06:58:50.364628Z,2026-07-14T22:22:41.943699Z,AS53006 ALGAR TELECOM S/A,ALGAR TELECOM S/A,BR,ALGAR TELECOM S/A,False,False,False,191-055-233-246.xd-dynamic.algartelecom.com.br,0,0,0
 195.218.159.123,12,4,2026-07-13T21:04:09.840829Z,2026-08-17T05:08:33.768570Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,Sovintel EDN,False,False,False,,0,0,0
 196.0.41.134,12,4,2026-07-23T21:18:07.590264Z,2026-08-16T18:18:55.816650Z,AS21491 Uganda Telecom,Uganda-Telecom,UG,UTCL,False,False,False,,0,0,0
 196.189.59.226,12,4,2026-07-20T01:38:59.192900Z,2026-08-11T09:33:33.685556Z,AS24757 Ethio Telecom,EthioNet-AS,ET,To  BRAS DHCP AD,False,False,False,,0,0,0
