@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23T07:30:04Z",
+ "generated": "2026-09-23T07:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1853,
+ "count": 1854,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -9275,6 +9275,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "36.66.16.233",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-14T03:22:36.542936Z",
+   "last_seen": "2026-09-23T07:41:44.457082Z",
+   "asn": "AS7713 PT Telekomunikasi Indonesia",
+   "as_name": "telkomnet-as-ap",
+   "country": "ID",
+   "org": "PT. Telekomunikasi Indonesia",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "38.224.90.36",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -16613,7 +16631,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18071,7 +18089,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
