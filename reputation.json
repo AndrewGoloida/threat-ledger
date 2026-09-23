@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23T04:15:05Z",
+ "generated": "2026-09-23T04:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1849,
+ "count": 1850,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10085,6 +10085,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "120.48.90.166",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-01T14:21:02.443453Z",
+   "last_seen": "2026-09-23T04:15:25.006902Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "123.252.249.190",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -16541,7 +16559,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25955,7 +25973,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28907,7 +28925,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
