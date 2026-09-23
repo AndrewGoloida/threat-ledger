@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23T11:15:05Z",
+ "generated": "2026-09-23T11:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1855,
+ "count": 1857,
  "records": [
   {
    "ip": "109.160.32.157",
@@ -1526,6 +1526,24 @@
    "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
    "country": "ZA",
    "org": "Microsoft Azure Cloud (southafricanorth)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "5.253.38.188",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-11T05:00:17.834845Z",
+   "last_seen": "2026-09-23T11:24:25.382235Z",
+   "asn": "AS7488 CNServer LLC",
+   "as_name": "CNSERVER-AP-AS",
+   "country": "US",
+   "org": "Securewan",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
@@ -9311,6 +9329,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "38.22.170.10",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T09:16:53.810606Z",
+   "last_seen": "2026-09-23T11:18:03.489390Z",
+   "asn": "AS270133 Fiberwifi SA de CV",
+   "as_name": "Fiberwifi SA de CV",
+   "country": "MX",
+   "org": "Fiberwifi SA De CV",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "38.224.90.36",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -16649,7 +16685,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17153,7 +17189,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
