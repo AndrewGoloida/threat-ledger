@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-24T21:00:05Z",
+ "generated": "2026-09-24T21:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1876,
+ "count": 1877,
  "records": [
   {
    "ip": "109.160.32.79",
@@ -9923,6 +9923,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "78.44.192.210",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-05T14:16:41.089963Z",
+   "last_seen": "2026-09-24T21:07:26.996524Z",
+   "asn": "AS16019 Vodafone Czech Republic a.s.",
+   "as_name": "VODAFONE-CZ-AS",
+   "country": "CZ",
+   "org": "UPC Broadband",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static-78-44-192-210.bb.vodafone.cz",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.137.242.4",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -17747,7 +17765,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18287,7 +18305,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26819,7 +26837,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
