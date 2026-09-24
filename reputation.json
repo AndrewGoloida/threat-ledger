@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-24T03:45:05Z",
+ "generated": "2026-09-24T04:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1865,
+ "count": 1866,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2809,6 +2809,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "45.43.60.98",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-14T01:50:23.211427Z",
+   "last_seen": "2026-09-24T03:46:43.683432Z",
+   "asn": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+   "as_name": "UCLOUD-HK-AS-AP",
+   "country": "JP",
+   "org": "UCLOUD",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "paifrtoyibbdx.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -18215,7 +18233,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26243,7 +26261,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
