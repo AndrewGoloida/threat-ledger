@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-24T05:30:05Z",
+ "generated": "2026-09-24T05:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1870,
+ "count": 1871,
  "records": [
+  {
+   "ip": "109.160.32.79",
+   "reputation_score": 52,
+   "honeypot_attempts": 35,
+   "first_seen": "2026-09-24T04:32:19.235023Z",
+   "last_seen": "2026-09-24T05:36:59.977923Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 35,
+   "command_count": 35,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -16793,7 +16811,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18305,7 +18323,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26333,7 +26351,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
