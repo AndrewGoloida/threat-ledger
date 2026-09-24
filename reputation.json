@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T00:00:05Z",
+ "generated": "2026-09-24T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1864,
@@ -13607,7 +13607,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "buenosnet.static.gvt.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -13787,7 +13787,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14.140.205.174.STATIC-Delhi-vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16451,7 +16451,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host-191-241-142-170.red.paralelo46.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16937,7 +16937,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14.141.157.218.static-Delhi.vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17315,7 +17315,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18269,7 +18269,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21545,7 +21545,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "",
+   "rdns": "mail.inpa.com.bo",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25487,7 +25487,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "customer-187-49-63-51.f1net.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
