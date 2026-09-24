@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-24T05:00:05Z",
+ "generated": "2026-09-24T05:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1867,
+ "count": 1870,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1532,6 +1532,42 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "57.128.239.181",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-22T13:26:14.826725Z",
+   "last_seen": "2026-09-24T05:04:41.311087Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "PL",
+   "org": "OVH Sp. z o. o",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-575c999b.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "69.49.246.176",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-22T12:15:02.684895Z",
+   "last_seen": "2026-09-24T05:11:40.918539Z",
+   "asn": "AS19871 Network Solutions, LLC",
+   "as_name": "NETWORK-SOLUTIONS-HOSTING",
+   "country": "US",
+   "org": "Newfold Digital, Inc.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "69-49-246-176.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -8948,6 +8984,24 @@
    "rdns": "ns371313.ip-5-135-137.eu",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "14.103.105.40",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-21T09:03:45.633547Z",
+   "last_seen": "2026-09-24T05:08:50.788021Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Bitone United Networks Technology Service Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -16739,7 +16793,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18251,7 +18305,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26279,7 +26333,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
