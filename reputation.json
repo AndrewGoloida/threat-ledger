@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-24T11:30:04Z",
+ "generated": "2026-09-24T11:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1871,
+ "count": 1872,
  "records": [
   {
    "ip": "109.160.32.79",
@@ -10103,6 +10103,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "106.51.92.114",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-23T05:13:54.558142Z",
+   "last_seen": "2026-09-24T11:39:03.103909Z",
+   "asn": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
+   "as_name": "CABLELITE-AS-AP",
+   "country": "IN",
+   "org": "Atria Convergence Technologies Pvt. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "106.51.92.114.actcorp.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.17",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14597,7 +14615,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18323,7 +18341,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31427,7 +31445,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
