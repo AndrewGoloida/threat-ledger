@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T14:45:04Z",
+ "generated": "2026-09-25T15:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1889,
+ "count": 1891,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10265,6 +10265,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.191.14.210",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-01T09:21:15.215944Z",
+   "last_seen": "2026-09-25T14:57:33.712784Z",
+   "asn": "AS38513 PT Aplikanusa Lintasarta",
+   "as_name": "LINTASARTA-AS-ID",
+   "country": "ID",
+   "org": "PT NAWASENA WASA ANUGERAH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "104.152.58.233",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -10604,6 +10622,24 @@
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "125.31.2.160",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-26T09:28:00.929455Z",
+   "last_seen": "2026-09-25T14:58:17.194639Z",
+   "asn": "AS4609 Companhia de Telecomunicacoes de Macau SARL",
+   "as_name": "CTM-MO",
+   "country": "MO",
+   "org": "CTM Internet Service",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "n12531z2l160.static.ctmip.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14561,7 +14597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15551,7 +15587,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18449,7 +18485,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26189,7 +26225,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30887,7 +30923,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31949,7 +31985,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
