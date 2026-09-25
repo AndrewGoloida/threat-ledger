@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T16:45:05Z",
+ "generated": "2026-09-25T17:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1891,
+ "count": 1893,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1652,6 +1652,24 @@
    "as_name": "TENCENT-NET-AP-CN",
    "country": "SG",
    "org": "Aceville Pte.ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "152.32.174.171",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-06-24T04:14:47.601950Z",
+   "last_seen": "2026-09-25T16:56:17.944878Z",
+   "asn": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+   "as_name": "UCLOUD-HK-AS-AP",
+   "country": "HK",
+   "org": "Ucloud Information Technology (hk) Limited",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
@@ -10931,6 +10949,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "182.70.255.242",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-24T12:04:33.671169Z",
+   "last_seen": "2026-09-25T16:51:57.916571Z",
+   "asn": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+   "as_name": "AIRTELBROADBAND-AS-AP",
+   "country": "IN",
+   "org": "Bharti Airtel Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "abts-mp-dynamic-242.255.70.182.airtelbroadband.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.45.180.140",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14093,7 +14129,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "125-209-88-139.multi.net.pk",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29987,7 +30023,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
