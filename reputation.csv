@@ -148,7 +148,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 130.12.182.227,33,5,2026-08-09T00:49:01.722409Z,2026-08-09T16:50:05.719504Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,True,False,,0,0,0
 138.68.152.76,33,5,2026-07-25T18:04:41.817950Z,2026-07-25T18:13:39.054437Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 157.245.69.40,33,13,2026-07-12T23:07:26.009749Z,2026-07-12T23:38:11.761283Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,0,0,0
-159.138.88.16,33,5,2026-08-27T12:45:26.101222Z,2026-08-27T14:05:47.598229Z,AS136907 HUAWEI CLOUDS,HWCLOUDS-AS-AP,SG,Huawei International Pte. LTD,True,True,False,,0,0,0
+159.138.88.16,33,5,2026-08-27T12:45:26.101222Z,2026-08-27T14:05:47.598229Z,AS136907 HUAWEI CLOUDS,HWCLOUDS-AS-AP,SG,Huawei International Pte. LTD,True,True,False,ecs-159-138-88-16.compute.hwclouds-dns.com,0,0,0
 185.242.3.121,33,5,2026-07-06T02:10:26.008079Z,2026-08-09T00:49:52.286539Z,"AS401626 Netiface America, Inc.",NETIFACE-TORONTO,DE,Ghosty Networks LLC,True,True,False,,0,0,0
 5.144.179.246,32,4,2026-08-10T20:04:40.629188Z,2026-08-10T20:05:09.187163Z,AS56971 AS56971 Cloud,AS56971,LV,CGI GLOBAL LIMITED,True,True,False,,0,0,0
 20.84.101.167,32,4,2026-07-13T17:50:26.811016Z,2026-07-14T21:27:15.394096Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,True,False,,0,0,0
@@ -425,7 +425,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 136.248.121.226,26,6,2026-08-17T01:04:23.348814Z,2026-09-19T09:07:55.763068Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,BR,Oracle Cloud Infrastructure (sa-saopaulo-1),True,False,False,,0,0,0
 136.248.242.166,26,6,2026-07-27T12:44:29.024397Z,2026-08-12T16:38:47.740803Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,CL,Oracle Cloud Infrastructure (sa-santiago-1),True,False,False,,0,0,0
 139.59.208.49,26,6,2026-07-15T04:03:47.110056Z,2026-07-24T12:49:02.702320Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,DE,"DigitalOcean, LLC",True,False,False,,0,0,0
-139.159.142.7,26,6,2026-08-01T12:17:41.179401Z,2026-09-12T10:07:02.073611Z,AS55990 Huawei Cloud Service data center,HWCSNET,CN,Huawei Public Cloud Service,True,False,False,,0,0,0
+139.159.142.7,26,6,2026-08-01T12:17:41.179401Z,2026-09-12T10:07:02.073611Z,AS55990 Huawei Cloud Service data center,HWCSNET,CN,Huawei Public Cloud Service,True,False,False,ecs-139-159-142-7.compute.hwclouds-dns.com,0,0,0
 139.198.113.29,26,6,2026-09-18T16:06:27.786954Z,2026-09-23T06:30:23.236941Z,AS134366 Cloud Computing HK Limited,CCHL-AS-AP,HK,Yunify Technologies Inc.,True,False,False,,0,0,0
 144.225.187.57,26,6,2026-07-21T10:44:37.046301Z,2026-08-01T17:46:39.609372Z,AS7488 CNServer LLC,CNSERVER-AP-AS,US,CNServer LLC,True,False,False,,0,0,0
 144.225.187.68,26,6,2026-08-14T01:05:01.061176Z,2026-08-14T02:59:31.920862Z,AS7488 CNServer LLC,CNSERVER-AP-AS,US,CNServer LLC,True,False,False,,0,0,0
@@ -1080,7 +1080,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 79.3.96.178,14,6,2026-08-12T08:19:44.450353Z,2026-09-02T07:38:56.577228Z,AS3269 Telecom Italia S.p.A.,ASN-IBSNAZ,IT,INTERBUSINESS,False,False,False,host-79-3-96-178.business.telecomitalia.it,0,0,0
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
 82.193.122.91,14,6,2026-07-07T22:10:36.255711Z,2026-07-27T18:05:28.583155Z,AS25521 Industrial Media Network LLC,AS-IPNET,UA,IPNETUA,False,False,False,82.193.122.91.cl.ipnet.ua,0,0,0
