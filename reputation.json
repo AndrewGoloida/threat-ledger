@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T12:15:05Z",
+ "generated": "2026-09-25T12:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1883,
+ "count": 1885,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1517,6 +1517,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "43.134.85.158",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-13T12:49:34.001018Z",
+   "last_seen": "2026-09-25T12:25:23.983852Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "SG",
+   "org": "Tencent Cloud Computing",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.226.37.32",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -1766,6 +1784,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "78.135.111.65",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-22T20:53:41.251491Z",
+   "last_seen": "2026-09-25T12:28:39.081446Z",
+   "asn": "AS47585 Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi",
+   "as_name": "YIGITHOSTING",
+   "country": "TR",
+   "org": "Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "bunen.store",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13877,7 +13913,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15641,7 +15677,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16901,7 +16937,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17189,7 +17225,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22013,7 +22049,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26081,7 +26117,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30779,7 +30815,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
