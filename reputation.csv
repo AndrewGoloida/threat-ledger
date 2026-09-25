@@ -148,7 +148,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 130.12.182.227,33,5,2026-08-09T00:49:01.722409Z,2026-08-09T16:50:05.719504Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,True,False,,0,0,0
 138.68.152.76,33,5,2026-07-25T18:04:41.817950Z,2026-07-25T18:13:39.054437Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 157.245.69.40,33,13,2026-07-12T23:07:26.009749Z,2026-07-12T23:38:11.761283Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,0,0,0
-159.138.88.16,33,5,2026-08-27T12:45:26.101222Z,2026-08-27T14:05:47.598229Z,AS136907 HUAWEI CLOUDS,HWCLOUDS-AS-AP,SG,Huawei International Pte. LTD,True,True,False,ecs-159-138-88-16.compute.hwclouds-dns.com,0,0,0
+159.138.88.16,33,5,2026-08-27T12:45:26.101222Z,2026-08-27T14:05:47.598229Z,AS136907 HUAWEI CLOUDS,HWCLOUDS-AS-AP,SG,Huawei International Pte. LTD,True,True,False,,0,0,0
 185.242.3.121,33,5,2026-07-06T02:10:26.008079Z,2026-08-09T00:49:52.286539Z,"AS401626 Netiface America, Inc.",NETIFACE-TORONTO,DE,Ghosty Networks LLC,True,True,False,,0,0,0
 5.144.179.246,32,4,2026-08-10T20:04:40.629188Z,2026-08-10T20:05:09.187163Z,AS56971 AS56971 Cloud,AS56971,LV,CGI GLOBAL LIMITED,True,True,False,,0,0,0
 20.84.101.167,32,4,2026-07-13T17:50:26.811016Z,2026-07-14T21:27:15.394096Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Microsoft Azure Cloud (eastus),True,True,False,,0,0,0
@@ -425,7 +425,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 136.248.121.226,26,6,2026-08-17T01:04:23.348814Z,2026-09-19T09:07:55.763068Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,BR,Oracle Cloud Infrastructure (sa-saopaulo-1),True,False,False,,0,0,0
 136.248.242.166,26,6,2026-07-27T12:44:29.024397Z,2026-08-12T16:38:47.740803Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,CL,Oracle Cloud Infrastructure (sa-santiago-1),True,False,False,,0,0,0
 139.59.208.49,26,6,2026-07-15T04:03:47.110056Z,2026-07-24T12:49:02.702320Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,DE,"DigitalOcean, LLC",True,False,False,,0,0,0
-139.159.142.7,26,6,2026-08-01T12:17:41.179401Z,2026-09-12T10:07:02.073611Z,AS55990 Huawei Cloud Service data center,HWCSNET,CN,Huawei Public Cloud Service,True,False,False,ecs-139-159-142-7.compute.hwclouds-dns.com,0,0,0
+139.159.142.7,26,6,2026-08-01T12:17:41.179401Z,2026-09-12T10:07:02.073611Z,AS55990 Huawei Cloud Service data center,HWCSNET,CN,Huawei Public Cloud Service,True,False,False,,0,0,0
 139.198.113.29,26,6,2026-09-18T16:06:27.786954Z,2026-09-23T06:30:23.236941Z,AS134366 Cloud Computing HK Limited,CCHL-AS-AP,HK,Yunify Technologies Inc.,True,False,False,,0,0,0
 144.225.187.57,26,6,2026-07-21T10:44:37.046301Z,2026-08-01T17:46:39.609372Z,AS7488 CNServer LLC,CNSERVER-AP-AS,US,CNServer LLC,True,False,False,,0,0,0
 144.225.187.68,26,6,2026-08-14T01:05:01.061176Z,2026-08-14T02:59:31.920862Z,AS7488 CNServer LLC,CNSERVER-AP-AS,US,CNServer LLC,True,False,False,,0,0,0
@@ -998,7 +998,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 222.186.68.153,15,7,2026-07-10T20:19:31.359127Z,2026-07-25T05:40:51.916481Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 223.107.72.234,15,7,2026-07-11T07:50:47.041064Z,2026-07-28T23:16:57.748711Z,AS56046 China Mobile communications corporation,CMNET-Jiangsu-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 5.253.59.68,14,6,2026-09-01T15:36:30.408771Z,2026-09-21T04:44:05.083705Z,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,GCS-AS,NL,Neterra Ltd,False,False,False,136226.ip-ptr.tech,0,0,0
@@ -1029,7 +1029,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.215.133.245,14,6,2026-07-16T16:01:50.269390Z,2026-08-28T13:49:48.068340Z,AS36866 Jamii Telecommunications Limited,JTL,KE,FAIBA,False,False,False,,0,0,0
