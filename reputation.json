@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T21:45:06Z",
+ "generated": "2026-09-25T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1895,
+ "count": 1897,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -686,6 +686,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.11",
+   "reputation_score": 42,
+   "honeypot_attempts": 12,
+   "first_seen": "2026-09-25T20:40:53.309837Z",
+   "last_seen": "2026-09-25T21:45:38.554890Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 12,
+   "command_count": 11,
    "download_url_count": 0
   },
   {
@@ -1604,6 +1622,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "95.182.95.244",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-21T09:37:07.099111Z",
+   "last_seen": "2026-09-25T21:55:41.753884Z",
+   "asn": "AS211273 Cloud Software - FZCO",
+   "as_name": "csoft",
+   "country": "AE",
+   "org": "Cloud Software - FZCO",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -17999,7 +18035,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18557,7 +18593,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19475,7 +19511,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
