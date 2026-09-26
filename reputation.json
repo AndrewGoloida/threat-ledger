@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T00:00:05Z",
+ "generated": "2026-09-26T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 1898,
@@ -11051,7 +11051,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "200-159-14-187.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15119,7 +15119,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14.140.205.174.STATIC-Delhi-vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16001,7 +16001,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-103-136-43.static.tie.cl",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16109,7 +16109,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ms.e.006.mb.rw",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16181,7 +16181,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "18.201-148-65.bestelclientes.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18197,7 +18197,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14.141.157.218.static-Delhi.vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18305,7 +18305,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ns2.revlv.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18611,7 +18611,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23147,7 +23147,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "170.193.235.186.in-addr.arpa.verointernet.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29987,7 +29987,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "103.82.25.77.cloudfly.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33083,7 +33083,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-200-105-141-172.acelerate.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
