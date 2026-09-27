@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-27T14:30:05Z",
+ "generated": "2026-09-27T14:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1919,
+ "count": 1920,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10103,6 +10103,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.78.202.217",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-28T16:07:15.126151Z",
+   "last_seen": "2026-09-27T14:35:21.635703Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "SG",
+   "org": "Byteplus Pte. Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.153.34.151",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -18701,7 +18719,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19655,7 +19673,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
