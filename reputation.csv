@@ -1035,7 +1035,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
 41.181.156.205,14,6,2026-07-18T16:56:43.973986Z,2026-09-26T22:52:19.174784Z,AS16637 MTN SA,MTNNS-AS,ZA,MTN Business SA,False,False,True,routemasterapp.routemaster.co.za,0,0,0
@@ -1394,7 +1394,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 36.93.154.207,13,5,2026-07-09T18:38:56.381417Z,2026-07-27T18:54:31.329333Z,AS7713 PT Telekomunikasi Indonesia,telkomnet-as-ap,ID,HSI Indihome,False,False,False,,0,0,0
 37.238.45.202,13,5,2026-07-19T11:21:06.800346Z,2026-07-29T14:20:49.077857Z,AS199739 Earthlink Telecommunications Equipment Trading & Services DMCC,Earthlink-DMCC-IQ,IQ,Hulum,False,False,False,,0,0,0
 39.164.94.190,13,5,2026-07-10T05:15:05.018830Z,2026-07-29T09:35:17.417225Z,"AS24445 Henan Mobile Communications Co.,Ltd",CMNET-V4henan-AS-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
-41.74.91.200,13,5,2026-08-07T10:08:24.672423Z,2026-08-07T10:46:11.065343Z,"AS37263 University of Education, Winneba",UNIVEDU,GH,"University of Education, Winneba",False,False,False,vclass.uew.edu.gh,0,0,0
+41.74.91.200,13,5,2026-08-07T10:08:24.672423Z,2026-08-07T10:46:11.065343Z,"AS37263 University of Education, Winneba",UNIVEDU,GH,"University of Education, Winneba",False,False,False,,0,0,0
 41.208.147.131,13,5,2026-08-17T03:11:02.888013Z,2026-09-22T08:52:47.376714Z,AS8346 SONATEL-AS Autonomous System,SONATEL,SN,Sonatel,False,False,False,,0,0,0
 41.231.85.75,13,5,2026-07-09T21:11:22.468059Z,2026-07-18T19:52:19.107274Z,AS37705 TOPNET,TOPNET,TN,ATI - Agence Tunisienne Internet,False,False,False,,0,0,0
 46.77.69.201,13,5,2026-07-24T12:28:28.128378Z,2026-08-14T16:42:11.897803Z,AS8374 Polkomtel Sp. z o.o.,PLUSNET,PL,Polkomtel Sp. z o.o,False,False,True,apn-46-77-69-201.static.gprs.plus.pl,0,0,0
