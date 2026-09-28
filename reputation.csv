@@ -1,4 +1,5 @@
 ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,org,is_hosting,is_proxy,is_mobile,rdns,command_count,creds_tried_count,download_url_count
+109.160.32.116,52,24,2026-09-28T03:58:47.630631Z,2026-09-28T05:01:36.322155Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,24,24,0
 2.57.121.25,50,841,2026-06-24T11:50:38.355056Z,2026-07-30T03:44:24.290157Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,GB,Unmanaged LTD,True,True,False,hosting25.tronicsat.com,0,0,0
 2.57.121.112,50,621,2026-06-24T11:51:17.735885Z,2026-07-30T04:20:16.203413Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,GB,Unmanaged LTD,True,True,False,dns112.personaliseplus.com,0,0,0
 2.57.122.238,50,770,2026-07-02T10:03:45.105847Z,2026-07-29T22:40:01.862139Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,True,False,,0,0,0
@@ -119,7 +120,6 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 107.180.88.176,34,6,2026-08-16T14:58:47.725444Z,2026-09-01T10:44:46.023001Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,True,False,176.88.180.107.host.secureserver.net,0,0,0
 107.189.28.96,34,6,2026-08-13T07:03:17.259051Z,2026-09-09T10:53:24.514301Z,AS53667 FranTech Solutions,PONYNET,LU,FranTech Solutions,True,True,False,,0,0,0
 109.160.32.43,34,14,2026-09-22T00:55:48.122249Z,2026-09-22T02:00:37.475449Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,0,0,0
-109.160.32.116,34,4,2026-09-28T03:58:47.630631Z,2026-09-28T05:00:01.658036Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,24,24,0
 138.197.197.27,34,6,2026-09-01T14:06:09.791474Z,2026-09-01T14:20:15.386676Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,Digital Ocean,True,True,False,,0,0,0
 157.245.44.97,34,6,2026-08-28T19:35:59.679621Z,2026-08-28T19:46:10.443000Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 160.153.189.18,34,6,2026-08-13T17:22:19.508722Z,2026-08-19T00:50:27.830067Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,True,False,18.189.153.160.host.secureserver.net,0,0,0
@@ -1095,7 +1095,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 79.3.96.178,14,6,2026-08-12T08:19:44.450353Z,2026-09-02T07:38:56.577228Z,AS3269 Telecom Italia S.p.A.,ASN-IBSNAZ,IT,INTERBUSINESS,False,False,False,host-79-3-96-178.business.telecomitalia.it,0,0,0
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
 82.193.122.91,14,6,2026-07-07T22:10:36.255711Z,2026-07-27T18:05:28.583155Z,AS25521 Industrial Media Network LLC,AS-IPNET,UA,IPNETUA,False,False,False,82.193.122.91.cl.ipnet.ua,0,0,0
