@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28T10:15:05Z",
+ "generated": "2026-09-28T10:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1932,
+ "count": 1933,
  "records": [
   {
    "ip": "109.160.32.116",
@@ -11305,6 +11305,24 @@
    "is_mobile": false,
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "193.24.211.218",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-05T18:29:46.479300Z",
+   "last_seen": "2026-09-28T10:19:07.664232Z",
+   "asn": "AS215929 Data Campus Limited",
+   "as_name": "datacampus",
+   "country": "HK",
+   "org": "Data Campus Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
