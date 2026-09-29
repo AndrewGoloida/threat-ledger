@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T05:45:05Z",
+ "generated": "2026-09-29T06:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1949,
+ "count": 1950,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11813,6 +11813,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.159.199.43",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-24T10:13:02.168694Z",
+   "last_seen": "2026-09-29T05:58:29.151352Z",
+   "asn": "AS131111 PT Mora Telematika Indonesia",
+   "as_name": "CEPATNET-AS-ID",
+   "country": "ID",
+   "org": "MORATELINDONAP",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip-103-159-199-43.moratelindo.net.id",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "112.194.142.167",
    "reputation_score": 23,
    "honeypot_attempts": 7,
@@ -18467,7 +18485,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19043,7 +19061,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
