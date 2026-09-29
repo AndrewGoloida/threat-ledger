@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T11:45:05Z",
+ "generated": "2026-09-29T12:00:04Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1955,
+ "count": 1956,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3656,6 +3656,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "119.96.159.237",
+   "reputation_score": 31,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-02T13:22:15.671915Z",
+   "last_seen": "2026-09-29T11:59:09.326842Z",
+   "asn": "AS58563 CHINANET Hubei province network",
+   "as_name": "CHINATELECOM-Hubei-IDC",
+   "country": "CN",
+   "org": "Chinanet HB",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19151,7 +19169,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28133,7 +28151,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31103,7 +31121,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
