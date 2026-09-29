@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T20:15:04Z",
+ "generated": "2026-09-29T20:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1961,
+ "count": 1965,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1728,6 +1728,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "166.62.41.190",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T06:38:09.667984Z",
+   "last_seen": "2026-09-29T20:17:34.896732Z",
+   "asn": "AS398101 GoDaddy.com, LLC",
+   "as_name": "GO-DADDY-COM-LLC",
+   "country": "US",
+   "org": "GoDaddy.com, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "190.41.62.166.host.secureserver.net",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -10589,6 +10607,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.232.225.49",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-10T05:44:24.512180Z",
+   "last_seen": "2026-09-29T20:18:48.191849Z",
+   "asn": "AS267278 PROVEDOR BAKANAS.NET LTDA",
+   "as_name": "PROVEDOR BAKANAS.NET LTDA",
+   "country": "BR",
+   "org": "Provedor Bakanas.net Ltda",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "52.168.108.215",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -10802,6 +10838,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "95.165.140.133",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-24T18:18:21.367527Z",
+   "last_seen": "2026-09-29T20:26:28.446064Z",
+   "asn": "AS25513 PJSC Moscow city telephone network",
+   "as_name": "ASN-MGTS-USPD",
+   "country": "RU",
+   "org": "OAO Mgts)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -11484,6 +11538,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "v160-251-202-248.1prz.static.cnode.jp",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "161.132.37.136",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-24T16:46:27.403687Z",
+   "last_seen": "2026-09-29T20:21:14.278294Z",
+   "asn": "AS3132 Red Cientifica Peruana",
+   "as_name": "Red Cientifica Peruana",
+   "country": "PE",
+   "org": "Red Cientifica Peruana",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -18683,7 +18755,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19259,7 +19331,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
