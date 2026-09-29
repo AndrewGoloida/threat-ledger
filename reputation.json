@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T07:30:05Z",
+ "generated": "2026-09-29T07:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1950,
+ "count": 1951,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11489,6 +11489,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "186.68.83.105",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-04T13:45:15.533675Z",
+   "last_seen": "2026-09-29T07:35:37.229753Z",
+   "asn": "AS14522 SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC)",
+   "as_name": "SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC)",
+   "country": "EC",
+   "org": "Satnet Gye Coorp CM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "105.cpe-186-68-83.gye.satnet.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.45.180.140",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -18485,7 +18503,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19061,7 +19079,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28043,7 +28061,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
