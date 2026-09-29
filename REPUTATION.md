@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1944 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1945 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-09-29T01:30:05Z · 555 from hosting/datacenter ranges · 0 progressed to running commands.
+Generated 2026-09-29T01:45:05Z · 570 from hosting/datacenter ranges · 1 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,16 +13,16 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 260 |
-| US | 220 |
-| IN | 174 |
+| CN | 286 |
+| US | 221 |
+| IN | 190 |
 | NL | 121 |
-| KR | 90 |
-| VN | 78 |
-| RU | 70 |
-| HK | 69 |
+| KR | 93 |
+| VN | 79 |
+| RU | 71 |
+| HK | 71 |
+| BR | 64 |
 | TW | 57 |
-| BR | 55 |
 
 ## Top source networks (ASN)
 
@@ -30,11 +30,11 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 |---------|-----|
 | TECHTIES-AS | 132 |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 109 |
-| CHINANET-BACKBONE | 84 |
+| CHINANET-BACKBONE | 93 |
 | CHINA169-Backbone | 52 |
-| KIXS-AS-KR | 49 |
+| KIXS-AS-KR | 51 |
 | DIGITALOCEAN-ASN | 46 |
+| CHINAMOBILE-CN | 35 |
 | HulumTele | 34 |
-| CHINAMOBILE-CN | 31 |
 | EMOME-NET | 29 |
 | OVH | 27 |
