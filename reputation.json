@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T07:00:05Z",
+ "generated": "2026-09-30T07:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1971,
+ "count": 1972,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18611,7 +18611,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19205,7 +19205,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20249,7 +20249,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33409,6 +33409,24 @@
    "is_mobile": false,
    "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "171.243.149.238",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-30T07:02:12.017370Z",
+   "last_seen": "2026-09-30T07:02:33.376102Z",
+   "asn": "AS7552 Viettel Group",
+   "as_name": "VIETEL-AS-AP",
+   "country": "VN",
+   "org": "VIETEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
