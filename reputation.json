@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T01:45:06Z",
+ "generated": "2026-09-30T02:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1969,
+ "count": 1970,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -218,6 +218,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.171",
+   "reputation_score": 47,
+   "honeypot_attempts": 17,
+   "first_seen": "2026-09-30T00:43:02.412838Z",
+   "last_seen": "2026-09-30T01:45:43.563286Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 17,
+   "command_count": 17,
    "download_url_count": 0
   },
   {
@@ -19169,7 +19187,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20213,7 +20231,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
