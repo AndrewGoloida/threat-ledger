@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T16:45:05Z",
+ "generated": "2026-09-30T17:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1974,
+ "count": 1975,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11628,6 +11628,24 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "nsg-static-214.115.76.182-airtel.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.158.22.150",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-16T18:49:11.451059Z",
+   "last_seen": "2026-09-30T16:47:46.974687Z",
+   "asn": "AS210022 Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",
+   "as_name": "Iraqcell",
+   "country": "IQ",
+   "org": "Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -27575,7 +27593,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28439,7 +28457,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
