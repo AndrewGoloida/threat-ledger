@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T21:45:05Z",
+ "generated": "2026-09-30T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1978,
+ "count": 1982,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1640,6 +1640,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "20.13.164.162",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-20T11:49:07.433367Z",
+   "last_seen": "2026-09-30T21:50:47.789294Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "IE",
+   "org": "Microsoft Azure Cloud (northeurope)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -11417,6 +11435,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "139.185.55.154",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-08T08:06:15.945128Z",
+   "last_seen": "2026-09-30T21:52:51.307194Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "AE",
+   "org": "Oracle Cloud Infrastructure (me-dubai-1)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "143.244.155.71",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -12083,6 +12119,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "196.189.155.89",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-07-24T22:05:01.442646Z",
+   "last_seen": "2026-09-30T21:46:23.044991Z",
+   "asn": "AS24757 Ethio Telecom",
+   "as_name": "EthioNet-AS",
+   "country": "ET",
+   "org": "Ethiotelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -12116,6 +12170,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "59.144.92.154",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-05T22:01:13.382835Z",
+   "last_seen": "2026-09-30T21:58:06.364064Z",
+   "asn": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+   "as_name": "AIRTELBROADBAND-AS-AP",
+   "country": "IN",
+   "org": "Bharti Airtel Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dsl-ap-static-154.92.144.59.airtelbroadband.in",
+   "creds_tried_count": 1,
+   "command_count": 20,
    "download_url_count": 0
   },
   {
@@ -20339,7 +20411,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28511,7 +28583,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
