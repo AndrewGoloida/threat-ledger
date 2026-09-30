@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T18:15:05Z",
+ "generated": "2026-09-30T18:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1975,
+ "count": 1977,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -290,6 +290,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.115",
+   "reputation_score": 44,
+   "honeypot_attempts": 14,
+   "first_seen": "2026-09-30T17:23:09.112074Z",
+   "last_seen": "2026-09-30T18:25:58.972525Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 14,
+   "command_count": 14,
    "download_url_count": 0
   },
   {
@@ -1658,6 +1676,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "80.251.156.20",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-28T18:17:31.810686Z",
+   "last_seen": "2026-09-30T18:27:06.331740Z",
+   "asn": "AS209024 MTS PJSC",
+   "as_name": "MTS-CLOUD-A",
+   "country": "RU",
+   "org": "IT-GRAD 1Cloud LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -18647,7 +18683,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27161,7 +27197,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28457,7 +28493,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
