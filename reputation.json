@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-01T16:30:05Z",
+ "generated": "2026-10-01T16:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2002,
+ "count": 2005,
  "records": [
   {
    "ip": "77.239.124.156",
@@ -20,6 +20,24 @@
    "rdns": "",
    "creds_tried_count": 24,
    "command_count": 24,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.108",
+   "reputation_score": 52,
+   "honeypot_attempts": 30,
+   "first_seen": "2026-10-01T15:34:16.217744Z",
+   "last_seen": "2026-10-01T16:36:58.685287Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 30,
+   "command_count": 30,
    "download_url_count": 0
   },
   {
@@ -11201,6 +11219,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.63.108.25",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-18T07:15:29.400335Z",
+   "last_seen": "2026-10-01T16:31:01.610214Z",
+   "asn": "AS38732 CMC Telecom Infrastructure Company",
+   "as_name": "CMCTELECOM-VN",
+   "country": "VN",
+   "org": "CMCHAIPHONG",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.cmcti.vn",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.151.234.129",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -11972,6 +12008,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "189.190.143.229",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-29T22:52:59.037514Z",
+   "last_seen": "2026-10-01T16:34:29.528760Z",
+   "asn": "AS8151 Uninet S.A. de C.V.",
+   "as_name": "UNINET",
+   "country": "MX",
+   "org": "Gesti\u00f3n de direccionamiento UniNet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dsl-229-143-190-189-dynamic.prod-infinitum.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -20663,7 +20717,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28925,7 +28979,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
