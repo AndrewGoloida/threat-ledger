@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-01T16:15:06Z",
+ "generated": "2026-10-01T16:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2001,
+ "count": 2002,
  "records": [
+  {
+   "ip": "77.239.124.156",
+   "reputation_score": 52,
+   "honeypot_attempts": 24,
+   "first_seen": "2026-10-01T15:23:48.709866Z",
+   "last_seen": "2026-10-01T16:26:45.868432Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "FR",
+   "org": "RocketCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 24,
+   "command_count": 24,
+   "download_url_count": 0
+  },
   {
    "ip": "109.160.32.170",
    "reputation_score": 52,
@@ -16091,7 +16109,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-158.128.194.14-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19277,7 +19295,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-154.102.107.27-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19601,7 +19619,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26675,7 +26693,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-172.84.12.61-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26693,7 +26711,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "mail.tataidc.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28907,7 +28925,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29681,7 +29699,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-50.197.248.49-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
