@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-01T18:15:05Z",
+ "generated": "2026-10-01T18:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2005,
+ "count": 2006,
  "records": [
   {
    "ip": "77.239.124.156",
@@ -12047,6 +12047,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "197.248.207.142",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-13T02:53:55.835232Z",
+   "last_seen": "2026-10-01T18:26:08.223010Z",
+   "asn": "AS37061 Safaricom Limited",
+   "as_name": "Safaricom",
+   "country": "KE",
+   "org": "Safaricom Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "197-248-207-142.safaricombusiness.co.ke",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.159.14.187",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -19079,7 +19097,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
