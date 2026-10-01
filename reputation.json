@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-01T21:15:05Z",
+ "generated": "2026-10-01T21:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2009,
+ "count": 2010,
  "records": [
   {
    "ip": "77.239.124.156",
@@ -1760,6 +1760,24 @@
    "as_name": "VNPT-AS-VN",
    "country": "VN",
    "org": "Suncloud Technology Infrastructure Joint Stock Company",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "104.248.160.169",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-01T00:59:59.606710Z",
+   "last_seen": "2026-10-01T21:19:50.322249Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "GB",
+   "org": "DigitalOcean, LLC",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
