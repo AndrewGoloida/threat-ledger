@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**1987 IPs** that made repeated unauthenticated SSH login attempts against a public
+**1988 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-01T04:30:05Z · 588 from hosting/datacenter ranges · 4 progressed to running commands.
+Generated 2026-10-01T04:45:05Z · 589 from hosting/datacenter ranges · 5 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -14,7 +14,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | Country | IPs |
 |---------|-----|
 | CN | 290 |
-| US | 229 |
+| US | 230 |
 | IN | 192 |
 | NL | 122 |
 | KR | 95 |
@@ -33,7 +33,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | CHINANET-BACKBONE | 93 |
 | CHINA169-Backbone | 52 |
 | KIXS-AS-KR | 52 |
-| DIGITALOCEAN-ASN | 46 |
+| DIGITALOCEAN-ASN | 47 |
 | CHINAMOBILE-CN | 35 |
 | HulumTele | 34 |
 | UCLOUD-HK-AS-AP | 29 |
