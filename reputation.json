@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-01T02:45:05Z",
+ "generated": "2026-10-01T03:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 1984,
+ "count": 1986,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11615,6 +11615,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "177.130.250.31",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-10T08:29:04.565056Z",
+   "last_seen": "2026-10-01T02:54:36.960020Z",
+   "asn": "AS28343 UNIFIQUE TELECOMUNICACOES S/A",
+   "as_name": "UNIFIQUE TELECOMUNICACOES S/A",
+   "country": "BR",
+   "org": "UNIFIQUE TELECOMUNICACOES S/A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "reverso.logica.inf.br",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "177.174.0.3",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -12026,6 +12044,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "101.96.195.17",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-01T15:35:59.812601Z",
+   "last_seen": "2026-10-01T02:53:36.467731Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "China Internet Network Information Center",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -20339,7 +20375,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
