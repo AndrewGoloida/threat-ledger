@@ -223,7 +223,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 118.67.221.34,30,10,2026-07-14T20:02:52.913769Z,2026-07-15T17:21:31.120010Z,AS58923 InterCloud ltd,INTERCLOUDLTD-AS-AP,BD,InterCloud ltd,True,False,False,,0,0,0
 118.107.5.219,30,10,2026-07-13T21:28:40.716882Z,2026-07-15T02:58:20.685164Z,AS152194 CTG Server Limited,CTGSERVERLIMITED-AS-AP,HK,Rackip Consultancy Pte. LTD,True,False,False,,0,0,0
 122.226.145.190,30,22,2026-07-13T20:44:51.004590Z,2026-07-15T12:58:05.264374Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Huangyan Xinchengwanbo Group,False,False,False,,0,0,0
-139.213.243.2,30,30,2026-07-13T18:08:20.877802Z,2026-07-15T16:11:21.216716Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,China Unicom Jilin Province Network,False,False,False,,0,0,0
+139.213.243.2,30,30,2026-07-13T18:08:20.877802Z,2026-07-15T16:11:21.216716Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,China Unicom Jilin Province Network,False,False,False,2.243.213.139.adsl-pool.jlccptt.net.cn,0,0,0
 144.22.210.132,30,10,2026-07-08T02:06:56.645310Z,2026-07-25T08:25:59.800549Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,BR,Oracle Cloud Infrastructure (sa-saopaulo-1),True,False,False,,0,0,0
 154.57.213.93,30,42,2026-07-13T15:15:11.024641Z,2026-07-15T09:19:56.779108Z,AS135407 Trans World Enterprise Services (Private) Limited,TES-PL-AS-AP,PK,Trans World Enterprise Services (Private) Limited,False,False,False,,0,0,0
 168.83.81.61,30,36,2026-07-13T16:38:47.246519Z,2026-07-27T12:34:40.977908Z,AS10277 Ministerio de Cultura y Educacion,Ministerio de Cultura y Educacion,AR,Red Cientifica y Tecnologica Nacional,False,False,False,,0,0,0
