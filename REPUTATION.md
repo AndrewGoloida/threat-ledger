@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**2016 IPs** that made repeated unauthenticated SSH login attempts against a public
+**2018 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-02T02:30:05Z · 602 from hosting/datacenter ranges · 3 progressed to running commands.
+Generated 2026-10-02T02:45:05Z · 603 from hosting/datacenter ranges · 5 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -19,10 +19,10 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | NL | 124 |
 | KR | 98 |
 | VN | 86 |
+| HK | 74 |
 | RU | 74 |
-| HK | 73 |
 | BR | 68 |
-| ID | 58 |
+| ID | 59 |
 
 ## Top source networks (ASN)
 

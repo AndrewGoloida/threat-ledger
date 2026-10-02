@@ -92,6 +92,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 64.89.161.91,37,9,2026-07-06T01:25:38.433064Z,2026-07-06T01:32:44.570202Z,AS36680 Netiface LLC,NETIFACELLC,LU,Netiface LLC,True,True,False,,0,0,0
 109.160.32.171,37,17,2026-09-30T00:43:02.412838Z,2026-09-30T01:45:43.563286Z,AS197170 TechTies Inc.,TECHTIES-AS,US,GBTCloud,True,False,False,,0,0,0
 153.37.177.219,37,21,2026-07-08T17:44:35.720871Z,2026-07-28T23:41:27.480054Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,China Unicom Jiangsu Province Network,False,True,False,,0,0,0
+43.155.21.198,36,6,2026-08-19T20:25:41.554210Z,2026-10-02T02:39:53.193638Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,HK,Tencent Cloud Computing,True,False,False,,2,3,0
 43.226.37.32,36,8,2026-07-13T18:01:50.105822Z,2026-07-15T04:01:59.116906Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,True,False,,0,0,0
 77.239.124.237,36,16,2026-08-14T16:28:34.165016Z,2026-08-14T17:31:38.890990Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,FR,RocketCloud,True,False,False,,0,0,0
 94.154.43.254,36,8,2026-09-24T04:18:57.285555Z,2026-09-24T04:18:57.315332Z,AS219502 Storm Industries LLC,STORMCLOUD-AS,NL,FOP Danik Vyacheslav Evgenievich,True,True,False,,0,0,0
@@ -612,6 +613,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 52.187.126.101,24,4,2026-07-14T07:13:28.727273Z,2026-07-14T23:54:33.378523Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,SG,Microsoft Azure Cloud (southeastasia),True,False,False,,0,0,0
 57.128.195.102,24,4,2026-07-13T22:50:28.426767Z,2026-07-14T17:46:29.311510Z,AS16276 OVH SAS,OVH,PL,OVH Sp. z o. o,True,False,False,vps-4e716c52.vps.ovh.net,0,0,0
 60.217.227.87,24,16,2026-07-13T17:28:09.230218Z,2026-07-15T14:18:21.085642Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
+69.5.20.205,24,6,2026-09-20T21:09:00.722545Z,2026-10-02T02:36:44.043783Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,ID,Byteplus,False,False,False,,2,3,0
 85.137.242.4,24,4,2026-08-24T08:31:49.749309Z,2026-08-30T06:39:47.023347Z,AS401701 cognetcloud INC,COGNETCLOUD-2,HK,"Vapeline Technology(hk)., limited",True,False,False,,0,0,0
 85.215.230.198,24,4,2026-07-13T23:38:14.184952Z,2026-07-27T12:44:03.878839Z,AS8560 IONOS SE,IONOS-AS,DE,De Ber Ionos Cloud Txl,True,False,False,,0,0,0
 91.92.47.66,24,8,2026-07-26T14:21:45.845509Z,2026-07-28T01:33:01.683180Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
@@ -1090,7 +1092,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.139.139.5,14,6,2026-07-14T07:27:55.751513Z,2026-07-27T09:59:34.458489Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,41-139-139-5.safaricombusiness.co.ke,0,0,0
