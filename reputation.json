@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T00:00:05Z",
+ "generated": "2026-10-02T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2013,
+ "count": 2014,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2360,6 +2360,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.159",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-02T00:11:25.141533Z",
+   "last_seen": "2026-10-02T00:11:39.710422Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -19601,7 +19619,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
