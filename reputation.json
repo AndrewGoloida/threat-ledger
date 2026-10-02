@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T21:45:05Z",
+ "generated": "2026-10-02T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2026,
+ "count": 2028,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2432,6 +2432,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.106",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-08T17:15:41.570435Z",
+   "last_seen": "2026-10-02T21:51:25.653491Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "US",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -11429,7 +11447,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -19205,7 +19223,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20897,7 +20915,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29339,7 +29357,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -36379,6 +36397,24 @@
    "is_mobile": false,
    "rdns": "164.124.222.222.broad.lf.he.dynamic.163data.com.cn",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "222.244.170.206",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T20:15:34.061558Z",
+   "last_seen": "2026-10-02T21:58:35.739757Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet HN",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
