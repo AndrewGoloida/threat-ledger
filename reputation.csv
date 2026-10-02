@@ -1152,7 +1152,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 79.3.96.178,14,6,2026-08-12T08:19:44.450353Z,2026-09-02T07:38:56.577228Z,AS3269 Telecom Italia S.p.A.,ASN-IBSNAZ,IT,INTERBUSINESS,False,False,False,host-79-3-96-178.business.telecomitalia.it,0,0,0
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
 82.193.122.91,14,6,2026-07-07T22:10:36.255711Z,2026-07-27T18:05:28.583155Z,AS25521 Industrial Media Network LLC,AS-IPNET,UA,IPNETUA,False,False,False,82.193.122.91.cl.ipnet.ua,0,0,0
@@ -1580,7 +1580,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 178.178.222.53,13,5,2026-07-12T09:07:46.821883Z,2026-07-18T13:49:39.419157Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 178.178.222.55,13,5,2026-07-07T23:04:57.666257Z,2026-07-23T11:25:54.667266Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
 178.178.222.59,13,5,2026-07-12T00:04:48.721127Z,2026-07-28T21:43:04.237667Z,AS25159 PJSC MegaFon,SONICDUO-AS,RU,MF MB,False,False,True,,0,0,0
-179.189.85.66,13,5,2026-07-08T03:26:04.650168Z,2026-07-29T16:46:58.273862Z,AS267221 Gold Telecom Ltda,Gold Telecom Ltda,BR,Gold Telecom Ltda,False,False,False,,0,0,0
+179.189.85.66,13,5,2026-07-08T03:26:04.650168Z,2026-07-29T16:46:58.273862Z,AS267221 Gold Telecom Ltda,Gold Telecom Ltda,BR,Gold Telecom Ltda,False,False,False,179-189-85-66.goldnettelecom.com.br,0,0,0
 182.76.36.62,13,5,2026-07-11T00:48:02.698897Z,2026-07-28T13:58:10.536739Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Ltd,False,False,False,nsg-static-62.36.76.182-airtel.com,0,0,0
 182.76.71.82,13,5,2026-07-09T17:47:08.437121Z,2026-07-29T04:08:49.353059Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Ltd,False,False,True,nsg-static-82.71.76.182-airtel.com,0,0,0
 182.156.35.238,13,5,2026-07-08T03:54:01.196881Z,2026-07-24T12:51:08.609136Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,Tata Teleservices Limited -GSM Division,False,False,False,mail.tataidc.com,0,0,0
