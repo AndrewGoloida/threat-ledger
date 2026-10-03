@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T15:15:05Z",
+ "generated": "2026-10-03T15:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2029,
+ "count": 2030,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3296,6 +3296,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.48.192.48",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-31T06:06:25.326279Z",
+   "last_seen": "2026-10-03T15:16:50.167263Z",
+   "asn": "AS131423 Branch of Long Van System Solution JSC - Hanoi",
+   "as_name": "LVHN-AS-VN",
+   "country": "VN",
+   "org": "JSC - Hanoi",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19727,7 +19745,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20825,7 +20843,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
