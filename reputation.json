@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T18:00:05Z",
+ "generated": "2026-10-03T18:15:07Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2031,
+ "count": 2032,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2270,6 +2270,24 @@
    "rdns": "host.urhoster.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "77.239.124.147",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-03T17:12:08.225713Z",
+   "last_seen": "2026-10-03T18:15:01.309387Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "FR",
+   "org": "RocketCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 33,
+   "command_count": 33,
    "download_url_count": 0
   },
   {
