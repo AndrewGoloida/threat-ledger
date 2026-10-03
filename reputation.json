@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T22:00:05Z",
+ "generated": "2026-10-03T22:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2034,
@@ -240,10 +240,10 @@
   },
   {
    "ip": "45.148.10.61",
-   "reputation_score": 46,
-   "honeypot_attempts": 8,
+   "reputation_score": 49,
+   "honeypot_attempts": 11,
    "first_seen": "2026-10-03T21:41:43.771430Z",
-   "last_seen": "2026-10-03T21:59:52.323167Z",
+   "last_seen": "2026-10-03T22:07:51.888847Z",
    "asn": "AS48090 TECHOFF SRV LIMITED",
    "as_name": "DMZHOST",
    "country": "NL",
@@ -252,8 +252,8 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 8,
-   "command_count": 7,
+   "creds_tried_count": 11,
+   "command_count": 10,
    "download_url_count": 0
   },
   {
