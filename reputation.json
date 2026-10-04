@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-04T22:45:06Z",
+ "generated": "2026-10-04T23:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2050,
+ "count": 2051,
  "records": [
   {
    "ip": "77.239.124.154",
@@ -21131,7 +21131,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22409,7 +22409,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35011,6 +35011,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "178.183.125.51",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-10T22:48:42.714146Z",
+   "last_seen": "2026-10-04T22:48:53.167058Z",
+   "asn": "AS12912 T-Mobile Polska S.A.",
+   "as_name": "TMPL",
+   "country": "PL",
+   "org": "Eranet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "178.183.125.51.mobile.static.t-mobile.pl",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
