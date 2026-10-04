@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-04T07:00:05Z",
+ "generated": "2026-10-04T07:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2037,
+ "count": 2038,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19223,7 +19223,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19853,7 +19853,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20951,7 +20951,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29465,7 +29465,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35227,6 +35227,24 @@
    "is_mobile": false,
    "rdns": "Dinamic-Tigo186-97-203-162.tigo.com.co",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "186.238.242.194",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-24T17:07:50.015105Z",
+   "last_seen": "2026-10-04T07:08:31.051132Z",
+   "asn": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
