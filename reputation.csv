@@ -825,7 +825,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 192.42.116.93,20,4,2026-07-12T20:55:05.840046Z,2026-07-16T21:15:41.100259Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
 192.42.116.99,20,4,2026-08-05T21:03:04.578999Z,2026-08-22T19:42:24.148986Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
 192.42.116.142,20,4,2026-06-26T11:03:10.606493Z,2026-06-27T12:35:15.505618Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
-197.248.160.105,20,12,2026-07-13T16:21:50.130799Z,2026-07-15T15:56:48.293559Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,,0,0,0
+197.248.160.105,20,12,2026-07-13T16:21:50.130799Z,2026-07-15T15:56:48.293559Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,197-248-160-105.safaricombusiness.co.ke,0,0,0
 201.163.73.93,20,4,2026-07-15T01:52:08.906256Z,2026-08-20T14:42:53.811446Z,"AS11172 Alestra, S. de R.L. de C.V.","Alestra, S. de R.L. de C.V.",MX,"Alestra, S. de R.L. de C.V",False,True,False,static-201-163-73-93.alestra.net.mx,0,0,0
 210.13.99.66,20,4,2026-07-10T19:30:21.766100Z,2026-07-31T21:54:58.112328Z,AS9929 CHINA UNICOM Industrial Internet Backbone,CUII,CN,"Lei Jiesi Business Services (Shanghai) Co., Ltd.",False,True,False,,0,0,0
 213.209.159.230,20,4,2026-08-27T14:08:57.081767Z,2026-08-27T22:07:35.233763Z,AS208137 Feo Prest SRL,FPS12,DE,Feo Prest SRL,False,True,False,,0,0,0
@@ -1440,8 +1440,8 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 197.221.232.44,14,6,2026-07-22T07:39:10.641421Z,2026-07-25T12:25:54.803982Z,AS37204 Telone PVT Ltd,TELONE,ZW,Telone PVT Ltd,False,False,False,16.44.telone.co.zw,0,0,0
 197.225.146.23,14,6,2026-07-26T10:42:31.461639Z,2026-08-11T13:01:51.017123Z,AS23889 Mauritius Telecom Ltd,MauritiusTelecom,MU,telecomplus,False,False,False,,0,0,0
 197.243.14.52,14,6,2026-07-18T05:42:29.697309Z,2026-07-31T06:06:52.029490Z,AS37228 KT RWANDA NETWORK Ltd,Olleh-Rwanda-Networks,RW,BSC,False,False,False,,0,0,0
-197.248.155.13,14,6,2026-07-14T07:21:34.820091Z,2026-07-15T08:06:19.172940Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,,0,0,0
-197.248.207.142,14,6,2026-09-13T02:53:55.835232Z,2026-10-01T18:26:08.223010Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,,0,0,0
+197.248.155.13,14,6,2026-07-14T07:21:34.820091Z,2026-07-15T08:06:19.172940Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,197-248-155-13.safaricombusiness.co.ke,0,0,0
+197.248.207.142,14,6,2026-09-13T02:53:55.835232Z,2026-10-01T18:26:08.223010Z,AS37061 Safaricom Limited,Safaricom,KE,Safaricom Limited,False,False,False,197-248-207-142.safaricombusiness.co.ke,0,0,0
 200.37.103.36,14,6,2026-08-14T14:14:17.855546Z,2026-09-19T17:13:57.031151Z,AS6147 INTEGRATEL PERÚ S.A.A.,INTEGRATEL PERU S.A.A.,PE,INTEGRATEL PERÚ S.A.A,False,False,False,,0,0,0
 200.77.172.159,14,6,2026-07-18T03:19:58.361457Z,2026-07-20T22:31:53.896770Z,"AS28548 Cablevisión, S.A. de C.V.","Cablevision, S.A. de C.V.",MX,"Cablevisión, S.A. de C.V",False,False,False,200-77-172-159.cable.dyn.cablevision.net.mx,0,0,0
 200.165.70.141,14,6,2026-07-27T10:53:51.128941Z,2026-09-15T18:33:05.029610Z,AS7738 V tal,V tal,BR,Z E C INFORMATICA E ELETRONICOS LTDA,False,False,False,070141.telemar.net.br,0,0,0
@@ -1655,7 +1655,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 24.47.192.100,12,4,2026-07-12T19:41:55.410666Z,2026-08-29T16:11:49.818920Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-182fc064.dyn.optonline.net,0,0,0
 24.229.22.106,12,4,2026-07-10T03:00:55.174438Z,2026-07-19T15:25:40.450046Z,AS3737 PenTeleData Inc.,AS-PTD,US,PenTeleData House Account,False,False,False,24.229.22.106.res-cmts.hzl2.ptd.net,0,0,0
 27.18.102.22,12,4,2026-07-14T03:44:27.816537Z,2026-07-14T08:51:39.676875Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HB,False,False,False,,0,0,0
-27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,undefined.hostname.localhost,0,0,0
+27.54.189.126,12,4,2026-07-14T02:18:14.409039Z,2026-07-14T10:58:07.885563Z,AS45117 Ishan's Network,INPL-IN-AP,IN,INPL's,False,False,False,,0,0,0
 27.79.0.97,12,4,2026-07-18T08:32:15.344319Z,2026-07-18T08:34:49.088623Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.7.82,12,4,2026-08-10T09:37:05.391916Z,2026-08-10T09:37:18.785987Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
 27.79.40.38,12,4,2026-06-25T14:58:58.923105Z,2026-06-25T15:00:27.429603Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
