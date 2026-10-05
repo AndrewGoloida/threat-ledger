@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-05T07:30:05Z",
+ "generated": "2026-10-05T07:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2062,
+ "count": 2063,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12317,6 +12317,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "177.229.197.38",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-31T09:11:26.354770Z",
+   "last_seen": "2026-10-05T07:34:37.130183Z",
+   "asn": "AS13999 Mega Cable, S.A. de C.V.",
+   "as_name": "Mega Cable, S.A. de C.V.",
+   "country": "MX",
+   "org": "Mega Cable, S.A. de C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "customer-PUE-MCA-197-38.megared.net.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "180.76.52.146",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -20015,7 +20033,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21149,7 +21167,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22427,7 +22445,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
