@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-06T00:45:05Z",
+ "generated": "2026-10-06T01:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2074,
+ "count": 2075,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1856,6 +1856,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "172.191.178.196",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-23T19:54:33.355721Z",
+   "last_seen": "2026-10-06T00:46:34.705947Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22499,7 +22517,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29933,7 +29951,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
