@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-06T15:15:05Z",
+ "generated": "2026-10-06T15:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2087,
+ "count": 2090,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11471,6 +11471,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "62.16.41.154",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-19T11:08:45.136603Z",
+   "last_seen": "2026-10-06T15:22:26.767520Z",
+   "asn": "AS15640 MTS PJSC",
+   "as_name": "FPIC-AS",
+   "country": "RU",
+   "org": "CCL Home34",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "homeuser41-154.ccl.perm.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "70.120.203.193",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -12564,6 +12582,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "customer-187-216-224-85.uninet-ide.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "195.239.97.254",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T04:44:40.493939Z",
+   "last_seen": "2026-10-06T15:22:33.078789Z",
+   "asn": "AS3216 PJSC Vimpelcom",
+   "as_name": "SOVAM-AS",
+   "country": "RU",
+   "org": "Stnet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -19547,7 +19583,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20177,7 +20213,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21329,7 +21365,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30095,7 +30131,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35785,6 +35821,24 @@
    "is_mobile": true,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "182.93.95.214",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-23T19:35:24.245232Z",
+   "last_seen": "2026-10-06T15:28:38.203572Z",
+   "asn": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+   "as_name": "SUBISU-CABLENET-AS-AP",
+   "country": "NP",
+   "org": "Subisu Cablenet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
