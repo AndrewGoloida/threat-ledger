@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T20:00:05Z",
+ "generated": "2026-10-06T20:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2093,
@@ -1997,7 +1997,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "105.217.146.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2123,7 +2123,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "68.0.91.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2141,7 +2141,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "194.134.123.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2663,7 +2663,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "contentws.icloud.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2699,7 +2699,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2717,7 +2717,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "7.248.146.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2735,7 +2735,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "247.21.178.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2753,7 +2753,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "181.231.187.35.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -2951,7 +2951,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ecs-159-138-88-16.compute.hwclouds-dns.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -3113,7 +3113,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "221.18.159.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -4733,7 +4733,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "176.43.209.35.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5903,7 +5903,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "51.219.20.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5921,7 +5921,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "48.211.41.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5939,7 +5939,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "191.124.58.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5957,7 +5957,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "178.200.135.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5975,7 +5975,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "111.112.188.35.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -5993,7 +5993,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "208.61.210.35.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -7721,7 +7721,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "250.176.199.104.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -8549,7 +8549,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ecs-139-159-142-7.compute.hwclouds-dns.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11159,7 +11159,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.148.20.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -13103,7 +13103,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "91.92.199.36.neterra.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15227,7 +15227,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "219-109-219-42.dh-connect.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17945,7 +17945,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "219-109-219-44.dh-connect.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19637,7 +19637,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22751,7 +22751,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29447,7 +29447,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "179-189-85-66.goldnettelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30185,7 +30185,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30671,7 +30671,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "232.subnet-213.matrixglobal.net.id",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33101,7 +33101,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "reverse.anonet.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
