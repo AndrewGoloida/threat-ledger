@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-06T17:30:05Z",
+ "generated": "2026-10-06T17:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2091,
+ "count": 2092,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12605,6 +12605,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "189.240.44.9",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-30T19:42:48.099467Z",
+   "last_seen": "2026-10-06T17:38:03.449796Z",
+   "asn": "AS8151 Uninet S.A. de C.V.",
+   "as_name": "UNINET",
+   "country": "MX",
+   "org": "Uninet S.A. de C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ide-9-44-240-189-static.uninet-ide.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "195.239.97.254",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -19601,7 +19619,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22715,7 +22733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30149,7 +30167,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
