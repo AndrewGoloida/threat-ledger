@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-06T11:15:05Z",
+ "generated": "2026-10-06T11:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2085,
+ "count": 2086,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11471,6 +11471,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "70.120.203.193",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-02T06:44:53.780383Z",
+   "last_seen": "2026-10-06T11:25:08.567393Z",
+   "asn": "AS11427 Charter Communications Inc",
+   "as_name": "TWC-11427-TEXAS",
+   "country": "US",
+   "org": "Road Runner",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "syn-070-120-203-193.res.spectrum.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.95.166.40",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -20159,7 +20177,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21311,7 +21329,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
