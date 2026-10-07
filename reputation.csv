@@ -631,6 +631,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 43.162.90.45,24,4,2026-08-21T07:48:30.307252Z,2026-08-27T20:08:55.562603Z,"AS132203 Tencent Building, Kejizhongyi Avenue",TENCENT-NET-AP-CN,US,"Tencent Cloud Computing (Beijing) Co., Ltd",True,False,False,,0,0,0
 43.226.37.9,24,4,2026-07-14T22:14:00.357656Z,2026-07-15T05:44:22.758782Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,False,False,,0,0,0
 43.226.39.182,24,4,2026-09-12T21:09:09.037362Z,2026-09-18T19:47:52.846620Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,False,False,,0,0,0
+43.228.131.114,24,4,2026-08-21T09:27:26.082114Z,2026-10-07T06:49:56.615157Z,AS17882 Univision LLC,Univision-AS-AP,MN,Unitel LLC,True,False,False,,0,1,0
 45.153.34.151,24,4,2026-06-28T08:06:14.090620Z,2026-07-03T18:55:05.598156Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 45.153.34.235,24,4,2026-07-09T05:16:38.518739Z,2026-08-04T03:09:44.279227Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 45.178.227.0,24,16,2026-07-09T19:54:51.464534Z,2026-07-27T17:41:47.278591Z,AS269054 GIGA REDE INTERNET LTDA,GIGA REDE INTERNET LTDA,BR,Giga Rede Internet Ltda,False,False,False,,0,0,0
@@ -1119,7 +1120,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.128.181.199,14,6,2026-07-16T15:56:22.905087Z,2026-10-02T12:16:48.554736Z,AS24863 Link Egypt (Link.NET),LINKdotNET-AS,EG,Link Egypt (Link.NET),False,False,False,,0,0,0
@@ -1261,7 +1262,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.200.25.198,14,6,2026-07-26T08:51:16.572286Z,2026-09-13T07:40:16.286224Z,AS131386 Long Van System Solution JSC,LVSS-AS-VN,VN,MAXDATA,False,False,False,,0,0,0
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.51.92.114,14,6,2026-07-23T05:13:54.558142Z,2026-09-24T11:39:03.103909Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Atria Convergence Technologies Pvt. Ltd.,False,False,False,106.51.92.114.actcorp.in,0,0,0
 106.80.185.155,14,6,2026-08-27T10:05:10.203441Z,2026-09-06T14:11:21.787827Z,AS141739 China Telecom,CT-CHONGQING-MAN2-AP,CN,Chinanet CQ,False,False,False,,0,0,0
@@ -1773,6 +1774,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 67.85.146.216,12,4,2026-07-17T11:03:21.908483Z,2026-08-07T14:59:11.040670Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-435592d8.dyn.optonline.net,0,0,0
 69.5.21.13,12,4,2026-08-14T16:56:25.556256Z,2026-09-20T00:19:38.935095Z,AS150436 Byteplus Pte. Ltd.,BYTEPLUS-AS-AP,ID,Byteplus,False,False,False,,0,0,0
 69.126.144.30,12,4,2026-07-14T03:23:25.147924Z,2026-07-26T07:29:01.014564Z,AS6128 Cablevision Systems Corp.,CABLE-NET-1,US,Optimum Online (Cablevision Systems),False,False,False,ool-457e901e.dyn.optonline.net,0,0,0
+71.236.99.31,12,4,2026-08-22T16:33:58.801341Z,2026-10-07T06:50:03.175834Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,"Comcast Cable Communications, Inc.",False,False,False,,0,1,0
 73.183.115.109,12,4,2026-08-28T09:32:38.987634Z,2026-10-05T06:03:12.376489Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,"Comcast IP Services, L.L.C.",False,False,False,c-73-183-115-109.hsd1.pa.comcast.net,0,0,0
 74.162.64.94,12,4,2026-07-14T17:19:30.318568Z,2026-07-15T01:50:21.742137Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AE,Microsoft Azure Cloud (uaenorth),False,False,False,,0,0,0
 75.80.65.214,12,4,2026-07-12T17:20:56.660059Z,2026-08-18T21:32:26.852434Z,AS20001 Charter Communications Inc,TWC-20001-PACWEST,US,"Road Runner, VoIP Residential",False,False,False,syn-075-080-065-214.biz.spectrum.com,0,0,0
