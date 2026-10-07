@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T02:45:05Z",
+ "generated": "2026-10-07T03:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2098,
+ "count": 2099,
  "records": [
   {
    "ip": "77.239.124.148",
@@ -12209,6 +12209,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "119.246.15.94",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-25T21:52:27.221804Z",
+   "last_seen": "2026-10-07T02:59:11.846770Z",
+   "asn": "AS9269 Hong Kong Broadband Network Ltd.",
+   "as_name": "HKBN-AS-AP",
+   "country": "HK",
+   "org": "Hong Kong Broadband Network Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "119246015094.ctinets.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "123.252.249.190",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -19529,7 +19547,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22715,7 +22733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30239,7 +30257,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
