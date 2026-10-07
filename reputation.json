@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T01:45:05Z",
+ "generated": "2026-10-07T02:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2097,
+ "count": 2098,
  "records": [
   {
    "ip": "77.239.124.148",
@@ -11162,6 +11162,24 @@
    "rdns": "23-94-28-176-host.colocrossing.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "27.38.145.55",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T10:50:28.527791Z",
+   "last_seen": "2026-10-07T01:58:40.923254Z",
+   "asn": "AS17623 China Unicom Shenzen network",
+   "as_name": "CNCGROUP-SZ",
+   "country": "CN",
+   "org": "China Unicom Guangdong Province Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22697,7 +22715,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33317,7 +33335,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
