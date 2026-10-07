@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T23:00:05Z",
+ "generated": "2026-10-07T23:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2113,
+ "count": 2116,
  "records": [
   {
    "ip": "77.239.124.148",
@@ -1193,6 +1193,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "109.160.32.146",
+   "reputation_score": 41,
+   "honeypot_attempts": 11,
+   "first_seen": "2026-10-07T22:00:51.616928Z",
+   "last_seen": "2026-10-07T23:05:55.194992Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 11,
+   "command_count": 10,
+   "download_url_count": 0
+  },
+  {
    "ip": "64.226.126.224",
    "reputation_score": 40,
    "honeypot_attempts": 12,
@@ -1805,6 +1823,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "50.6.241.208",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-07T06:05:50.767463Z",
+   "last_seen": "2026-10-07T23:09:12.765139Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "CA",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "50-6-241-208.unifiedlayer.com",
+   "creds_tried_count": 4,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1872,6 +1908,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "vps-d1818739.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "157.245.244.221",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T11:57:52.517539Z",
+   "last_seen": "2026-10-07T23:10:24.528922Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -20375,7 +20429,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22931,7 +22985,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30455,7 +30509,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
