@@ -159,7 +159,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 130.12.182.227,33,5,2026-08-09T00:49:01.722409Z,2026-08-09T16:50:05.719504Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,Netiface LLC,True,True,False,,0,0,0
 138.68.139.224,33,5,2026-09-26T17:59:59.420753Z,2026-09-26T18:08:26.806890Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 138.68.152.76,33,5,2026-07-25T18:04:41.817950Z,2026-07-25T18:13:39.054437Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
-157.245.69.40,33,13,2026-07-12T23:07:26.009749Z,2026-07-12T23:38:11.761283Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,88068.forestengine.net,0,0,0
+157.245.69.40,33,13,2026-07-12T23:07:26.009749Z,2026-07-12T23:38:11.761283Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,0,0,0
 159.138.88.16,33,5,2026-08-27T12:45:26.101222Z,2026-08-27T14:05:47.598229Z,AS136907 HUAWEI CLOUDS,HWCLOUDS-AS-AP,SG,Huawei International Pte. LTD,True,True,False,ecs-159-138-88-16.compute.hwclouds-dns.com,0,0,0
 185.242.3.121,33,5,2026-07-06T02:10:26.008079Z,2026-08-09T00:49:52.286539Z,"AS401626 Netiface America, Inc.",NETIFACE-TORONTO,DE,Ghosty Networks LLC,True,True,False,,0,0,0
 2.57.122.74,32,12,2026-09-26T20:38:58.997147Z,2026-09-26T20:52:49.967556Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,False,False,,0,0,0
@@ -1126,7 +1126,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.128.181.199,14,6,2026-07-16T15:56:22.905087Z,2026-10-02T12:16:48.554736Z,AS24863 Link Egypt (Link.NET),LINKdotNET-AS,EG,Link Egypt (Link.NET),False,False,False,,0,0,0
