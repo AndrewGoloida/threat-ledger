@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T14:00:05Z",
+ "generated": "2026-10-07T14:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2108,
+ "count": 2109,
  "records": [
   {
    "ip": "77.239.124.148",
@@ -12641,6 +12641,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "189.164.226.84",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T01:38:08.760023Z",
+   "last_seen": "2026-10-07T14:05:04.533193Z",
+   "asn": "AS8151 Uninet S.A. de C.V.",
+   "as_name": "UNINET",
+   "country": "MX",
+   "org": "Gesti\u00f3n de direccionamiento UniNet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dsl-84-226-164-189-dynamic.prod-infinitum.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.159.14.187",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -19655,7 +19673,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21473,7 +21491,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22841,7 +22859,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30365,7 +30383,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33497,7 +33515,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
