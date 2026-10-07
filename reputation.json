@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T05:30:05Z",
+ "generated": "2026-10-07T05:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2099,
+ "count": 2100,
  "records": [
   {
    "ip": "77.239.124.148",
@@ -22733,7 +22733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32797,6 +32797,24 @@
    "is_mobile": false,
    "rdns": "92x255x196x185.static-customer.kzn.ertelecom.ru",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "93.118.139.170",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-03T22:21:08.891604Z",
+   "last_seen": "2026-10-07T05:40:57.105382Z",
+   "asn": "AS58224 Iran Telecommunication Company PJS",
+   "as_name": "TCI",
+   "country": "IR",
+   "org": "Telecommunication Company of Tehran",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
