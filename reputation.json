@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-08T16:00:05Z",
+ "generated": "2026-10-08T16:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2132,
+ "count": 2133,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13217,6 +13217,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "14.18.113.233",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-20T10:06:44.331601Z",
+   "last_seen": "2026-10-08T16:01:16.761275Z",
+   "asn": "AS58466 CHINANET Guangdong province network",
+   "as_name": "CT-Guangzhou-IDC",
+   "country": "CN",
+   "org": "Chinanet GD",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -19889,7 +19907,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20555,7 +20573,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21797,7 +21815,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23165,7 +23183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
