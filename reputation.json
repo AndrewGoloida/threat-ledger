@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-08T12:30:05Z",
+ "generated": "2026-10-08T12:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2127,
+ "count": 2128,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12695,6 +12695,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "178.251.140.3",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-11T05:27:51.924907Z",
+   "last_seen": "2026-10-08T12:44:28.809489Z",
+   "asn": "AS31363 JSC ER-Telecom Holding",
+   "as_name": "MOSCOW-AS",
+   "country": "RU",
+   "org": "DSSV Core Net",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "b32-mgmt-gw.dssv.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "180.76.52.146",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -19799,7 +19817,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21707,7 +21725,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23075,7 +23093,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
