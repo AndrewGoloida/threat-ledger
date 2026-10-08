@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:00:05Z",
+ "generated": "2026-10-08T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2117,
@@ -12671,7 +12671,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "177-174-0-3.user.vivozap.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16595,7 +16595,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "cnmp.static.gvt.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19817,7 +19817,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20447,7 +20447,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21635,7 +21635,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23777,7 +23777,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "119.92.70.82.static.pldt.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25145,7 +25145,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "177-53-215-134.fibramax.ec",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25919,7 +25919,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-186-121-233-2.acelerate.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26135,7 +26135,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "187.110.238.50.mobtelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
