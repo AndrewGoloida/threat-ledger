@@ -143,6 +143,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 107.180.88.176,34,6,2026-08-16T14:58:47.725444Z,2026-09-01T10:44:46.023001Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,True,False,176.88.180.107.host.secureserver.net,0,0,0
 107.189.28.96,34,6,2026-08-13T07:03:17.259051Z,2026-09-09T10:53:24.514301Z,AS53667 FranTech Solutions,PONYNET,LU,FranTech Solutions,True,True,False,,0,0,0
 109.160.32.43,34,14,2026-09-22T00:55:48.122249Z,2026-09-22T02:00:37.475449Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
+109.160.32.102,34,4,2026-09-12T03:48:07.894989Z,2026-10-08T21:47:40.834893Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,2,2,0
 109.160.32.115,34,14,2026-09-30T17:23:09.112074Z,2026-09-30T18:25:58.972525Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 109.160.32.118,34,4,2026-09-08T04:19:09.105929Z,2026-10-08T16:49:48.024508Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,2,2,0
 109.160.32.152,34,4,2026-10-02T04:33:36.911918Z,2026-10-08T05:23:08.117028Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,2,2,0
@@ -1144,7 +1145,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
 41.128.181.199,14,6,2026-07-16T15:56:22.905087Z,2026-10-02T12:16:48.554736Z,AS24863 Link Egypt (Link.NET),LINKdotNET-AS,EG,Link Egypt (Link.NET),False,False,False,,0,0,0
