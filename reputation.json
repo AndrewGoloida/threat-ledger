@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-09T19:15:05Z",
+ "generated": "2026-10-09T19:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2151,
+ "count": 2152,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14711,6 +14711,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "80.67.167.81",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-23T21:35:16.425801Z",
+   "last_seen": "2026-10-09T19:23:54.202718Z",
+   "asn": "AS2027 MilkyWan Association",
+   "as_name": "MilkyWan",
+   "country": "FR",
+   "org": "MilkyWan",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "nosoignons.cust.milkywan.net",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.42.36",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -21959,7 +21977,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31067,7 +31085,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
