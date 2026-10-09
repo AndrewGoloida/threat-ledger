@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-09T08:45:05Z",
+ "generated": "2026-10-09T09:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2140,
+ "count": 2142,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10913,6 +10913,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "5.202.169.252",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-04T00:37:36.298336Z",
+   "last_seen": "2026-10-09T08:45:26.857831Z",
+   "asn": "AS49100 Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+   "as_name": "IR-THR-PTE",
+   "country": "IR",
+   "org": "PTS-Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "20.2.221.29",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -21797,7 +21815,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -36199,6 +36217,24 @@
    "is_mobile": false,
    "rdns": "red.170.233.29.175.ssservicios.com.ar",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "171.231.178.234",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-09T08:53:09.742293Z",
+   "last_seen": "2026-10-09T08:53:42.363510Z",
+   "asn": "AS7552 Viettel Group",
+   "as_name": "VIETEL-AS-AP",
+   "country": "VN",
+   "org": "VIETEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-adsl.viettel.vn",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
