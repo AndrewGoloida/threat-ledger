@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-09T16:45:05Z",
+ "generated": "2026-10-09T17:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2147,
+ "count": 2149,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -11525,6 +11525,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "41.93.82.201",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-01T09:51:35.689775Z",
+   "last_seen": "2026-10-09T16:49:25.360724Z",
+   "asn": "AS37182 Tanzania Education And Research Network",
+   "as_name": "TERNET",
+   "country": "TZ",
+   "org": "Tanzania Education And Research Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "42.51.41.252",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -13178,6 +13196,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "46.191.141.152",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-22T17:56:29.302092Z",
+   "last_seen": "2026-10-09T16:53:49.798978Z",
+   "asn": "AS24955 JSC \"Ufanet\"",
+   "as_name": "UBN-AS",
+   "country": "RU",
+   "org": "JSC Ufanet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19979,7 +20015,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20645,7 +20681,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21905,7 +21941,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -34181,7 +34217,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
