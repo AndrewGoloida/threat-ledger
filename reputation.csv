@@ -214,7 +214,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 193.24.211.218,32,4,2026-09-05T18:29:46.479300Z,2026-09-28T10:19:07.664232Z,AS215929 Data Campus Limited,datacampus,HK,Data Campus Limited,True,True,False,,0,0,0
 195.178.110.227,32,12,2026-07-05T12:29:57.536151Z,2026-07-05T14:13:51.373259Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,False,False,,0,0,0
 208.109.38.143,32,12,2026-07-09T20:43:03.799346Z,2026-07-28T00:32:16.694443Z,"AS398101 GoDaddy.com, LLC",GO-DADDY-COM-LLC,US,"GoDaddy.com, LLC",True,False,False,143.38.109.208.host.secureserver.net,0,0,0
-89.108.125.105,31,11,2026-10-08T05:59:50.258219Z,2026-10-08T06:21:21.560484Z,"AS197695 Domain names registrar REG.RU, Ltd",AS-REGRU,RU,Reg.Ru-B2C,True,False,False,,0,0,0
+89.108.125.105,31,11,2026-10-08T05:59:50.258219Z,2026-10-08T06:21:21.560484Z,"AS197695 Domain names registrar REG.RU, Ltd",AS-REGRU,RU,Reg.Ru-B2C,True,False,False,d58000.azlk.regrucolo.ru,0,0,0
 109.160.32.146,31,11,2026-10-07T22:00:51.616928Z,2026-10-07T23:05:55.194992Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 109.160.32.200,31,11,2026-09-22T22:04:32.605199Z,2026-09-22T23:05:20.706235Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 159.65.194.117,31,11,2026-08-24T20:54:35.069715Z,2026-08-24T21:20:28.716085Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,NL,"DigitalOcean, LLC",True,False,False,,0,0,0
@@ -1084,7 +1084,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 183.239.20.236,15,7,2026-07-09T14:41:39.209682Z,2026-07-27T20:55:22.661735Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 185.15.189.232,15,7,2026-07-09T11:13:43.990124Z,2026-07-25T18:48:13.106792Z,AS61021 Invest Mobile LLC,MAVOTEL-AS,RU,Sterling Telecom,False,False,True,host-232.185.15.189.0.0xffffff00.STERLING.stercom.ru,0,0,0
 187.218.57.50,15,7,2026-07-09T09:05:24.303937Z,2026-07-23T17:17:46.300459Z,AS8151 Uninet S.A. de C.V.,UNINET,MX,Uninet S.A. de C.V,False,False,False,customer-187-218-57-50.uninet-ide.com.mx,0,0,0
-191.241.142.170,15,7,2026-07-10T08:13:29.732801Z,2026-07-26T15:22:50.193155Z,AS270106 Paralelo 46 TV SA,Paralelo 46 TV SA,AR,Paralelo 46 TV SA,False,False,False,,0,0,0
+191.241.142.170,15,7,2026-07-10T08:13:29.732801Z,2026-07-26T15:22:50.193155Z,AS270106 Paralelo 46 TV SA,Paralelo 46 TV SA,AR,Paralelo 46 TV SA,False,False,False,host-191-241-142-170.red.paralelo46.com.ar,0,0,0
 194.85.69.22,15,7,2026-07-09T18:57:56.156453Z,2026-07-27T04:13:00.912684Z,AS206926 Letit LLC,LETIT-AS,RU,Letit LLC,False,False,False,22.69.85.194.in-addr.arpa,0,0,0
 196.189.124.229,15,7,2026-07-10T22:14:32.735377Z,2026-07-28T16:50:33.693421Z,AS24757 Ethio Telecom,EthioNet-AS,ET,Ethio Telecom,False,False,True,,0,0,0
 196.189.126.185,15,7,2026-07-13T03:23:28.578351Z,2026-07-27T04:44:28.596141Z,AS24757 Ethio Telecom,EthioNet-AS,ET,Ethio Telecom,False,False,True,,0,0,0
@@ -1144,7 +1144,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1465,7 +1465,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 186.16.213.54,14,6,2026-07-24T13:04:28.565452Z,2026-07-29T09:11:14.796866Z,AS23201 Telecel S.A.,Telecel S.A.,PY,Telecel S.A,False,False,False,pool-54-213-16-186.telecel.com.py,0,0,0
 186.68.83.105,14,6,2026-08-04T13:45:15.533675Z,2026-09-29T07:35:37.229753Z,AS14522 SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC),SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC),EC,Satnet Gye Coorp CM,False,False,False,105.cpe-186-68-83.gye.satnet.net,0,0,0
 186.104.219.20,14,6,2026-08-28T05:27:04.787559Z,2026-08-28T09:04:39.625578Z,AS7418 TELEFÓNICA CHILE S.A.,TELEFONICA CHILE S.A.,CL,Movistar Fibra,False,False,False,186-104-219-20.fo.baf.movistar.cl,0,0,0
-186.121.233.2,14,6,2026-08-29T05:58:56.475776Z,2026-09-01T00:56:07.557150Z,AS26210 AXS Bolivia S. A.,AXS Bolivia S. A.,BO,AXS Bolivia S. A,False,False,False,,0,0,0
+186.121.233.2,14,6,2026-08-29T05:58:56.475776Z,2026-09-01T00:56:07.557150Z,AS26210 AXS Bolivia S. A.,AXS Bolivia S. A.,BO,AXS Bolivia S. A,False,False,False,static-186-121-233-2.acelerate.net,0,0,0
 186.122.177.140,14,6,2026-09-04T11:17:15.605748Z,2026-10-02T04:30:39.998479Z,AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,Techtel LMDS Comunicaciones Interactivas S.A.,AR,AMX Argentina S.A,False,False,False,host140.186-122-177.telmex.net.ar,0,0,0
 186.153.121.14,14,6,2026-07-31T19:43:55.188832Z,2026-08-04T03:03:56.327159Z,AS7303 Telecom Argentina S.A.,Telecom Argentina S.A.,AR,Camara De Empresas De Control,False,False,False,host14.186-153-121.telecom.net.ar,0,0,0
 186.158.183.66,14,6,2026-07-19T11:59:17.595157Z,2026-07-25T11:06:25.560080Z,AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,Techtel LMDS Comunicaciones Interactivas S.A.,AR,Techtel LMDS Comunicaciones Interactivas S.A.,False,False,False,host66.186-158-183.telmex.net.ar,0,0,0
