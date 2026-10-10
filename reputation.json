@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-10T06:15:05Z",
+ "generated": "2026-10-10T06:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2164,
+ "count": 2166,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13037,6 +13037,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "187.251.123.104",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-08T00:32:57.464561Z",
+   "last_seen": "2026-10-10T06:29:32.694039Z",
+   "asn": "AS22884 TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",
+   "as_name": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",
+   "country": "MX",
+   "org": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "fixed-187-251-123-104.totalplay.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.159.14.187",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -13394,6 +13412,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "58.98.250.26",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-10T06:26:47.894788Z",
+   "last_seen": "2026-10-10T06:29:57.776688Z",
+   "asn": "AS9595 NTT-ME Corporation",
+   "as_name": "NTT-ME Corporation",
+   "country": "JP",
+   "org": "NTT-ME Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "g26.58-98-250.ppp.wakwak.ne.jp",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -20087,7 +20123,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20771,7 +20807,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22085,7 +22121,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31301,7 +31337,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
