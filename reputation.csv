@@ -592,6 +592,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 93.177.157.179,25,17,2026-07-11T00:21:53.552355Z,2026-07-29T17:57:00.814056Z,AS16010 Magticom Ltd.,MagticomAS,GE,Magti-BROADBAND,False,False,False,host-93-177-157-179.customer.magticom.ge,0,0,0
 102.220.160.38,25,5,2026-08-09T00:49:28.632950Z,2026-08-11T13:28:36.693210Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,VPS Dedicated LLC,True,False,False,,0,0,0
 102.220.160.42,25,5,2026-08-09T00:49:08.859402Z,2026-08-13T10:46:18.904896Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,VPS Dedicated LLC,True,False,False,,0,0,0
+102.220.160.237,25,5,2026-10-10T20:04:41.735568Z,2026-10-10T21:23:55.621217Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,VPS Dedicated LLC,True,False,False,,0,5,0
 102.220.161.86,25,5,2026-09-19T02:59:00.813357Z,2026-09-19T04:05:20.405080Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,SI,VPS Dedicated LLC,True,False,False,,0,0,0
 109.160.32.14,25,5,2026-09-08T09:37:58.901022Z,2026-09-08T09:38:25.369426Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 109.160.32.29,25,5,2026-09-09T14:52:39.443003Z,2026-09-09T14:53:11.424365Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
@@ -1157,7 +1158,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1306,7 +1307,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.200.25.198,14,6,2026-07-26T08:51:16.572286Z,2026-09-13T07:40:16.286224Z,AS131386 Long Van System Solution JSC,LVSS-AS-VN,VN,MAXDATA,False,False,False,,0,0,0
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.51.92.114,14,6,2026-07-23T05:13:54.558142Z,2026-09-24T11:39:03.103909Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Atria Convergence Technologies Pvt. Ltd.,False,False,False,106.51.92.114.actcorp.in,0,0,0
 106.80.185.155,14,6,2026-08-27T10:05:10.203441Z,2026-09-06T14:11:21.787827Z,AS141739 China Telecom,CT-CHONGQING-MAN2-AP,CN,Chinanet CQ,False,False,False,,0,0,0
