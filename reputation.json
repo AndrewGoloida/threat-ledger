@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T21:00:05Z",
+ "generated": "2026-10-11T21:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2184,
+ "count": 2185,
  "records": [
   {
    "ip": "77.239.124.146",
@@ -1193,6 +1193,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "164.92.230.130",
+   "reputation_score": 41,
+   "honeypot_attempts": 11,
+   "first_seen": "2026-10-11T20:41:40.405473Z",
+   "last_seen": "2026-10-11T21:06:58.396616Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "DE",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 11,
+   "command_count": 11,
+   "download_url_count": 0
+  },
+  {
    "ip": "64.226.126.224",
    "reputation_score": 40,
    "honeypot_attempts": 12,
@@ -1661,24 +1679,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "164.92.230.130",
-   "reputation_score": 38,
-   "honeypot_attempts": 8,
-   "first_seen": "2026-10-11T20:41:40.405473Z",
-   "last_seen": "2026-10-11T20:59:10.628634Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "DE",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 9,
-   "command_count": 9,
-   "download_url_count": 0
-  },
-  {
    "ip": "193.32.162.84",
    "reputation_score": 38,
    "honeypot_attempts": 10,
@@ -1802,6 +1802,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "157.245.240.41",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-11T20:51:22.416910Z",
+   "last_seen": "2026-10-11T21:06:29.173767Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 7,
    "download_url_count": 0
   },
   {
@@ -1946,6 +1964,24 @@
    "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "165.245.209.112",
+   "reputation_score": 36,
+   "honeypot_attempts": 10,
+   "first_seen": "2026-10-11T20:43:11.140625Z",
+   "last_seen": "2026-10-11T21:06:19.116552Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "DE",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 10,
+   "command_count": 10,
    "download_url_count": 0
   },
   {
@@ -2144,6 +2180,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "201.79.11.30",
+   "reputation_score": 35,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-10-11T20:42:38.716093Z",
+   "last_seen": "2026-10-11T21:05:34.642326Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "DE",
+   "org": "Digital Ocean",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
    "download_url_count": 0
   },
   {
@@ -2579,6 +2633,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "109.160.32.174",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-03T06:58:19.535483Z",
+   "last_seen": "2026-10-11T21:04:25.007632Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "138.197.197.27",
    "reputation_score": 34,
    "honeypot_attempts": 6,
@@ -2612,24 +2684,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "157.245.240.41",
-   "reputation_score": 34,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-10-11T20:51:22.416910Z",
-   "last_seen": "2026-10-11T20:58:58.680365Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 5,
    "download_url_count": 0
   },
   {
@@ -3065,24 +3119,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "165.245.209.112",
-   "reputation_score": 33,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-10-11T20:43:11.140625Z",
-   "last_seen": "2026-10-11T20:58:23.981262Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "DE",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": false,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 8,
-   "command_count": 8,
-   "download_url_count": 0
-  },
-  {
    "ip": "185.242.3.121",
    "reputation_score": 33,
    "honeypot_attempts": 5,
@@ -3098,24 +3134,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "201.79.11.30",
-   "reputation_score": 33,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-10-11T20:42:38.716093Z",
-   "last_seen": "2026-10-11T20:59:15.673341Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "DE",
-   "org": "Digital Ocean",
-   "is_hosting": false,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 7,
-   "command_count": 7,
    "download_url_count": 0
   },
   {
@@ -16955,7 +16973,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18143,7 +18161,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19691,7 +19709,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30257,7 +30275,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30707,7 +30725,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30725,7 +30743,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -36989,7 +37007,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37025,7 +37043,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37043,7 +37061,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
