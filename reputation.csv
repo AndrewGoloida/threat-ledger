@@ -1,4 +1,5 @@
 ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,org,is_hosting,is_proxy,is_mobile,rdns,command_count,creds_tried_count,download_url_count
+77.239.124.146,52,34,2026-10-11T09:30:13.775702Z,2026-10-11T10:37:16.395714Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,FR,RocketCloud,True,False,False,,33,34,0
 2.57.121.25,50,841,2026-06-24T11:50:38.355056Z,2026-07-30T03:44:24.290157Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,GB,Unmanaged LTD,True,True,False,hosting25.tronicsat.com,0,0,0
 2.57.121.112,50,621,2026-06-24T11:51:17.735885Z,2026-07-30T04:20:16.203413Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,GB,Unmanaged LTD,True,True,False,dns112.personaliseplus.com,0,0,0
 2.57.122.238,50,770,2026-07-02T10:03:45.105847Z,2026-07-29T22:40:01.862139Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,True,False,,0,0,0
@@ -104,6 +105,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 94.154.43.254,36,8,2026-09-24T04:18:57.285555Z,2026-09-24T04:18:57.315332Z,AS219502 Storm Industries LLC,STORMCLOUD-AS,NL,FOP Danik Vyacheslav Evgenievich,True,True,False,,0,0,0
 109.160.32.80,36,16,2026-09-21T06:13:13.840753Z,2026-09-21T07:15:52.808399Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 164.92.238.36,36,8,2026-07-26T20:02:31.394307Z,2026-07-26T20:20:51.381435Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,DE,"DigitalOcean, LLC",True,True,False,,0,0,0
+165.154.6.75,36,6,2026-08-02T06:46:23.372750Z,2026-10-11T10:32:19.625034Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,HK,Ucloud Information Technology (hk) Limited,True,False,False,,2,3,0
 168.144.171.221,36,8,2026-07-27T21:56:28.070543Z,2026-07-27T22:16:19.029363Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,AU,"DigitalOcean, LLC",True,True,False,,0,0,0
 182.42.113.10,36,8,2026-07-09T00:38:34.109729Z,2026-07-23T03:12:43.628030Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,True,False,,0,0,0
 209.97.136.89,36,8,2026-08-28T17:47:54.463222Z,2026-08-28T18:05:57.373299Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
@@ -1155,7 +1157,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
