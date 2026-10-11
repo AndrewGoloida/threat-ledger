@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T10:45:05Z",
+ "generated": "2026-10-11T11:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2175,
+ "count": 2176,
  "records": [
   {
    "ip": "77.239.124.146",
@@ -12047,6 +12047,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "86.102.111.211",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-26T20:14:29.480545Z",
+   "last_seen": "2026-10-11T10:56:16.155837Z",
+   "asn": "AS12332 PJSC Rostelecom",
+   "as_name": "PRIMORYE-AS",
+   "country": "RU",
+   "org": "PRIMORYE",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.47.66",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -20177,7 +20195,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20861,7 +20879,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23597,7 +23615,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31499,7 +31517,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
