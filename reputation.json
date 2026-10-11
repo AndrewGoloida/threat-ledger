@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T12:00:05Z",
+ "generated": "2026-10-11T12:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2177,
+ "count": 2179,
  "records": [
   {
    "ip": "77.239.124.146",
@@ -4142,6 +4142,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "49.72.212.22",
+   "reputation_score": 30,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-08T05:14:05.059168Z",
+   "last_seen": "2026-10-11T12:11:47.903340Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet JS",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 19,
    "download_url_count": 0
   },
   {
@@ -13271,6 +13289,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "218.78.46.81",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-25T03:43:45.887288Z",
+   "last_seen": "2026-10-11T12:10:24.352955Z",
+   "asn": "AS4811 China Telecom (Group)",
+   "as_name": "CHINANET-SHANGHAI-MAN",
+   "country": "CN",
+   "org": "Chinanet SH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "222.174.17.118",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14039,7 +14075,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "host162.109.12.190.cps.com.ar",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22265,7 +22301,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31535,7 +31571,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
