@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12T20:45:05Z",
+ "generated": "2026-10-12T21:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2202,
+ "count": 2204,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12299,6 +12299,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "81.192.46.49",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-21T08:44:52.358930Z",
+   "last_seen": "2026-10-12T20:56:28.134072Z",
+   "asn": "AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "as_name": "IAM-AS",
+   "country": "MA",
+   "org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "adsl-49-46-192-81.adsl.iam.net.ma",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.137.242.4",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -13772,6 +13790,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "118.145.107.219",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-22T17:56:07.287547Z",
+   "last_seen": "2026-10-12T20:55:29.338794Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Volcano Engine Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -20591,7 +20627,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22643,7 +22679,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24047,7 +24083,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30581,7 +30617,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31049,7 +31085,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37313,7 +37349,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37331,7 +37367,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37349,7 +37385,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
