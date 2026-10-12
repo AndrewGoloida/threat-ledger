@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12T20:15:05Z",
+ "generated": "2026-10-12T20:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2201,
+ "count": 2202,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -10967,6 +10967,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.220.160.115",
+   "reputation_score": 25,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-12T19:31:56.678653Z",
+   "last_seen": "2026-10-12T20:22:39.626665Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.237",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -20573,7 +20591,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24029,7 +24047,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31949,7 +31967,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
