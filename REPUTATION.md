@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**2216 IPs** that made repeated unauthenticated SSH login attempts against a public
+**2217 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-13T19:15:05Z · 683 from hosting/datacenter ranges · 9 progressed to running commands.
+Generated 2026-10-13T19:30:05Z · 684 from hosting/datacenter ranges · 10 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -14,7 +14,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | Country | IPs |
 |---------|-----|
 | CN | 320 |
-| NL | 207 |
+| NL | 208 |
 | IN | 201 |
 | US | 200 |
 | KR | 103 |
@@ -28,7 +28,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Network | IPs |
 |---------|-----|
-| TECHTIES-AS | 161 |
+| TECHTIES-AS | 162 |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 118 |
 | CHINANET-BACKBONE | 102 |
 | KIXS-AS-KR | 58 |
