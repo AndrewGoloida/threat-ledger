@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-13T00:45:06Z",
+ "generated": "2026-10-13T01:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2206,
+ "count": 2209,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1784,6 +1784,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "43.128.3.201",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-15T18:25:05.566505Z",
+   "last_seen": "2026-10-13T00:55:29.110848Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "HK",
+   "org": "Tencent Cloud Computing",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13415,6 +13433,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "189.194.140.170",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-11T13:29:51.695686Z",
+   "last_seen": "2026-10-13T00:59:31.986809Z",
+   "asn": "AS13999 Mega Cable, S.A. de C.V.",
+   "as_name": "Mega Cable, S.A. de C.V.",
+   "country": "MX",
+   "org": "Mega Cable, S.A. de C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "customer-PUE-140-170.megared.net.mx",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.159.14.187",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -24011,7 +24047,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32021,7 +32057,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -34687,6 +34723,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "94.26.106.74",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-12T22:30:17.596439Z",
+   "last_seen": "2026-10-13T00:54:47.780211Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "DE",
+   "org": "TechTies Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
