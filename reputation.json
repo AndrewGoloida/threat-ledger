@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-13T13:30:05Z",
+ "generated": "2026-10-13T13:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2213,
+ "count": 2215,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1868,6 +1868,24 @@
    "as_name": "HKCICL-AS-AP",
    "country": "HK",
    "org": "Hong Kong Communications International Co., Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "106.13.1.7",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-10T17:04:45.475457Z",
+   "last_seen": "2026-10-13T13:30:45.003937Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
@@ -12515,6 +12533,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.132.243.250",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-08T19:51:41.018144Z",
+   "last_seen": "2026-10-13T13:33:51.159036Z",
+   "asn": "AS45117 Ishan's Network",
+   "as_name": "INPL-IN-AP",
+   "country": "IN",
+   "org": "Netset Media Services Private Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.151.234.129",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -21311,7 +21347,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24119,7 +24155,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35333,7 +35369,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
