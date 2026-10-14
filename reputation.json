@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-14T14:00:05Z",
+ "generated": "2026-10-14T14:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2226,
+ "count": 2227,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12386,6 +12386,24 @@
    "rdns": "vps-4e716c52.vps.ovh.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "60.199.224.55",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-08T03:19:16.115728Z",
+   "last_seen": "2026-10-14T14:12:02.506424Z",
+   "asn": "AS9924 Taiwan Fixed Network, Telco and Network Service Provider.",
+   "as_name": "TFN-TW",
+   "country": "TW",
+   "org": "Taiwan Fixed Network CO., LTD.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "60-199-224-55.static.tfn.net.tw",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -32363,7 +32381,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
