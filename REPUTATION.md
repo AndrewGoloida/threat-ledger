@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-14T17:45:05Z · 690 from hosting/datacenter ranges · 12 progressed to running commands.
+Generated 2026-10-14T18:00:06Z · 690 from hosting/datacenter ranges · 12 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
