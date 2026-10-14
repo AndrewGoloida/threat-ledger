@@ -1151,10 +1151,10 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 1.214.214.114,14,6,2026-09-28T23:03:02.015418Z,2026-10-06T05:38:07.002079Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 1.238.106.229,14,6,2026-07-24T06:30:58.192525Z,2026-10-01T05:31:42.187514Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
 2.180.32.104,14,6,2026-08-08T18:18:45.874406Z,2026-09-29T09:55:15.984846Z,AS58224 Iran Telecommunication Company PJS,TCI,IR,Telecommunication Company,False,False,False,,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
-5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,AS51604 JSC ER-Telecom Holding,EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,,0,0,0
+5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,AS51604 JSC ER-Telecom Holding,EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,5x165x19x3.dynamic.ekat.ertelecom.ru,0,0,0
 5.191.246.144,14,6,2026-07-13T19:23:22.356724Z,2026-07-15T11:59:15.175602Z,AS200729 AzInTelecom LLC,MCIT,AZ,AzInTelecom LLC,False,False,False,mail.codelandia.az,0,0,0
 5.202.169.252,14,6,2026-08-04T00:37:36.298336Z,2026-10-09T08:45:26.857831Z,AS49100 Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR-THR-PTE,IR,PTS-Network,False,False,False,,0,0,0
 5.253.59.68,14,6,2026-09-01T15:36:30.408771Z,2026-09-21T04:44:05.083705Z,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,GCS-AS,NL,Neterra Ltd,False,False,False,136226.ip-ptr.tech,0,0,0
@@ -1950,7 +1950,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 94.205.250.78,12,4,2026-07-14T14:54:58.123151Z,2026-08-17T21:04:12.205031Z,AS15802 Emirates Integrated Telecommunications Company PJSC,DU-AS1,AE,Emirates Integrated Telecommunications Company,False,False,False,,0,0,0
 95.35.29.192,12,4,2026-07-19T06:12:28.091814Z,2026-07-31T21:20:23.946095Z,AS1680 Cellcom Fixed Line Communication L.P,NV-ASN,IL,Cellcom-Israel,False,False,False,,0,0,0
 95.79.57.221,12,4,2026-07-25T12:37:59.608508Z,2026-08-18T11:02:57.235532Z,AS42682 JSC ER-Telecom Holding,ERTH-NNOV-AS,RU,CJSC Company ER-Telecom Nizhny Novgorod,False,False,False,95x79x57x221.static-business.nn.ertelecom.ru,0,0,0
-95.79.108.51,12,4,2026-07-16T21:55:55.183345Z,2026-07-27T13:11:12.427251Z,AS42682 JSC ER-Telecom Holding,ERTH-NNOV-AS,RU,"JSC ""ER-Telecom Holding"" Nizhny Novgorod",False,False,False,,0,0,0
+95.79.108.51,12,4,2026-07-16T21:55:55.183345Z,2026-07-27T13:11:12.427251Z,AS42682 JSC ER-Telecom Holding,ERTH-NNOV-AS,RU,"JSC ""ER-Telecom Holding"" Nizhny Novgorod",False,False,False,dynamicip-95-79-108-51.pppoe.nn.ertelecom.ru,0,0,0
 95.165.142.8,12,4,2026-07-09T04:54:44.239545Z,2026-07-22T00:14:57.237140Z,AS25513 PJSC Moscow city telephone network,ASN-MGTS-USPD,RU,OAO Mgts),False,False,False,95-165-142-8.static.spd-mgts.ru,0,0,0
 96.1.40.151,12,4,2026-07-09T05:41:16.945699Z,2026-07-28T05:25:31.018379Z,AS852 TELUS Communications Inc.,ASN852,CA,TELUS Communications Inc,False,False,False,96-1-40-151-staticipeast.wireless.telus.com,0,0,0
 101.13.4.128,12,4,2026-07-08T07:47:40.539264Z,2026-08-11T07:16:18.484249Z,"AS24158 Taiwan Mobile Co., Ltd.",taiwanmobile-as,TW,TAIWANMOBILE,False,False,True,,0,0,0
