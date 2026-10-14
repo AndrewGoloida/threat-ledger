@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-14T02:45:06Z",
+ "generated": "2026-10-14T03:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2218,
+ "count": 2220,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1874,6 +1874,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "166.62.41.13",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-04T01:03:34.770285Z",
+   "last_seen": "2026-10-14T02:54:53.994178Z",
+   "asn": "AS398101 GoDaddy.com, LLC",
+   "as_name": "GO-DADDY-COM-LLC",
+   "country": "US",
+   "org": "GoDaddy.com, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "13.41.62.166.host.secureserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13469,6 +13487,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "181.188.176.242",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-23T11:17:41.939260Z",
+   "last_seen": "2026-10-14T02:54:25.768381Z",
+   "asn": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+   "as_name": "Telefonica Celular de Bolivia S.A.",
+   "country": "BO",
+   "org": "Telef\u00f3nica Celular de Bolivia S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "LPZ-181-188-176-00242.tigo.bo",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "181.214.140.97",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -20663,7 +20699,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21347,7 +21383,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22733,7 +22769,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24173,7 +24209,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32219,7 +32255,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
