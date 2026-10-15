@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T16:45:06Z",
+ "generated": "2026-10-15T17:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2250,
+ "count": 2251,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12515,6 +12515,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "59.179.31.237",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-28T04:07:07.167113Z",
+   "last_seen": "2026-10-15T16:56:53.684550Z",
+   "asn": "AS17813 Mahanagar Telephone Nigam Limited",
+   "as_name": "MTNL-AP",
+   "country": "IN",
+   "org": "Mahanagar Telephone Nigam Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "60.217.227.87",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -21059,7 +21077,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21743,7 +21761,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23147,7 +23165,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24587,7 +24605,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
