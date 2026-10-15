@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T08:00:05Z",
+ "generated": "2026-10-15T08:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2243,
+ "count": 2245,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1802,6 +1802,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "20.127.185.37",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-08T01:30:50.512760Z",
+   "last_seen": "2026-10-15T08:05:07.402389Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14567,6 +14585,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "122.168.123.73",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-12T16:40:59.991950Z",
+   "last_seen": "2026-10-15T08:09:10.014674Z",
+   "asn": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+   "as_name": "AIRTELBROADBAND-AS-AP",
+   "country": "IN",
+   "org": "1 Malviya Nagar",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "abts-mp-static-073.123.168.122.airtelbroadband.in",
+   "creds_tried_count": 1,
+   "command_count": 20,
+   "download_url_count": 0
+  },
+  {
    "ip": "125.69.76.148",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -21635,7 +21671,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23039,7 +23075,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
