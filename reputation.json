@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T07:15:05Z",
+ "generated": "2026-10-15T07:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2242,
+ "count": 2243,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -23039,7 +23039,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32597,7 +32597,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -36901,6 +36901,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "116.110.211.16",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-15T07:16:40.984976Z",
+   "last_seen": "2026-10-15T07:17:02.120799Z",
+   "asn": "AS24086 Viettel Corporation",
+   "as_name": "VIETTEL-AS-VN",
+   "country": "VN",
+   "org": "VIETTEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
