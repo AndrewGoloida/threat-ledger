@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T03:30:05Z",
+ "generated": "2026-10-15T03:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2236,
+ "count": 2237,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1622,6 +1622,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.139",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-10-08T04:01:45.390188Z",
+   "last_seen": "2026-10-15T03:32:32.327935Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 5,
    "download_url_count": 0
   },
   {
@@ -20843,7 +20861,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35729,7 +35747,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
