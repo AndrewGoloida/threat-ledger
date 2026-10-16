@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T23:00:06Z",
+ "generated": "2026-10-16T23:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2275,
@@ -1283,6 +1283,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "159.65.50.234",
+   "reputation_score": 39,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-10-16T22:47:52.433194Z",
+   "last_seen": "2026-10-16T23:07:32.343921Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "GB",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
+   "download_url_count": 0
+  },
+  {
    "ip": "195.178.110.218",
    "reputation_score": 39,
    "honeypot_attempts": 11,
@@ -1928,24 +1946,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "159.65.50.234",
-   "reputation_score": 36,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-10-16T22:47:52.433194Z",
-   "last_seen": "2026-10-16T23:00:01.706848Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "GB",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -21293,7 +21293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21995,7 +21995,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24911,7 +24911,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
