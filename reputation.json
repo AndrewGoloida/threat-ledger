@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T04:15:06Z",
+ "generated": "2026-10-16T04:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2259,
+ "count": 2260,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13577,6 +13577,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "136.228.161.66",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-07T06:02:00.636528Z",
+   "last_seen": "2026-10-16T04:20:23.047446Z",
+   "asn": "AS9988 Myanma Posts and Telecommunications",
+   "as_name": "MPT-AP",
+   "country": "MM",
+   "org": "Myanma Post & Telecommunication",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "143.244.155.71",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -21005,7 +21023,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21707,7 +21725,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24623,7 +24641,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
