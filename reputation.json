@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-17T03:15:05Z",
+ "generated": "2026-10-17T03:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2276,
+ "count": 2277,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15629,6 +15629,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "36.255.97.232",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-16T21:04:59.880212Z",
+   "last_seen": "2026-10-17T03:21:47.833702Z",
+   "asn": "AS36680 Netiface LLC",
+   "as_name": "NETIFACELLC",
+   "country": "US",
+   "org": "Kill Ping",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "36.255.97.242",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -21203,7 +21221,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21905,7 +21923,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23381,7 +23399,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24893,7 +24911,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33155,7 +33173,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
