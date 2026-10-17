@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-17T17:30:06Z",
+ "generated": "2026-10-17T17:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2282,
+ "count": 2283,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14171,6 +14171,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "200.196.50.91",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-11T07:13:40.581854Z",
+   "last_seen": "2026-10-17T17:42:47.393701Z",
+   "asn": "AS17222 MUNDIVOX DO BRASIL LTDA",
+   "as_name": "MUNDIVOX DO BRASIL LTDA",
+   "country": "BR",
+   "org": "Mundivox Do Brasil Ltda",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "mvx-200-196-50-91.mundivox.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "203.252.10.3",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -21311,7 +21329,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23489,7 +23507,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33263,7 +33281,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
