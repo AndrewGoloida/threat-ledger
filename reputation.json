@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T00:00:05Z",
+ "generated": "2026-10-17T00:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2275,
@@ -21185,7 +21185,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23363,7 +23363,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23507,7 +23507,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "stats.union-travel.ru",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23831,7 +23831,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ip-095-090-013-168.vkd79.pools.vodafone-ip.de",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27287,7 +27287,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "177-53-215-134.fibramax.ec",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27323,7 +27323,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "177-128-224-122.hz.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28223,7 +28223,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-235-48-167.inorpel.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28241,7 +28241,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "170.193.235.186.in-addr.arpa.verointernet.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32309,7 +32309,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "179-189-85-66.goldnettelecom.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
