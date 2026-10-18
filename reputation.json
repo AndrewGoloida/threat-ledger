@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T05:45:06Z",
+ "generated": "2026-10-18T06:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2291,
+ "count": 2292,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12893,6 +12893,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "81.218.86.58",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-01T13:40:20.920934Z",
+   "last_seen": "2026-10-18T05:52:49.022072Z",
+   "asn": "AS8551 Bezeq International Ltd.",
+   "as_name": "BEZEQ-INTERNATIONAL-AS",
+   "country": "IL",
+   "org": "BEZEQINT-ADSL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "bzq-218-86-58.red.bezeqint.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.137.242.4",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -25145,7 +25163,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33425,7 +33443,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
