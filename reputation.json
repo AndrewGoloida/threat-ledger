@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T00:15:05Z",
+ "generated": "2026-10-18T00:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2283,
+ "count": 2285,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -236,6 +236,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "45.61.187.220",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-02T05:03:04.529642Z",
+   "last_seen": "2026-10-18T00:21:32.758101Z",
+   "asn": "AS53667 FranTech Solutions",
+   "as_name": "PONYNET",
+   "country": "US",
+   "org": "FranTech Solutions",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "node3.anycasthub.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -1766,6 +1784,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "64.225.32.51",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-18T00:07:48.635170Z",
+   "last_seen": "2026-10-18T00:23:31.691203Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 7,
    "download_url_count": 0
   },
   {
@@ -15515,7 +15551,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "119.92.76.210.static.pldt.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21311,7 +21347,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22013,7 +22049,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23489,7 +23525,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33281,7 +33317,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
