@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T10:15:05Z",
+ "generated": "2026-10-18T10:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2294,
+ "count": 2295,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -12965,6 +12965,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "88.205.172.170",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T04:49:24.041650Z",
+   "last_seen": "2026-10-18T10:29:48.548308Z",
+   "asn": "AS12389 PJSC Rostelecom",
+   "as_name": "ROSTELECOM-AS",
+   "country": "RU",
+   "org": "Dynamic distribution IPs for broadband services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip-88-205-165-170.dsl.surnet.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.47.66",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -22211,7 +22229,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
