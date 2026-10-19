@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T21:00:06Z",
+ "generated": "2026-10-19T21:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2307,
@@ -1679,6 +1679,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "179.43.153.2",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-10-19T20:53:34.200984Z",
+   "last_seen": "2026-10-19T21:07:17.135072Z",
+   "asn": "AS51852 Private Layer INC",
+   "as_name": "PLI-AS",
+   "country": "CH",
+   "org": "Private Layer Inc",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "undefined.hostname.localhost",
+   "creds_tried_count": 8,
+   "command_count": 8,
+   "download_url_count": 0
+  },
+  {
    "ip": "193.32.162.84",
    "reputation_score": 38,
    "honeypot_attempts": 10,
@@ -2720,24 +2738,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "179.43.153.2",
-   "reputation_score": 34,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-10-19T20:53:34.200984Z",
-   "last_seen": "2026-10-19T20:59:41.007754Z",
-   "asn": "AS51852 Private Layer INC",
-   "as_name": "PLI-AS",
-   "country": "CH",
-   "org": "Private Layer Inc",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
-   "creds_tried_count": 5,
-   "command_count": 5,
    "download_url_count": 0
   },
   {
@@ -22337,7 +22337,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25379,7 +25379,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -36935,7 +36935,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
