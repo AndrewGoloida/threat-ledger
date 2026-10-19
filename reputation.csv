@@ -2166,7 +2166,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 157.20.189.179,12,4,2026-07-03T06:22:29.284509Z,2026-07-03T06:27:32.566864Z,AS152422 Dinas Komunikasi dan Informatika Kabupaten Lamongan,IDNIC-LAMONGANKAB-AS-ID,ID,Dinas Komunikasi dan Informatika Kabupaten Lamongan,False,False,False,,0,0,0
 164.30.17.82,12,4,2026-10-14T09:39:53.408869Z,2026-10-14T11:32:32.034077Z,AS6878 T-Systems International GmbH,AS6878,DE,TELEKOM,False,False,False,ecs-164-30-17-82.reverse.open-telekom-cloud.com,0,0,0
 164.164.117.23,12,4,2026-08-05T09:05:17.115524Z,2026-08-29T11:52:00.350466Z,AS7633 Software Technology Parks of India - Bangalore,SOFTNET-AS-AP,IN,STPI Bangalore,False,False,False,,0,0,0
-165.99.71.193,12,4,2026-08-23T13:05:34.543967Z,2026-10-06T07:27:51.554391Z,AS153937 PT Ring Data Prima,IDNIC-RDP-AS-ID,ID,Indonesia Network Information Center,False,False,False,,0,0,0
+165.99.71.193,12,4,2026-08-23T13:05:34.543967Z,2026-10-06T07:27:51.554391Z,AS153937 PT Ring Data Prima,IDNIC-RDP-AS-ID,ID,Indonesia Network Information Center,False,False,False,host-ip-165-99-71-193.dataprima.net,0,0,0
 170.233.29.157,12,4,2026-07-16T15:11:12.377973Z,2026-07-29T02:34:28.502018Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.157.ssservicios.com.ar,0,0,0
 170.233.29.175,12,4,2026-07-09T18:12:49.493411Z,2026-08-06T06:31:37.617604Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.175.ssservicios.com.ar,0,0,0
 171.231.178.234,12,4,2026-10-09T08:53:09.742293Z,2026-10-09T08:53:42.363510Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
