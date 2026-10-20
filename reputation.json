@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T10:15:05Z",
+ "generated": "2026-10-20T10:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2316,
+ "count": 2318,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13271,6 +13271,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "99.92.204.98",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-08T21:07:11.952283Z",
+   "last_seen": "2026-10-20T10:19:12.108400Z",
+   "asn": "AS7018 AT&T Enterprises, LLC",
+   "as_name": "ATT-INTERNET4",
+   "country": "US",
+   "org": "Private Customer - AT&T Internet Services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "99-92-204-98.lightspeed.wtfdct.sbcglobal.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "102.220.160.39",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14600,6 +14618,24 @@
    "rdns": "210-242-156-227.hinet-ip.hinet.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "213.230.127.104",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-01T06:13:51.538285Z",
+   "last_seen": "2026-10-20T10:20:53.593341Z",
+   "asn": "AS8193 Uzbektelekom Joint Stock Company",
+   "as_name": "BRM-AS",
+   "country": "UZ",
+   "org": "Uztelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -21725,7 +21761,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22427,7 +22463,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23939,7 +23975,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33857,7 +33893,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "undefined.hostname.localhost",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
