@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T22:45:05Z",
+ "generated": "2026-10-20T23:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2321,
+ "count": 2322,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2000,6 +2000,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.206.32.100",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-29T14:47:19.391214Z",
+   "last_seen": "2026-10-20T22:45:19.248763Z",
+   "asn": "AS205559 Cloud Master LLP",
+   "as_name": "Nimbus",
+   "country": "KZ",
+   "org": "Nimbuskz Network",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -24029,7 +24047,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33947,7 +33965,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
