@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T22:45:05Z",
+ "generated": "2026-10-21T23:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2341,
@@ -5474,6 +5474,24 @@
    "rdns": "adnetworks01.pointpark.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "14.55.144.22",
+   "reputation_score": 27,
+   "honeypot_attempts": 9,
+   "first_seen": "2026-08-27T22:34:24.773412Z",
+   "last_seen": "2026-10-21T22:45:08.713387Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -12458,24 +12476,6 @@
    "rdns": "ns371313.ip-5-135-137.eu",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "14.55.144.22",
-   "reputation_score": 24,
-   "honeypot_attempts": 6,
-   "first_seen": "2026-08-27T22:34:24.773412Z",
-   "last_seen": "2026-10-21T22:42:54.865081Z",
-   "asn": "AS4766 Korea Telecom",
-   "as_name": "KIXS-AS-KR",
-   "country": "KR",
-   "org": "Kornet",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 5,
-   "command_count": 4,
    "download_url_count": 0
   },
   {

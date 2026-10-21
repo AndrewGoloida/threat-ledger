@@ -303,6 +303,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 187.126.105.42,28,20,2026-07-08T22:25:24.353597Z,2026-07-29T09:41:10.576817Z,AS7738 V tal,V tal,BR,Telemar Norte Leste S.A.,False,False,False,187-126-105-42.user.vtal.net.br,0,0,0
 209.99.190.110,28,8,2026-10-07T18:13:54.089181Z,2026-10-10T02:55:22.226441Z,AS402253 SKN Subnet & Telecom Ltd,SKN-NETWORK-1,CH,HostRoyale Technologies,True,False,False,,0,0,0
 218.38.29.203,28,20,2026-07-13T17:09:36.222150Z,2026-07-15T08:24:23.117525Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,adnetworks01.pointpark.com,0,0,0
+14.55.144.22,27,9,2026-08-27T22:34:24.773412Z,2026-10-21T22:45:08.713387Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,4,5,0
 31.131.18.50,27,7,2026-08-29T03:53:27.843054Z,2026-08-29T04:22:38.488662Z,AS56851 PE Skurykhin Mukola Volodumurovuch,VPS-UA-AS,UA,PE Skurykhin Mukola Volodumurovuch,True,False,False,,0,0,0
 45.153.34.71,27,7,2026-06-28T23:12:17.665841Z,2026-07-02T17:02:44.634665Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 64.225.32.51,27,7,2026-10-18T00:07:48.635170Z,2026-10-18T00:23:31.691203Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,"DigitalOcean, LLC",True,False,False,,0,0,0
@@ -691,7 +692,6 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 4.188.251.117,24,4,2026-07-13T19:20:52.469353Z,2026-07-15T06:38:50.618077Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,IN,Microsoft Azure Cloud (centralindia),True,False,False,,0,0,0
 4.237.73.178,24,4,2026-07-13T19:56:05.118734Z,2026-07-14T17:34:32.821125Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Microsoft Azure Cloud (australiaeast),True,False,False,,0,0,0
 5.135.137.185,24,4,2026-07-02T05:09:52.999868Z,2026-07-02T05:13:50.616375Z,AS16276 OVH SAS,OVH,FR,OVH SAS,True,False,False,ns371313.ip-5-135-137.eu,0,0,0
-14.55.144.22,24,6,2026-08-27T22:34:24.773412Z,2026-10-21T22:42:54.865081Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,4,5,0
 20.2.221.29,24,4,2026-07-13T21:01:55.859921Z,2026-07-14T00:00:30.814656Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Microsoft Azure Cloud (eastasia),True,False,False,,0,0,0
 20.11.48.147,24,4,2026-07-14T21:09:46.182261Z,2026-07-15T11:46:56.549298Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Microsoft Azure Cloud (australiaeast),True,False,False,,0,0,0
 20.18.106.215,24,4,2026-07-14T00:52:19.962241Z,2026-07-15T15:31:50.050450Z,AS8075 Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,JP,Microsoft Azure Cloud (japaneast),True,False,False,,0,0,0
