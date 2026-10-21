@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T22:15:06Z",
+ "generated": "2026-10-21T22:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2339,
+ "count": 2340,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13487,6 +13487,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "102.220.161.79",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-21T19:16:50.128499Z",
+   "last_seen": "2026-10-21T22:25:29.671961Z",
+   "asn": "AS197769 VPS Dedicated LLC",
+   "as_name": "VPSDEDICATED-AS",
+   "country": "SI",
+   "org": "VPS Dedicated LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.45.66.22",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -22733,7 +22751,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25883,7 +25901,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
