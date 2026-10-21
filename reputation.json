@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T08:30:07Z",
+ "generated": "2026-10-21T08:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2333,
+ "count": 2334,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14297,6 +14297,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "129.121.33.174",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-05T13:14:56.178336Z",
+   "last_seen": "2026-10-21T08:31:21.818401Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "BR",
+   "org": "Oso Grande IP Services, LLC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-33-174.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "134.112.56.47",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -22625,7 +22643,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25775,7 +25793,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
