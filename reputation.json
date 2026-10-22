@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T01:00:08Z",
+ "generated": "2026-10-22T01:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2345,
+ "count": 2346,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1640,6 +1640,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.135",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-10-14T14:38:25.329655Z",
+   "last_seen": "2026-10-22T01:09:41.883438Z",
+   "asn": "AS197170 TechTies Inc.",
+   "as_name": "TECHTIES-AS",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -11717,7 +11735,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
