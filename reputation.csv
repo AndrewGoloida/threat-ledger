@@ -1220,7 +1220,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 1.214.214.114,14,6,2026-09-28T23:03:02.015418Z,2026-10-06T05:38:07.002079Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 1.238.106.229,14,6,2026-07-24T06:30:58.192525Z,2026-10-01T05:31:42.187514Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 2.180.32.104,14,6,2026-08-08T18:18:45.874406Z,2026-09-29T09:55:15.984846Z,AS58224 Iran Telecommunication Company PJS,TCI,IR,Telecommunication Company,False,False,False,,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,AS51604 JSC ER-Telecom Holding,EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,5x165x19x3.dynamic.ekat.ertelecom.ru,0,0,0
@@ -1233,7 +1233,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.103.110.123,14,6,2026-09-28T00:10:17.455572Z,2026-10-15T17:09:25.430513Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
 14.103.117.84,14,6,2026-08-23T19:29:11.033903Z,2026-09-12T11:43:03.866937Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
 14.103.213.90,14,6,2026-10-05T01:43:57.558974Z,2026-10-07T01:40:55.787125Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
-14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,,0,0,0
+14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 14.224.213.222,14,6,2026-09-12T00:21:51.155239Z,2026-09-26T07:22:27.871277Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 14.225.217.138,14,6,2026-07-26T23:49:00.501348Z,2026-08-24T06:39:48.571352Z,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VNPT-AS-VN,VN,VNPT,False,False,False,,0,0,0
@@ -2264,7 +2264,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 186.97.203.162,12,4,2026-08-23T04:41:15.598123Z,2026-09-13T09:21:51.060435Z,AS13489 UNE EPM TELECOMUNICACIONES S.A.,UNE EPM TELECOMUNICACIONES S.A.,CO,Colombia Móvil,False,False,False,Dinamic-Tigo186-97-203-162.tigo.com.co,0,0,0
 186.238.242.194,12,4,2026-08-24T17:07:50.015105Z,2026-10-04T07:08:31.051132Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,,0,0,0
 187.49.63.41,12,4,2026-07-15T04:01:15.501290Z,2026-08-22T07:29:06.469388Z,AS267003 SCM EVOLUTT CONNECT LTDA,SCM EVOLUTT CONNECT LTDA,BR,SCM EVOLUTT CONNECT LTDA,False,False,False,customer-187-49-63-41.f1net.com.br,0,0,0
-188.36.7.196,12,4,2026-07-10T13:43:09.835471Z,2026-07-25T20:57:13.905832Z,AS5483 Magyar Telekom Plc.,MAGYAR-TELEKOM-MAIN-AS,HU,Magyar Telekom,False,False,False,,0,0,0
+188.36.7.196,12,4,2026-07-10T13:43:09.835471Z,2026-07-25T20:57:13.905832Z,AS5483 Magyar Telekom Plc.,MAGYAR-TELEKOM-MAIN-AS,HU,Magyar Telekom,False,False,False,BC2407C4.catv.pool.telekom.hu,0,0,0
 188.43.204.45,12,4,2026-07-18T22:06:46.389315Z,2026-08-08T08:20:06.722407Z,AS20485 Joint Stock Company TransTeleCom,TRANSTELECOM,RU,TTK PtP,False,False,False,RZD-gw.transtelecom.net,0,0,0
 188.168.86.6,12,4,2026-07-11T01:53:41.948303Z,2026-07-16T06:05:06.486955Z,AS15774 Limited Liability Company TTK-Svyaz,TTK-RTL,RU,ChitaRoute-migrate,False,False,False,,0,0,0
 190.57.233.133,12,4,2026-07-12T17:12:40.517425Z,2026-08-01T02:47:47.850764Z,AS20207 Gigared S.A.,Gigared S.A.,AR,Gigared S.A,False,False,False,,0,0,0
