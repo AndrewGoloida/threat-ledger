@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T21:15:05Z",
+ "generated": "2026-10-22T21:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2357,
+ "count": 2359,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1910,6 +1910,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "119.28.46.114",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-05T01:52:10.157349Z",
+   "last_seen": "2026-10-22T21:27:42.742358Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "HK",
+   "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13127,6 +13145,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "42.1.65.89",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T10:46:12.301607Z",
+   "last_seen": "2026-10-22T21:29:09.419738Z",
+   "asn": "AS131429 MOBIFONE Corporation",
+   "as_name": "MOBIFONE-AS-VN",
+   "country": "VN",
+   "org": "Vietnam Internet Network Information Center",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.155.86.225",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -22175,7 +22211,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26027,7 +26063,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
