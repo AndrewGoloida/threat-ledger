@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T14:15:05Z",
+ "generated": "2026-10-22T14:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2353,
+ "count": 2355,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14495,6 +14495,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "121.242.232.147",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-15T05:59:09.893278Z",
+   "last_seen": "2026-10-22T14:20:43.871167Z",
+   "asn": "AS4755 TATA Communications formerly VSNL is Leading ISP",
+   "as_name": "TATACOMM-AS",
+   "country": "IN",
+   "org": "VSNL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "121.242.232.147.static-chennai.vsnl.net.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "123.252.249.190",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -14528,6 +14546,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.136.31",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-08T01:40:18.523519Z",
+   "last_seen": "2026-10-22T14:22:29.415715Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-136-31.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22805,7 +22841,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24335,7 +24371,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
