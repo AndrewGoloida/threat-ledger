@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T17:00:10Z",
+ "generated": "2026-10-22T17:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2355,
+ "count": 2356,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5381,7 +5381,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "187-126-105-42.user.vtal.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11771,7 +11771,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15140,6 +15140,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "36.99.46.101",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-07-28T05:11:48.564982Z",
+   "last_seen": "2026-10-22T17:11:43.243530Z",
+   "asn": "AS137687 Luoyang, Henan Province, P.R.China.",
+   "as_name": "CHINATELECOM-HENAN-LUOYANG-IDC",
+   "country": "CN",
+   "org": "Chinanet HA",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -29303,7 +29321,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "pool-54-213-16-186.telecel.com.py",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29375,7 +29393,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-186-121-233-2.acelerate.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29555,7 +29573,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "mvx-187-16-96-250.mundivox.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
