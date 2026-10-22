@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T16:00:10Z",
+ "generated": "2026-10-22T16:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2355,
@@ -11771,7 +11771,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18395,7 +18395,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "acceso-201.102.196.44.prod-infinitum.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18683,7 +18683,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "n51-h64.smr-rsk.metromax.ru",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21833,7 +21833,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "201-28-237-90.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22139,7 +22139,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22841,7 +22841,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23813,7 +23813,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "",
+   "rdns": "homeuser41-154.ccl.perm.ru",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24335,7 +24335,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "",
+   "rdns": "81-23-173-32.zgtk.ru",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25991,7 +25991,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29303,7 +29303,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "pool-54-213-16-186.telecel.com.py",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30365,7 +30365,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-adsl201-184-50-251.une.net.co",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30419,7 +30419,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "201-249-201-94.chc-00.rai.cantv.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37403,7 +37403,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "95-165-142-8.static.spd-mgts.ru",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41309,7 +41309,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "201-63-52-54.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41327,7 +41327,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "201-63-67-250.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
