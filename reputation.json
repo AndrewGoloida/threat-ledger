@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T21:00:08Z",
+ "generated": "2026-10-22T21:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2357,
@@ -20087,7 +20087,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-103-136-43.static.tie.cl",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24407,7 +24407,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29303,7 +29303,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "z328.entelchile.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29501,7 +29501,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "186-235-48-167.inorpel.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29519,7 +29519,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "170.193.235.186.in-addr.arpa.verointernet.com.br",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40967,7 +40967,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "BC2407C4.catv.pool.telekom.hu",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41255,7 +41255,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-200-105-141-172.acelerate.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
