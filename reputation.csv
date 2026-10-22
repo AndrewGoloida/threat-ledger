@@ -734,6 +734,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 43.226.37.9,24,4,2026-07-14T22:14:00.357656Z,2026-07-15T05:44:22.758782Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,False,False,,0,0,0
 43.226.39.182,24,4,2026-09-12T21:09:09.037362Z,2026-09-18T19:47:52.846620Z,AS134762 CHINANET Liaoning province Dalian MAN network,CHINANET-LIAONING-DALIAN-MAN,CN,Shenzhen Qianhai bird cloud computing Co. Ltd.,True,False,False,,0,0,0
 43.228.131.114,24,4,2026-08-21T09:27:26.082114Z,2026-10-07T06:49:56.615157Z,AS17882 Univision LLC,Univision-AS-AP,MN,Unitel LLC,True,False,False,,0,0,0
+45.119.81.245,24,6,2026-09-10T01:49:28.820758Z,2026-10-22T09:37:30.925286Z,AS131386 Long Van System Solution JSC,LVSS-AS-VN,VN,Long Van System Solution,False,False,False,,2,3,0
 45.153.34.151,24,4,2026-06-28T08:06:14.090620Z,2026-07-03T18:55:05.598156Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 45.153.34.235,24,4,2026-07-09T05:16:38.518739Z,2026-08-04T03:09:44.279227Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 45.156.87.78,24,4,2026-10-16T18:44:03.771373Z,2026-10-16T20:17:20.345820Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
@@ -817,10 +818,12 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 177.174.0.3,24,16,2026-07-08T09:29:51.553924Z,2026-07-29T10:50:20.853430Z,AS26599 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,177-174-0-3.user.vivozap.com.br,0,0,0
 179.43.153.10,24,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,False,False,undefined.hostname.localhost,0,0,0
 180.76.52.146,24,4,2026-07-21T14:19:35.186530Z,2026-08-12T22:03:05.122431Z,"AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",Baidu,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",True,False,False,,0,0,0
+181.79.159.3,24,6,2026-10-19T20:37:58.597648Z,2026-10-22T09:39:39.041698Z,AS52468 UFINET PANAMA S.A.,UFINET PANAMA S.A.,CO,UFINET,False,False,False,3-159-79-181.ufinet.com.co,2,3,0
 181.214.140.97,24,4,2026-07-14T03:47:05.352896Z,2026-07-14T08:30:47.975711Z,AS20860 IOMART CLOUD SERVICES LIMITED,IOMART-AS,PA,Iomart Cloud Services Limited,True,False,False,,0,0,0
 182.43.76.120,24,4,2026-08-01T11:02:27.746814Z,2026-09-06T12:27:48.571712Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,False,False,,0,0,0
 182.44.26.211,24,4,2026-07-19T17:11:22.581385Z,2026-08-17T16:19:36.580153Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,False,False,,0,0,0
 187.45.180.140,24,4,2026-07-15T04:39:52.756343Z,2026-07-15T10:52:46.844855Z,AS53055 DIMENOC SERVICOS DE INFORMATICA LTDA,DIMENOC SERVICOS DE INFORMATICA LTDA,BR,HostDime,True,False,False,187-45-180-140.static.hostdime.com,0,0,0
+190.105.160.5,24,6,2026-10-07T19:19:31.727746Z,2026-10-22T09:39:29.584387Z,AS52307 CORPICO LTDA,CORPICO LTDA,AR,Corpico Ltda,False,False,False,,2,3,0
 193.24.211.219,24,4,2026-10-13T04:48:40.323551Z,2026-10-16T11:51:19.539681Z,AS215929 Data Campus Limited,datacampus,HK,Data Campus Limited,True,False,False,,0,0,0
 200.159.14.187,24,16,2026-07-08T04:18:19.149592Z,2026-07-29T15:35:49.486351Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,200-159-14-187.customer.tdatabrasil.net.br,0,0,0
 203.252.10.3,24,16,2026-07-08T21:06:35.497640Z,2026-07-30T00:53:19.174497Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
@@ -1261,7 +1264,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1436,7 +1439,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.216.145.2,14,6,2026-08-24T14:42:32.334549Z,2026-10-16T20:32:23.166504Z,AS135175 Facts Online Pvt Ltd,FACTS-AS-IN,IN,Facts Online Pvt Ltd,False,False,False,triocorporation.in,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.51.92.114,14,6,2026-07-23T05:13:54.558142Z,2026-09-24T11:39:03.103909Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Atria Convergence Technologies Pvt. Ltd.,False,False,False,106.51.92.114.actcorp.in,0,0,0
 106.80.185.155,14,6,2026-08-27T10:05:10.203441Z,2026-09-06T14:11:21.787827Z,AS141739 China Telecom,CT-CHONGQING-MAN2-AP,CN,Chinanet CQ,False,False,False,,0,0,0

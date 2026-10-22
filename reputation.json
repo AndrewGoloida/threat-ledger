@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T09:30:06Z",
+ "generated": "2026-10-22T09:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2349,
+ "count": 2352,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13235,6 +13235,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.119.81.245",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-10T01:49:28.820758Z",
+   "last_seen": "2026-10-22T09:37:30.925286Z",
+   "asn": "AS131386 Long Van System Solution JSC",
+   "as_name": "LVSS-AS-VN",
+   "country": "VN",
+   "org": "Long Van System Solution",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.153.34.151",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14729,6 +14747,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "181.79.159.3",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-19T20:37:58.597648Z",
+   "last_seen": "2026-10-22T09:39:39.041698Z",
+   "asn": "AS52468 UFINET PANAMA S.A.",
+   "as_name": "UFINET PANAMA S.A.",
+   "country": "CO",
+   "org": "UFINET",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "3-159-79-181.ufinet.com.co",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "181.214.140.97",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14798,6 +14834,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "190.105.160.5",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-07T19:19:31.727746Z",
+   "last_seen": "2026-10-22T09:39:29.584387Z",
+   "asn": "AS52307 CORPICO LTDA",
+   "as_name": "CORPICO LTDA",
+   "country": "AR",
+   "org": "Corpico Ltda",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22733,7 +22787,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25883,7 +25937,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
