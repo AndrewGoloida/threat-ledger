@@ -652,7 +652,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 45.156.87.254,25,5,2026-07-15T23:00:37.152382Z,2026-07-15T23:00:54.842784Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,False,False,,0,0,0
 60.166.31.198,25,9,2026-07-09T02:16:21.130887Z,2026-07-29T01:31:13.518402Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 64.89.161.90,25,5,2026-07-06T02:37:35.822750Z,2026-08-09T00:49:49.440481Z,AS36680 Netiface LLC,NETIFACELLC,LU,Netiface LLC,True,False,False,,0,0,0
-70.34.202.108,25,5,2026-10-17T01:50:33.554454Z,2026-10-17T02:31:25.106664Z,"AS20473 The Constant Company, LLC",AS-VULTR,SE,Vultr,True,False,False,,0,0,0
+70.34.202.108,25,5,2026-10-17T01:50:33.554454Z,2026-10-17T02:31:25.106664Z,"AS20473 The Constant Company, LLC",AS-VULTR,SE,Vultr,True,False,False,70.34.202.108.vultrusercontent.com,0,0,0
 78.135.111.65,25,5,2026-09-22T20:53:41.251491Z,2026-09-25T12:28:39.081446Z,AS47585 Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,YIGITHOSTING,TR,Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI,True,False,False,undefined.hostname.localhost,0,0,0
 80.94.95.109,25,5,2026-10-14T12:27:39.067664Z,2026-10-14T18:49:52.550621Z,AS204428 SS-Net,SS-Net,BG,Unmanaged LTD,True,False,False,,0,0,0
 91.92.47.35,25,9,2026-07-11T14:57:11.199964Z,2026-07-19T05:56:09.777276Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,False,True,False,,0,0,0
@@ -804,7 +804,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 114.35.59.237,24,6,2026-08-28T06:52:01.845720Z,2026-10-22T08:31:03.910464Z,AS3462 Data Communication Business Group,HINET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,114-35-59-237.hinet-ip.hinet.net,2,3,0
 115.68.133.201,24,4,2026-08-22T00:56:08.081139Z,2026-08-30T14:30:00.550739Z,AS38700 SMILESERV,SMILESERV-AS-KR,KR,SMILESERV,True,False,False,,0,0,0
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
-121.242.232.147,24,6,2026-10-15T05:59:09.893278Z,2026-10-22T14:20:43.871167Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,VSNL,False,False,False,,2,3,0
+121.242.232.147,24,6,2026-10-15T05:59:09.893278Z,2026-10-22T14:20:43.871167Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,VSNL,False,False,False,121.242.232.147.static-chennai.vsnl.net.in,2,3,0
 123.252.249.190,24,8,2026-07-13T18:55:44.944447Z,2026-07-15T03:39:10.275200Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,TTML,False,True,False,static-190.249.252.123-tataidc.co.in,0,0,0
 128.14.237.154,24,4,2026-08-12T21:40:15.172749Z,2026-09-21T09:40:10.753195Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,TW,UCLOUD,True,False,False,,0,0,0
 129.121.136.31,24,6,2026-10-08T01:40:18.523519Z,2026-10-22T14:22:29.415715Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,US,Oracle Corporation,False,False,False,129-121-136-31.unifiedlayer.com,2,3,0
@@ -966,7 +966,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 183.167.217.86,20,4,2026-07-17T09:48:44.081179Z,2026-07-30T20:17:44.984401Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 183.167.234.154,20,4,2026-07-12T02:41:12.652406Z,2026-08-15T14:26:34.511139Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 186.239.41.74,20,12,2026-07-08T16:56:36.108909Z,2026-07-30T01:28:19.104950Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,,0,0,0
-187.8.120.90,20,12,2026-07-08T02:35:49.350956Z,2026-07-30T04:01:31.031707Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,,0,0,0
+187.8.120.90,20,12,2026-07-08T02:35:49.350956Z,2026-07-30T04:01:31.031707Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,187-8-120-90.customer.tdatabrasil.net.br,0,0,0
 190.60.37.146,20,4,2026-08-23T00:39:46.223319Z,2026-08-24T05:17:15.832829Z,AS52468 UFINET PANAMA S.A.,UFINET PANAMA S.A.,CO,UFINET,False,True,False,,0,0,0
 192.42.116.63,20,4,2026-06-23T22:05:22.455367Z,2026-06-24T04:32:46.150747Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
 192.42.116.92,20,4,2026-07-03T18:25:16.933794Z,2026-07-10T21:16:08.931062Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,False,True,False,,0,0,0
@@ -1064,7 +1064,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 218.95.73.31,17,9,2026-07-08T10:47:56.087074Z,2026-07-28T20:28:28.767318Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet JX,False,False,False,31.73.95.218.broad.yc.jx.dynamic.163data.com.cn,0,0,0
 220.93.167.144,17,9,2026-07-07T22:38:22.027390Z,2026-07-28T22:41:32.327305Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Kornet,False,False,False,,0,0,0
 222.99.52.202,17,9,2026-07-10T00:01:21.324843Z,2026-07-26T21:46:15.910228Z,AS4766 Korea Telecom,KIXS-AS-KR,KR,Korea Telecom,False,False,False,,0,0,0
-14.140.205.174,16,8,2026-07-13T19:05:53.222861Z,2026-07-15T16:44:34.734338Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,,0,0,0
+14.140.205.174,16,8,2026-07-13T19:05:53.222861Z,2026-07-15T16:44:34.734338Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.140.205.174.STATIC-Delhi-vsnl.net.in,0,0,0
 14.194.128.158,16,8,2026-07-11T06:07:49.810333Z,2026-07-26T18:33:25.423084Z,AS45820 Tata Teleservices ISP AS,TTSL-MEISISP,IN,Tata Tele Services GSM,False,False,False,static-158.128.194.14-tataidc.co.in,0,0,0
 14.224.202.234,16,8,2026-07-13T19:52:32.004340Z,2026-07-27T12:53:45.342364Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 27.79.0.171,16,8,2026-08-02T12:03:55.336338Z,2026-08-02T12:10:30.944663Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1156,7 +1156,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 60.214.127.246,15,7,2026-07-07T23:31:00.033329Z,2026-07-27T19:51:24.996400Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,False,False,,0,0,0
 61.143.227.17,15,7,2026-07-09T22:52:56.307654Z,2026-07-26T18:06:49.671138Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,False,False,,0,0,0
 61.169.54.150,15,7,2026-07-10T11:12:12.452687Z,2026-07-25T00:33:33.693300Z,AS4812 China Telecom (Group),CHINANET-SH-AP,CN,Chinanet SH,False,False,False,,0,0,0
-62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,,0,0,0
+62.122.195.14,15,7,2026-07-18T05:24:31.456514Z,2026-07-27T06:40:20.771617Z,AS49106 Opticom Group AO,OPTICOM-AS,RU,Opticom,False,False,False,62-122-195-14.broadband.opcom.ru,0,0,0
 65.20.131.63,15,7,2026-07-16T19:02:11.885880Z,2026-07-25T12:38:06.726715Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.134.97,15,7,2026-07-08T07:21:40.143994Z,2026-07-25T08:42:08.373190Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
 65.20.138.46,15,7,2026-07-12T10:06:37.458716Z,2026-07-29T00:29:56.116395Z,AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd,HulumTele,IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,False,False,False,,0,0,0
@@ -1229,7 +1229,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 1.214.214.114,14,6,2026-09-28T23:03:02.015418Z,2026-10-06T05:38:07.002079Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 1.238.106.229,14,6,2026-07-24T06:30:58.192525Z,2026-10-01T05:31:42.187514Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 2.180.32.104,14,6,2026-08-08T18:18:45.874406Z,2026-09-29T09:55:15.984846Z,AS58224 Iran Telecommunication Company PJS,TCI,IR,Telecommunication Company,False,False,False,,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,AS51604 JSC ER-Telecom Holding,EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,5x165x19x3.dynamic.ekat.ertelecom.ru,0,0,0
@@ -1242,7 +1242,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.103.110.123,14,6,2026-09-28T00:10:17.455572Z,2026-10-15T17:09:25.430513Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
 14.103.117.84,14,6,2026-08-23T19:29:11.033903Z,2026-09-12T11:43:03.866937Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
 14.103.213.90,14,6,2026-10-05T01:43:57.558974Z,2026-10-07T01:40:55.787125Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,0,0,0
-14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,,0,0,0
+14.141.157.218,14,6,2026-08-13T22:15:43.154389Z,2026-08-14T00:19:42.629062Z,AS4755 TATA Communications formerly VSNL is Leading ISP,TATACOMM-AS,IN,Tata Communications Limited,False,False,False,14.141.157.218.static-Delhi.vsnl.net.in,0,0,0
 14.177.234.24,14,6,2026-07-27T22:10:24.241135Z,2026-08-09T23:06:42.759105Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 14.224.213.222,14,6,2026-09-12T00:21:51.155239Z,2026-09-26T07:22:27.871277Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
 14.225.217.138,14,6,2026-07-26T23:49:00.501348Z,2026-08-24T06:39:48.571352Z,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VNPT-AS-VN,VN,VNPT,False,False,False,,0,0,0
@@ -1268,7 +1268,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1353,7 +1353,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
 81.192.46.29,14,6,2026-10-10T08:54:31.818700Z,2026-10-20T17:14:14.923801Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-29-46-192-81.adsl.iam.net.ma,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
 81.192.46.49,14,6,2026-07-21T08:44:52.358930Z,2026-10-12T20:56:28.134072Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-49-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
