@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T03:00:08Z",
+ "generated": "2026-10-22T03:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2346,
+ "count": 2347,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1877,6 +1877,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "106.13.95.198",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-20T21:05:47.970458Z",
+   "last_seen": "2026-10-22T03:14:25.989516Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.80",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -2717,7 +2735,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "tor-exit-96.digitalcourage.de",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -3851,7 +3869,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "tor-exit-102.digitalcourage.de",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -11735,7 +11753,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15623,7 +15641,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "static-mum-182.60.128.241.mtnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17135,7 +17153,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host-181-199-4-214.ecua.net.ec",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22679,7 +22697,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24209,7 +24227,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25829,7 +25847,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28709,7 +28727,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "host162.181-10-138.telecom.net.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28727,7 +28745,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "14-101-28-181.fibertel.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28763,7 +28781,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "188-12-164-181.fibertel.com.ar",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29609,7 +29627,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dsl-84-226-164-189-dynamic.prod-infinitum.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29627,7 +29645,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dsl-229-143-190-189-dynamic.prod-infinitum.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
