@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T22:30:05Z",
+ "generated": "2026-10-23T22:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2373,
+ "count": 2374,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2720,6 +2720,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "113.31.103.129",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T13:18:30.101274Z",
+   "last_seen": "2026-10-23T22:31:36.494541Z",
+   "asn": "AS17621 China Unicom Shanghai network",
+   "as_name": "CNCGROUP-SH",
+   "country": "CN",
+   "org": "Shanghai UCloud Information Technology Company Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "phifaxa.cn",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22283,7 +22301,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22985,7 +23003,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24551,7 +24569,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
