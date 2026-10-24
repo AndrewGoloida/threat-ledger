@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T08:30:07Z",
+ "generated": "2026-10-24T08:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2383,
+ "count": 2384,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14651,7 +14651,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14942,6 +14942,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "177.11.196.84",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-01T06:34:43.680262Z",
+   "last_seen": "2026-10-24T08:30:42.391816Z",
+   "asn": "AS262907 BRASIL TECPAR | AMIGO | AVATO",
+   "as_name": "BRASIL TECPAR AMIGO AVATO",
+   "country": "BR",
+   "org": "BRASIL TECPAR | AMIGO | AVATO",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "177-11-196-84.avato.com.br",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23039,7 +23057,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
