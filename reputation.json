@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T12:15:06Z",
+ "generated": "2026-10-24T12:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2388,
+ "count": 2391,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1820,6 +1820,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "51.38.224.114",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-15T06:53:29.852562Z",
+   "last_seen": "2026-10-24T12:26:02.339688Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-f8183341.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14675,6 +14693,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "109.194.108.203",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-08T03:19:06.813095Z",
+   "last_seen": "2026-10-24T12:23:02.943487Z",
+   "asn": "AS41786 JSC ER-Telecom Holding",
+   "as_name": "ERTH-YOLA-AS",
+   "country": "RU",
+   "org": "CJSC \"ER-Telecom Holding\"",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "staticip-109x194x108x203.pppoe.yola.ertelecom.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "112.196.54.182",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14705,7 +14741,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14744,6 +14780,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "115.178.75.243",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T21:57:09.882498Z",
+   "last_seen": "2026-10-24T12:28:27.575123Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "SKBroadband Co. Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23129,7 +23183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24695,7 +24749,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
