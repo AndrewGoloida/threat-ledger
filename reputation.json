@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T22:15:06Z",
+ "generated": "2026-10-24T22:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2403,
+ "count": 2405,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -4700,6 +4700,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "180.167.207.234",
+   "reputation_score": 30,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-07T18:30:11.368654Z",
+   "last_seen": "2026-10-24T22:27:25.297076Z",
+   "asn": "AS4812 China Telecom (Group)",
+   "as_name": "CHINANET-SH-AP",
+   "country": "CN",
+   "org": "Chinanet SH",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14813,7 +14831,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15284,6 +15302,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "181.188.237.223",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-23T22:33:30.066225Z",
+   "last_seen": "2026-10-24T22:27:48.815215Z",
+   "asn": "AS271936 SERVICIOS DE TELECOMUNICACIONES ATVCABLE CIA. LTDA.",
+   "as_name": "SERVICIOS DE TELECOMUNICACIONES ATVCABLE CIA. LTDA.",
+   "country": "EC",
+   "org": "Otecel S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22697,7 +22733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23399,7 +23435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26621,7 +26657,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
