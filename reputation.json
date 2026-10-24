@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T02:45:05Z",
+ "generated": "2026-10-24T03:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2376,
+ "count": 2378,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14561,7 +14561,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14744,6 +14744,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "163.7.6.114",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-15T21:44:23.894511Z",
+   "last_seen": "2026-10-24T02:53:55.238751Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "ID",
+   "org": "Byteplus Pte. Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14960,6 +14978,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "190.129.122.185",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-15T23:10:04.991439Z",
+   "last_seen": "2026-10-24T02:59:51.674417Z",
+   "asn": "AS6568 EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+   "as_name": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+   "country": "BO",
+   "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22211,7 +22247,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26135,7 +26171,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
