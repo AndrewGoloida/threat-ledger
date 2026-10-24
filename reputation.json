@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T14:30:06Z",
+ "generated": "2026-10-24T14:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2391,
+ "count": 2393,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7595,7 +7595,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "vps-fda9991a.vps.ovh.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14741,7 +14741,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15233,6 +15233,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.145.192.106",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-01T12:12:05.655041Z",
+   "last_seen": "2026-10-24T14:34:00.008367Z",
+   "asn": "AS14080 Telmex Colombia S.A.",
+   "as_name": "Telmex Colombia S.A.",
+   "country": "CO",
+   "org": "Telmex Colombia S.A.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "193.24.211.219",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15374,6 +15392,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "219.77.169.219",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-18T16:02:31.520673Z",
+   "last_seen": "2026-10-24T14:35:03.956330Z",
+   "asn": "AS4760 HKT Limited",
+   "as_name": "HKTIMS-AP",
+   "country": "HK",
+   "org": "Hong Kong Telecommunications (HKT) Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "n219077169219.netvigator.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23183,7 +23219,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24749,7 +24785,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
