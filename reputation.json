@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T21:45:06Z",
+ "generated": "2026-10-24T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2398,
+ "count": 2400,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13469,6 +13469,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "43.245.248.2",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T08:32:13.641460Z",
+   "last_seen": "2026-10-24T21:46:49.097861Z",
+   "asn": "AS131740 PT Smart Media Pratama",
+   "as_name": "SMARTMEDIA-AS-ID",
+   "country": "ID",
+   "org": "PT Smart Media Pratama",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "bbr.smartmedia.net.id",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.153.34.151",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14777,7 +14795,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14888,6 +14906,24 @@
    "rdns": "static-190.249.252.123-tataidc.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "124.174.39.136",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-08T17:58:21.206512Z",
+   "last_seen": "2026-10-24T21:49:03.306212Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Volcano Engine Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
