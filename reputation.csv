@@ -815,10 +815,11 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 109.160.32.177,24,4,2026-10-07T01:27:33.289914Z,2026-10-12T09:29:04.249182Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 109.160.32.180,24,4,2026-10-04T15:02:49.154781Z,2026-10-14T17:38:08.871880Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 112.196.54.182,24,16,2026-07-13T18:05:32.238710Z,2026-07-27T18:07:02.142748Z,AS17917 Quadrant Televentures Limited,QTLTELECOM-AS-AP,IN,Hfcl Infotel LTD,False,False,False,,0,0,0
-113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,phifaxa.cn,0,0,0
+113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,knfcwki.cn,0,0,0
 113.219.177.95,24,8,2026-07-11T03:22:13.126397Z,2026-07-28T14:24:35.016299Z,AS63838 Hengyang,CT-HuNan-Hengyang-IDC,CN,Chinanet HN,False,True,False,,0,0,0
 115.68.133.201,24,4,2026-08-22T00:56:08.081139Z,2026-08-30T14:30:00.550739Z,AS38700 SMILESERV,SMILESERV-AS-KR,KR,SMILESERV,True,False,False,,0,0,0
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
+118.145.238.115,24,6,2026-09-06T17:31:04.204742Z,2026-10-25T01:59:45.822752Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Volcano Engine Technology Co., Ltd.",False,False,False,,2,3,0
 121.11.96.13,24,6,2026-07-20T07:31:16.420270Z,2026-10-25T00:00:41.629259Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,China Telecom,False,False,False,,2,3,0
 123.252.249.190,24,8,2026-07-13T18:55:44.944447Z,2026-07-15T03:39:10.275200Z,AS17762 Tata Teleservices Maharashtra Ltd,HTIL-TTML-IN-AP,IN,TTML,False,True,False,static-190.249.252.123-tataidc.co.in,0,0,0
 128.14.237.154,24,4,2026-08-12T21:40:15.172749Z,2026-09-21T09:40:10.753195Z,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD-HK-AS-AP,TW,UCLOUD,True,False,False,,0,0,0
@@ -1191,7 +1192,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 111.70.23.240,15,7,2026-07-08T20:15:37.733467Z,2026-07-29T19:04:03.689911Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,111-70-23-240.emome-ip.hinet.net,0,0,0
 112.120.115.152,15,7,2026-07-07T23:56:31.575229Z,2026-07-26T17:18:00.620048Z,AS4760 HKT Limited,HKTIMS-AP,HK,Hong Kong Telecommunications (HKT) Limited,False,False,False,n112120115152.netvigator.com,0,0,0
 113.140.95.2,15,7,2026-07-18T23:51:42.909068Z,2026-07-29T22:36:40.736767Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SN,False,False,False,,0,0,0
-116.99.172.104,15,7,2026-07-08T20:20:49.286390Z,2026-07-08T20:23:55.534550Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+116.99.172.104,15,7,2026-07-08T20:20:49.286390Z,2026-07-08T20:23:55.534550Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 116.99.174.230,15,7,2026-08-10T09:36:45.871034Z,2026-08-10T09:40:17.143728Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.110.209.68,15,7,2026-07-29T22:57:59.191033Z,2026-07-29T23:31:54.659207Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 117.177.235.249,15,7,2026-07-12T08:58:51.314950Z,2026-07-27T05:26:33.162619Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
@@ -1283,7 +1284,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1467,7 +1468,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.216.145.2,14,6,2026-08-24T14:42:32.334549Z,2026-10-16T20:32:23.166504Z,AS135175 Facts Online Pvt Ltd,FACTS-AS-IN,IN,Facts Online Pvt Ltd,False,False,False,triocorporation.in,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.51.92.114,14,6,2026-07-23T05:13:54.558142Z,2026-09-24T11:39:03.103909Z,AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA,CABLELITE-AS-AP,IN,Atria Convergence Technologies Pvt. Ltd.,False,False,False,106.51.92.114.actcorp.in,0,0,0
 106.80.185.155,14,6,2026-08-27T10:05:10.203441Z,2026-09-06T14:11:21.787827Z,AS141739 China Telecom,CT-CHONGQING-MAN2-AP,CN,Chinanet CQ,False,False,False,,0,0,0
@@ -1887,7 +1888,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 115.191.23.138,13,5,2026-08-04T03:02:25.414408Z,2026-10-23T05:44:13.253237Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,GWBN-WUHAN's IP,False,False,False,,0,0,0
 115.241.228.34,13,5,2026-07-10T10:44:03.247269Z,2026-07-28T00:08:12.022289Z,AS55836 Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Reliance Jio Infocomm Limited,False,False,False,,0,0,0
 116.99.171.175,13,5,2026-08-08T22:59:27.955897Z,2026-08-08T23:33:19.833548Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-116.99.174.196,13,5,2026-08-14T17:24:32.079249Z,2026-08-14T17:30:24.171968Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+116.99.174.196,13,5,2026-08-14T17:24:32.079249Z,2026-08-14T17:30:24.171968Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 116.110.146.153,13,5,2026-07-30T15:46:32.583379Z,2026-08-01T02:49:20.719199Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.113.241.82,13,5,2026-07-14T22:31:13.337760Z,2026-07-28T23:54:01.293202Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Neimeng Province Network,False,False,False,,0,0,0
 117.247.77.115,13,5,2026-07-12T00:59:32.175783Z,2026-07-29T02:07:02.518606Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ftth.kol.117.247.77.115.bsnl.in,0,0,0
@@ -2204,7 +2205,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 116.59.10.205,12,4,2026-07-31T09:06:05.392915Z,2026-08-18T06:56:39.748434Z,AS17421 Mobile Business Group,EMOME-NET,TW,Chunghwa Telecom Co. Ltd.,False,False,False,116-59-10-205.emome-ip.hinet.net,0,0,0
 116.74.164.106,12,4,2026-08-19T10:19:08.158613Z,2026-08-19T18:50:52.851329Z,AS17488 Hathway IP Over Cable Internet,HATHWAY-NET-AP,IN,Hathway Cable and Datacom Limited,False,False,False,164.74.116.106.hathway.com,0,0,0
 116.99.172.41,12,4,2026-08-13T23:53:35.251535Z,2026-08-13T23:54:18.285627Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-116.99.174.232,12,4,2026-07-17T14:22:53.474192Z,2026-07-17T14:23:24.750473Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+116.99.174.232,12,4,2026-07-17T14:22:53.474192Z,2026-07-17T14:23:24.750473Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 116.110.2.63,12,4,2026-07-21T06:32:17.762739Z,2026-07-21T06:34:51.891513Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.110.6.148,12,4,2026-07-08T03:28:19.660712Z,2026-07-08T03:31:51.796750Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.110.7.93,12,4,2026-07-20T12:32:30.729991Z,2026-07-20T12:32:41.936188Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
@@ -2276,7 +2277,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 170.233.29.175,12,4,2026-07-09T18:12:49.493411Z,2026-08-06T06:31:37.617604Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.175.ssservicios.com.ar,0,0,0
 171.231.178.234,12,4,2026-10-09T08:53:09.742293Z,2026-10-09T08:53:42.363510Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.179.179,12,4,2026-09-30T16:34:58.139618Z,2026-09-30T16:35:13.944301Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-171.231.181.120,12,4,2026-10-15T16:06:31.648647Z,2026-10-15T16:06:41.495851Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.181.120,12,4,2026-10-15T16:06:31.648647Z,2026-10-15T16:06:41.495851Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.194.170,12,4,2026-10-09T17:52:48.832638Z,2026-10-09T17:53:10.982047Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.243.149.238,12,4,2026-09-30T07:02:12.017370Z,2026-09-30T07:02:33.376102Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
