@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T21:45:06Z",
+ "generated": "2026-10-25T22:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2429,
+ "count": 2431,
  "records": [
   {
    "ip": "77.239.124.159",
@@ -13919,6 +13919,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "95.255.158.96",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-24T05:06:40.723508Z",
+   "last_seen": "2026-10-25T21:50:07.882725Z",
+   "asn": "AS3269 Telecom Italia S.p.A.",
+   "as_name": "ASN-IBSNAZ",
+   "country": "IT",
+   "org": "INTERBUSINESS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-95-255-158-96.business.telecomitalia.it",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "98.70.38.67",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15050,6 +15068,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.140.234",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-18T10:28:38.683256Z",
+   "last_seen": "2026-10-25T21:53:16.059947Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-140-234.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -25109,7 +25145,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
