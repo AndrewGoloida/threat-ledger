@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T12:30:05Z",
+ "generated": "2026-10-25T12:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2418,
+ "count": 2419,
  "records": [
   {
    "ip": "77.239.124.159",
@@ -15035,6 +15035,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "160.251.215.51",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-06T11:03:46.790321Z",
+   "last_seen": "2026-10-25T12:34:19.365697Z",
+   "asn": "AS58791 GMO Internet, Inc.",
+   "as_name": "APNIC-ASBLOCK-58580",
+   "country": "JP",
+   "org": "GMO Internet Group, Inc.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "v160-251-215-51.kpp1.static.cnode.jp",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "163.223.210.138",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -23291,7 +23309,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -38861,7 +38879,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
