@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T08:45:05Z",
+ "generated": "2026-10-25T09:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2414,
+ "count": 2415,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -722,6 +722,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "78.128.112.74",
+   "reputation_score": 42,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-24T18:03:38.325287Z",
+   "last_seen": "2026-10-25T08:48:17.867941Z",
+   "asn": "AS208637 4 Vendeta Ltd",
+   "as_name": "Vendeta4-LTD",
+   "country": "BG",
+   "org": "4media",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "ip-112-74.4vendeta.com",
+   "creds_tried_count": 3,
+   "command_count": 3,
    "download_url_count": 0
   },
   {
@@ -24839,7 +24857,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
