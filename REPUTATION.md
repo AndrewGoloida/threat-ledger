@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-25T20:45:06Z · 784 from hosting/datacenter ranges · 21 progressed to running commands.
+Generated 2026-10-25T21:00:05Z · 685 from hosting/datacenter ranges · 21 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -14,27 +14,27 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | Country | IPs |
 |---------|-----|
 | CN | 354 |
-| US | 238 |
-| NL | 229 |
+| US | 235 |
 | IN | 212 |
+| NL | 140 |
 | KR | 115 |
 | VN | 99 |
 | HK | 97 |
 | RU | 89 |
-| BR | 78 |
+| BR | 76 |
 | ID | 71 |
 
 ## Top source networks (ASN)
 
 | Network | IPs |
 |---------|-----|
-| TECHTIES-AS | 183 |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 128 |
 | CHINANET-BACKBONE | 109 |
+| TECHTIES-AS | 95 |
 | KIXS-AS-KR | 67 |
-| DIGITALOCEAN-ASN | 66 |
+| DIGITALOCEAN-ASN | 65 |
 | CHINA169-Backbone | 54 |
-| UCLOUD-HK-AS-AP | 43 |
+| UCLOUD-HK-AS-AP | 39 |
 | CHINAMOBILE-CN | 38 |
 | OVH | 35 |
 | HulumTele | 34 |
