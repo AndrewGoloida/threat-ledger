@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T13:45:06Z",
+ "generated": "2026-10-25T14:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2421,
+ "count": 2424,
  "records": [
   {
    "ip": "77.239.124.159",
@@ -1841,6 +1841,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "43.130.1.16",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-16T04:26:26.617772Z",
+   "last_seen": "2026-10-25T13:58:51.343788Z",
+   "asn": "AS132203 Tencent Building, Kejizhongyi Avenue",
+   "as_name": "TENCENT-NET-AP-CN",
+   "country": "US",
+   "org": "Tencent Cloud Computing",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.173.66.235",
    "reputation_score": 36,
    "honeypot_attempts": 6,
@@ -1946,6 +1964,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.100.45",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-23T14:10:57.684227Z",
+   "last_seen": "2026-10-25T13:59:15.234134Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "server-792474.isufst-projecthusay.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14855,6 +14891,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "113.193.234.210",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-27T14:30:14.674744Z",
+   "last_seen": "2026-10-25T13:52:35.350508Z",
+   "asn": "AS45528 Tikona Infinet Ltd.",
+   "as_name": "TIKONAIN-AS",
+   "country": "IN",
+   "org": "Tikona Digital Networks Pvt.Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "113.219.177.95",
    "reputation_score": 24,
    "honeypot_attempts": 8,
@@ -22625,7 +22679,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23345,7 +23399,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26657,7 +26711,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
