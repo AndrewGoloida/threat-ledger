@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T06:45:06Z",
+ "generated": "2026-10-25T07:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2412,
+ "count": 2413,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -24821,7 +24821,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41131,6 +41131,24 @@
    "is_mobile": false,
    "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "171.243.150.47",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-25T06:49:54.132722Z",
+   "last_seen": "2026-10-25T06:50:07.822250Z",
+   "asn": "AS7552 Viettel Group",
+   "as_name": "VIETEL-AS-AP",
+   "country": "VN",
+   "org": "VIETEL",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
