@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T20:30:06Z",
+ "generated": "2026-10-26T20:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2444,
+ "count": 2446,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3656,6 +3656,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "119.96.158.238",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-29T07:35:45.967182Z",
+   "last_seen": "2026-10-26T20:41:40.924932Z",
+   "asn": "AS58563 CHINANET Hubei province network",
+   "as_name": "CHINATELECOM-Hubei-IDC",
+   "country": "CN",
+   "org": "Chinanet HB",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15047,7 +15065,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16238,6 +16256,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "117.62.22.127",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-13T09:41:25.512706Z",
+   "last_seen": "2026-10-26T20:43:13.209136Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "CN2 Jiangsu Province Network",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23525,7 +23561,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25145,7 +25181,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
