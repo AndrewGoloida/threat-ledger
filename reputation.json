@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T14:00:06Z",
+ "generated": "2026-10-26T14:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2438,
+ "count": 2439,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13901,6 +13901,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "91.231.218.149",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-21T12:53:12.245389Z",
+   "last_seen": "2026-10-26T14:06:58.367938Z",
+   "asn": "AS57354 SYSTEMA Ltd",
+   "as_name": "SYSTEMA-AS",
+   "country": "RU",
+   "org": "SYSTEMA Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "94.136.191.1",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -13970,6 +13988,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "101.47.8.188",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-09T17:02:18.418853Z",
+   "last_seen": "2026-10-26T14:00:01.845160Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "SG",
+   "org": "Byteplus Pte. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15683,24 +15719,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "101.47.8.188",
-   "reputation_score": 23,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-10-09T17:02:18.418853Z",
-   "last_seen": "2026-10-26T14:00:00.144943Z",
-   "asn": "AS150436 Byteplus Pte. Ltd.",
-   "as_name": "BYTEPLUS-AS-AP",
-   "country": "SG",
-   "org": "Byteplus Pte. Ltd.",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
-   "download_url_count": 0
-  },
-  {
    "ip": "112.194.142.167",
    "reputation_score": 23,
    "honeypot_attempts": 7,
@@ -16577,7 +16595,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "119.6.17.58.adsl-pool.jx.chinaunicom.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20321,7 +20339,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23417,7 +23435,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26747,7 +26765,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40229,7 +40247,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
