@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T18:15:05Z",
+ "generated": "2026-10-26T18:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2442,
+ "count": 2443,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14315,6 +14315,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "106.120.205.138",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-19T07:02:11.170120Z",
+   "last_seen": "2026-10-26T18:18:10.047462Z",
+   "asn": "AS4847 China Networks Inter-Exchange",
+   "as_name": "CNIX-AP",
+   "country": "CN",
+   "org": "Chinanet BJ",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.17",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -25109,7 +25127,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
