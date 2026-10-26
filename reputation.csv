@@ -827,7 +827,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 109.160.32.180,24,4,2026-10-04T15:02:49.154781Z,2026-10-14T17:38:08.871880Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,GBTCloud,True,False,False,,0,0,0
 110.38.234.222,24,6,2026-10-23T19:09:43.804374Z,2026-10-26T02:52:20.195405Z,AS38264 National WiMAX/IMS environment,WATEEN-IMS-PK-AS-AP,PK,Wateen Telecom Limited,False,False,False,GPONUser38234-222.wateen.net,2,3,0
 112.196.54.182,24,16,2026-07-13T18:05:32.238710Z,2026-07-27T18:07:02.142748Z,AS17917 Quadrant Televentures Limited,QTLTELECOM-AS-AP,IN,Hfcl Infotel LTD,False,False,False,,0,0,0
-113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,phifaxa.cn,0,0,0
+113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,knfcwki.cn,0,0,0
 113.219.177.95,24,8,2026-07-11T03:22:13.126397Z,2026-07-28T14:24:35.016299Z,AS63838 Hengyang,CT-HuNan-Hengyang-IDC,CN,Chinanet HN,False,True,False,,0,0,0
 115.68.133.201,24,4,2026-08-22T00:56:08.081139Z,2026-08-30T14:30:00.550739Z,AS38700 SMILESERV,SMILESERV-AS-KR,KR,SMILESERV,True,False,False,,0,0,0
 117.211.15.93,24,16,2026-07-09T09:07:13.482700Z,2026-07-29T23:43:11.167340Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,static.ill.117.211.15.93.bsnl.co.in,0,0,0
@@ -1256,7 +1256,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 1.214.214.114,14,6,2026-09-28T23:03:02.015418Z,2026-10-06T05:38:07.002079Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 1.238.106.229,14,6,2026-07-24T06:30:58.192525Z,2026-10-01T05:31:42.187514Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 2.180.32.104,14,6,2026-08-08T18:18:45.874406Z,2026-09-29T09:55:15.984846Z,AS58224 Iran Telecommunication Company PJS,TCI,IR,Telecommunication Company,False,False,False,,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,AS51604 JSC ER-Telecom Holding,EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,5x165x19x3.dynamic.ekat.ertelecom.ru,0,0,0
@@ -1386,7 +1386,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 80.247.110.206,14,6,2026-09-01T01:22:42.815899Z,2026-09-03T11:35:23.982955Z,AS21365 MTS PJSC,INTELECA-AS,RU,ALT,False,False,True,,0,0,0
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
 81.192.46.29,14,6,2026-10-10T08:54:31.818700Z,2026-10-20T17:14:14.923801Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-29-46-192-81.adsl.iam.net.ma,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
 81.192.46.49,14,6,2026-07-21T08:44:52.358930Z,2026-10-12T20:56:28.134072Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-49-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,AS3216 PJSC Vimpelcom,SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
 81.214.75.248,14,6,2026-07-14T03:25:57.731506Z,2026-07-30T00:53:27.203357Z,AS9121 Turk Telekomunikasyon Anonim Sirketi,TTNet,TR,TurkTelecom,False,False,False,81.214.75.248.dynamic.ttnet.com.tr,0,0,0
