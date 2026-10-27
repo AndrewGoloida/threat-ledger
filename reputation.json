@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T15:15:06Z",
+ "generated": "2026-10-27T15:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2479,
+ "count": 2480,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15863,6 +15863,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.0.63.226",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-17T07:07:53.073322Z",
+   "last_seen": "2026-10-27T15:21:53.192815Z",
+   "asn": "AS13489 UNE EPM TELECOMUNICACIONES S.A.",
+   "as_name": "UNE EPM TELECOMUNICACIONES S.A.",
+   "country": "CO",
+   "org": "UNE EPM TELECOMUNICACIONES S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "Static-BAFibra190-0-63-226.epm.net.co",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "193.24.211.219",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -22319,7 +22337,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23957,7 +23975,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27341,7 +27359,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28691,7 +28709,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "121.242.232.147.static-chennai.vsnl.net.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35225,7 +35243,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40949,7 +40967,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
