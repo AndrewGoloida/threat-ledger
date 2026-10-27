@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T08:30:06Z",
+ "generated": "2026-10-27T08:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2464,
+ "count": 2468,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -254,6 +254,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "172.174.5.146",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-31T11:13:40.821255Z",
+   "last_seen": "2026-10-27T08:30:43.149670Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (eastus)",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -3674,6 +3692,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "102.223.92.101",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-26T02:49:59.726481Z",
+   "last_seen": "2026-10-27T08:41:11.800577Z",
+   "asn": "AS328647 Koforidua Technical University",
+   "as_name": "Koforidua-Technical-University",
+   "country": "GH",
+   "org": "Koforidua Technical University",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -13919,6 +13955,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.164.39.253",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-25T01:25:00.154736Z",
+   "last_seen": "2026-10-27T08:41:51.039688Z",
+   "asn": "AS268622 OLIVEIRA TELECOM",
+   "as_name": "OLIVEIRA TELECOM",
+   "country": "BR",
+   "org": "Oliveira Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.178.227.0",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14042,6 +14096,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "61.28.144.154",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-24T02:01:55.413238Z",
+   "last_seen": "2026-10-27T08:39:02.896594Z",
+   "asn": "AS9658 Eastern Telecoms Phils., Inc.",
+   "as_name": "ETPI-IDS-AS-AP",
+   "country": "PH",
+   "org": "Eastern Telecommunications Philippines, Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "154.144.28.61.unassigned.static.eastern-tele.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -22967,7 +23039,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25325,7 +25397,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27071,7 +27143,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
