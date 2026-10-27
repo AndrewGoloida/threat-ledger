@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T17:00:06Z",
+ "generated": "2026-10-27T17:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2480,
+ "count": 2482,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13109,6 +13109,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "189.204.230.91",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-07T02:05:35.618439Z",
+   "last_seen": "2026-10-27T17:11:29.318146Z",
+   "asn": "AS18734 Operbes, S.A. de C.V.",
+   "as_name": "Operbes, S.A. de C.V.",
+   "country": "MX",
+   "org": "Operbes, S.A. de C.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "91.189-204-230.bestelclientes.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.232.114.71",
    "reputation_score": 25,
    "honeypot_attempts": 17,
@@ -15371,7 +15389,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15932,6 +15950,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "207.241.172.73",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-23T08:18:59.819515Z",
+   "last_seen": "2026-10-27T17:12:39.664934Z",
+   "asn": "AS206216 Advin Services LLC",
+   "as_name": "ADVIN-AS",
+   "country": "DE",
+   "org": "Advin Services LLC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23975,7 +24011,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25613,7 +25649,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27359,7 +27395,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
