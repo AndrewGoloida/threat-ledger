@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T09:15:06Z",
+ "generated": "2026-10-27T09:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2469,
+ "count": 2471,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1856,6 +1856,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "35.244.32.167",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-22T01:26:29.725867Z",
+   "last_seen": "2026-10-27T09:15:52.406538Z",
+   "asn": "AS396982 Google LLC",
+   "as_name": "GOOGLE-CLOUD-PLATFORM",
+   "country": "IN",
+   "org": "Google Cloud (asia-south1)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "167.32.244.35.bc.googleusercontent.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15611,6 +15629,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "177.234.198.68",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-24T04:47:14.011146Z",
+   "last_seen": "2026-10-27T09:16:23.688952Z",
+   "asn": "AS52468 UFINET PANAMA S.A.",
+   "as_name": "UFINET PANAMA S.A.",
+   "country": "EC",
+   "org": "Ufinet Panama S.A.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "68-198-234-177.ufinetlatam.net.ec",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "179.43.153.10",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -23057,7 +23093,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23777,7 +23813,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27161,7 +27197,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
