@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T00:30:05Z",
+ "generated": "2026-10-28T00:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2486,
+ "count": 2487,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2090,6 +2090,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "134.209.51.70",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-28T00:26:57.471881Z",
+   "last_seen": "2026-10-28T00:43:19.377692Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -22967,7 +22985,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
