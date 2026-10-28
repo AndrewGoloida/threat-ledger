@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T08:45:06Z",
+ "generated": "2026-10-28T09:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2496,
+ "count": 2498,
  "records": [
   {
    "ip": "77.239.124.152",
@@ -12527,7 +12527,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "70.34.202.108.vultrusercontent.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15665,6 +15665,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "186.120.179.222",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-27T07:05:19.087852Z",
+   "last_seen": "2026-10-28T08:58:32.567964Z",
+   "asn": "AS12066 ALTICE DOMINICANA S.A.",
+   "as_name": "ALTICE DOMINICANA S.A.",
+   "country": "DO",
+   "org": "Altice Dominicana S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "adsl-179-222.tricom.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.45.180.140",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15878,6 +15896,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "222.222.168.9",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-28T05:11:41.734962Z",
+   "last_seen": "2026-10-28T08:59:33.379065Z",
+   "asn": "AS4134 CHINANET BACKBONE",
+   "as_name": "CHINANET-BACKBONE",
+   "country": "CN",
+   "org": "Chinanet HE",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -23867,7 +23903,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -42587,7 +42623,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0

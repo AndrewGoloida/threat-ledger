@@ -694,7 +694,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 45.198.224.48,25,5,2026-10-20T21:49:51.815999Z,2026-10-27T06:04:33.188172Z,AS215925 VPSVAULT.HOST LTD,VPSVAULTHOST,SE,Vpsvault.host LTD,True,False,False,,0,0,0
 60.166.31.198,25,9,2026-07-09T02:16:21.130887Z,2026-07-29T01:31:13.518402Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 64.89.161.90,25,5,2026-07-06T02:37:35.822750Z,2026-08-09T00:49:49.440481Z,AS36680 Netiface LLC,NETIFACELLC,LU,Netiface LLC,True,False,False,,0,0,0
-70.34.202.108,25,5,2026-10-17T01:50:33.554454Z,2026-10-17T02:31:25.106664Z,"AS20473 The Constant Company, LLC",AS-VULTR,SE,Vultr,True,False,False,70.34.202.108.vultrusercontent.com,0,0,0
+70.34.202.108,25,5,2026-10-17T01:50:33.554454Z,2026-10-17T02:31:25.106664Z,"AS20473 The Constant Company, LLC",AS-VULTR,SE,Vultr,True,False,False,,0,0,0
 78.135.111.47,25,5,2026-09-17T04:42:36.691593Z,2026-10-24T22:10:59.595057Z,AS47585 Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,YIGITHOSTING,TR,Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI,True,False,False,undefined.hostname.localhost,0,0,0
 78.135.111.65,25,5,2026-09-22T20:53:41.251491Z,2026-09-25T12:28:39.081446Z,AS47585 Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,YIGITHOSTING,TR,Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI,True,False,False,undefined.hostname.localhost,0,0,0
 80.94.95.109,25,5,2026-10-14T12:27:39.067664Z,2026-10-14T18:49:52.550621Z,AS204428 SS-Net,SS-Net,BG,Unmanaged LTD,True,False,False,,0,0,0
@@ -869,6 +869,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 181.214.140.97,24,4,2026-07-14T03:47:05.352896Z,2026-07-14T08:30:47.975711Z,AS20860 IOMART CLOUD SERVICES LIMITED,IOMART-AS,PA,Iomart Cloud Services Limited,True,False,False,,0,0,0
 182.43.76.120,24,4,2026-08-01T11:02:27.746814Z,2026-09-06T12:27:48.571712Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,False,False,,0,0,0
 182.44.26.211,24,4,2026-07-19T17:11:22.581385Z,2026-08-17T16:19:36.580153Z,AS58519 Cloud Computing Corporation,CHINATELECOM-Ctcloud,CN,Chinanet SD,True,False,False,,0,0,0
+186.120.179.222,24,6,2026-07-27T07:05:19.087852Z,2026-10-28T08:58:32.567964Z,AS12066 ALTICE DOMINICANA S.A.,ALTICE DOMINICANA S.A.,DO,Altice Dominicana S.A,False,False,False,adsl-179-222.tricom.net,2,3,0
 187.45.180.140,24,4,2026-07-15T04:39:52.756343Z,2026-07-15T10:52:46.844855Z,AS53055 DIMENOC SERVICOS DE INFORMATICA LTDA,DIMENOC SERVICOS DE INFORMATICA LTDA,BR,HostDime,True,False,False,187-45-180-140.static.hostdime.com,0,0,0
 193.24.211.219,24,4,2026-10-13T04:48:40.323551Z,2026-10-16T11:51:19.539681Z,AS215929 Data Campus Limited,datacampus,HK,Data Campus Limited,True,False,False,,0,0,0
 200.159.14.187,24,16,2026-07-08T04:18:19.149592Z,2026-07-29T15:35:49.486351Z,AS10429 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,TELEF�NICA BRASIL S.A,False,False,False,200-159-14-187.customer.tdatabrasil.net.br,0,0,0
@@ -881,6 +882,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 216.173.112.34,24,4,2026-08-18T10:30:10.445860Z,2026-08-20T00:21:14.480795Z,AS397423 Tier.Net Technologies LLC,TIER-NET,US,H4Y21,True,False,False,,0,0,0
 218.58.73.238,24,8,2026-07-12T09:04:06.796237Z,2026-07-25T22:34:03.491078Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Shandong Province Network,False,True,False,,0,0,0
 222.174.17.118,24,16,2026-07-14T05:46:27.586262Z,2026-07-15T17:00:25.842605Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SD,False,False,False,,0,0,0
+222.222.168.9,24,6,2026-10-28T05:11:41.734962Z,2026-10-28T08:59:33.379065Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HE,False,False,False,,4,5,0
 223.210.27.53,24,4,2026-07-15T14:53:26.257192Z,2026-07-31T08:29:35.543710Z,AS4847 China Networks Inter-Exchange,CNIX-AP,CN,"Tencent cloud computing (Beijing) Co., Ltd.",True,False,False,,0,0,0
 1.212.225.99,23,15,2026-07-08T01:15:13.429247Z,2026-07-28T15:38:21.296927Z,AS3786 LG DACOM Corporation,LGDACOM,KR,LG Uplus,False,False,False,,0,0,0
 27.79.2.39,23,15,2026-07-20T12:16:15.565845Z,2026-07-20T12:29:38.718681Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,localhost,0,0,0
@@ -1324,7 +1326,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,sender.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -2364,7 +2366,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 171.231.181.120,12,4,2026-10-15T16:06:31.648647Z,2026-10-15T16:06:41.495851Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.194.170,12,4,2026-10-09T17:52:48.832638Z,2026-10-09T17:53:10.982047Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-171.231.195.149,12,4,2026-10-28T04:18:40.503877Z,2026-10-28T04:18:49.838570Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,4,0
+171.231.195.149,12,4,2026-10-28T04:18:40.503877Z,2026-10-28T04:18:49.838570Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,4,0
 171.243.149.238,12,4,2026-09-30T07:02:12.017370Z,2026-09-30T07:02:33.376102Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.243.150.47,12,4,2026-10-25T06:49:54.132722Z,2026-10-25T06:50:07.822250Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 173.163.186.155,12,4,2026-07-27T11:30:52.028692Z,2026-07-27T12:20:46.881605Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,MEM VET HOSP OLD FOR,False,False,False,,0,0,0
