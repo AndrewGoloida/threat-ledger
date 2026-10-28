@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T09:15:05Z",
+ "generated": "2026-10-28T09:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2498,
+ "count": 2499,
  "records": [
   {
    "ip": "77.239.124.152",
@@ -12527,7 +12527,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15281,7 +15281,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15734,6 +15734,24 @@
    "rdns": "200-159-14-187.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "202.165.26.170",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-27T02:14:15.133079Z",
+   "last_seen": "2026-10-28T09:17:20.770455Z",
+   "asn": "AS18206 TM TECHNOLOGY SERVICES SDN. BHD.",
+   "as_name": "TTSSB-MY",
+   "country": "MY",
+   "org": "TM VADS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23165,7 +23183,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25631,7 +25649,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
