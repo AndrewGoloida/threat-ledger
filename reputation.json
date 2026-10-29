@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-29T07:15:06Z",
+ "generated": "2026-10-29T07:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2528,
+ "count": 2531,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1949,6 +1949,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.189.89.145",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-21T12:57:05.413137Z",
+   "last_seen": "2026-10-29T07:22:59.153060Z",
+   "asn": "AS134926 Micro Hosting Private Limited",
+   "as_name": "MICROHOST-AS",
+   "country": "IN",
+   "org": "Mind Over Matter Solutions PTE LTD",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "145-89-189-103.compute.onutho.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "107.150.96.71",
    "reputation_score": 36,
    "honeypot_attempts": 6,
@@ -1994,6 +2012,24 @@
    "as_name": "FOURPLEX-ASN",
    "country": "US",
    "org": "Fourplex Telecom LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "158.180.79.132",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-12T21:23:47.884666Z",
+   "last_seen": "2026-10-29T07:21:53.166781Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "KR",
+   "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
@@ -2054,6 +2090,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "198.12.148.211",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-03T17:39:28.240341Z",
+   "last_seen": "2026-10-29T07:20:34.576974Z",
+   "asn": "AS398101 GoDaddy.com, LLC",
+   "as_name": "GO-DADDY-COM-LLC",
+   "country": "US",
+   "org": "GoDaddy.com, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "211.148.12.198.host.secureserver.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15569,7 +15623,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19439,7 +19493,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20051,7 +20105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21041,7 +21095,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21239,7 +21293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -22787,7 +22841,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24191,7 +24245,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30563,7 +30617,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37493,7 +37547,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41759,7 +41813,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43091,7 +43145,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
