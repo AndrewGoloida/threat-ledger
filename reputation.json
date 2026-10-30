@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T05:00:05Z",
+ "generated": "2026-10-30T05:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2540,
+ "count": 2541,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15641,7 +15641,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16058,6 +16058,24 @@
    "rdns": "187-45-180-140.static.hostdime.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "187.111.28.131",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-26T10:52:15.265096Z",
+   "last_seen": "2026-10-30T05:02:06.334882Z",
+   "asn": "AS53120 MUNDIVOX TELECOMUNICA\u00c7\u00d5ES LTDA",
+   "as_name": "MUNDIVOX TELECOMUNICA\u00c7\u00d5ES LTDA",
+   "country": "BR",
+   "org": "MUNDIVOX TELECOMUNICA\u00c7\u00d5ES LTDA",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "mvx-187-111-28-131.mundivox.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23525,7 +23543,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26081,7 +26099,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -35027,7 +35045,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "vclass.uew.edu.gh",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
