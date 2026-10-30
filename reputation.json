@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T09:45:06Z",
+ "generated": "2026-10-30T10:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2571,
+ "count": 2575,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1877,6 +1877,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "50.6.200.164",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-27T17:12:36.606642Z",
+   "last_seen": "2026-10-30T09:46:22.442508Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "50-6-200-164.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "50.6.205.78",
    "reputation_score": 36,
    "honeypot_attempts": 6,
@@ -2036,6 +2054,24 @@
    "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "154.219.124.231",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-30T05:51:42.710768Z",
+   "last_seen": "2026-10-30T09:45:10.471232Z",
+   "asn": "AS402506 Zenixcloud Inc",
+   "as_name": "ZENIX",
+   "country": "US",
+   "org": "Vapeline Technology",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 5,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -15983,7 +16019,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16115,6 +16151,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "129.121.137.135",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-27T06:43:23.395748Z",
+   "last_seen": "2026-10-30T09:47:02.528206Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-137-135.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "129.121.138.109",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -16146,6 +16200,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "129-121-138-211.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.142.84",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-22T21:50:02.995960Z",
+   "last_seen": "2026-10-30T09:45:56.123606Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-142-84.unifiedlayer.com",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -26639,7 +26711,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
