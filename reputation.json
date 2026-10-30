@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T06:45:06Z",
+ "generated": "2026-10-30T07:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2556,
+ "count": 2559,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2003,6 +2003,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "152.32.150.26",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-29T02:02:55.193359Z",
+   "last_seen": "2026-10-30T06:51:49.587400Z",
+   "asn": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+   "as_name": "UCLOUD-HK-AS-AP",
+   "country": "US",
+   "org": "Ucloud Information Technology",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "156.232.13.246",
    "reputation_score": 36,
    "honeypot_attempts": 6,
@@ -2036,6 +2054,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "166.88.33.16",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-28T01:49:53.165873Z",
+   "last_seen": "2026-10-30T06:51:30.459599Z",
+   "asn": "AS7488 CNServer LLC",
+   "as_name": "CNSERVER-AP-AS",
+   "country": "US",
+   "org": "CNServer LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -2144,6 +2180,24 @@
    "rdns": "portofpisa.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "4.230.10.211",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-07-15T10:37:28.548376Z",
+   "last_seen": "2026-10-30T06:50:20.375863Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "KR",
+   "org": "Microsoft Azure Cloud (koreacentral)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15821,7 +15875,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17657,7 +17711,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "119.6.17.58.adsl-pool.jx.chinaunicom.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19817,7 +19871,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26369,7 +26423,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28277,7 +28331,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
