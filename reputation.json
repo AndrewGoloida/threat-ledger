@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T05:45:06Z",
+ "generated": "2026-10-30T06:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2543,
+ "count": 2555,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1890,6 +1890,42 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "50-6-205-78.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "50.6.243.19",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-29T23:50:02.985078Z",
+   "last_seen": "2026-10-30T05:50:29.924822Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "CA",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "50-6-243-19.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "66.116.252.157",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-24T14:34:49.491306Z",
+   "last_seen": "2026-10-30T05:47:57.324931Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "IN",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "kanavistechnologies.com",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -14567,6 +14603,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "60.199.224.2",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-12T21:22:24.322866Z",
+   "last_seen": "2026-10-30T05:54:44.852058Z",
+   "asn": "AS9924 Taiwan Fixed Network, Telco and Network Service Provider.",
+   "as_name": "TFN-TW",
+   "country": "TW",
+   "org": "Taiwan Fixed Network CO., LTD.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "60-199-224-2.static.tfn.net.tw",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "60.217.227.87",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -14582,6 +14636,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "84.201.243.44",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T22:45:47.788673Z",
+   "last_seen": "2026-10-30T05:51:21.347990Z",
+   "asn": "AS34590 JSC ER-Telecom Holding",
+   "as_name": "IZHEVSK-AS",
+   "country": "RU",
+   "org": "CJSC \"ER-Telecom Holding\" Izhevsk branch",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "84x201x243x44.static-business.izhevsk.ertelecom.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14618,6 +14690,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "88.142.46.185",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-24T03:00:19.153535Z",
+   "last_seen": "2026-10-30T05:54:03.191314Z",
+   "asn": "AS15557 Societe Francaise Du Radiotelephone - SFR SA",
+   "as_name": "LDCOMNET",
+   "country": "FR",
+   "org": "SFR USER DATA FTTx",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "185.46.142.88.rev.sfr.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -14675,6 +14765,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "94.180.139.162",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-13T13:36:44.063335Z",
+   "last_seen": "2026-10-30T05:55:29.191721Z",
+   "asn": "AS41668 JSC ER-Telecom Holding",
+   "as_name": "ERTH-KAZAN-AS",
+   "country": "RU",
+   "org": "JSC \"ER-Telecom Holding\" Kazan' Branch",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "94x180x139x162.dynamic.kzn.ertelecom.ru",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "95.188.91.101",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -14726,6 +14834,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "101.100.194.181",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-26T12:47:18.316654Z",
+   "last_seen": "2026-10-30T05:48:43.011719Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "SG",
+   "org": "Vodien Internet Solutions Pte Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "v22105851.sin01.serveradd.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15677,7 +15803,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -15788,6 +15914,42 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.138.109",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-29T07:21:29.002361Z",
+   "last_seen": "2026-10-30T05:48:19.449156Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-138-109.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "129.121.138.211",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-27T03:07:33.831577Z",
+   "last_seen": "2026-10-30T05:46:58.917630Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "129-121-138-211.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -16079,6 +16241,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "185.225.41.192",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-01T14:36:41.097069Z",
+   "last_seen": "2026-10-30T05:52:32.245377Z",
+   "asn": "AS29256 STE PDN Internal AS",
+   "as_name": "INT-PDN-STE-AS",
+   "country": "SY",
+   "org": "sy-samaweb",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.45.180.140",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16256,6 +16436,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "218.51.148.194",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-23T06:31:09.994828Z",
+   "last_seen": "2026-10-30T05:54:08.894870Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "SK Broadband Co Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -16454,6 +16652,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "120.48.176.103",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-09-01T15:41:11.831205Z",
+   "last_seen": "2026-10-30T05:54:29.493869Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23579,7 +23795,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28043,7 +28259,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41039,7 +41255,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43343,7 +43559,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43379,7 +43595,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43433,7 +43649,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43469,7 +43685,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
