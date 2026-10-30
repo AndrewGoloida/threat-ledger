@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T01:45:06Z",
+ "generated": "2026-10-30T02:00:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2534,
+ "count": 2535,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1910,6 +1910,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "156.232.13.246",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-13T15:04:33.632441Z",
+   "last_seen": "2026-10-30T01:46:21.072089Z",
+   "asn": "AS138152 YISU CLOUD LTD",
+   "as_name": "YISUCLOUDLTD-HK",
+   "country": "HK",
+   "org": "Yisu Cloud Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
