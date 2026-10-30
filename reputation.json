@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T08:00:06Z",
+ "generated": "2026-10-30T08:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2560,
+ "count": 2562,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14621,6 +14621,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "49.204.74.149",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-29T14:51:08.185362Z",
+   "last_seen": "2026-10-30T08:11:53.170585Z",
+   "asn": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
+   "as_name": "CABLELITE-AS-AP",
+   "country": "IN",
+   "org": "Beam Telecom Pvt Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "49.204.74.149.actcorp.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "52.168.108.215",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -15875,7 +15893,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16742,6 +16760,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "118.196.28.213",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-23T20:48:04.482833Z",
+   "last_seen": "2026-10-30T08:12:11.418071Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Volcano Engine Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23237,7 +23273,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26441,7 +26477,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28349,7 +28385,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31103,7 +31139,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37079,7 +37115,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43667,7 +43703,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43685,7 +43721,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
