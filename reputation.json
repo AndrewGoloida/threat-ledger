@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T09:30:06Z",
+ "generated": "2026-10-30T09:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2566,
+ "count": 2571,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14441,6 +14441,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "41.216.167.226",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T12:09:49.342160Z",
+   "last_seen": "2026-10-30T09:39:13.187491Z",
+   "asn": "AS37088 VDT COMMUNICATIONS LIMITED",
+   "as_name": "VDT-AS",
+   "country": "NG",
+   "org": "CUSTOMER HealthPlus Ikeja City Mall",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.155.86.225",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -14639,6 +14657,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.226.133.211",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-28T14:54:12.251117Z",
+   "last_seen": "2026-10-30T09:45:01.007641Z",
+   "asn": "AS266966 NAVEX TELECOM",
+   "as_name": "NAVEX TELECOM",
+   "country": "BR",
+   "org": "Navex Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "49.204.74.149",
    "reputation_score": 24,
    "honeypot_attempts": 6,
@@ -14744,6 +14780,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "81.192.46.45",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-25T06:49:32.206685Z",
+   "last_seen": "2026-10-30T09:43:09.703649Z",
+   "asn": "AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "as_name": "IAM-AS",
+   "country": "MA",
+   "org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "adsl-45-46-192-81.adsl.iam.net.ma",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15881,6 +15935,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "110.166.87.119",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-24T08:05:34.189921Z",
+   "last_seen": "2026-10-30T09:37:33.447178Z",
+   "asn": "AS140061 Qinghai Telecom",
+   "as_name": "CHINANET-Qinghai-AS-AP",
+   "country": "CN",
+   "org": "Chinanet QH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "112.196.54.182",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -15911,7 +15983,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16074,6 +16146,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "129-121-138-211.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "131.255.240.10",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-29T07:31:44.673649Z",
+   "last_seen": "2026-10-30T09:36:37.113968Z",
+   "asn": "AS269810 SM COMUNICACIONES S.R.L.",
+   "as_name": "SM COMUNICACIONES S.R.L.",
+   "country": "AR",
+   "org": "SM COMUNICACIONES S.R.L",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -28457,7 +28547,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
