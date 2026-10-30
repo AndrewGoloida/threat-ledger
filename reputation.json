@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T23:30:05Z",
+ "generated": "2026-10-30T23:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2579,
@@ -1841,6 +1841,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "27.254.192.185",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-25T23:30:47.786066Z",
+   "last_seen": "2026-10-30T23:30:04.392653Z",
+   "asn": "AS4750 CS LOXINFO PUBLIC COMPANY LIMITED",
+   "as_name": "CSLOXINFO-AS-AP",
+   "country": "TH",
+   "org": "Cloud Csloxinfo",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.226.37.32",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -2414,24 +2432,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "27.254.192.185",
-   "reputation_score": 34,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-10-25T23:30:47.786066Z",
-   "last_seen": "2026-10-30T23:29:57.787843Z",
-   "asn": "AS4750 CS LOXINFO PUBLIC COMPANY LIMITED",
-   "as_name": "CSLOXINFO-AS-AP",
-   "country": "TH",
-   "org": "Cloud Csloxinfo",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -16073,7 +16073,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
