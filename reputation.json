@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-31T23:00:06Z",
+ "generated": "2026-10-31T23:15:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2589,
+ "count": 2593,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1859,6 +1859,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "50.6.202.106",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-29T07:13:27.159044Z",
+   "last_seen": "2026-10-31T23:13:23.581676Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "50-6-202-106.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "77.239.124.237",
    "reputation_score": 36,
    "honeypot_attempts": 16,
@@ -1874,6 +1892,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "91.208.92.116",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-29T23:52:18.617461Z",
+   "last_seen": "2026-10-31T23:12:55.016073Z",
+   "asn": "AS212027 PebbleHost Ltd",
+   "as_name": "PebbleHost",
+   "country": "GB",
+   "org": "Daniel Jackson",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15929,7 +15965,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16202,6 +16238,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "168.167.228.85",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-28T12:02:05.346295Z",
+   "last_seen": "2026-10-31T23:11:38.469083Z",
+   "asn": "AS14988 Botswana Telecommunications Corporation",
+   "as_name": "BTC-GATE1",
+   "country": "BW",
+   "org": "Botswana Telecommunications Corporation",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -17318,6 +17372,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "125.124.42.183",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-30T12:33:39.818262Z",
+   "last_seen": "2026-10-31T23:13:40.618220Z",
+   "asn": "AS58461 CT HangZhou IDC",
+   "as_name": "CT-HangZhou-IDC",
+   "country": "CN",
+   "org": "Chinanet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -23885,7 +23957,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24659,7 +24731,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41849,7 +41921,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
