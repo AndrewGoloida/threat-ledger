@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**2587 IPs** that made repeated unauthenticated SSH login attempts against a public
+**2589 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-10-31T21:00:06Z · 842 from hosting/datacenter ranges · 8 progressed to running commands.
+Generated 2026-10-31T21:15:06Z · 842 from hosting/datacenter ranges · 10 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,8 +13,8 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 378 |
-| US | 272 |
+| CN | 379 |
+| US | 273 |
 | NL | 234 |
 | IN | 223 |
 | KR | 122 |
@@ -34,7 +34,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | KIXS-AS-KR | 71 |
 | DIGITALOCEAN-ASN | 70 |
 | CHINA169-Backbone | 55 |
-| ORACLE-BMC-31898 | 52 |
+| ORACLE-BMC-31898 | 53 |
 | UCLOUD-HK-AS-AP | 46 |
 | CHINAMOBILE-CN | 39 |
 | VOLCANO-ENGINE | 37 |
