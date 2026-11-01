@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T17:30:06Z",
+ "generated": "2026-11-01T17:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2602,
+ "count": 2603,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2501,7 +2501,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "node3.anycasthub.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -3059,7 +3059,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "contentws.icloud.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -3095,7 +3095,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17231,6 +17231,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "223.93.164.218",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T21:56:57.396856Z",
+   "last_seen": "2026-11-01T17:31:55.246623Z",
+   "asn": "AS56041 China Mobile communications corporation",
+   "as_name": "CMNET-Zhejiang-AP",
+   "country": "CN",
+   "org": "China Mobile Communications Group Co., Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "223.210.27.53",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -23939,7 +23957,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24695,7 +24713,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26585,7 +26603,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
