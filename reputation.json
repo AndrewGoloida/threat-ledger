@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T14:30:05Z",
+ "generated": "2026-11-01T14:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2601,
+ "count": 2602,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -16595,7 +16595,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -16652,6 +16652,24 @@
    "rdns": "static.ill.117.211.15.93.bsnl.co.in",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "122.176.122.24",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-25T15:20:08.910638Z",
+   "last_seen": "2026-11-01T14:39:41.834961Z",
+   "asn": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+   "as_name": "AIRTELBROADBAND-AS-AP",
+   "country": "IN",
+   "org": "Bharti Telenet Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "abts-north-static-024.122.176.122.airtelbroadband.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -26567,7 +26585,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28601,7 +28619,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
