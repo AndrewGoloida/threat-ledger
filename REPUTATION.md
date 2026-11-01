@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-11-01T13:15:05Z · 846 from hosting/datacenter ranges · 5 progressed to running commands.
+Generated 2026-11-01T13:30:06Z · 901 from hosting/datacenter ranges · 5 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,14 +13,14 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 380 |
-| US | 276 |
+| CN | 379 |
+| US | 280 |
 | NL | 235 |
 | IN | 223 |
 | KR | 122 |
 | VN | 111 |
-| HK | 102 |
-| RU | 96 |
+| HK | 103 |
+| RU | 97 |
 | BR | 84 |
 | ID | 74 |
 
@@ -28,13 +28,13 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Network | IPs |
 |---------|-----|
-| TECHTIES-AS | 187 |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 137 |
-| CHINANET-BACKBONE | 114 |
+| BANATSYNC-SRL | 124 |
+| CHINANET-BACKBONE | 113 |
+| TECHTIES-AS | 87 |
 | KIXS-AS-KR | 71 |
 | DIGITALOCEAN-ASN | 70 |
 | CHINA169-Backbone | 55 |
-| ORACLE-BMC-31898 | 54 |
+| ORACLE-BMC-31898 | 52 |
 | UCLOUD-HK-AS-AP | 46 |
 | CHINAMOBILE-CN | 39 |
-| VOLCANO-ENGINE | 37 |
