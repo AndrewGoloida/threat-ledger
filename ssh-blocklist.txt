@@ -1,8 +1,8 @@
 # threat-ledger - SSH honeypot blocklist
 # SSH brute-force source IPs captured on a honeypot. Plain list, one IP per line.
-# Generated: 2026-11-02T18:00:05Z
+# Generated: 2026-11-03T03:15:05Z
 # Criteria: more than 3 login attempts, seen within 365 days
-# Entries: 2624
+# Entries: 2625
 #
 1.212.225.99
 1.214.214.114
@@ -2368,6 +2368,7 @@
 201.102.196.44
 201.103.255.126
 201.124.171.198
+201.138.144.42
 201.148.65.18
 201.163.73.88
 201.163.73.93
