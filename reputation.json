@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-03T13:45:06Z",
+ "generated": "2026-11-03T14:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2626,
+ "count": 2629,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2057,6 +2057,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "116.203.18.194",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-22T20:52:20.662707Z",
+   "last_seen": "2026-11-03T13:57:22.617234Z",
+   "asn": "AS24940 Hetzner Online GmbH",
+   "as_name": "HETZNER-AS",
+   "country": "DE",
+   "org": "Hetzner",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.194.18.203.116.clients.your-server.de",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "168.144.171.221",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -2774,6 +2792,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "106.12.84.220",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-09-29T23:43:43.271387Z",
+   "last_seen": "2026-11-03T13:58:16.397131Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 20,
    "download_url_count": 0
   },
   {
@@ -15503,6 +15539,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "81.28.167.30",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-10T17:43:01.664344Z",
+   "last_seen": "2026-11-03T13:53:47.308522Z",
+   "asn": "AS8439 JSC AIST",
+   "as_name": "AIST",
+   "country": "RU",
+   "org": "JSC AIST",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "85.11.167.154",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16685,7 +16739,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24011,7 +24065,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28763,7 +28817,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
