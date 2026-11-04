@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T19:30:05Z",
+ "generated": "2026-11-04T19:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2642,
+ "count": 2643,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -17051,6 +17051,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "154.125.228.145",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-11-02T22:51:02.082604Z",
+   "last_seen": "2026-11-04T19:37:37.628900Z",
+   "asn": "AS8346 SONATEL-AS Autonomous System",
+   "as_name": "SONATEL",
+   "country": "SN",
+   "org": "SONATEL Societe Nationale Des Telecommunications Du Senegal",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "165.101.40.180",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -24245,7 +24263,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26945,7 +26963,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29015,7 +29033,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
