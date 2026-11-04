@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T05:00:06Z",
+ "generated": "2026-11-04T05:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2633,
+ "count": 2634,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6247,6 +6247,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "78.155.201.248",
+   "reputation_score": 27,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-11-01T19:02:04.558127Z",
+   "last_seen": "2026-11-04T05:09:21.508850Z",
+   "asn": "AS50340 JSC Selectel",
+   "as_name": "SELECTEL-MSK",
+   "country": "RU",
+   "org": "Selectel Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -16739,7 +16757,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24083,7 +24101,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24839,7 +24857,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28853,7 +28871,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
