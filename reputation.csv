@@ -99,6 +99,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 195.211.124.164,39,11,2026-10-12T10:47:03.487955Z,2026-10-12T10:52:47.022725Z,AS56971 AS56971 Cloud,AS56971,NL,CloudBackbone,True,True,False,,0,0,0
 104.248.162.195,38,10,2026-08-05T14:28:55.931592Z,2026-08-05T14:51:56.967507Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 109.160.32.32,38,18,2026-09-30T21:23:15.545278Z,2026-09-30T22:26:01.092141Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,GBTCloud,True,False,False,,0,0,0
+129.121.77.168,38,8,2026-10-28T21:55:14.685331Z,2026-11-05T08:08:10.585573Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,US,Oracle Corporation,True,False,False,129-121-77-168.unifiedlayer.com,4,3,0
 139.19.117.131,38,348,2026-06-26T08:36:48.197931Z,2026-07-23T09:57:32.361914Z,AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,DFN,DE,Mpii NET 117 Inet,False,True,False,inet-research-scan-7.mpi-inf.mpg.de,0,0,0
 161.35.175.29,38,10,2026-09-06T19:12:36.702896Z,2026-09-06T19:35:13.195546Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,GB,"DigitalOcean, LLC",True,True,False,,0,0,0
 193.32.162.84,38,10,2026-10-01T07:12:49.809176Z,2026-10-01T07:37:13.051542Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,True,False,,0,0,0
@@ -1389,7 +1390,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
