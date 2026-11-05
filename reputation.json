@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-05T21:15:06Z",
+ "generated": "2026-11-05T21:30:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2661,
+ "count": 2664,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -13991,6 +13991,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "61.220.235.10",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-07T11:26:49.683290Z",
+   "last_seen": "2026-11-05T21:26:17.336149Z",
+   "asn": "AS3462 Data Communication Business Group",
+   "as_name": "HINET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "61-220-235-10.hinet-ip.hinet.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "64.89.161.90",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -14042,6 +14060,24 @@
    "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "92.47.46.174",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-06T05:39:54.677526Z",
+   "last_seen": "2026-11-05T21:27:57.237049Z",
+   "asn": "AS9198 JSC Kazakhtelecom",
+   "as_name": "KAZTELECOM-AS",
+   "country": "KZ",
+   "org": "IP KIM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -17786,6 +17822,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "27.155.103.100",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-20T05:06:43.343384Z",
+   "last_seen": "2026-11-05T21:21:51.118081Z",
+   "asn": "AS133774 Fuzhou",
+   "as_name": "CHINATELECOM-FUJIAN-FUZHOU-IDC1",
+   "country": "CN",
+   "org": "Chinanet FJ",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -24497,7 +24551,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27197,7 +27251,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
