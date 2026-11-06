@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-06T08:30:06Z",
+ "generated": "2026-11-06T08:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2672,
+ "count": 2673,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18347,6 +18347,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "186.209.52.216",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-06T08:44:10.635252Z",
+   "last_seen": "2026-11-06T08:44:18.670365Z",
+   "asn": "AS53158 Net Turbo Telecom",
+   "as_name": "Net Turbo Telecom",
+   "country": "BR",
+   "org": "Net Turbo Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "186-209-52-216.netturbo.com.br",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.217.36.136",
    "reputation_score": 22,
    "honeypot_attempts": 14,
@@ -18629,7 +18647,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "119.6.17.58.adsl-pool.jx.chinaunicom.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25271,7 +25289,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27215,7 +27233,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29285,7 +29303,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
