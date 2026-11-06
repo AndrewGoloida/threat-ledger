@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-06T05:30:06Z",
+ "generated": "2026-11-06T05:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2668,
+ "count": 2669,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -16079,6 +16079,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.25.47.94",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-06T21:21:00.892880Z",
+   "last_seen": "2026-11-06T05:31:23.213109Z",
+   "asn": "AS58898 Rainbow communications India Pvt Ltd",
+   "as_name": "RAINBOWISP-AS",
+   "country": "IN",
+   "org": "Rainbow communications India Pvt Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "rainbowisp.in",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.45.66.22",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -16973,7 +16991,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24443,7 +24461,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
