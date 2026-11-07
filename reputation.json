@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T21:15:06Z",
+ "generated": "2026-11-07T21:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2687,
+ "count": 2688,
  "records": [
   {
    "ip": "77.239.124.151",
@@ -15845,6 +15845,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "78.155.201.241",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-07T21:12:44.620763Z",
+   "last_seen": "2026-11-07T21:20:02.213162Z",
+   "asn": "AS50340 JSC Selectel",
+   "as_name": "SELECTEL-MSK",
+   "country": "RU",
+   "org": "Selectel Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 4,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "80.94.95.118",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -17081,7 +17099,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25361,7 +25379,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29393,7 +29411,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
