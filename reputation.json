@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T17:15:05Z",
+ "generated": "2026-11-08T17:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2701,
@@ -15299,7 +15299,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "ip-eastus-7b37ee9d.eastus.cloudapp.azure.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29645,7 +29645,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
