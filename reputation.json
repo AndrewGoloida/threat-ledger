@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T04:30:06Z",
+ "generated": "2026-11-10T04:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2722,
+ "count": 2723,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1874,6 +1874,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.151",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-10-07T00:52:31.066467Z",
+   "last_seen": "2026-11-10T04:39:06.109527Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -24983,7 +25001,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27701,7 +27719,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29789,7 +29807,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
