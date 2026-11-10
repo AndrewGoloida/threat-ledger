@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T00:30:06Z",
+ "generated": "2026-11-10T00:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2718,
+ "count": 2720,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2219,6 +2219,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "20.88.55.220",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-10T00:41:58.733523Z",
+   "last_seen": "2026-11-10T00:42:06.619689Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "US",
+   "org": "Microsoft Azure Cloud (northcentralus)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "34.146.217.105",
    "reputation_score": 35,
    "honeypot_attempts": 7,
@@ -2702,6 +2720,24 @@
    "rdns": "vps-e88f284c.vps.ovh.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "59.153.151.173",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-10T00:37:54.651132Z",
+   "last_seen": "2026-11-10T00:38:04.364381Z",
+   "asn": "AS55720 Gigabit Hosting Sdn Bhd",
+   "as_name": "GIGABIT-MY",
+   "country": "MY",
+   "org": "Data Center Network Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -17207,7 +17243,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -24911,7 +24947,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27629,7 +27665,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29717,7 +29753,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -39329,7 +39365,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
