@@ -1147,7 +1147,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 93.241.232.14,18,10,2026-07-12T09:33:42.815713Z,2026-07-25T11:34:35.993682Z,AS3320 Deutsche Telekom AG,DTAG,DE,Deutsche Telekom AG,False,False,False,p5df1e80e.dip0.t-ipconnect.de,0,0,0
 103.147.248.23,18,10,2026-07-08T08:36:33.824381Z,2026-07-29T11:28:21.696576Z,AS153283 Softcrop It,SOFTCROP-AS-IN,IN,Softcrop It,False,False,False,,0,0,0
 113.171.82.24,18,10,2026-07-13T17:47:58.796831Z,2026-07-15T13:58:25.878456Z,AS45899 VNPT Corp,VNPT-AS-VN,VN,Vietnam Posts and Telecommunications Group,False,False,False,static.vnpt.vn,0,0,0
-117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+117.2.123.19,18,10,2026-07-08T02:59:23.657818Z,2026-07-29T05:41:51.083842Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 117.241.78.154,18,10,2026-07-14T02:59:45.340635Z,2026-07-27T13:03:55.526411Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
 118.70.51.93,18,10,2026-07-14T03:56:32.457107Z,2026-07-15T08:32:37.108640Z,AS18403 FPT Telecom Company,FPT-VN,VN,Vietnam Internet Network Information Center,False,False,False,,0,0,0
 120.224.15.67,18,10,2026-07-12T09:31:34.471087Z,2026-07-29T15:35:39.830571Z,AS24444 Shandong Mobile Communication Company Limited,CMNET-V4shandong-AS-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
@@ -1328,7 +1328,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 113.140.95.2,15,7,2026-07-18T23:51:42.909068Z,2026-07-29T22:36:40.736767Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet SN,False,False,False,,0,0,0
 115.75.209.182,15,7,2026-10-19T12:43:38.914778Z,2026-11-09T01:01:10.720347Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,xDSL Services,False,False,False,,0,0,0
 116.99.172.104,15,7,2026-07-08T20:20:49.286390Z,2026-07-08T20:23:55.534550Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-116.99.174.230,15,7,2026-08-10T09:36:45.871034Z,2026-08-10T09:40:17.143728Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+116.99.174.230,15,7,2026-08-10T09:36:45.871034Z,2026-08-10T09:40:17.143728Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 116.110.209.68,15,7,2026-07-29T22:57:59.191033Z,2026-07-29T23:31:54.659207Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 117.177.235.249,15,7,2026-07-12T08:58:51.314950Z,2026-07-27T05:26:33.162619Z,"AS9808 China Mobile Communications Group Co., Ltd.",CHINAMOBILE-CN,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 117.204.1.45,15,7,2026-07-08T19:01:43.196080Z,2026-07-28T19:03:14.849109Z,AS9829 National Internet Backbone,BSNL-NIB,IN,BSNL Internet,False,False,False,,0,0,0
@@ -1651,7 +1651,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.216.145.2,14,6,2026-08-24T14:42:32.334549Z,2026-10-16T20:32:23.166504Z,AS135175 Facts Online Pvt Ltd,FACTS-AS-IN,IN,Facts Online Pvt Ltd,False,False,False,triocorporation.in,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
 103.248.120.6,14,6,2026-09-29T02:06:37.018333Z,2026-10-26T12:49:46.805719Z,AS133676 Precious netcom pvt ltd,PNPL-AS,IN,Shivansh Infotech pvt Ltd,False,False,False,,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.37.72.234,14,6,2026-10-04T17:21:55.982976Z,2026-10-27T06:40:59.881504Z,"AS23724 IDC, China Telecommunications Corporation",CHINANET-IDC-BJ-AP,CN,Chinanet BJ,False,False,False,,0,0,0
@@ -2158,7 +2158,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 115.191.23.138,13,5,2026-08-04T03:02:25.414408Z,2026-10-23T05:44:13.253237Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,GWBN-WUHAN's IP,False,False,False,,0,0,0
 115.191.32.68,13,5,2026-09-22T17:51:03.999021Z,2026-10-26T00:40:26.695836Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,GWBN-WUHAN's IP,False,False,False,,0,0,0
 115.241.228.34,13,5,2026-07-10T10:44:03.247269Z,2026-07-28T00:08:12.022289Z,AS55836 Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Reliance Jio Infocomm Limited,False,False,False,,0,0,0
-116.99.171.175,13,5,2026-08-08T22:59:27.955897Z,2026-08-08T23:33:19.833548Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
+116.99.171.175,13,5,2026-08-08T22:59:27.955897Z,2026-08-08T23:33:19.833548Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
 116.99.174.196,13,5,2026-08-14T17:24:32.079249Z,2026-08-14T17:30:24.171968Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 116.110.146.153,13,5,2026-07-30T15:46:32.583379Z,2026-08-01T02:49:20.719199Z,AS24086 Viettel Corporation,VIETTEL-AS-VN,VN,VIETTEL,False,False,False,,0,0,0
 116.113.241.82,13,5,2026-07-14T22:31:13.337760Z,2026-07-28T23:54:01.293202Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Neimeng Province Network,False,False,False,,0,0,0
