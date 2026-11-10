@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T06:30:06Z",
+ "generated": "2026-11-10T06:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2723,
+ "count": 2724,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14927,6 +14927,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "177.36.214.46",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-01T06:28:27.380703Z",
+   "last_seen": "2026-11-10T06:34:11.537925Z",
+   "asn": "AS52967 NT Brasil Tecnologia Ltda. ME",
+   "as_name": "NT Brasil Tecnologia Ltda. ME",
+   "country": "BR",
+   "org": "NT Brasil Tecnologia Ltda. ME",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "customer-177-36-214-46.conectv.com.br",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "180.76.146.235",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -25001,7 +25019,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
