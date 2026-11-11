@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T14:15:06Z",
+ "generated": "2026-11-11T14:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2740,
+ "count": 2741,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2252,6 +2252,24 @@
    "rdns": "105.217.146.34.bc.googleusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "45.14.225.216",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-02T10:04:38.459168Z",
+   "last_seen": "2026-11-11T14:17:25.599180Z",
+   "asn": "AS62068 SpectraIP B.V.",
+   "as_name": "SpectraIP",
+   "country": "NL",
+   "org": "SpectraIP B.V",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "nl4.symbolhost.com",
+   "creds_tried_count": 4,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -17387,7 +17405,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25973,7 +25991,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30041,7 +30059,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -39671,7 +39689,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
