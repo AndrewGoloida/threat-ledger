@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**2749 IPs** that made repeated unauthenticated SSH login attempts against a public
+**2750 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-11-11T23:30:06Z · 958 from hosting/datacenter ranges · 15 progressed to running commands.
+Generated 2026-11-11T23:45:06Z · 959 from hosting/datacenter ranges · 16 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -19,7 +19,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | IN | 232 |
 | KR | 127 |
 | VN | 122 |
-| HK | 109 |
+| HK | 110 |
 | RU | 104 |
 | BR | 90 |
 | ID | 79 |
@@ -36,5 +36,5 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | DIGITALOCEAN-ASN | 72 |
 | ORACLE-BMC-31898 | 60 |
 | CHINA169-Backbone | 56 |
-| UCLOUD-HK-AS-AP | 49 |
+| UCLOUD-HK-AS-AP | 50 |
 | VOLCANO-ENGINE | 43 |
