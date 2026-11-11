@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T13:30:06Z",
+ "generated": "2026-11-11T13:45:05Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2740,
@@ -1679,6 +1679,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "92.118.39.75",
+   "reputation_score": 41,
+   "honeypot_attempts": 11,
+   "first_seen": "2026-11-11T13:17:47.458890Z",
+   "last_seen": "2026-11-11T13:37:04.046414Z",
+   "asn": "AS47890 UNMANAGED LTD",
+   "as_name": "UNMANAGED-DEDICATED-SERVERS",
+   "country": "US",
+   "org": "Pptechnology Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 11,
+   "command_count": 460,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.98",
    "reputation_score": 41,
    "honeypot_attempts": 21,
@@ -2000,24 +2018,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "92.118.39.75",
-   "reputation_score": 37,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-11-11T13:17:47.458890Z",
-   "last_seen": "2026-11-11T13:29:42.061035Z",
-   "asn": "AS47890 UNMANAGED LTD",
-   "as_name": "UNMANAGED-DEDICATED-SERVERS",
-   "country": "US",
-   "org": "Pptechnology Limited",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 8,
-   "command_count": 322,
    "download_url_count": 0
   },
   {
