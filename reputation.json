@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T04:00:06Z",
+ "generated": "2026-11-11T04:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2736,
+ "count": 2737,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18347,6 +18347,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.67.162.139",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-11T04:04:24.886263Z",
+   "last_seen": "2026-11-11T04:04:36.959262Z",
+   "asn": "AS150895 EZ TECHNOLOGY COMPANY LIMITED",
+   "as_name": "EZTECH-VN",
+   "country": "VN",
+   "org": "Thoi MMO Company Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.84.129.104",
    "reputation_score": 22,
    "honeypot_attempts": 14,
@@ -25145,7 +25163,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27881,7 +27899,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29969,7 +29987,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
