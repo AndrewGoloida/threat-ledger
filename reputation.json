@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T18:15:06Z",
+ "generated": "2026-11-11T18:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2743,
+ "count": 2746,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2147,6 +2147,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "92.118.39.64",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-11-11T18:03:33.047321Z",
+   "last_seen": "2026-11-11T18:27:41.094958Z",
+   "asn": "AS47890 UNMANAGED LTD",
+   "as_name": "UNMANAGED-DEDICATED-SERVERS",
+   "country": "US",
+   "org": "Pptechnology Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 6,
+   "command_count": 322,
+   "download_url_count": 0
+  },
+  {
    "ip": "94.154.43.254",
    "reputation_score": 36,
    "honeypot_attempts": 8,
@@ -2216,6 +2234,24 @@
    "rdns": "undefined.hostname.localhost",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "180.76.143.203",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-27T03:56:23.225215Z",
+   "last_seen": "2026-11-11T18:19:27.662700Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -17423,7 +17459,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18776,6 +18812,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "163.7.5.228",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-11T18:22:11.536752Z",
+   "last_seen": "2026-11-11T18:22:22.474630Z",
+   "asn": "AS150436 Byteplus Pte. Ltd.",
+   "as_name": "BYTEPLUS-AS-AP",
+   "country": "ID",
+   "org": "Byteplus Pte. Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -30095,7 +30149,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
