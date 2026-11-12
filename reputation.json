@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T21:45:07Z",
+ "generated": "2026-11-12T22:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2761,
+ "count": 2762,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2054,6 +2054,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "165.154.207.2",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-25T09:33:25.823009Z",
+   "last_seen": "2026-11-12T21:56:45.732755Z",
+   "asn": "AS142002 Scloud Pte Ltd",
+   "as_name": "SCLOUDPTELTD-AS",
+   "country": "US",
+   "org": "Scloud Pte Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -28133,7 +28151,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
