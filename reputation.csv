@@ -31,6 +31,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 195.178.110.232,50,175,2026-07-12T00:08:47.368327Z,2026-07-14T06:19:08.456990Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,True,False,,0,0,0
 31.57.184.247,44,16,2026-08-09T00:49:33.919593Z,2026-08-11T13:37:56.886408Z,AS197769 VPS Dedicated LLC,VPSDEDICATED-AS,US,VPS Dedicated LLC,True,True,False,,0,0,0
 77.239.124.238,44,16,2026-07-26T22:47:56.178449Z,2026-07-26T23:51:05.069128Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,FR,RocketCloud,True,True,False,,0,0,0
+92.118.39.63,43,13,2026-11-13T16:41:35.323338Z,2026-11-13T17:06:51.701749Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,US,Pptechnology Limited,True,False,False,,489,13,0
 195.178.110.26,43,15,2026-07-14T20:29:55.341270Z,2026-07-14T20:56:18.307830Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,True,False,,0,0,0
 2.57.122.168,42,425,2026-07-05T23:38:11.780670Z,2026-07-28T13:57:53.957579Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,False,False,,0,0,0
 2.57.122.209,42,371,2026-07-01T09:30:04.005031Z,2026-07-27T22:36:03.899849Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,False,False,,0,0,0
@@ -98,7 +99,6 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 77.239.124.157,40,20,2026-11-05T05:21:18.708513Z,2026-11-05T06:26:24.119718Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,FR,RocketCloud,True,False,False,,0,0,0
 45.148.10.61,39,11,2026-10-03T21:41:43.771430Z,2026-10-03T22:07:51.888847Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,NL,Techoff SRV Limited,True,True,False,,0,0,0
 91.92.47.96,39,11,2026-07-15T10:24:04.846682Z,2026-07-25T04:54:55.744302Z,AS197170 TechTies Inc.,TECHTIES-AS,NL,TechTies Inc,True,True,False,,0,0,0
-92.118.39.63,39,9,2026-11-13T16:41:35.323338Z,2026-11-13T16:59:47.575733Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,US,Pptechnology Limited,True,False,False,,414,10,0
 155.103.69.40,39,19,2026-07-09T17:31:27.723735Z,2026-07-14T09:51:13.706264Z,"AS44382 Fiba Cloud Operation Company, LLC",WhiteLabel,TR,"White Label Services, LLC",True,False,False,static-155-103-69-40.whitelabelservices.us,0,0,0
 195.178.110.218,39,11,2026-08-07T02:52:20.768364Z,2026-08-07T03:06:53.581819Z,AS48090 TECHOFF SRV LIMITED,DMZHOST,AD,Techoff SRV Limited,True,True,False,,0,0,0
 195.211.124.164,39,11,2026-10-12T10:47:03.487955Z,2026-10-12T10:52:47.022725Z,AS56971 AS56971 Cloud,AS56971,NL,CloudBackbone,True,True,False,,0,0,0
@@ -1458,7 +1458,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1568,7 +1568,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 81.23.173.32,14,6,2026-08-26T02:10:46.925276Z,2026-09-07T21:30:35.573929Z,AS8359 MTS PJSC,MTS,RU,MTS Saransk Fixed Broadband Network,False,False,True,81-23-173-32.zgtk.ru,0,0,0
 81.28.167.30,14,6,2026-10-10T17:43:01.664344Z,2026-11-03T13:53:47.308522Z,AS8439 JSC AIST,AIST,RU,JSC AIST,False,False,False,,0,0,0
 81.192.46.29,14,6,2026-10-10T08:54:31.818700Z,2026-10-20T17:14:14.923801Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-29-46-192-81.adsl.iam.net.ma,0,0,0
-81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,invtfm5.ma,0,0,0
+81.192.46.32,14,6,2026-09-13T03:00:48.129928Z,2026-09-17T08:50:41.303567Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-32-46-192-81.adsl.iam.net.ma,0,0,0
 81.192.46.45,14,6,2026-09-25T06:49:32.206685Z,2026-10-30T09:43:09.703649Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-45-46-192-81.adsl.iam.net.ma,0,0,0
 81.192.46.49,14,6,2026-07-21T08:44:52.358930Z,2026-10-12T20:56:28.134072Z,AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,IAM-AS,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,False,False,False,adsl-49-46-192-81.adsl.iam.net.ma,0,0,0
 81.211.72.167,14,6,2026-07-16T14:19:06.280601Z,2026-08-13T21:17:41.038553Z,"AS3216 PJSC ""Vimpelcom""",SOVAM-AS,RU,EDN Sovintel,False,False,False,,0,0,0
@@ -1684,7 +1684,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.216.145.2,14,6,2026-08-24T14:42:32.334549Z,2026-10-16T20:32:23.166504Z,AS135175 Facts Online Pvt Ltd,FACTS-AS-IN,IN,Facts Online Pvt Ltd,False,False,False,triocorporation.in,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
 103.248.120.6,14,6,2026-09-29T02:06:37.018333Z,2026-10-26T12:49:46.805719Z,AS133676 Precious netcom pvt ltd,PNPL-AS,IN,Shivansh Infotech pvt Ltd,False,False,False,,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.37.72.234,14,6,2026-10-04T17:21:55.982976Z,2026-10-27T06:40:59.881504Z,"AS23724 IDC, China Telecommunications Corporation",CHINANET-IDC-BJ-AP,CN,Chinanet BJ,False,False,False,,0,0,0
@@ -2624,15 +2624,15 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 170.233.29.157,12,4,2026-07-16T15:11:12.377973Z,2026-07-29T02:34:28.502018Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.157.ssservicios.com.ar,0,0,0
 170.233.29.175,12,4,2026-07-09T18:12:49.493411Z,2026-08-06T06:31:37.617604Z,AS264738 Sebastian Souto (SSSERVICIOS),Sebastian Souto (SSSERVICIOS),AR,Sebastian Souto,False,False,False,red.170.233.29.175.ssservicios.com.ar,0,0,0
 171.6.121.65,12,4,2026-11-05T13:57:34.746707Z,2026-11-05T13:57:44.690226Z,AS45758 Advanced Wireless Network Company Limited,AWN-CO-LTD-AS-AP,TH,Jasmine International Public Company Limited,False,False,False,mx-ll-171.6.121-65.dynamic.3bb.co.th,0,0,0
-171.231.178.234,12,4,2026-10-09T08:53:09.742293Z,2026-10-09T08:53:42.363510Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.178.234,12,4,2026-10-09T08:53:09.742293Z,2026-10-09T08:53:42.363510Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.179.179,12,4,2026-09-30T16:34:58.139618Z,2026-09-30T16:35:13.944301Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.181.120,12,4,2026-10-15T16:06:31.648647Z,2026-10-15T16:06:41.495851Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.189.154,12,4,2026-08-16T05:59:54.767553Z,2026-08-16T06:03:05.436605Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
-171.231.194.170,12,4,2026-10-09T17:52:48.832638Z,2026-10-09T17:53:10.982047Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.231.194.170,12,4,2026-10-09T17:52:48.832638Z,2026-10-09T17:53:10.982047Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.195.14,12,4,2026-11-12T07:38:09.226743Z,2026-11-12T07:38:30.002193Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.231.195.149,12,4,2026-10-28T04:18:40.503877Z,2026-10-28T04:18:49.838570Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.243.149.187,12,4,2026-11-07T01:04:44.442439Z,2026-11-07T01:05:00.682276Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
-171.243.149.238,12,4,2026-09-30T07:02:12.017370Z,2026-09-30T07:02:33.376102Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-adsl.viettel.vn,0,0,0
+171.243.149.238,12,4,2026-09-30T07:02:12.017370Z,2026-09-30T07:02:33.376102Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 171.243.150.47,12,4,2026-10-25T06:49:54.132722Z,2026-10-25T06:50:07.822250Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,VIETEL,False,False,False,dynamic-ip-adsl.viettel.vn,0,0,0
 173.163.186.155,12,4,2026-07-27T11:30:52.028692Z,2026-07-27T12:20:46.881605Z,"AS7922 Comcast Cable Communications, LLC",COMCAST-7922,US,MEM VET HOSP OLD FOR,False,False,False,,0,0,0
 174.94.236.211,12,4,2026-07-08T06:55:58.908222Z,2026-08-02T01:54:32.722397Z,AS577 Bell Canada,BACOM,CA,"Bell Mobility, Inc.",False,False,False,,0,0,0
