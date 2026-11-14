@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T13:45:06Z",
+ "generated": "2026-11-14T14:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2783,
+ "count": 2784,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15269,6 +15269,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "189.50.142.82",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-07-15T12:43:54.405199Z",
+   "last_seen": "2026-11-14T13:59:14.843086Z",
+   "asn": "AS28330 IFTNET-TELECOM",
+   "as_name": "",
+   "country": "BR",
+   "org": "Samm Tecnologia E Telecomunicacoes S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "mail.cacp.org.br",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "192.109.200.78",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -17729,7 +17747,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25595,7 +25613,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28349,7 +28367,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
