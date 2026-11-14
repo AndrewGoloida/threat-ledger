@@ -1080,7 +1080,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 14.29.198.130,21,5,2026-09-01T10:01:54.413773Z,2026-09-02T13:55:58.083207Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,True,False,,0,0,0
 24.142.170.231,21,13,2026-07-08T02:34:30.023346Z,2026-07-28T11:42:00.128605Z,AS10796 Charter Communications Inc,TWC-10796-MIDWEST,US,Spectrum,False,False,False,syn-024-142-170-231.biz.spectrum.com,0,0,0
 41.220.3.101,21,5,2026-07-08T05:37:22.555702Z,2026-07-27T07:54:02.175137Z,AS29032 DATANET LLC,DATANET-UG,UG,DATANET.COM LLC,False,True,False,,0,0,0
-58.17.6.119,21,5,2026-07-11T14:11:45.599397Z,2026-07-26T11:56:10.066168Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Jiangxi Province Network,False,True,False,,0,0,0
+58.17.6.119,21,5,2026-07-11T14:11:45.599397Z,2026-07-26T11:56:10.066168Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Jiangxi Province Network,False,True,False,119.6.17.58.adsl-pool.jx.chinaunicom.com,0,0,0
 58.34.174.90,21,5,2026-07-10T23:06:18.222857Z,2026-07-22T22:05:39.515969Z,AS4812 China Telecom (Group),CHINANET-SH-AP,CN,Chinanet SH,False,True,False,,0,0,0
 60.175.91.53,21,5,2026-07-09T14:16:11.536063Z,2026-07-29T23:46:33.051724Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet AH,False,True,False,,0,0,0
 103.147.248.44,21,5,2026-07-10T15:44:31.152543Z,2026-07-28T08:41:45.806514Z,AS153283 Softcrop It,SOFTCROP-AS-IN,IN,Softcrop It,False,True,False,,0,0,0
@@ -1466,7 +1466,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -1692,7 +1692,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 103.213.238.91,14,6,2026-09-04T23:40:27.290679Z,2026-09-21T18:44:04.207495Z,AS135310 Inspire Broadband,INSPIREBROADBAND-AS-AP,BD,Inspire Broadband,False,False,False,103-213-238-91.inspirebroadband.net,0,0,0
 103.216.145.2,14,6,2026-08-24T14:42:32.334549Z,2026-10-16T20:32:23.166504Z,AS135175 Facts Online Pvt Ltd,FACTS-AS-IN,IN,Facts Online Pvt Ltd,False,False,False,triocorporation.in,0,0,0
 103.234.243.190,14,6,2026-07-14T05:01:26.601348Z,2026-07-15T07:35:57.200182Z,AS55352 Microscan Internet Limited,FIVENET-IN,IN,FiveNetwork Solutions India Pvt Ltd,False,False,False,190.243.234.103.mipl.com,0,0,0
-103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,hoangmin1-35045-40151.tino,0,0,0
+103.241.43.193,14,6,2026-09-27T11:13:16.189044Z,2026-10-02T00:37:16.089322Z,AS135983 Tino Group Joint Stock Company,TINO-AS-VN,VN,MMO Viet NAM Software Company Limited,False,False,False,infoczof-4961-41965.tino,0,0,0
 103.248.120.6,14,6,2026-09-29T02:06:37.018333Z,2026-10-26T12:49:46.805719Z,AS133676 Precious netcom pvt ltd,PNPL-AS,IN,Shivansh Infotech pvt Ltd,False,False,False,,0,0,0
 103.251.143.14,14,6,2026-07-08T16:24:40.057809Z,2026-07-28T00:58:16.358658Z,AS134375 Fusionnet Web Services Limited,FWSPL-AS-AP,IN,FusionNet,False,False,False,,0,0,0
 106.37.72.234,14,6,2026-10-04T17:21:55.982976Z,2026-10-27T06:40:59.881504Z,"AS23724 IDC, China Telecommunications Corporation",CHINANET-IDC-BJ-AP,CN,Chinanet BJ,False,False,False,,0,0,0
@@ -1823,7 +1823,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 129.121.143.66,14,6,2026-10-27T12:22:05.494736Z,2026-11-02T02:10:46.379255Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,US,Oracle Corporation,False,False,False,129-121-143-66.unifiedlayer.com,0,0,0
 131.161.249.165,14,6,2026-10-06T01:09:49.229589Z,2026-10-22T21:47:21.125807Z,AS264403 CMTECH Com.e Serv.de Informatica Ltda,CMTECH Com.e Serv.de Informatica Ltda,BR,CMTECH Com.e Serv.de Informatica Ltda,False,False,False,165-249-161-131.internetcyber.com.br,0,0,0
 131.255.240.10,14,6,2026-10-29T07:31:44.673649Z,2026-10-30T09:36:37.113968Z,AS269810 SM COMUNICACIONES S.R.L.,SM COMUNICACIONES S.R.L.,AR,SM COMUNICACIONES S.R.L,False,False,False,,0,0,0
-132.243.222.137,14,6,2026-08-05T23:52:00.942100Z,2026-08-16T02:03:01.355792Z,AS216039 EdgeSec Technologies Limited,AntiDDoS-pw,DE,"Aurorix Networks, Frankfurt",False,False,False,,0,0,0
+132.243.222.137,14,6,2026-08-05T23:52:00.942100Z,2026-08-16T02:03:01.355792Z,AS216039 EdgeSec Technologies Limited,AntiDDoS-pw,DE,"Aurorix Networks, Frankfurt",False,False,False,thorblock.online,0,0,0
 136.36.189.65,14,6,2026-07-31T06:04:30.462773Z,2026-08-04T17:37:49.632136Z,AS16591 Google Fiber Inc.,GOOGLE-FIBER,US,Google Fiber Inc,False,False,False,136-36-189-65.googlefiber.net,0,0,0
 136.228.161.66,14,6,2026-10-07T06:02:00.636528Z,2026-10-16T04:20:23.047446Z,AS9988 Myanma Posts and Telecommunications,MPT-AP,MM,Myanma Post & Telecommunication,False,False,False,,0,0,0
 139.185.55.154,14,6,2026-08-08T08:06:15.945128Z,2026-09-30T21:52:51.307194Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,AE,Oracle Cloud Infrastructure (me-dubai-1),False,False,False,,0,0,0
