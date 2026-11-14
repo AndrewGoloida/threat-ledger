@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T22:15:06Z",
+ "generated": "2026-11-14T22:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2791,
+ "count": 2792,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1928,6 +1928,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "165.232.56.104",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-11-14T22:10:03.047171Z",
+   "last_seen": "2026-11-14T22:28:55.964549Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 9,
+   "command_count": 9,
    "download_url_count": 0
   },
   {
@@ -25721,7 +25739,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28475,7 +28493,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30563,7 +30581,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
