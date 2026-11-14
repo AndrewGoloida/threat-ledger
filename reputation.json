@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T04:45:06Z",
+ "generated": "2026-11-14T05:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2780,
+ "count": 2781,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -25577,7 +25577,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30419,7 +30419,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45361,6 +45361,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "112.6.127.244",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-21T10:14:59.378056Z",
+   "last_seen": "2026-11-14T04:45:56.179380Z",
+   "asn": "AS24444 Shandong Mobile Communication Company Limited",
+   "as_name": "CMNET-V4shandong-AS-AP",
+   "country": "CN",
+   "org": "China Mobile Communications Group Co., Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
