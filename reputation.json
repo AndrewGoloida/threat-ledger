@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T18:45:06Z",
+ "generated": "2026-11-14T19:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2786,
+ "count": 2787,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -17747,7 +17747,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18626,6 +18626,24 @@
    "as_name": "AbrArvan-AS",
    "country": "IR",
    "org": "Noyan Abr Arvan Co. ( Private Joint Stock)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "38.25.80.120",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-14T18:51:38.124733Z",
+   "last_seen": "2026-11-14T18:51:45.609056Z",
+   "asn": "AS265691 WI-NET TELECOM S.A.C.",
+   "as_name": "WI-NET TELECOM S.A.C.",
+   "country": "PE",
+   "org": "Win Telecom S.A.C",
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
@@ -30491,7 +30509,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
