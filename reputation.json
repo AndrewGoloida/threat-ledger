@@ -1,9 +1,27 @@
 {
- "generated": "2026-11-15T02:15:06Z",
+ "generated": "2026-11-15T02:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2798,
  "records": [
+  {
+   "ip": "209.99.190.186",
+   "reputation_score": 54,
+   "honeypot_attempts": 16,
+   "first_seen": "2026-11-15T01:55:10.061114Z",
+   "last_seen": "2026-11-15T02:21:21.033022Z",
+   "asn": "AS402253 SKN Subnet & Telecom Ltd",
+   "as_name": "SKN-NETWORK-1",
+   "country": "CH",
+   "org": "HostRoyale Technologies",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 16,
+   "command_count": 16,
+   "download_url_count": 0
+  },
   {
    "ip": "2.57.121.25",
    "reputation_score": 50,
@@ -542,24 +560,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "209.99.190.186",
-   "reputation_score": 50,
-   "honeypot_attempts": 12,
-   "first_seen": "2026-11-15T01:55:10.061114Z",
-   "last_seen": "2026-11-15T02:14:31.625334Z",
-   "asn": "AS402253 SKN Subnet & Telecom Ltd",
-   "as_name": "SKN-NETWORK-1",
-   "country": "CH",
-   "org": "HostRoyale Technologies",
-   "is_hosting": true,
-   "is_proxy": true,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 14,
-   "command_count": 14,
    "download_url_count": 0
   },
   {
@@ -17783,7 +17783,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26513,7 +26513,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28493,7 +28493,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40283,7 +40283,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
