@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T20:00:06Z",
+ "generated": "2026-11-16T20:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2828,
+ "count": 2831,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2000,6 +2000,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "89.163.213.250",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-20T01:08:48.807479Z",
+   "last_seen": "2026-11-16T20:08:17.032322Z",
+   "asn": "AS24961 WIIT AG",
+   "as_name": "MYLOC-AS",
+   "country": "DE",
+   "org": "myLoc managed IT AG",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps2625900.fastwebserver.de",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -14495,6 +14513,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "42.96.20.19",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-21T16:52:35.816512Z",
+   "last_seen": "2026-11-16T20:03:19.629622Z",
+   "asn": "AS131423 Branch of Long Van System Solution JSC - Hanoi",
+   "as_name": "LVHN-AS-VN",
+   "country": "VN",
+   "org": "HoaLac Software City Development Company",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.134.49.202",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -17999,7 +18035,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19514,6 +19550,24 @@
    "rdns": "36231.rdns.sahinnet.name.tr",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.194.205.32",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-16T20:08:41.369639Z",
+   "last_seen": "2026-11-16T20:08:47.305584Z",
+   "asn": "AS268581 QNAX LTDA",
+   "as_name": "QNAX LTDA",
+   "country": "BR",
+   "org": "Qnax Ltda",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26837,7 +26891,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30905,7 +30959,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45431,7 +45485,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -47663,7 +47717,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "mrspook.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
