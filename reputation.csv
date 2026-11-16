@@ -1474,7 +1474,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
@@ -2239,7 +2239,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 123.52.202.92,13,5,2026-07-07T23:04:50.181856Z,2026-07-19T13:44:09.389220Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet,False,False,False,,0,0,0
 124.88.174.143,13,5,2026-07-12T08:37:39.064226Z,2026-07-29T13:09:10.203763Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Xinjiang Province Network,False,False,False,,0,0,0
 124.133.10.66,13,5,2026-07-16T03:18:03.881661Z,2026-07-30T01:12:46.893173Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,Jnsjnb,False,False,False,,0,0,0
-125.94.106.195,13,5,2026-10-31T06:15:42.207076Z,2026-10-31T17:21:48.081879Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,False,False,195.106.94.125.broad.sz.gd.dynamic.163data.com.cn,0,0,0
+125.94.106.195,13,5,2026-10-31T06:15:42.207076Z,2026-10-31T17:21:48.081879Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,False,False,,0,0,0
 128.185.12.179,13,5,2026-07-09T21:08:08.333369Z,2026-07-22T17:52:22.482677Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,Bharti Airtel Limited,False,False,True,,0,0,0
 129.121.103.78,13,5,2026-11-06T05:55:34.640277Z,2026-11-06T05:55:40.572487Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,US,"Oso Grande IP Services, LLC",False,False,False,129-121-103-78.unifiedlayer.com,0,0,0
 129.121.141.205,13,5,2026-11-12T13:29:09.049578Z,2026-11-12T13:29:15.999551Z,AS31898 Oracle Corporation,ORACLE-BMC-31898,US,Oracle Corporation,False,False,False,129-121-141-205.unifiedlayer.com,0,0,0
@@ -2629,7 +2629,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 125.22.69.166,12,4,2026-11-11T02:47:47.886214Z,2026-11-11T02:47:55.513705Z,AS9498 BHARTI Airtel Ltd.,BBIL-AP,IN,BHARTI,False,False,True,aes-static-166.69.22.125.airtel.in,0,0,0
 125.36.68.227,12,4,2026-07-20T09:12:08.799083Z,2026-08-28T04:10:49.200349Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Tianjin Province Network,False,False,False,no-data,0,0,0
 125.124.42.183,12,4,2026-09-30T12:33:39.818262Z,2026-10-31T23:13:40.618220Z,AS58461 CT HangZhou IDC,CT-HangZhou-IDC,CN,Chinanet,False,False,False,,0,0,0
-125.212.251.7,12,4,2026-11-04T19:54:03.999438Z,2026-11-04T19:54:14.177740Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Group,False,False,False,,0,0,0
+125.212.251.7,12,4,2026-11-04T19:54:03.999438Z,2026-11-04T19:54:14.177740Z,AS7552 Viettel Group,VIETEL-AS-AP,VN,Viettel Group,False,False,False,mrspook.com,0,0,0
 125.215.199.37,12,4,2026-07-17T06:12:01.365173Z,2026-08-07T03:59:58.240465Z,AS4515 PCCW IMS Ltd (PCCW Business Internet Access),PCCW-AS-AP,HK,C S (hk) CO Limited,False,False,False,,0,0,0
 130.185.96.113,12,4,2026-07-21T11:50:27.285041Z,2026-08-06T19:05:24.275432Z,AS16116 Pelephone Communications Ltd.,Pelephone Communications Ltd.,IL,Pelephone Communications Ltd,False,False,True,,0,0,0
 136.185.6.181,12,4,2026-07-09T19:53:25.069824Z,2026-08-06T00:37:59.285862Z,"AS24560 Bharti Airtel Ltd., Telemedia Services",AIRTELBROADBAND-AS-AP,IN,Bharti Airtel Limited,False,False,False,abts-tn-static-181.6.185.136.airtelbroadband.in,0,0,0
