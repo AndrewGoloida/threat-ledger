@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T19:30:06Z",
+ "generated": "2026-11-16T19:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2825,
+ "count": 2827,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14981,6 +14981,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "107.0.200.227",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-07-28T17:41:16.525369Z",
+   "last_seen": "2026-11-16T19:36:44.451102Z",
+   "asn": "AS7922 Comcast Cable Communications, LLC",
+   "as_name": "COMCAST-7922",
+   "country": "US",
+   "org": "Comcast Cable Communications, Inc.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "smtp.nationaltubesupply.com",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "109.160.32.14",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -15374,6 +15392,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "123.176.120.95",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-29T06:53:24.949029Z",
+   "last_seen": "2026-11-16T19:37:40.405043Z",
+   "asn": "AS38494 PT. Bakrie & Brothers, Tbk",
+   "as_name": "BAKRIE-BROTHERS-AS-AP",
+   "country": "ID",
+   "org": "PT. Bakrie & Brothers, Tbk",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -17963,7 +17999,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26009,7 +26045,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
