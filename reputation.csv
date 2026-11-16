@@ -181,6 +181,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 199.19.225.232,34,6,2026-10-05T17:14:28.402380Z,2026-11-01T11:39:43.883894Z,AS53667 FranTech Solutions,PONYNET,US,FranTech Solutions,True,True,False,,0,0,0
 209.141.43.146,34,6,2026-07-15T01:24:43.472013Z,2026-10-28T22:00:17.578031Z,AS53667 FranTech Solutions,PONYNET,US,FranTech Solutions,True,True,False,,0,0,0
 209.141.47.217,34,6,2026-08-01T06:16:58.125356Z,2026-08-15T23:43:33.826763Z,AS53667 FranTech Solutions,PONYNET,US,FranTech Solutions,True,True,False,a,0,0,0
+223.27.25.5,34,4,2026-11-16T16:42:19.029603Z,2026-11-16T16:42:31.523427Z,AS55803 Hostopia Australia Web Pty Ltd,HOSTOPIA-AU,AU,J2 Australia Hosting PTY LTD,True,False,False,,4,3,0
 2.57.122.76,33,13,2026-10-08T08:27:59.245446Z,2026-10-08T09:06:59.149636Z,AS47890 UNMANAGED LTD,UNMANAGED-DEDICATED-SERVERS,NL,Techoff SRV Limited,True,False,False,,0,0,0
 34.146.248.7,33,5,2026-07-09T07:22:09.650170Z,2026-07-30T03:48:20.784372Z,AS396982 Google LLC,GOOGLE-CLOUD-PLATFORM,JP,Google Cloud (asia-northeast1),True,True,False,7.248.146.34.bc.googleusercontent.com,0,0,0
 34.178.21.247,33,5,2026-06-26T03:55:19.085294Z,2026-07-01T16:06:24.998365Z,AS396982 Google LLC,GOOGLE-CLOUD-PLATFORM,NL,Google Cloud (europe-west4),True,True,False,247.21.178.34.bc.googleusercontent.com,0,0,0
@@ -1043,6 +1044,8 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 154.90.70.254,23,7,2026-07-06T16:42:49.882535Z,2026-07-12T03:03:30.768316Z,AS17561 LARUS Limited,LCS-AS-AP,RU,Indigo Technology Pte. Ltd.,False,True,False,,0,0,0
 179.181.133.153,23,15,2026-07-09T00:05:17.392829Z,2026-07-28T08:41:32.367110Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,,0,0,0
 41.204.63.118,22,6,2026-08-05T13:00:53.354872Z,2026-10-12T03:18:30.310682Z,AS29614 Ghana Telecommunications Company Limited,GHANATEL-AS,GH,Ghanatel,False,True,False,,0,0,0
+45.167.140.57,22,4,2026-11-16T16:43:23.615874Z,2026-11-16T16:43:34.469021Z,AS268011 S.BARROS DE SOUZA-ME,S.BARROS DE SOUZA-ME,BR,S.BARROS DE SOUZA-ME,False,False,False,,4,3,0
+49.229.72.68,22,4,2026-11-16T16:41:46.209325Z,2026-11-16T16:41:57.430026Z,AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX,SBN-AWN-AS-02-AP,TH,Advanced Wireless Network Company Limited,False,False,True,,4,3,0
 58.17.128.7,22,6,2026-07-18T10:31:44.994170Z,2026-07-29T19:03:50.332275Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Chongqing Province Network,False,True,False,,0,0,0
 59.34.17.130,22,6,2026-07-08T10:24:13.959330Z,2026-07-22T12:05:01.681126Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet GD,False,True,False,,0,0,0
 91.92.199.36,22,6,2026-07-15T10:50:22.366026Z,2026-08-05T05:24:02.265043Z,AS34224 Neterra Ltd.,NETERRA-AS,BG,Elektron Invest Ltd.,False,True,False,91.92.199.36.neterra.net,0,0,0
@@ -1480,7 +1483,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0

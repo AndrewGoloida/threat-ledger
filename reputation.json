@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T16:30:06Z",
+ "generated": "2026-11-16T16:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2819,
+ "count": 2822,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3278,6 +3278,24 @@
    "rdns": "a",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "223.27.25.5",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-16T16:42:19.029603Z",
+   "last_seen": "2026-11-16T16:42:31.523427Z",
+   "asn": "AS55803 Hostopia Australia Web Pty Ltd",
+   "as_name": "HOSTOPIA-AU",
+   "country": "AU",
+   "org": "J2 Australia Hosting PTY LTD",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -18797,6 +18815,42 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.167.140.57",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-16T16:43:23.615874Z",
+   "last_seen": "2026-11-16T16:43:34.469021Z",
+   "asn": "AS268011 S.BARROS DE SOUZA-ME",
+   "as_name": "S.BARROS DE SOUZA-ME",
+   "country": "BR",
+   "org": "S.BARROS DE SOUZA-ME",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "49.229.72.68",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-16T16:41:46.209325Z",
+   "last_seen": "2026-11-16T16:41:57.430026Z",
+   "asn": "AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX",
+   "as_name": "SBN-AWN-AS-02-AP",
+   "country": "TH",
+   "org": "Advanced Wireless Network Company Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "58.17.128.7",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -26675,7 +26729,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
