@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T16:45:06Z",
+ "generated": "2026-11-17T17:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2858,
+ "count": 2862,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18143,7 +18143,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19082,6 +19082,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "41.45.184.214",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T16:58:14.196419Z",
+   "last_seen": "2026-11-17T16:58:22.757817Z",
+   "asn": "AS8452 TE-AS",
+   "as_name": "TE-AS",
+   "country": "EG",
+   "org": "TE Data",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -27125,7 +27143,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29105,7 +29123,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31193,7 +31211,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40895,7 +40913,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41833,6 +41851,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "14.48.112.8",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-18T20:40:39.468541Z",
+   "last_seen": "2026-11-17T16:49:10.796788Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -45181,6 +45217,24 @@
    "is_mobile": false,
    "rdns": "92x255x196x185.static-customer.kzn.ertelecom.ru",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "93.42.222.164",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-06T23:38:39.897088Z",
+   "last_seen": "2026-11-17T16:52:13.888986Z",
+   "asn": "AS12874 Fastweb SpA",
+   "as_name": "FASTWEB",
+   "country": "IT",
+   "org": "Fastweb Dafne",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "93-42-222-164.ip88.fastwebnet.it",
+   "creds_tried_count": 3,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -51265,6 +51319,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "222.117.0.253",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-08T15:25:22.798707Z",
+   "last_seen": "2026-11-17T16:51:39.818971Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
