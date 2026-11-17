@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T20:15:06Z",
+ "generated": "2026-11-17T20:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2877,
+ "count": 2878,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19913,6 +19913,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "196.191.76.122",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T20:24:05.600201Z",
+   "last_seen": "2026-11-17T20:24:13.810332Z",
+   "asn": "AS24757 Ethio Telecom",
+   "as_name": "EthioNet-AS",
+   "country": "ET",
+   "org": "Ethiotelecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "197.50.68.109",
    "reputation_score": 22,
    "honeypot_attempts": 14,
@@ -29285,7 +29303,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
