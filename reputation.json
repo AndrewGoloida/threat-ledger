@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T22:45:06Z",
+ "generated": "2026-11-17T23:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2886,
+ "count": 2889,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2216,6 +2216,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "180.180.242.201",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-23T23:43:06.190935Z",
+   "last_seen": "2026-11-17T22:56:25.401528Z",
+   "asn": "AS134166 Internet Data Center Service",
+   "as_name": "TOT-IDC-AS-AP",
+   "country": "TH",
+   "org": "TOT Public Company Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "node-1byh.pool-180-180.dynamic.nt-isp.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -19139,6 +19157,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "78.89.154.59",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-05T22:23:29.124757Z",
+   "last_seen": "2026-11-17T22:50:55.534583Z",
+   "asn": "AS29357 NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
+   "as_name": "WATANIYATELECOM-AS",
+   "country": "KW",
+   "org": "WTC Mobile IP",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "87.103.126.54",
    "reputation_score": 23,
    "honeypot_attempts": 15,
@@ -19298,6 +19334,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "41.220.30.130",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T22:50:50.162841Z",
+   "last_seen": "2026-11-17T22:51:03.094533Z",
+   "asn": "AS37204 Telone PVT Ltd",
+   "as_name": "TELONE",
+   "country": "ZW",
+   "org": "Telone PVT Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "16.130.telone.co.zw",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
