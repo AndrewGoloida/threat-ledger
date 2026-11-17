@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T11:45:06Z",
+ "generated": "2026-11-17T12:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2844,
+ "count": 2845,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3491,7 +3491,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "70.34.202.108.vultrusercontent.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -14531,6 +14531,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "42.96.17.249",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-08-02T10:41:07.929338Z",
+   "last_seen": "2026-11-17T11:57:45.747012Z",
+   "asn": "AS131423 Branch of Long Van System Solution JSC - Hanoi",
+   "as_name": "LVHN-AS-VN",
+   "country": "VN",
+   "org": "Long Van System Solution",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "43.134.49.202",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -18035,7 +18053,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26207,7 +26225,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31049,7 +31067,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -39617,7 +39635,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "82-65-140-218.subs.proxad.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
