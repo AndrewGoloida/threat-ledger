@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T12:00:06Z",
+ "generated": "2026-11-17T12:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2845,
+ "count": 2846,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2039,6 +2039,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "65.181.127.40",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-29T18:57:54.006814Z",
+   "last_seen": "2026-11-17T12:01:16.103006Z",
+   "asn": "AS36454 WHG Hosting Services Ltd",
+   "as_name": "WHG-DAL",
+   "country": "US",
+   "org": "WHG Hosting Services Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "US01.DXXXX.com",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.47.35",
    "reputation_score": 37,
    "honeypot_attempts": 9,
@@ -3491,7 +3509,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "70.34.202.108.vultrusercontent.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18053,7 +18071,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26225,7 +26243,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26999,7 +27017,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28979,7 +28997,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31067,7 +31085,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
