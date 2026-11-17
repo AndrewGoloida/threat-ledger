@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T18:45:06Z",
+ "generated": "2026-11-17T19:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2871,
+ "count": 2872,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18215,7 +18215,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26513,7 +26513,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29267,7 +29267,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -49915,6 +49915,24 @@
    "is_mobile": false,
    "rdns": "ip-187-91-166-143.user.vivozap.com.br",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "187.93.68.178",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T22:37:31.852022Z",
+   "last_seen": "2026-11-17T18:45:09.152074Z",
+   "asn": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "187-93-68-178.customer.tdatabrasil.net.br",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
