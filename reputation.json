@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T18:15:06Z",
+ "generated": "2026-11-17T18:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2870,
+ "count": 2871,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18215,7 +18215,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19910,6 +19910,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "197.248.207.139",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T18:24:37.472178Z",
+   "last_seen": "2026-11-17T18:24:50.254493Z",
+   "asn": "AS37061 Safaricom Limited",
+   "as_name": "Safaricom",
+   "country": "KE",
+   "org": "Safaricom Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "197-248-207-139.safaricombusiness.co.ke",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26495,7 +26513,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41039,7 +41057,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
