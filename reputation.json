@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T22:30:06Z",
+ "generated": "2026-11-17T22:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2882,
+ "count": 2886,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2165,6 +2165,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "150.241.114.99",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-23T22:29:19.259832Z",
+   "last_seen": "2026-11-17T22:40:49.386400Z",
+   "asn": "AS210546 CHSL ONE LTD",
+   "as_name": "CHSL-ONE",
+   "country": "DE",
+   "org": "Cloud Hosting Solutions, Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "153.37.177.219",
    "reputation_score": 37,
    "honeypot_attempts": 21,
@@ -2486,6 +2504,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "50.6.193.167",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-17T22:36:28.142040Z",
+   "last_seen": "2026-11-17T22:36:35.097896Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "US",
+   "org": "Oracle Corporation",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "50-6-193-167.unifiedlayer.com",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -19679,6 +19715,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "115.190.188.201",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-01T04:44:23.410304Z",
+   "last_seen": "2026-11-17T22:38:02.217635Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "China Internet Network Information Center",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.70.94.155",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -19838,6 +19892,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "179.228.180.163",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T22:43:14.830579Z",
+   "last_seen": "2026-11-17T22:43:21.517183Z",
+   "asn": "AS27699 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "179-228-180-163.user.vivozap.com.br",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -27395,7 +27467,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29375,7 +29447,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31463,7 +31535,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
