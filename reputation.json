@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T16:30:06Z",
+ "generated": "2026-11-17T16:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2855,
+ "count": 2858,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18143,7 +18143,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27125,7 +27125,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29105,7 +29105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43331,6 +43331,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "59.22.68.213",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-12T21:11:54.675451Z",
+   "last_seen": "2026-11-17T16:30:29.676671Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Korea Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "59.22.201.143",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -44159,6 +44177,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "71.202.84.186",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-12T23:00:54.535735Z",
+   "last_seen": "2026-11-17T16:38:38.741247Z",
+   "asn": "AS7922 Comcast Cable Communications, LLC",
+   "as_name": "COMCAST-7922",
+   "country": "US",
+   "org": "Comcast Cable Communications, IP Services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "c-71-202-84-186.hsd1.ca.comcast.net",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "71.236.99.31",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -44785,6 +44821,24 @@
    "is_mobile": false,
    "rdns": "c83-254-172-36.bredband.tele2.se",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "83.255.208.30",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-22T23:49:23.327962Z",
+   "last_seen": "2026-11-17T16:44:39.411624Z",
+   "asn": "AS1257 Tele2 Sverige AB",
+   "as_name": "SWIPNET",
+   "country": "SE",
+   "org": "Com Hem AB",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "c83-255-208-30.bredband.tele2.se",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
