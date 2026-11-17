@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T17:00:06Z",
+ "generated": "2026-11-17T17:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2862,
+ "count": 2863,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -27143,7 +27143,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29123,7 +29123,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40913,7 +40913,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -50833,6 +50833,24 @@
    "is_mobile": false,
    "rdns": "bba-217-165-62-171.alshamil.net.ae",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "217.208.90.253",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-29T21:33:01.400332Z",
+   "last_seen": "2026-11-17T17:01:22.007590Z",
+   "asn": "AS3301 Telia Company AB",
+   "as_name": "TELIANET-SWEDEN",
+   "country": "SE",
+   "org": "Telia Network Services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "217-208-90-253-no2550.tbcn.telia.com",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
