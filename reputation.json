@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T19:15:06Z",
+ "generated": "2026-11-17T19:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2872,
+ "count": 2875,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -26513,7 +26513,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29267,7 +29267,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31355,7 +31355,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41057,7 +41057,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45833,6 +45833,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "103.67.188.52",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-04T12:06:26.642266Z",
+   "last_seen": "2026-11-17T19:19:26.652853Z",
+   "asn": "AS135735 Vilite Multimedia Private Limited",
+   "as_name": "VILITE-AS",
+   "country": "IN",
+   "org": "Vilite Multimedia Private Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "103.68.22.115",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -48335,6 +48353,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "125.228.154.55",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-27T12:45:38.892563Z",
+   "last_seen": "2026-11-17T19:28:35.211826Z",
+   "asn": "AS3462 Data Communication Business Group",
+   "as_name": "HINET",
+   "country": "TW",
+   "org": "Chunghwa Telecom Co. Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "125-228-154-55.hinet-ip.hinet.net",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "130.185.96.113",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -49753,6 +49789,24 @@
    "is_mobile": false,
    "rdns": "rdnsrecord.onurbilisim.com.tr",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.183.189.125",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T11:17:05.388542Z",
+   "last_seen": "2026-11-17T19:24:15.759801Z",
+   "asn": "AS16116 Pelephone Communications Ltd.",
+   "as_name": "Pelephone Communications Ltd.",
+   "country": "IL",
+   "org": "Pelephone Communications Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
