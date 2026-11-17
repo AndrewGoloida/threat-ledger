@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T14:15:06Z",
+ "generated": "2026-11-17T14:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2849,
+ "count": 2852,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -14657,6 +14657,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "45.17.39.120",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-11-01T14:04:55.903218Z",
+   "last_seen": "2026-11-17T14:26:29.413106Z",
+   "asn": "AS7018 AT&T Enterprises, LLC",
+   "as_name": "ATT-INTERNET4",
+   "country": "US",
+   "org": "Private Customer - AT&T Internet Services",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.153.34.137",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -18125,7 +18143,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19121,6 +19139,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "88.26.93.118",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T14:26:18.631928Z",
+   "last_seen": "2026-11-17T14:26:24.478141Z",
+   "asn": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+   "as_name": "Telefonica_de_EspaNa",
+   "country": "ES",
+   "org": "RIMA (Red IP Multi Acceso)",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "118.red-88-26-93.staticip.rima-tde.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "91.92.199.36",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -19746,6 +19782,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "static.cmcti.vn",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "206.75.13.194",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T14:20:36.708214Z",
+   "last_seen": "2026-11-17T14:20:39.523160Z",
+   "asn": "AS852 TELUS Communications Inc.",
+   "as_name": "ASN852",
+   "country": "CA",
+   "org": "Synergy Inmate Phone Solutions, Inc",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 3,
    "command_count": 4,
    "download_url_count": 0
@@ -26297,7 +26351,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27071,7 +27125,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29051,7 +29105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31139,7 +31193,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
