@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T09:30:07Z",
+ "generated": "2026-11-17T09:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2836,
+ "count": 2843,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1985,6 +1985,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "4.224.40.94",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-07-28T23:35:26.550430Z",
+   "last_seen": "2026-11-17T09:34:09.713210Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "IN",
+   "org": "Microsoft Azure Cloud (centralindia)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "45.156.87.162",
    "reputation_score": 37,
    "honeypot_attempts": 9,
@@ -2216,6 +2234,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.30.195.219",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-28T23:56:20.340732Z",
+   "last_seen": "2026-11-17T09:38:07.586762Z",
+   "asn": "AS138608 Cloud Host Pte Ltd",
+   "as_name": "CLOUDHOST-AS-AP",
+   "country": "SG",
+   "org": "Cloud Host Pte Ltd",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip103-30-195-219.cloudhost.web.id",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -2486,6 +2522,42 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "162.35.175.24",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-17T09:43:45.230823Z",
+   "last_seen": "2026-11-17T09:43:51.099797Z",
+   "asn": "AS19318 Interserver, Inc",
+   "as_name": "IS-AS-1",
+   "country": "US",
+   "org": "Interserver, Inc",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps3492255.trouble-free.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "180.149.199.220",
+   "reputation_score": 35,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-17T09:43:59.495065Z",
+   "last_seen": "2026-11-17T09:44:05.422157Z",
+   "asn": "AS210403 Groupe LWS SARL",
+   "as_name": "LWS",
+   "country": "FR",
+   "org": "LWS dedicated VPS",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps123821.serveur-vps.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -15395,6 +15467,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "158.47.199.158",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-20T00:51:31.080977Z",
+   "last_seen": "2026-11-17T09:37:10.021883Z",
+   "asn": "AS202098 ENEL S.p.A",
+   "as_name": "AS_ENELENERGIA_IT",
+   "country": "IT",
+   "org": "ENEL S.p.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "165.227.232.1",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -17927,7 +18017,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18434,6 +18524,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "185.230.216.5",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-11-07T09:05:28.131843Z",
+   "last_seen": "2026-11-17T09:38:02.769092Z",
+   "asn": "AS8560 IONOS SE",
+   "as_name": "IONOS-AS",
+   "country": "GB",
+   "org": "World4You Internet Services GmbH",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip185-230-216-5.pbiaas.com",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19514,6 +19622,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "203.205.37.233",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-17T09:32:46.346305Z",
+   "last_seen": "2026-11-17T09:32:59.237150Z",
+   "asn": "AS45903 CMC Telecom Infrastructure Company",
+   "as_name": "CMCTELECOM-VN",
+   "country": "VN",
+   "org": "CMCTELECOM",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "static.cmcti.vn",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26837,7 +26963,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28817,7 +28943,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30905,7 +31031,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40607,7 +40733,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45503,7 +45629,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
