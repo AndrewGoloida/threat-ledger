@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T03:30:06Z",
+ "generated": "2026-11-18T03:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2892,
+ "count": 2894,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15683,6 +15683,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "181.62.56.67",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-24T05:05:46.596271Z",
+   "last_seen": "2026-11-18T03:34:25.975828Z",
+   "asn": "AS10620 Telmex Colombia S.A.",
+   "as_name": "Telmex Colombia S.A.",
+   "country": "CO",
+   "org": "Telmex Colombia S.A.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dynamic-ip-181615667.cable.net.co",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "185.233.3.95",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -18179,7 +18197,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19442,6 +19460,24 @@
    "rdns": "107-135-117-245.lightspeed.livnmi.sbcglobal.net",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "112.219.151.50",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-18T03:44:38.483736Z",
+   "last_seen": "2026-11-18T03:44:47.239434Z",
+   "asn": "AS3786 LG DACOM Corporation",
+   "as_name": "LGDACOM",
+   "country": "KR",
+   "org": "Boranet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26441,7 +26477,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29195,7 +29231,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31283,7 +31319,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
