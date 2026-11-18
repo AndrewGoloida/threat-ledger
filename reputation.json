@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T13:45:06Z",
+ "generated": "2026-11-18T14:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2904,
+ "count": 2905,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3401,7 +3401,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "70.34.202.108.vultrusercontent.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18305,7 +18305,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19874,6 +19874,24 @@
    "rdns": "customer-187-217-36-136.uninet-ide.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "188.152.238.126",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-18T13:47:24.482507Z",
+   "last_seen": "2026-11-18T13:47:33.353368Z",
+   "asn": "AS30722 Fastweb SpA",
+   "as_name": "VODAFONE-IT-ASN",
+   "country": "IT",
+   "org": "VODAFONE",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "net-188-152-238-126.cust.vodafonedsl.it",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -25181,7 +25199,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "cloud.isplko.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26639,7 +26657,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41219,7 +41237,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
