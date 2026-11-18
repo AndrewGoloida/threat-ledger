@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T16:30:06Z",
+ "generated": "2026-11-18T16:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2909,
+ "count": 2910,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2468,6 +2468,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "20.71.254.235",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-18T16:43:44.445674Z",
+   "last_seen": "2026-11-18T16:43:49.498981Z",
+   "asn": "AS8075 Microsoft Corporation",
+   "as_name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+   "country": "NL",
+   "org": "Microsoft Azure Cloud (westeurope)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26729,7 +26747,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27503,7 +27521,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
