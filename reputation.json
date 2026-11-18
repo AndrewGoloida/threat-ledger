@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T02:30:06Z",
+ "generated": "2026-11-18T02:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2891,
+ "count": 2892,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19715,6 +19715,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "190.223.60.209",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-18T02:43:10.349849Z",
+   "last_seen": "2026-11-18T02:43:17.558669Z",
+   "asn": "AS12252 America Movil Peru S.A.C.",
+   "as_name": "America Movil Peru S.A.C.",
+   "country": "PE",
+   "org": "America Movil Peru S.A.C",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "194.31.8.12",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -29177,7 +29195,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31265,7 +31283,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
