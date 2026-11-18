@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T19:00:06Z",
+ "generated": "2026-11-18T19:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2912,
+ "count": 2913,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7253,7 +7253,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "node-1byh.pool-180-180.dynamic.nt-isp.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18377,7 +18377,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26783,7 +26783,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29537,7 +29537,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31625,7 +31625,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -50671,6 +50671,24 @@
    "is_mobile": false,
    "rdns": "191-055-233-246.xd-dynamic.algartelecom.com.br",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "193.187.110.160",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-03T07:06:45.002977Z",
+   "last_seen": "2026-11-18T19:13:49.406255Z",
+   "asn": "AS153947 FAST ZONE IT",
+   "as_name": "FASTZONEIT-AS-AP",
+   "country": "TR",
+   "org": "Cyberaegis Casa S.R.L",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
    "command_count": 0,
    "download_url_count": 0
   },
