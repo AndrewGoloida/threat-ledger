@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T16:45:06Z",
+ "generated": "2026-11-19T17:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2937,
+ "count": 2940,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5348,6 +5348,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "180.153.91.15",
+   "reputation_score": 31,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-04T02:28:26.727718Z",
+   "last_seen": "2026-11-19T16:53:46.642490Z",
+   "asn": "AS4811 China Telecom (Group)",
+   "as_name": "CHINANET-SHANGHAI-MAN",
+   "country": "CN",
+   "org": "Chinanet SH",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -15755,6 +15773,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "121.153.249.78",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-24T09:23:42.669187Z",
+   "last_seen": "2026-11-19T16:47:39.739298Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "129.121.97.74",
    "reputation_score": 25,
    "honeypot_attempts": 7,
@@ -18485,7 +18521,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19584,6 +19620,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "c-76-127-61-251.hsd1.nm.comcast.net",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "79.34.224.119",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-19T16:50:02.502724Z",
+   "last_seen": "2026-11-19T16:50:09.777907Z",
+   "asn": "AS3269 Telecom Italia S.p.A.",
+   "as_name": "ASN-IBSNAZ",
+   "country": "IT",
+   "org": "INTERBUSINESS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-79-34-224-119.business.telecomitalia.it",
    "creds_tried_count": 3,
    "command_count": 4,
    "download_url_count": 0
@@ -26981,7 +27035,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29753,7 +29807,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
