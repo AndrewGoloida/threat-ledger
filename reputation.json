@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T00:00:06Z",
+ "generated": "2026-11-19T00:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2918,
+ "count": 2920,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -3152,6 +3152,24 @@
    "rdns": "ip194-164-59-59.pbiaas.com",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "196.50.29.16",
+   "reputation_score": 34,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-19T00:11:43.165413Z",
+   "last_seen": "2026-11-19T00:11:52.986143Z",
+   "asn": "AS37087 Super Tech STL Limited",
+   "as_name": "STLGHANA",
+   "country": "GH",
+   "org": "STL",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -18287,7 +18305,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19298,6 +19316,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "74.244.222.105",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-18T12:36:16.538442Z",
+   "last_seen": "2026-11-19T00:01:29.794720Z",
+   "asn": "AS14593 Space Exploration Technologies Corporation",
+   "as_name": "SPACEX-STARLINK",
+   "country": "BR",
+   "org": "SpaceX Starlink",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "customer.frtabra1.isp.starlink.com",
+   "creds_tried_count": 1,
+   "command_count": 1,
    "download_url_count": 0
   },
   {
@@ -26639,7 +26675,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27413,7 +27449,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29411,7 +29447,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31499,7 +31535,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
