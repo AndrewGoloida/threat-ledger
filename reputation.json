@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T18:15:06Z",
+ "generated": "2026-11-19T18:30:08Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2942,
+ "count": 2943,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18539,7 +18539,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19460,6 +19460,24 @@
    "rdns": "p579cbf9d.dip0.t-ipconnect.de",
    "creds_tried_count": 3,
    "command_count": 4,
+   "download_url_count": 0
+  },
+  {
+   "ip": "103.170.215.118",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-17T14:02:01.897928Z",
+   "last_seen": "2026-11-19T18:30:00.239341Z",
+   "asn": "AS141514 Sancfil Technologies Internet Services Pvt.Ltd",
+   "as_name": "SANCFILT-AS-IN",
+   "country": "IN",
+   "org": "SSV Telecom Private Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 18,
    "download_url_count": 0
   },
   {
@@ -31931,7 +31949,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
