@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T15:15:06Z",
+ "generated": "2026-11-19T15:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2931,
+ "count": 2934,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15917,6 +15917,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "193.105.131.7",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-10-18T09:24:30.664488Z",
+   "last_seen": "2026-11-19T15:27:41.881251Z",
+   "asn": "AS57842 UralKonnektServis LLC",
+   "as_name": "UralKonnektServis-AS",
+   "country": "RU",
+   "org": "UralKonnektServis LLC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "200.232.114.71",
    "reputation_score": 25,
    "honeypot_attempts": 17,
@@ -15932,6 +15950,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "213.154.77.61",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-06T22:02:18.694067Z",
+   "last_seen": "2026-11-19T15:26:04.249926Z",
+   "asn": "AS8346 SONATEL-AS Autonomous System",
+   "as_name": "SONATEL",
+   "country": "SN",
+   "org": "Isercom Saint louis",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -18395,7 +18431,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20018,6 +20054,24 @@
    "rdns": "customer-187-217-36-136.uninet-ide.com.mx",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "189.178.50.127",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-19T15:27:32.340732Z",
+   "last_seen": "2026-11-19T15:27:38.982851Z",
+   "asn": "AS8151 Uninet S.A. de C.V.",
+   "as_name": "UNINET",
+   "country": "MX",
+   "org": "Gesti\u00f3n de direccionamiento UniNet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "dsl-127-50-178-189-dynamic.prod-infinitum.com.mx",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -29645,7 +29699,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31733,7 +31787,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40355,7 +40409,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "82-65-140-218.subs.proxad.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
