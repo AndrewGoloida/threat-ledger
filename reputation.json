@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-20T01:00:06Z",
+ "generated": "2026-11-20T01:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2950,
+ "count": 2951,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -15971,6 +15971,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "222.118.59.16",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-07-29T03:22:23.601875Z",
+   "last_seen": "2026-11-20T01:08:05.305993Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Korea Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "4.188.251.117",
    "reputation_score": 24,
    "honeypot_attempts": 4,
@@ -26981,7 +26999,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31841,7 +31859,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41651,7 +41669,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
