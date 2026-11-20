@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-20T17:00:06Z",
+ "generated": "2026-11-20T17:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2965,
+ "count": 2966,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20219,6 +20219,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "182.253.79.194",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-20T17:07:11.597279Z",
+   "last_seen": "2026-11-20T17:07:24.889157Z",
+   "asn": "AS17451 BIZNET NETWORKS",
+   "as_name": "BIZNET-AS-AP",
+   "country": "ID",
+   "org": "BIZNET",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "185.153.231.36",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -30023,7 +30041,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32111,7 +32129,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -47285,7 +47303,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
