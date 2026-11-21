@@ -273,7 +273,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 157.119.43.187,32,12,2026-07-14T00:17:47.866006Z,2026-07-15T00:24:00.633403Z,AS146943 Tier 4 Cloud Services,TIER4CLOU-AS,IN,T4C,True,False,False,,0,0,0
 168.144.120.7,32,4,2026-08-08T15:25:49.855397Z,2026-08-08T15:25:54.826689Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,IN,"DigitalOcean, LLC",True,True,False,,0,0,0
 178.128.183.16,32,4,2026-08-15T03:29:37.477686Z,2026-10-21T23:14:01.575559Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,Digitalocean,True,True,False,,0,0,0
-179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,hostedby.privatelayer.com,0,0,0
+179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,,0,0,0
 185.220.101.102,32,4,2026-06-29T06:18:45.859165Z,2026-07-01T02:39:29.721705Z,AS60729 Stiftung Erneuerbare Freiheit,TORSERVERS-NET,DE,Digitalcourage e.V,True,True,False,tor-exit-102.digitalcourage.de,0,0,0
 192.42.116.15,32,4,2026-06-28T22:26:45.951977Z,2026-09-20T21:38:28.752743Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,this-is-a-tor-exit-node-hviv115.hviv.nl,0,0,0
 192.42.116.16,32,4,2026-06-30T20:47:49.024375Z,2026-07-16T20:33:44.883857Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,tor-exit.hartvoorinternetvrijheid.nl,0,0,0
@@ -1033,7 +1033,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 109.160.32.178,24,4,2026-10-13T23:46:53.530643Z,2026-10-30T22:48:48.074863Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,GBTCloud,True,False,False,,0,0,0
 109.160.32.180,24,4,2026-10-04T15:02:49.154781Z,2026-10-14T17:38:08.871880Z,AS198364 BANATSYNC SRL,BANATSYNC-SRL,NL,GBTCloud,True,False,False,,0,0,0
 112.196.54.182,24,16,2026-07-13T18:05:32.238710Z,2026-07-27T18:07:02.142748Z,AS17917 Quadrant Televentures Limited,QTLTELECOM-AS-AP,IN,Hfcl Infotel LTD,False,False,False,,0,0,0
-113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,phifaxa.cn,0,0,0
+113.31.103.129,24,4,2026-07-18T13:18:30.101274Z,2026-10-23T22:31:36.494541Z,AS17621 China Unicom Shanghai network,CNCGROUP-SH,CN,Shanghai UCloud Information Technology Company Limited,True,False,False,knfcwki.cn,0,0,0
 113.219.177.95,24,8,2026-07-11T03:22:13.126397Z,2026-07-28T14:24:35.016299Z,AS63838 Hengyang,CT-HuNan-Hengyang-IDC,CN,Chinanet HN,False,True,False,,0,0,0
 115.68.133.201,24,4,2026-08-22T00:56:08.081139Z,2026-08-30T14:30:00.550739Z,AS38700 SMILESERV,SMILESERV-AS-KR,KR,SMILESERV,True,False,False,,0,0,0
 117.33.158.126,24,4,2026-11-11T12:55:27.671758Z,2026-11-19T00:59:15.175497Z,AS134768 CHINANET SHAANXI province Cloud Base network,CHINANET-SHAANXI-CLOUD-BASE,CN,Chinanet SN,True,False,False,,0,0,0
@@ -1093,6 +1093,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 124.239.169.52,23,7,2026-07-16T13:30:55.157118Z,2026-07-30T03:27:59.813728Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HE,False,True,False,,0,0,0
 154.90.70.254,23,7,2026-07-06T16:42:49.882535Z,2026-07-12T03:03:30.768316Z,AS17561 LARUS Limited,LCS-AS-AP,RU,Indigo Technology Pte. Ltd.,False,True,False,,0,0,0
 179.181.133.153,23,15,2026-07-09T00:05:17.392829Z,2026-07-28T08:41:32.367110Z,AS18881 TELEFÔNICA BRASIL S.A,TELEFÔNICA BRASIL S.A,BR,Global Village Telecom,False,False,False,,0,0,0
+14.103.107.229,22,4,2026-10-06T21:20:59.124974Z,2026-11-21T10:49:08.903995Z,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",VOLCANO-ENGINE,CN,"Beijing Bitone United Networks Technology Service Co., Ltd.",False,False,False,,19,1,0
 41.73.0.47,22,4,2026-11-21T06:48:34.431189Z,2026-11-21T06:48:43.409851Z,AS37004 Suburban Broadband Ltd,Suburban-Broadband-AS,NG,This Prefix IS for Suburban Broadband LTD,False,False,False,,4,3,0
 41.204.63.118,22,6,2026-08-05T13:00:53.354872Z,2026-10-12T03:18:30.310682Z,AS29614 Ghana Telecommunications Company Limited,GHANATEL-AS,GH,Ghanatel,False,True,False,,0,0,0
 58.17.128.7,22,6,2026-07-18T10:31:44.994170Z,2026-07-29T19:03:50.332275Z,AS4837 CHINA UNICOM China169 Backbone,CHINA169-Backbone,CN,CNC Group CHINA169 Chongqing Province Network,False,True,False,,0,0,0
@@ -1123,6 +1124,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 170.238.160.191,22,6,2026-07-03T02:35:31.619806Z,2026-09-24T20:56:57.898991Z,AS266327 NCS-Fibra ( New Central Solutions ),NCS-Fibra ( New Central Solutions ),BR,NCS-Fibra ( New Central Solutions ),False,True,False,,0,0,0
 175.4.130.152,22,14,2026-07-13T19:03:25.962222Z,2026-07-14T22:08:07.913760Z,AS4134 CHINANET BACKBONE,CHINANET-BACKBONE,CN,Chinanet HN,False,False,False,,0,0,0
 178.216.165.187,22,14,2026-07-08T08:14:03.154756Z,2026-07-29T07:30:17.117296Z,AS29069 PJSC Rostelecom,TLK-AS,RU,"""Noginskaya telecommunicacionnaya companiya"" Ltd",False,False,False,,0,0,0
+179.238.119.217,22,4,2026-11-21T08:27:51.756987Z,2026-11-21T10:45:50.145609Z,AS14593 Space Exploration Technologies Corporation,SPACEX-STARLINK,BR,Starlink Brazil Serviços de Internet Ltd,False,False,False,customer.frtabra1.isp.starlink.com,4,4,0
 181.23.57.42,22,4,2026-11-21T08:53:53.378681Z,2026-11-21T08:54:02.404014Z,AS22927 Telefonica de Argentina,Telefonica de Argentina,AR,Telefonica de Argentina,False,False,False,181-23-57-42.mrse.com.ar,4,3,0
 182.60.128.241,22,14,2026-07-09T01:03:54.370538Z,2026-07-24T09:30:27.873012Z,AS9829 National Internet Backbone,BSNL-NIB,IN,Mahanagar Telephone Nigam Limited,False,False,False,static-mum-182.60.128.241.mtnl.net.in,0,0,0
 185.153.231.36,22,6,2026-09-19T02:09:35.006942Z,2026-09-21T10:24:39.764338Z,AS218608 SAHINNETWORK INTERNET BILISIM HIZMETLERI LIMITED SIRKETI,SAHINNETWORK,TR,Sahinnetwork Internet Bilisim Hizmetleri Limited Sirketi,False,True,False,36231.rdns.sahinnet.name.tr,0,0,0
@@ -1516,7 +1518,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 1.222.42.237,14,6,2026-09-04T09:55:08.529195Z,2026-11-02T06:39:09.099011Z,AS3786 LG DACOM Corporation,LGDACOM,KR,Boranet,False,False,False,,0,0,0
 1.238.106.229,14,6,2026-07-24T06:30:58.192525Z,2026-10-01T05:31:42.187514Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 1.247.245.61,14,6,2026-07-08T10:50:28.699616Z,2026-07-22T23:09:51.661125Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,SK Broadband Co Ltd,False,False,False,,0,0,0
-2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,2-55-122-202.orange.net.il,0,0,0
+2.55.122.202,14,6,2026-07-09T11:26:02.278127Z,2026-07-26T05:46:08.273227Z,AS12400 Partner Communications Ltd.,PARTNER-AS,IL,Partner Communications,False,False,True,31-154-122-202.orange.net.il,0,0,0
 2.180.32.104,14,6,2026-08-08T18:18:45.874406Z,2026-09-29T09:55:15.984846Z,AS58224 Iran Telecommunication Company PJS,TCI,IR,Telecommunication Company,False,False,False,,0,0,0
 5.89.75.194,14,6,2026-08-12T07:47:20.480354Z,2026-08-26T09:28:33.265239Z,AS30722 Fastweb SpA,VODAFONE-IT-ASN,IT,Vodafone,False,False,False,net-5-89-75-194.cust.vodafonedsl.it,0,0,0
 5.165.19.3,14,6,2026-09-21T09:22:52.150731Z,2026-10-01T13:46:12.939396Z,"AS51604 JSC ""ER-Telecom Holding""",EKAT-AS,RU,"JSC ""ER-Telecom Holding"" Yekaterinburg Branch",False,False,False,5x165x19x3.dynamic.ekat.ertelecom.ru,0,0,0
