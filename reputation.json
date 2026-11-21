@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T00:30:06Z",
+ "generated": "2026-11-21T00:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2969,
@@ -15719,6 +15719,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "110.49.76.244",
+   "reputation_score": 25,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-12T10:09:55.313495Z",
+   "last_seen": "2026-11-21T00:30:07.957657Z",
+   "asn": "AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX",
+   "as_name": "SBN-AWN-AS-02-AP",
+   "country": "TH",
+   "org": "Advanced Wireless Network Company Limited",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "117.34.85.168",
    "reputation_score": 25,
    "honeypot_attempts": 5,
@@ -19514,24 +19532,6 @@
    "rdns": "54.126.103.87.rev.vodafone.pt",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "110.49.76.244",
-   "reputation_score": 23,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-09-12T10:09:55.313495Z",
-   "last_seen": "2026-11-21T00:29:59.878649Z",
-   "asn": "AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX",
-   "as_name": "SBN-AWN-AS-02-AP",
-   "country": "TH",
-   "org": "Advanced Wireless Network Company Limited",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": true,
-   "rdns": "",
-   "creds_tried_count": 3,
-   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -27161,7 +27161,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -29933,7 +29933,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32021,7 +32021,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
