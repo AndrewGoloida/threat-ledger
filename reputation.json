@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T15:45:06Z",
+ "generated": "2026-11-21T16:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2982,
+ "count": 2983,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18665,7 +18665,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20180,6 +20180,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "122.224.55.209",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-03T13:56:14.339448Z",
+   "last_seen": "2026-11-21T15:54:25.961177Z",
+   "asn": "AS58461 CT HangZhou IDC",
+   "as_name": "CT-HangZhou-IDC",
+   "country": "CN",
+   "org": "MoveInternet Network Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 19,
    "download_url_count": 0
   },
   {
