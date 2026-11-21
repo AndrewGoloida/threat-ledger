@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T01:30:06Z",
+ "generated": "2026-11-21T01:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2969,
+ "count": 2971,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2072,6 +2072,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "154.83.17.226",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-07-21T23:24:44.034435Z",
+   "last_seen": "2026-11-21T01:37:59.292087Z",
+   "asn": "AS142403 YISU CLOUD LTD",
+   "as_name": "YISUCLOUDLTD-HK",
+   "country": "HK",
+   "org": "Asline Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -18539,7 +18557,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19658,6 +19676,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "81.172.150.13",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-21T01:31:07.193023Z",
+   "last_seen": "2026-11-21T01:31:11.293839Z",
+   "asn": "AS15435 DELTA Fiber Nederland B.V.",
+   "as_name": "KABELFOON",
+   "country": "NL",
+   "org": "DELTA Fiber Nederland B.V",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "host-5.kay-w2d1-b.v4.dfn.nl",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -27161,7 +27197,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27935,7 +27971,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
