@@ -269,7 +269,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 157.119.43.187,32,12,2026-07-14T00:17:47.866006Z,2026-07-15T00:24:00.633403Z,AS146943 Tier 4 Cloud Services,TIER4CLOU-AS,IN,T4C,True,False,False,,0,0,0
 168.144.120.7,32,4,2026-08-08T15:25:49.855397Z,2026-08-08T15:25:54.826689Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,IN,"DigitalOcean, LLC",True,True,False,,0,0,0
 178.128.183.16,32,4,2026-08-15T03:29:37.477686Z,2026-10-21T23:14:01.575559Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,Digitalocean,True,True,False,,0,0,0
-179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,,0,0,0
+179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,hostedby.privatelayer.com,0,0,0
 185.220.101.102,32,4,2026-06-29T06:18:45.859165Z,2026-07-01T02:39:29.721705Z,AS60729 Stiftung Erneuerbare Freiheit,TORSERVERS-NET,DE,Digitalcourage e.V,True,True,False,tor-exit-102.digitalcourage.de,0,0,0
 192.42.116.15,32,4,2026-06-28T22:26:45.951977Z,2026-09-20T21:38:28.752743Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,this-is-a-tor-exit-node-hviv115.hviv.nl,0,0,0
 192.42.116.16,32,4,2026-06-30T20:47:49.024375Z,2026-07-16T20:33:44.883857Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,tor-exit.hartvoorinternetvrijheid.nl,0,0,0
