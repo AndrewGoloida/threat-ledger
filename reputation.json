@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T20:00:06Z",
+ "generated": "2026-11-23T20:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3003,
+ "count": 3004,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18773,7 +18773,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27431,7 +27431,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -50941,6 +50941,24 @@
    "is_mobile": false,
    "rdns": "sed08-h03-176-172-239-193.dsl.sta.abo.bbox.fr",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "177.27.76.210",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-13T00:22:35.308969Z",
+   "last_seen": "2026-11-23T20:14:05.857978Z",
+   "asn": "AS26599 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ip-177-27-76-210.user.vivozap.com.br",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
