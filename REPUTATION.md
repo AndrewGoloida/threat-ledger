@@ -5,7 +5,7 @@ honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-11-23T17:30:06Z · 859 from hosting/datacenter ranges · 1 progressed to running commands.
+Generated 2026-11-23T17:45:06Z · 1041 from hosting/datacenter ranges · 1 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,28 +13,28 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 402 |
-| US | 322 |
-| IN | 204 |
-| NL | 144 |
-| KR | 141 |
-| VN | 114 |
-| BR | 108 |
-| HK | 107 |
-| RU | 105 |
-| FR | 73 |
+| CN | 432 |
+| US | 340 |
+| NL | 258 |
+| IN | 244 |
+| KR | 144 |
+| VN | 138 |
+| HK | 121 |
+| BR | 110 |
+| RU | 108 |
+| ID | 87 |
 
 ## Top source networks (ASN)
 
 | Network | IPs |
 |---------|-----|
-| MICROSOFT-CORP-MSN-AS-BLOCK | 146 |
-| CHINANET-BACKBONE | 116 |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 150 |
+| BANATSYNC-SRL | 141 |
+| CHINANET-BACKBONE | 117 |
 | TECHTIES-AS | 88 |
 | KIXS-AS-KR | 85 |
-| ORACLE-BMC-31898 | 73 |
-| DIGITALOCEAN-ASN | 71 |
+| ORACLE-BMC-31898 | 76 |
+| DIGITALOCEAN-ASN | 75 |
 | CHINA169-Backbone | 56 |
+| UCLOUD-HK-AS-AP | 55 |
 | VOLCANO-ENGINE | 50 |
-| UCLOUD-HK-AS-AP | 45 |
-| VIETEL-AS-AP | 38 |
