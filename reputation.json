@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T21:45:06Z",
+ "generated": "2026-11-23T22:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3012,
+ "count": 3014,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -4913,7 +4913,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "hostedby.privatelayer.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18773,7 +18773,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25829,7 +25829,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "cloud.isplko.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27449,7 +27449,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -44015,6 +44015,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "37.255.211.238",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-28T03:07:20.262714Z",
+   "last_seen": "2026-11-23T21:57:52.004549Z",
+   "asn": "AS58224 Iran Telecommunication Company PJS",
+   "as_name": "TCI",
+   "country": "IR",
+   "org": "Telecommunication Company of Esfahan",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "38.25.80.120",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -52669,6 +52687,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "200.223.196.90",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-14T00:09:00.778563Z",
+   "last_seen": "2026-11-23T21:50:00.898796Z",
+   "asn": "AS7738 V tal",
+   "as_name": "V tal",
+   "country": "BR",
+   "org": "Telemar Norte Leste S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
