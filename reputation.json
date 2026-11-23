@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T16:45:06Z",
+ "generated": "2026-11-23T17:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
  "count": 2993,
@@ -18773,7 +18773,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28187,7 +28187,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30185,7 +30185,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32273,7 +32273,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40775,6 +40775,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "65.20.237.94",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-08-27T18:32:49.935388Z",
+   "last_seen": "2026-11-23T16:51:48.865248Z",
+   "asn": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+   "as_name": "HulumTele",
+   "country": "IQ",
+   "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "65.20.251.41",
    "reputation_score": 13,
    "honeypot_attempts": 5,
@@ -45455,24 +45473,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "65.20.237.94",
-   "reputation_score": 12,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-08-27T18:32:49.935388Z",
-   "last_seen": "2026-11-23T16:30:58.696688Z",
-   "asn": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-   "as_name": "HulumTele",
-   "country": "IQ",
-   "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 1,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
    "ip": "65.20.237.119",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -47555,7 +47555,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "rw-00253-55.247.103.rcil.gov.in",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
