@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T16:30:06Z",
+ "generated": "2026-11-23T16:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 2992,
+ "count": 2993,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -4913,7 +4913,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "hostedby.privatelayer.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18773,7 +18773,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27413,7 +27413,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45451,6 +45451,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "65.20.237.94",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-27T18:32:49.935388Z",
+   "last_seen": "2026-11-23T16:30:58.696688Z",
+   "asn": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+   "as_name": "HulumTele",
+   "country": "IQ",
+   "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
