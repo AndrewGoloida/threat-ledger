@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T20:30:06Z",
+ "generated": "2026-11-23T20:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3005,
+ "count": 3007,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -6893,7 +6893,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "vps2625900.fastwebserver.de",
+   "rdns": "vps2667890.fastwebserver.de",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18773,7 +18773,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21385,6 +21385,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "112.86.146.178",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-24T08:40:49.997102Z",
+   "last_seen": "2026-11-23T20:38:28.728492Z",
+   "asn": "AS4837 CHINA UNICOM China169 Backbone",
+   "as_name": "CHINA169-Backbone",
+   "country": "CN",
+   "org": "China Unicom CHINA169 Jiangsu Province Network",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -25667,7 +25685,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "78-197-6-173.subs.proxad.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27431,7 +27449,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30203,7 +30221,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -49608,6 +49626,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "121.135.47.141",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-21T08:22:23.822136Z",
+   "last_seen": "2026-11-23T20:40:49.801270Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Korea Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "mail.jtcompany.co.kr",
    "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
