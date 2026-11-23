@@ -1,11 +1,11 @@
 # SSH Honeypot IP Reputation
 
-**3009 IPs** that made repeated unauthenticated SSH login attempts against a public
+**3011 IPs** that made repeated unauthenticated SSH login attempts against a public
 honeypot. Each earned its place by *behaviour*, not by appearing on a downloaded list, and
 carries passive enrichment (ASN/geo/rDNS) plus first-party activity counts (credentials
 attempted, commands run). These IPs are never scanned back.
 
-Generated 2026-11-23T21:15:06Z · 1042 from hosting/datacenter ranges · 1 progressed to running commands.
+Generated 2026-11-23T21:30:07Z · 1042 from hosting/datacenter ranges · 1 progressed to running commands.
 
 Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation.csv) · [`reputation.json`](reputation.json)
 
@@ -13,7 +13,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 
 | Country | IPs |
 |---------|-----|
-| CN | 433 |
+| CN | 434 |
 | US | 341 |
 | NL | 258 |
 | IN | 244 |
@@ -21,7 +21,7 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | VN | 138 |
 | HK | 122 |
 | BR | 111 |
-| RU | 109 |
+| RU | 110 |
 | ID | 87 |
 
 ## Top source networks (ASN)
@@ -35,6 +35,6 @@ Files: [`ssh-blocklist.txt`](ssh-blocklist.txt) · [`reputation.csv`](reputation
 | KIXS-AS-KR | 87 |
 | ORACLE-BMC-31898 | 76 |
 | DIGITALOCEAN-ASN | 75 |
-| CHINA169-Backbone | 57 |
+| CHINA169-Backbone | 58 |
 | UCLOUD-HK-AS-AP | 55 |
 | VOLCANO-ENGINE | 50 |
