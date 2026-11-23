@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T23:30:06Z",
+ "generated": "2026-11-23T23:45:07Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3018,
+ "count": 3019,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1913,6 +1913,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "137.184.79.130",
+   "reputation_score": 38,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-11-23T23:17:54.853379Z",
+   "last_seen": "2026-11-23T23:35:39.291962Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "Digital Ocean",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 8,
+   "download_url_count": 0
+  },
+  {
    "ip": "139.19.117.131",
    "reputation_score": 38,
    "honeypot_attempts": 348,
@@ -2072,6 +2090,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "146.190.79.54",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-11-23T23:22:58.720902Z",
+   "last_seen": "2026-11-23T23:38:34.782255Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 7,
+   "command_count": 7,
    "download_url_count": 0
   },
   {
@@ -2468,24 +2504,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "137.184.79.130",
-   "reputation_score": 35,
-   "honeypot_attempts": 5,
-   "first_seen": "2026-11-23T23:17:54.853379Z",
-   "last_seen": "2026-11-23T23:28:02.207589Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "Digital Ocean",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 6,
-   "command_count": 6,
    "download_url_count": 0
   },
   {
@@ -18791,7 +18809,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "knfcwki.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30239,7 +30257,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
