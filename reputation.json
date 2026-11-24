@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T02:15:06Z",
+ "generated": "2026-11-24T02:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3034,
+ "count": 3039,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -18809,7 +18809,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21079,6 +21079,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "31.28.253.144",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-07-12T09:35:21.929540Z",
+   "last_seen": "2026-11-24T02:23:39.897105Z",
+   "asn": "AS35816 Lancom Ltd.",
+   "as_name": "SEVSTAR",
+   "country": "UA",
+   "org": "Lancom Ltd",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "undefined.sevstar.net",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -27503,7 +27521,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32363,7 +32381,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -44177,6 +44195,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "39.118.24.100",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-14T21:55:35.823000Z",
+   "last_seen": "2026-11-24T02:29:42.841905Z",
+   "asn": "AS9318 SK Broadband Co Ltd",
+   "as_name": "SKB-AS",
+   "country": "KR",
+   "org": "broadNnet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "39.164.91.67",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -50819,6 +50855,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "161.139.152.2",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-04T03:31:01.651161Z",
+   "last_seen": "2026-11-24T02:18:21.214138Z",
+   "asn": "AS133014 Universiti Teknologi Malaysia",
+   "as_name": "UTM-AS-AP",
+   "country": "MY",
+   "org": "Universiti Teknologi Malaysia",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "163.7.5.228",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -53681,6 +53735,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "213.234.11.10",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T19:06:14.874452Z",
+   "last_seen": "2026-11-24T02:23:01.191009Z",
+   "asn": "AS39442 JSC RDE \"Unico\"",
+   "as_name": "UNICO-AS",
+   "country": "RU",
+   "org": "JSC UNICO",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "216.86.70.190",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -54379,6 +54451,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "222.104.76.94",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-16T17:36:29.198373Z",
+   "last_seen": "2026-11-24T02:23:37.866209Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Korea Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
