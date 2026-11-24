@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T01:30:06Z",
+ "generated": "2026-11-24T01:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3030,
+ "count": 3033,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2249,7 +2249,7 @@
    "is_hosting": true,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "hostedby.privatelayer.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18809,7 +18809,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -21263,6 +21263,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "78.30.250.62",
+   "reputation_score": 20,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-12T21:28:32.711350Z",
+   "last_seen": "2026-11-24T01:35:18.467208Z",
+   "asn": "AS35816 Lancom Ltd.",
+   "as_name": "SEVSTAR",
+   "country": "UA",
+   "org": "Lancom Ltd",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "undefined.sevstar.net",
+   "creds_tried_count": 1,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "80.67.167.81",
    "reputation_score": 20,
    "honeypot_attempts": 4,
@@ -22553,7 +22571,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -23147,7 +23165,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -25865,7 +25883,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "cloud.isplko.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26045,7 +26063,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -26063,7 +26081,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27485,7 +27503,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -37043,7 +37061,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "www.hpvc.gob.ec",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -41705,7 +41723,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -42407,7 +42425,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45505,6 +45523,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "62.201.212.52",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T21:55:17.481625Z",
+   "last_seen": "2026-11-24T01:34:19.884518Z",
+   "asn": "AS44217 IQ Networks for Data and Internet Services Ltd",
+   "as_name": "IQNETWORKS",
+   "country": "IQ",
+   "org": "NETWORKS-SULY1",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -50939,7 +50975,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -51047,7 +51083,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-adsl.viettel.vn",
+   "rdns": "dynamic-ip-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -51065,7 +51101,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "dynamic-ip-adsl.viettel.vn",
+   "rdns": "dynamic-adsl.viettel.vn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -52291,6 +52327,24 @@
    "is_mobile": false,
    "rdns": "187-8-64-94.customer.tdatabrasil.net.br",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "187.9.247.58",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-12T16:06:00.777568Z",
+   "last_seen": "2026-11-24T01:44:11.146596Z",
+   "asn": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "187-9-247-58.customer.tdatabrasil.net.br",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
