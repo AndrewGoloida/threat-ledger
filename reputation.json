@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T23:45:07Z",
+ "generated": "2026-11-24T00:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3019,
+ "count": 3021,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -1913,24 +1913,6 @@
    "download_url_count": 0
   },
   {
-   "ip": "137.184.79.130",
-   "reputation_score": 38,
-   "honeypot_attempts": 8,
-   "first_seen": "2026-11-23T23:17:54.853379Z",
-   "last_seen": "2026-11-23T23:35:39.291962Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "Digital Ocean",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 7,
-   "command_count": 8,
-   "download_url_count": 0
-  },
-  {
    "ip": "139.19.117.131",
    "reputation_score": 38,
    "honeypot_attempts": 348,
@@ -2090,24 +2072,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "146.190.79.54",
-   "reputation_score": 37,
-   "honeypot_attempts": 7,
-   "first_seen": "2026-11-23T23:22:58.720902Z",
-   "last_seen": "2026-11-23T23:38:34.782255Z",
-   "asn": "AS14061 DigitalOcean, LLC",
-   "as_name": "DIGITALOCEAN-ASN",
-   "country": "US",
-   "org": "DigitalOcean, LLC",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 7,
-   "command_count": 7,
    "download_url_count": 0
   },
   {
@@ -3062,24 +3026,6 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "109.160.32.161",
-   "reputation_score": 34,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-10-10T03:34:58.859863Z",
-   "last_seen": "2026-11-23T13:01:42.810245Z",
-   "asn": "AS198364 BANATSYNC SRL",
-   "as_name": "BANATSYNC-SRL",
-   "country": "NL",
-   "org": "GBTCloud",
-   "is_hosting": true,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 2,
-   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -6485,6 +6431,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "137.184.79.130",
+   "reputation_score": 28,
+   "honeypot_attempts": 8,
+   "first_seen": "2026-11-23T23:17:54.853379Z",
+   "last_seen": "2026-11-23T23:35:39.291962Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "Digital Ocean",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "143.110.197.6",
    "reputation_score": 28,
    "honeypot_attempts": 8,
@@ -7290,6 +7254,24 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "static.143.20.154.71.deluxhost.net",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "146.190.79.54",
+   "reputation_score": 27,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-11-23T23:22:58.720902Z",
+   "last_seen": "2026-11-23T23:38:34.782255Z",
+   "asn": "AS14061 DigitalOcean, LLC",
+   "as_name": "DIGITALOCEAN-ASN",
+   "country": "US",
+   "org": "DigitalOcean, LLC",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17424,7 +17406,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 4,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -17784,7 +17766,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -17802,7 +17784,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 4,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -18586,6 +18568,24 @@
    "honeypot_attempts": 4,
    "first_seen": "2026-10-02T00:11:25.141533Z",
    "last_seen": "2026-10-02T00:11:39.710422Z",
+   "asn": "AS198364 BANATSYNC SRL",
+   "as_name": "BANATSYNC-SRL",
+   "country": "NL",
+   "org": "GBTCloud",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "109.160.32.161",
+   "reputation_score": 24,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-10T03:34:58.859863Z",
+   "last_seen": "2026-11-23T13:01:42.810245Z",
    "asn": "AS198364 BANATSYNC SRL",
    "as_name": "BANATSYNC-SRL",
    "country": "NL",
@@ -19512,7 +19512,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -21438,7 +21438,7 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -27485,7 +27485,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28259,7 +28259,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32345,7 +32345,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -40860,7 +40860,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -42030,7 +42030,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 4,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -43092,7 +43092,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -44082,7 +44082,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -44226,7 +44226,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -44244,7 +44244,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 4,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -45234,7 +45234,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -46638,7 +46638,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -47160,7 +47160,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "broadband-95-84-137-185.ip.moscow.rt.ru",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -47250,7 +47250,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -47376,7 +47376,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -47430,7 +47430,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -47700,7 +47700,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 3,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -48497,6 +48497,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "112.28.153.240",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-28T23:30:58.974691Z",
+   "last_seen": "2026-11-23T23:48:25.815709Z",
+   "asn": "AS9808 China Mobile Communications Group Co., Ltd.",
+   "as_name": "CHINAMOBILE-CN",
+   "country": "CN",
+   "org": "China Mobile Communications Group Co., Ltd",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "112.28.153.241",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -48528,7 +48546,7 @@
    "is_proxy": false,
    "is_mobile": true,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -49788,7 +49806,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -49806,7 +49824,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "mail.jtcompany.co.kr",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -49842,7 +49860,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "m121-202-198-98.smartone.com",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -51048,7 +51066,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -51174,7 +51192,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "ip-177-27-76-210.user.vivozap.com.br",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -52133,6 +52151,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "187.8.64.94",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-14T18:32:58.862970Z",
+   "last_seen": "2026-11-23T23:51:27.868858Z",
+   "asn": "AS10429 TELEF\u00d4NICA BRASIL S.A",
+   "as_name": "TELEF\u00d4NICA BRASIL S.A",
+   "country": "BR",
+   "org": "TELEF\ufffdNICA BRASIL S.A",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "187-8-64-94.customer.tdatabrasil.net.br",
+   "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "187.49.63.41",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -52452,7 +52488,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -52758,7 +52794,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -52776,7 +52812,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -53496,7 +53532,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "d-216-232-226-40.bc.hsia.telus.net",
-   "creds_tried_count": 1,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -54162,7 +54198,7 @@
    "is_proxy": false,
    "is_mobile": false,
    "rdns": "",
-   "creds_tried_count": 2,
+   "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
   },
