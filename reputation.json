@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T01:15:06Z",
+ "generated": "2026-11-24T01:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3028,
+ "count": 3030,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -30257,7 +30257,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32345,7 +32345,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -45041,6 +45041,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "59.23.3.146",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-14T08:33:34.561286Z",
+   "last_seen": "2026-11-24T01:19:21.451794Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "59.36.211.132",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -51247,6 +51265,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "176.103.15.155",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-08-29T15:11:58.352865Z",
+   "last_seen": "2026-11-24T01:27:57.046364Z",
+   "asn": "AS56812 CHP Zarko Alexandr Ivanovich",
+   "as_name": "ASZARKO",
+   "country": "UA",
+   "org": "PC TV \"CABLE TV NETWORK \"DIALOGUE\"",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
    "command_count": 0,
    "download_url_count": 0
   },
