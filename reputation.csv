@@ -270,7 +270,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 157.119.43.187,32,12,2026-07-14T00:17:47.866006Z,2026-07-15T00:24:00.633403Z,AS146943 Tier 4 Cloud Services,TIER4CLOU-AS,IN,T4C,True,False,False,,0,0,0
 168.144.120.7,32,4,2026-08-08T15:25:49.855397Z,2026-08-08T15:25:54.826689Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,IN,"DigitalOcean, LLC",True,True,False,,0,0,0
 178.128.183.16,32,4,2026-08-15T03:29:37.477686Z,2026-10-21T23:14:01.575559Z,"AS14061 DigitalOcean, LLC",DIGITALOCEAN-ASN,US,Digitalocean,True,True,False,,0,0,0
-179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,,0,0,0
+179.43.153.10,32,4,2026-10-13T01:29:31.912644Z,2026-10-13T01:33:53.014055Z,AS51852 Private Layer INC,PLI-AS,CH,Private Layer Inc,True,True,False,hostedby.privatelayer.com,0,0,0
 185.220.101.102,32,4,2026-06-29T06:18:45.859165Z,2026-07-01T02:39:29.721705Z,AS60729 Stiftung Erneuerbare Freiheit,TORSERVERS-NET,DE,Digitalcourage e.V,True,True,False,tor-exit-102.digitalcourage.de,0,0,0
 192.42.116.15,32,4,2026-06-28T22:26:45.951977Z,2026-09-20T21:38:28.752743Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,this-is-a-tor-exit-node-hviv115.hviv.nl,0,0,0
 192.42.116.16,32,4,2026-06-30T20:47:49.024375Z,2026-07-16T20:33:44.883857Z,AS215125 Church of Cyberology,Cyberology-AS,NL,TOR Exit and More,True,True,False,tor-exit.hartvoorinternetvrijheid.nl,0,0,0
@@ -1570,7 +1570,7 @@ ip,reputation_score,honeypot_attempts,first_seen,last_seen,asn,as_name,country,o
 39.117.79.36,14,6,2026-07-15T10:50:39.814140Z,2026-08-04T10:57:56.634571Z,AS9318 SK Broadband Co Ltd,SKB-AS,KR,broadNnet,False,False,False,,0,0,0
 39.181.2.46,14,6,2026-07-13T19:34:49.691798Z,2026-07-15T08:26:04.055773Z,AS56041 China Mobile communications corporation,CMNET-Zhejiang-AP,CN,"China Mobile Communications Group Co., Ltd",False,False,True,,0,0,0
 41.93.28.12,14,6,2026-07-26T13:58:11.536393Z,2026-07-30T02:09:54.143080Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,tmsmocu.ternet.or.tz,0,0,0
-41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,portal.ternet.or.tz,0,0,0
+41.93.28.23,14,6,2026-08-04T10:29:39.560733Z,2026-08-17T00:11:49.194406Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Education Research services,False,False,False,membership.ternet.or.tz,0,0,0
 41.93.32.39,14,6,2026-07-22T19:42:15.092344Z,2026-10-01T07:22:54.821137Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Ternet Services,False,False,False,,0,0,0
 41.93.82.201,14,6,2026-10-01T09:51:35.689775Z,2026-10-09T16:49:25.360724Z,AS37182 Tanzania Education And Research Network,TERNET,TZ,Tanzania Education And Research Network,False,False,False,,0,0,0
 41.111.227.10,14,6,2026-08-27T22:23:05.988075Z,2026-09-23T13:56:24.162349Z,AS36947 Telecom Algeria,ALGTEL-AS,DZ,Algerie Telecom,False,False,False,,0,0,0
