@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T22:30:06Z",
+ "generated": "2026-11-24T22:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3046,
+ "count": 3048,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2093,6 +2093,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "164.152.250.192",
+   "reputation_score": 37,
+   "honeypot_attempts": 7,
+   "first_seen": "2026-09-25T12:27:07.981928Z",
+   "last_seen": "2026-11-24T22:32:48.688905Z",
+   "asn": "AS31898 Oracle Corporation",
+   "as_name": "ORACLE-BMC-31898",
+   "country": "BR",
+   "org": "Oracle Cloud Infrastructure (sa-vinhedo-1)",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 4,
+   "download_url_count": 0
+  },
+  {
    "ip": "165.227.28.164",
    "reputation_score": 37,
    "honeypot_attempts": 9,
@@ -3979,6 +3997,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "36.255.97.240",
+   "reputation_score": 32,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T11:00:13.681047Z",
+   "last_seen": "2026-11-24T22:32:59.296543Z",
+   "asn": "AS403005 Blatant Technologies, LLC",
+   "as_name": "BLATANTHOST",
+   "country": "US",
+   "org": "Kill Ping",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -18827,7 +18863,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "ppuodsd.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20789,7 +20825,7 @@
    "is_hosting": false,
    "is_proxy": true,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "119.6.17.58.adsl-pool.jx.chinaunicom.com",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27593,7 +27629,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
