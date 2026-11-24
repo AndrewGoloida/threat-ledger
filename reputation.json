@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T02:30:06Z",
+ "generated": "2026-11-24T02:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3039,
+ "count": 3042,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -7541,7 +7541,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "node-1byh.pool-180-180.dynamic.nt-isp.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -18809,7 +18809,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27521,7 +27521,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28295,7 +28295,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30293,7 +30293,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -43133,6 +43133,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "222.104.76.94",
+   "reputation_score": 13,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-11-16T17:36:29.198373Z",
+   "last_seen": "2026-11-24T02:30:04.787376Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Korea Telecom",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "2.184.61.196",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -46031,6 +46049,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "74.209.100.246",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T21:59:53.286039Z",
+   "last_seen": "2026-11-24T02:40:05.691618Z",
+   "asn": "AS12208 TruVista Communications",
+   "as_name": "TRUVISTA",
+   "country": "US",
+   "org": "TruVista Communications",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "74-209-100-246.truvista.net",
+   "creds_tried_count": 3,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
    "ip": "74.244.222.105",
    "reputation_score": 12,
    "honeypot_attempts": 4,
@@ -46765,6 +46801,24 @@
    "is_mobile": false,
    "rdns": "85-19-195-12.telia-isp.no",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "85.72.252.91",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T21:54:06.875197Z",
+   "last_seen": "2026-11-24T02:30:26.414652Z",
+   "asn": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+   "as_name": "OTENET-GR",
+   "country": "GR",
+   "org": "OTEnet S.A.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "athedsl-357565.home.otenet.gr",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -49969,6 +50023,24 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
+   "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "121.131.220.162",
+   "reputation_score": 12,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-23T22:39:08.438084Z",
+   "last_seen": "2026-11-24T02:39:58.722464Z",
+   "asn": "AS4766 Korea Telecom",
+   "as_name": "KIXS-AS-KR",
+   "country": "KR",
+   "org": "Kornet",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
@@ -54451,24 +54523,6 @@
    "is_mobile": false,
    "rdns": "",
    "creds_tried_count": 0,
-   "command_count": 0,
-   "download_url_count": 0
-  },
-  {
-   "ip": "222.104.76.94",
-   "reputation_score": 12,
-   "honeypot_attempts": 4,
-   "first_seen": "2026-11-16T17:36:29.198373Z",
-   "last_seen": "2026-11-24T02:23:37.866209Z",
-   "asn": "AS4766 Korea Telecom",
-   "as_name": "KIXS-AS-KR",
-   "country": "KR",
-   "org": "Korea Telecom",
-   "is_hosting": false,
-   "is_proxy": false,
-   "is_mobile": false,
-   "rdns": "",
-   "creds_tried_count": 2,
    "command_count": 0,
    "download_url_count": 0
   },
