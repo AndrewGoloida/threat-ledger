@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T05:15:06Z",
+ "generated": "2026-11-25T05:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3052,
+ "count": 3053,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2144,6 +2144,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "54.38.180.48",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-07-30T21:43:27.716752Z",
+   "last_seen": "2026-11-25T05:24:31.648783Z",
+   "asn": "AS16276 OVH SAS",
+   "as_name": "OVH",
+   "country": "FR",
+   "org": "OVH",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "vps-2ed26a9d.vps.ovh.net",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -28421,7 +28439,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
