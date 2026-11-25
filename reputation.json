@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T07:15:06Z",
+ "generated": "2026-11-25T07:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3054,
+ "count": 3055,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -20435,6 +20435,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "120.48.64.102",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-19T06:44:54.854128Z",
+   "last_seen": "2026-11-25T07:26:51.218253Z",
+   "asn": "AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "as_name": "Baidu",
+   "country": "CN",
+   "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "121.227.31.13",
    "reputation_score": 22,
    "honeypot_attempts": 6,
@@ -27683,7 +27701,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -42443,7 +42461,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "195.106.94.125.broad.sz.gd.dynamic.163data.com.cn",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -50813,7 +50831,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "mrspook.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
