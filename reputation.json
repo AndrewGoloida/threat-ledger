@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T20:30:06Z",
+ "generated": "2026-11-26T20:45:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3086,
+ "count": 3087,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19169,7 +19169,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20180,6 +20180,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "14.103.114.244",
+   "reputation_score": 23,
+   "honeypot_attempts": 5,
+   "first_seen": "2026-10-21T00:19:50.364561Z",
+   "last_seen": "2026-11-26T20:44:10.214586Z",
+   "asn": "AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+   "as_name": "VOLCANO-ENGINE",
+   "country": "CN",
+   "org": "Beijing Bitone United Networks Technology Service Co., Ltd.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 2,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
