@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T02:00:06Z",
+ "generated": "2026-11-26T02:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3072,
+ "count": 3074,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2216,6 +2216,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "123.58.198.35",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-08-19T11:51:51.489389Z",
+   "last_seen": "2026-11-26T02:10:27.380895Z",
+   "asn": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+   "as_name": "UCLOUD-HK-AS-AP",
+   "country": "VN",
+   "org": "Ucloud Information Technology (hk) Limited",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -7613,7 +7631,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "node-1byh.pool-180-180.dynamic.nt-isp.net",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -17729,7 +17747,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "vds172537.mgnhost.com",
+   "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -20162,6 +20180,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "46.135.98.68",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-11-26T02:05:32.907141Z",
+   "last_seen": "2026-11-26T02:05:46.191949Z",
+   "asn": "AS16019 Vodafone Czech Republic a.s.",
+   "as_name": "VODAFONE-CZ-AS",
+   "country": "CZ",
+   "org": "Vodafone Czech Republic a.s.",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "cst-prg-98-68.cust.vodafone.cz",
+   "creds_tried_count": 3,
+   "command_count": 4,
    "download_url_count": 0
   },
   {
@@ -26027,7 +26063,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "78-197-6-173.subs.proxad.net",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -27791,7 +27827,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28565,7 +28601,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
