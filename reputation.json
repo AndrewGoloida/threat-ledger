@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T21:45:06Z",
+ "generated": "2026-11-27T22:00:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3105,
+ "count": 3106,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -5258,6 +5258,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "202.165.25.206",
+   "reputation_score": 32,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-09-30T00:45:51.799516Z",
+   "last_seen": "2026-11-27T21:52:47.668544Z",
+   "asn": "AS18206 TM TECHNOLOGY SERVICES SDN. BHD.",
+   "as_name": "TTSSB-MY",
+   "country": "MY",
+   "org": "VADS Sdn Bhd",
+   "is_hosting": false,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19385,7 +19403,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28223,7 +28241,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33083,7 +33101,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
