@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T17:15:06Z",
+ "generated": "2026-11-27T17:30:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3100,
+ "count": 3101,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -594,6 +594,24 @@
    "is_proxy": true,
    "is_mobile": false,
    "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
+   "ip": "200.155.66.2",
+   "reputation_score": 44,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-14T22:43:12.813271Z",
+   "last_seen": "2026-11-27T17:18:19.520005Z",
+   "asn": "AS15830 Equinix (EMEA) Acquisition Enterprises B.V.",
+   "as_name": "Equinix",
+   "country": "BR",
+   "org": "Equinix Brasil",
+   "is_hosting": true,
+   "is_proxy": true,
+   "is_mobile": false,
+   "rdns": "static.200.155.66.2.datacenter1.com.br",
    "creds_tried_count": 3,
    "command_count": 2,
    "download_url_count": 0
@@ -19331,7 +19349,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28133,7 +28151,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "31-154-122-202.orange.net.il",
+   "rdns": "2-55-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28907,7 +28925,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "membership.ternet.or.tz",
+   "rdns": "portal.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
