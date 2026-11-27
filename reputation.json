@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T05:00:06Z",
+ "generated": "2026-11-27T05:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3093,
+ "count": 3094,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -17177,6 +17177,24 @@
    "download_url_count": 0
   },
   {
+   "ip": "38.135.26.138",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-11-26T09:49:55.319839Z",
+   "last_seen": "2026-11-27T05:08:56.750927Z",
+   "asn": "AS398991 X99",
+   "as_name": "X99-US",
+   "country": "US",
+   "org": "X99",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "ash-38-135-26-138.customer.x99.cloud",
+   "creds_tried_count": 3,
+   "command_count": 2,
+   "download_url_count": 0
+  },
+  {
    "ip": "38.224.90.36",
    "reputation_score": 24,
    "honeypot_attempts": 16,
@@ -19223,7 +19241,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30779,7 +30797,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -32867,7 +32885,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "infoczof-4961-41965.tino",
+   "rdns": "hoangmin1-35045-40151.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
