@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T08:00:06Z",
+ "generated": "2026-11-27T08:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3094,
+ "count": 3095,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -2234,6 +2234,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "154.70.102.114",
+   "reputation_score": 36,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-10-25T23:55:10.339367Z",
+   "last_seen": "2026-11-27T08:06:25.846707Z",
+   "asn": "AS30992 MTN Network Solutions (Cameroon)",
+   "as_name": "MTN-NS-CAMEROON",
+   "country": "CM",
+   "org": "DataCenter Douala",
+   "is_hosting": true,
+   "is_proxy": false,
+   "is_mobile": true,
+   "rdns": "host-154.70.102.114.mtn.cm",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -19241,7 +19259,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "phifaxa.cn",
+   "rdns": "ppuodsd.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -28025,7 +28043,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": true,
-   "rdns": "2-55-122-202.orange.net.il",
+   "rdns": "31-154-122-202.orange.net.il",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -30797,7 +30815,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "invtfm5.ma",
+   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
