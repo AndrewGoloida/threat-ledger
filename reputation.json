@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-28T15:00:06Z",
+ "generated": "2026-11-28T15:15:06Z",
  "source": "Cowrie SSH honeypot (AndrewGoloida)",
  "note": "IPs observed making repeated unauthenticated SSH login attempts. Passive enrichment + first-party activity counts; no scan-back.",
- "count": 3115,
+ "count": 3117,
  "records": [
   {
    "ip": "2.57.121.25",
@@ -19421,7 +19421,7 @@
    "is_hosting": true,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "knfcwki.cn",
+   "rdns": "phifaxa.cn",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -19910,6 +19910,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "178.217.173.50",
+   "reputation_score": 24,
+   "honeypot_attempts": 6,
+   "first_seen": "2026-11-25T07:40:08.739446Z",
+   "last_seen": "2026-11-28T15:05:01.833365Z",
+   "asn": "AS197119 KRENA - Kyrgyz research and education network association",
+   "as_name": "ASKRENA",
+   "country": "KG",
+   "org": "KRENA Project",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 3,
+   "command_count": 2,
    "download_url_count": 0
   },
   {
@@ -20918,6 +20936,24 @@
    "rdns": "",
    "creds_tried_count": 0,
    "command_count": 0,
+   "download_url_count": 0
+  },
+  {
+   "ip": "114.220.238.224",
+   "reputation_score": 22,
+   "honeypot_attempts": 4,
+   "first_seen": "2026-10-14T15:46:41.388624Z",
+   "last_seen": "2026-11-28T15:13:01.347888Z",
+   "asn": "AS140292 CHINATELECOM Jiangsu province Suzhou 5G network",
+   "as_name": "CHINATELECOM-JIANGSU-SUZHOU-5G-NETWORK",
+   "country": "CN",
+   "org": "Chinanet JS",
+   "is_hosting": false,
+   "is_proxy": false,
+   "is_mobile": false,
+   "rdns": "",
+   "creds_tried_count": 1,
+   "command_count": 19,
    "download_url_count": 0
   },
   {
@@ -29069,7 +29105,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "portal.ternet.or.tz",
+   "rdns": "membership.ternet.or.tz",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -31067,7 +31103,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "adsl-32-46-192-81.adsl.iam.net.ma",
+   "rdns": "invtfm5.ma",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -33209,7 +33245,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "hoangmin1-35045-40151.tino",
+   "rdns": "infoczof-4961-41965.tino",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
@@ -49247,7 +49283,7 @@
    "is_hosting": false,
    "is_proxy": false,
    "is_mobile": false,
-   "rdns": "",
+   "rdns": "rw-00253-55.247.103.rcil.gov.in",
    "creds_tried_count": 0,
    "command_count": 0,
    "download_url_count": 0
